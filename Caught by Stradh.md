@@ -22,8 +22,8 @@ Presumably they'll return to the Orrey and try and make their way to Tovag.  How
 > 
 > And then once voice silences all.  "You know, my masters, that I am always happy to take interesting playthings into my realm.  Send them to me, so they do not disturb you any further..."
 >
-> The void fades, and you wake up around the embers of a campfire
+> The void fades, and you wake up around the embers of a campfire as dawn is approaching.  But something inside of you feels off... you know that the dawn will come, perhaps, but it will not be a dawn you recognize...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNDc0NDY0OSwtNTU0NTM1MzU1LC02Nz
-E4NjEwMzYsLTE1NDM5NjE4MjAsMTkzMDQ4NzMxOF19
+eyJoaXN0b3J5IjpbMjk2ODExODgzLC01NTQ1MzUzNTUsLTY3MT
+g2MTAzNiwtMTU0Mzk2MTgyMCwxOTMwNDg3MzE4XX0=
 -->
