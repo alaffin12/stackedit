@@ -14,8 +14,13 @@ Fortunately the automata that are part of Mordenkainen's Bastion have been hard 
 >  
 >  But perhaps I do not need to.  The Domains of Dread hold many prisoners who think themselves petty tyrants.  And there is one amongst them who hates Vecna above all else.  Kas the Betrayer.  Perhaps I should should make for Tovag, and find myself an ally - even if I will have to be on my guard with him.
 
-Presumably they'll return to the Orrey and try and make their way to Tovag.  However 
+Presumably they'll return to the Orrey and try and make their way to Tovag.  However as they do...
+
+> You step into the portal formed by the Orrey, but instead of stepping out into the forested realm you had expected you step into inky blackness.
+> 
+> "Intruders!" a disembodied voice 
+> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU5OTcxNzQsLTE1NDM5NjE4MjAsMTkzMD
-Q4NzMxOF19
+eyJoaXN0b3J5IjpbLTY3MTg2MTAzNiwtMTU0Mzk2MTgyMCwxOT
+MwNDg3MzE4XX0=
 -->
