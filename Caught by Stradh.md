@@ -18,9 +18,9 @@ Presumably they'll return to the Orrey and try and make their way to Tovag.  How
 
 > You step into the portal formed by the Orrey, but instead of stepping out into the forested realm you had expected you step into inky blackness.
 > 
-> "Intruders!" a disembodied voice 
+> The space, if it can be called that 
 > 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MTg2MTAzNiwtMTU0Mzk2MTgyMCwxOT
-MwNDg3MzE4XX0=
+eyJoaXN0b3J5IjpbLTU1NDUzNTM1NSwtNjcxODYxMDM2LC0xNT
+QzOTYxODIwLDE5MzA0ODczMThdfQ==
 -->
