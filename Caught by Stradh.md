@@ -20,8 +20,8 @@ Presumably they'll return to the Orrey and try and make their way to Tovag.  How
 > 
 > The space, if it can be called that - for it is more like an absence of space - is filled with countless voices that you cannot make out, but you can feel in your bones.  In your soul.  They scream at you.  They call you intruders.  Say you are working for the fugitive.  That you are here to free another prisoner.  You would fall to your knees in pain from the cacophony - if you had knees.  Like the voices you seem to only exist here as a voice.  A thought.
 > 
-> And then once voice silences all.  "You know, my masters, that I am always happy to take interesting playthings into my realm.  Send them my way, so they do not disturb you any further..."
+> And then once voice silences all.  "You know, my masters, that I am always happy to take interesting playthings into my realm.  Send them to me, so they do not disturb you any further..."
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMjc5NDIxNywtNTU0NTM1MzU1LC02Nz
+eyJoaXN0b3J5IjpbMTExODU2NTk3MywtNTU0NTM1MzU1LC02Nz
 E4NjEwMzYsLTE1NDM5NjE4MjAsMTkzMDQ4NzMxOF19
 -->
