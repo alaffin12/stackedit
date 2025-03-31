@@ -8,7 +8,7 @@ Fortunately the automata that are part of Mordenkainen's Bastion have been hard 
 >  
 >  An interesting demiplane that seems to be co-terminus with every realm I have encountered in all the cosmos.  That seems interesting, but it does not seem stable enough - after all, the Orrey of the Planes allows me to travel to any realm I choose.  In some ways it too touches all other realms.  And I am hardly a master of planar travel.
 >  
->  But there is something there I think.  Not the demiplane itself.  But the forces that style themselves its rulers.  I had the misfortune to be trapped in 
+>  But there is something there I think.  Not the demiplane itself.  But the forces that style themselves its rulers.  I had the misfortune to be trapped in one not long ago.  One overseen by a petty tyrant named Stradh who styled himself some kind of god-king.  But I came to learn he was no god.  His power came from other beings - the boringly named Dark Powers.  Ther
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NjQ0NjUzMSwxOTMwNDg3MzE4XX0=
+eyJoaXN0b3J5IjpbLTIwNTIzMjY3MDIsMTkzMDQ4NzMxOF19
 -->
