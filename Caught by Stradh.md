@@ -24,8 +24,14 @@ Presumably they'll return to the Orrey and try and make their way to Tovag.  How
 >
 > The void fades, and you wake up around the embers of a campfire as dawn is approaching.  But something inside of you feels off... the dawn is dull, grey.  Swallowed by clouds.  And you are somewhere you did not expect to be...
 
+## Barovia
+##### Notes of Barovia
+One of the Demiplanes of Dread, Barovia is subject to the following rules:
+* Supernatural mists
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzIzMzY5ODMsLTU1NDUzNTM1NSwtNj
-cxODYxMDM2LC0xNTQzOTYxODIwLDE5MzA0ODczMThdfQ==
+eyJoaXN0b3J5IjpbLTU4NTAzMzcyNywtMTIzMjMzNjk4MywtNT
+U0NTM1MzU1LC02NzE4NjEwMzYsLTE1NDM5NjE4MjAsMTkzMDQ4
+NzMxOF19
 -->
