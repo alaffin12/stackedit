@@ -31,10 +31,12 @@ One of the Demiplanes of Dread, Barovia is subject to the following rules:
 *  Stradh, being a vampire, is not terribly interested in having the sun shining in his realm.  As such, heavy cloud almost always obscures the sun, bathing the world in dim light that does not impact creatures who are affected by the sun.  Vampires still tend to be nocturnal though (easier hunting) and magic that causes sunlight does function as normal.
 
 Additionally, some magic functions differently:
+* Any spell that would allow someone to escape the domain simply fails (after all, what good is a jail that can be escape with a plane shift).  This includes spells like banishment.  Simply put - what is in Barovia stays in Barovia unless Stradh or the Dark Powers get involved.
+* 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMzk5NzExOSwtNzU0OTk3MzE5LC0xMj
-MyMzM2OTgzLC01NTQ1MzUzNTUsLTY3MTg2MTAzNiwtMTU0Mzk2
-MTgyMCwxOTMwNDg3MzE4XX0=
+eyJoaXN0b3J5IjpbLTE2ODIxOTA1MTcsMTYwMzk5NzExOSwtNz
+U0OTk3MzE5LC0xMjMyMzM2OTgzLC01NTQ1MzUzNTUsLTY3MTg2
+MTAzNiwtMTU0Mzk2MTgyMCwxOTMwNDg3MzE4XX0=
 -->
