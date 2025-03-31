@@ -6,7 +6,7 @@ Fortunately the automata that are part of Mordenkainen's Bastion have been hard 
 
 > The Domains of Dread.
 >  
->  An interesting demiplane that seems to be co-terminus with every cosmos I have encountered in all the realms.  
+>  An interesting demiplane that seems to be co-terminus with every realm I have encountered in all the cosmos.  That seems interes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NzMzNTc0MiwxOTMwNDg3MzE4XX0=
+eyJoaXN0b3J5IjpbLTkwODgxODM3OSwxOTMwNDg3MzE4XX0=
 -->
