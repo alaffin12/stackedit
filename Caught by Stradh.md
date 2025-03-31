@@ -27,11 +27,12 @@ Presumably they'll return to the Orrey and try and make their way to Tovag.  How
 ## Barovia
 ##### Notes of Barovia
 One of the Demiplanes of Dread, Barovia is subject to the following rules:
-* Supernatural mists surround Barovia and keep its prisoners imprisoned.  Anyone trying to leave Barovia gets lost in the mists and winds up back where they started - no exceptions (Stradh does frequently allow the Vistani to leave - but that is only by his parole, something he will not offer the players)
+* Supernatural mists surround Barovia and keep its prisoners imprisoned.  Anyone trying to leave Barovia gets lost in the mists and winds up back where they started - no exceptions (Stradh does frequently allow the Vistani to leave - but that is only by his parole, something he will not offer the players).
+*  Stradh, being a vampire, is not terribly interested in having the sun shining in his realm.  As such, heavy cloud almost always obscures the sun, bathing the world in dim light that does not
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDY4MTk3MzcsLTEyMzIzMzY5ODMsLT
-U1NDUzNTM1NSwtNjcxODYxMDM2LC0xNTQzOTYxODIwLDE5MzA0
-ODczMThdfQ==
+eyJoaXN0b3J5IjpbNDE2NDk2NjU4LC0xMjMyMzM2OTgzLC01NT
+Q1MzUzNTUsLTY3MTg2MTAzNiwtMTU0Mzk2MTgyMCwxOTMwNDg3
+MzE4XX0=
 -->
