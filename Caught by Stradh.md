@@ -18,9 +18,9 @@ Presumably they'll return to the Orrey and try and make their way to Tovag.  How
 
 > You step into the portal formed by the Orrey, but instead of stepping out into the forested realm you had expected you step into inky blackness.
 > 
-> The space, if it can be called that 
+> The space, if it can be called that - for it is more like an absence of space - is filled with countless voices that you cannot make out, but you can feel in your bones.  In your soul.  They scream at you.  They call you intruders.  Say you are working for the fugitive.  That you are here to free another prisoner.  You would fall to your knees in pain from the 
 > 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NDUzNTM1NSwtNjcxODYxMDM2LC0xNT
-QzOTYxODIwLDE5MzA0ODczMThdfQ==
+eyJoaXN0b3J5IjpbMTUzMjU2MDQ3NSwtNTU0NTM1MzU1LC02Nz
+E4NjEwMzYsLTE1NDM5NjE4MjAsMTkzMDQ4NzMxOF19
 -->
