@@ -10,9 +10,9 @@ Fortunately the automata that are part of Mordenkainen's Bastion have been hard 
 >  
 >  But there is something there I think.  Not the demiplane itself.  But the forces that style themselves its rulers.  I had the misfortune to be trapped in one not long ago.  One overseen by a petty tyrant named Stradh who styled himself some kind of god-king.  But I came to learn he was no god.  In a temple in that realm there was knowledge of things greater than Stradh.  Creatures that were keeping that monster a prisoner even as they granted him dominion over Barovia.  The so-called 'Dark Powers'.  
 >  
->  I wish I had learned more then, but my mind was focused on my own escape. With the assistance of an odious dwarf who thought himself a holy man, but was clearly a sorcerer of some sort, a tabaxi and the reborn focus of Stradh's 'affection' we defeated Stradh - for a time at least.
+>  I wish I had learned more then, but my mind was focused on my own escape. With the assistance of an odious dwarf who thought himself a holy man, but was clearly a sorcerer of some sort, a tabaxi and the reborn focus of Stradh's 'affection' we defeated Stradh - for a time at least. I do not relish the idea of going back there.  I could easily be trapped again.  
 >  
->  I do not relish the idea of going back there.  I could easily be trapped again.  But perhaps I do not need to.  The Domains of Dread hold many prisoners come petty tyrants.  And there is one amongst them who hates Vecna above all else.  Kas the Betrayer.  Perhaps I should spe
+>  But perhaps I do not need to.  The Domains of Dread hold many prisoners who think themselves petty tyrants.  And there is one amongst them who hates Vecna above all else.  Kas the Betrayer.  Perhaps I should should make for Tovag, and find myself an ally - even if I will have to be on my guard with him.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ0MzYzMzczLDE5MzA0ODczMThdfQ==
+eyJoaXN0b3J5IjpbLTE1NDM5NjE4MjAsMTkzMDQ4NzMxOF19
 -->
