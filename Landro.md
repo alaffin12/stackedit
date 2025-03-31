@@ -142,6 +142,10 @@ The pool has 4 charges. It expends 1 charge each time an item is dipped into it.
 **[d6](https://app.roll20.net/editor/`/gr 1d6)**
 
 **Effect**
+| Roll | Effect  |
+|--|--|
+| 1-2  | The item is destroyed  |
+| 3-4 | The item gains a cosmetic defect such as a discoloration, mild warping or 
 
 1–2
 
@@ -298,5 +302,5 @@ This is a hopeless battle.  The players can win here, but a minute later the Lor
 > 
 > But I was also different from other warforged.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzIzNzY2ODddfQ==
+eyJoaXN0b3J5IjpbLTQ5NzgzNzA1MiwtMjAzMjM3NjY4N119
 -->
