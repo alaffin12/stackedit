@@ -32,11 +32,12 @@ One of the Demiplanes of Dread, Barovia is subject to the following rules:
 
 Additionally, some magic functions differently:
 * Any spell that would allow someone to escape the domain simply fails (after all, what good is a jail that can be escape with a plane shift).  This includes spells like banishment.  Simply put - what is in Barovia stays in Barovia unless Stradh or the Dark Powers get involved.
-* 
+* Summoning spells fail for similar reasons, although spells that call familiars or companions do function - they simply call on local spirits and energies as 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODIxOTA1MTcsMTYwMzk5NzExOSwtNz
-U0OTk3MzE5LC0xMjMyMzM2OTgzLC01NTQ1MzUzNTUsLTY3MTg2
-MTAzNiwtMTU0Mzk2MTgyMCwxOTMwNDg3MzE4XX0=
+eyJoaXN0b3J5IjpbNjY0NDk2NTI1LC0xNjgyMTkwNTE3LDE2MD
+M5OTcxMTksLTc1NDk5NzMxOSwtMTIzMjMzNjk4MywtNTU0NTM1
+MzU1LC02NzE4NjEwMzYsLTE1NDM5NjE4MjAsMTkzMDQ4NzMxOF
+19
 -->
