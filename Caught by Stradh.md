@@ -70,13 +70,13 @@ Bildrath Cantemir works a general store here.  It sells basic adventuring gear (
 | Purple Grapesmash #3 - Glass | 3 cp |  
 | Purple Grapesmash #3 - Bottle | 20 cp |
 
-Fish is always sold out here.  Adventurer's Steak is whatever meat the local hunters haul in.  The barkeep doesn't know and doesn't care to ask.  Everything is super salty.  Purple Grapesmash #3 is a varietal 
+Fish is always sold out here.  Adventurer's Steak is whatever meat the local hunters haul in.  The barkeep doesn't know and doesn't care to ask.  Everything is super salty.  Purple Grapesmash is a varietal produced by the Martikov family (who produce virtually all the wine in Barovia).  This is a low end wine, and 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMzIyOTk0OCwzMDIyMDM2LDYyOTk5NT
-cxMSwtMTU5ODQxMjczMCwtNTQwNjEzODA1LC0xNjU2MzI0MTEw
-LC0xNTE3MzM0MTM2LDEwMTg4NjYxMDAsLTc3NDk1MDc3MiwxOT
-k1MzkzNzc5LDgzNjIwMTE3LC00MjIxMTcxMTgsNTMyNzY5Mjcz
-LDc1MjM2NzI3MCwtNjQyMjM2Nyw2MTY4MjE1NDgsLTE2ODIxOT
-A1MTcsMTYwMzk5NzExOSwtNzU0OTk3MzE5LC0xMjMyMzM2OTgz
-XX0=
+eyJoaXN0b3J5IjpbLTIwMDc2NTYyMzQsMzAyMjAzNiw2Mjk5OT
+U3MTEsLTE1OTg0MTI3MzAsLTU0MDYxMzgwNSwtMTY1NjMyNDEx
+MCwtMTUxNzMzNDEzNiwxMDE4ODY2MTAwLC03NzQ5NTA3NzIsMT
+k5NTM5Mzc3OSw4MzYyMDExNywtNDIyMTE3MTE4LDUzMjc2OTI3
+Myw3NTIzNjcyNzAsLTY0MjIzNjcsNjE2ODIxNTQ4LC0xNjgyMT
+kwNTE3LDE2MDM5OTcxMTksLTc1NDk5NzMxOSwtMTIzMjMzNjk4
+M119
 -->
