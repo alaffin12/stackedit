@@ -38,12 +38,11 @@ Additionally, some magic functions differently:
 * Any magic that allows communications with entities on other planes is usable, with the proviso that Stradh can always (and does always) listen in on such communication, or if he wishes, he can redirect the call to himself and respond as if he were the entity being contacted.
 
 ### The Story as Planned
-Players do not have to finish 'Curse of Stradh'!  However I will be incorporating some parts of it into the story.  
-
+There is no intention for the players to play out the 'Curse of Stradh' as (a) the party 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjYzMTY1MDEsNTMyNzY5MjczLDc1Mj
+eyJoaXN0b3J5IjpbLTE1NzAwMjI0NTksNTMyNzY5MjczLDc1Mj
 M2NzI3MCwtNjQyMjM2Nyw2MTY4MjE1NDgsLTE2ODIxOTA1MTcs
 MTYwMzk5NzExOSwtNzU0OTk3MzE5LC0xMjMyMzM2OTgzLC01NT
 Q1MzUzNTUsLTY3MTg2MTAzNiwtMTU0Mzk2MTgyMCwxOTMwNDg3
