@@ -35,12 +35,12 @@ Additionally, some magic functions differently:
 * Summoning spells fail for similar reasons, although spells that call familiars or companions do function - they simply call on local spirits and energies (as opposed to summoning a fire elemental from the elemental planes or a planetar from Celestia).
 * Spells that utilize extra-dimensional spaces do function, but effects that would tear a hole in reality (putting a portable hole in a bag of holding for example) cause the same catastrophic effects, but do not create a hole in reality leading to the astral plane)
 * Basically - there's no quick and easy escapes from the Domains of Dread.  If there was some of the characters imprisoned there (which once included Vecna) would easily escape. 
-* Any magic that allows communications with entities on other planes is usable, with the proviso that Stradh can always (and does always) listen in on such communication, or if he wishes, he can redirect t
+* Any magic that allows communications with entities on other planes is usable, with the proviso that Stradh can always (and does always) listen in on such communication, or if he wishes, he can redirect the call to himself and respond as if he were the entity being contacted.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzOTMwOTIsNzUyMzY3MjcwLC02NDIyMz
-Y3LDYxNjgyMTU0OCwtMTY4MjE5MDUxNywxNjAzOTk3MTE5LC03
-NTQ5OTczMTksLTEyMzIzMzY5ODMsLTU1NDUzNTM1NSwtNjcxOD
-YxMDM2LC0xNTQzOTYxODIwLDE5MzA0ODczMThdfQ==
+eyJoaXN0b3J5IjpbNTMyNzY5MjczLDc1MjM2NzI3MCwtNjQyMj
+M2Nyw2MTY4MjE1NDgsLTE2ODIxOTA1MTcsMTYwMzk5NzExOSwt
+NzU0OTk3MzE5LC0xMjMyMzM2OTgzLC01NTQ1MzUzNTUsLTY3MT
+g2MTAzNiwtMTU0Mzk2MTgyMCwxOTMwNDg3MzE4XX0=
 -->
