@@ -55,13 +55,14 @@ The first place the players encounter as they head west is the village from whic
 Bildrath Cantemir works a general store here.  It sells basic adventuring gear (everything from the PHB labelled adventuring gear that costs less than 25 gp) for exorbitant prives (10x the list price).  Bildrath is self serving and is not interested in haggling - "All prices are best and final.  No haggling - you want, you pay!"  His nephew, Parpol "Parriwhimple" Cantemir (who is a large, strong but ultimately dumb young man) also works at the shop.
 
 #### E2. Blood on the Vine Tavern
+>A single shaft of light thrusts illumination into the main square, its brightness looking like a solid pillar in the heavy fog. Above the gaping doorway, a sign hangs precariously askew, proclaiming this to be the Blood on the Vine tavern.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODc0ODAzNTksLTE1OTg0MTI3MzAsLT
-U0MDYxMzgwNSwtMTY1NjMyNDExMCwtMTUxNzMzNDEzNiwxMDE4
-ODY2MTAwLC03NzQ5NTA3NzIsMTk5NTM5Mzc3OSw4MzYyMDExNy
-wtNDIyMTE3MTE4LDUzMjc2OTI3Myw3NTIzNjcyNzAsLTY0MjIz
-NjcsNjE2ODIxNTQ4LC0xNjgyMTkwNTE3LDE2MDM5OTcxMTksLT
-c1NDk5NzMxOSwtMTIzMjMzNjk4MywtNTU0NTM1MzU1LC02NzE4
-NjEwMzZdfQ==
+eyJoaXN0b3J5IjpbNjI5OTk1NzExLC0xNTk4NDEyNzMwLC01ND
+A2MTM4MDUsLTE2NTYzMjQxMTAsLTE1MTczMzQxMzYsMTAxODg2
+NjEwMCwtNzc0OTUwNzcyLDE5OTUzOTM3NzksODM2MjAxMTcsLT
+QyMjExNzExOCw1MzI3NjkyNzMsNzUyMzY3MjcwLC02NDIyMzY3
+LDYxNjgyMTU0OCwtMTY4MjE5MDUxNywxNjAzOTk3MTE5LC03NT
+Q5OTczMTksLTEyMzIzMzY5ODMsLTU1NDUzNTM1NSwtNjcxODYx
+MDM2XX0=
 -->
