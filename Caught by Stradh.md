@@ -70,9 +70,9 @@ Bildrath Cantemir works a general store here.  It sells basic adventuring gear (
 | Purple Grapesmash #3 - Glass | 3 cp |  
 | Purple Grapesmash #3 - Bottle | 20 cp |
 
-Fish is always sold out here.  Adventurer's Steak is whatever meat the local hunters haul in.  The barkeep doesn't know and doesn't care to ask.  Everything is super salty.  Purple Grapesmash #3 is a vari
+Fish is always sold out here.  Adventurer's Steak is whatever meat the local hunters haul in.  The barkeep doesn't know and doesn't care to ask.  Everything is super salty.  Purple Grapesmash #3 is a varietal 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MTAwNTIwMiwzMDIyMDM2LDYyOTk5NT
+eyJoaXN0b3J5IjpbMTAxMzIyOTk0OCwzMDIyMDM2LDYyOTk5NT
 cxMSwtMTU5ODQxMjczMCwtNTQwNjEzODA1LC0xNjU2MzI0MTEw
 LC0xNTE3MzM0MTM2LDEwMTg4NjYxMDAsLTc3NDk1MDc3MiwxOT
 k1MzkzNzc5LDgzNjIwMTE3LC00MjIxMTcxMTgsNTMyNzY5Mjcz
