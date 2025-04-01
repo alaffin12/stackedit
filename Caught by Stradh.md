@@ -40,13 +40,13 @@ Additionally, some magic functions differently:
 ### The Story as Planned
 There is no intention for the players to play out the 'Curse of Stradh' as (a) the party are high enough level to trivialize most of the encounters and (b) the party are already in another adventure.  
 
-Rather, upon awakening in the Svalich Woods and heading west (heading east brings them to the Gates of Barovia and the mists that keep prisoners in their cell) the party should know enough to make for the Amber Temple, to learn of their jailers and maybe find a means of escape.  
+Rather, upon awakening in the Svalich Woods and heading west (heading east brings them to the Gates of Barovia and the mists that keep prisoners in their cell) the party should know enough to make for the Amber Temple, to learn of their jailers (something they need to do to save the cosmos) and maybe find a means of escape.  St
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYwODI4NzM1LDUzMjc2OTI3Myw3NTIzNj
-cyNzAsLTY0MjIzNjcsNjE2ODIxNTQ4LC0xNjgyMTkwNTE3LDE2
-MDM5OTcxMTksLTc1NDk5NzMxOSwtMTIzMjMzNjk4MywtNTU0NT
-M1MzU1LC02NzE4NjEwMzYsLTE1NDM5NjE4MjAsMTkzMDQ4NzMx
-OF19
+eyJoaXN0b3J5IjpbLTQ4NDE0NjYwNCw1MzI3NjkyNzMsNzUyMz
+Y3MjcwLC02NDIyMzY3LDYxNjgyMTU0OCwtMTY4MjE5MDUxNywx
+NjAzOTk3MTE5LC03NTQ5OTczMTksLTEyMzIzMzY5ODMsLTU1ND
+UzNTM1NSwtNjcxODYxMDM2LC0xNTQzOTYxODIwLDE5MzA0ODcz
+MThdfQ==
 -->
