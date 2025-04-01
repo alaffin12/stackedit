@@ -50,12 +50,14 @@ The first place the players encounter as they head west is the village from whic
 > A dense, unnatural mist clings to the crooked, rutted road as it winds into the heart of Barovia, a village suffocated by gloom. Sagging, decrepit houses lean toward the muddy streets, their shutters rattling in the cold wind like whispered warnings. The air is thick with damp rot, the scent of mildew and despair mingling with the faint iron tang of something fouler. The dim sunlight in this place barely punches through the broken windows, illuminating gaunt faces that vanish at the slightest movement. A church bell tolls weakly in the distance, its sound lost in the oppressive silence that blankets the village—a silence broken only by the occasional sob of an unseen mourner.
 
 #### E1. Bildrath's Mercantile
+>The sparse light from this building spills out from behind drawn heavy curtains. A sign over the door, creaking on its hinges, reads “Bildrath’s Mercantile.”
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxODg2NjEwMCwtNzc0OTUwNzcyLDE5OT
-UzOTM3NzksODM2MjAxMTcsLTQyMjExNzExOCw1MzI3NjkyNzMs
-NzUyMzY3MjcwLC02NDIyMzY3LDYxNjgyMTU0OCwtMTY4MjE5MD
-UxNywxNjAzOTk3MTE5LC03NTQ5OTczMTksLTEyMzIzMzY5ODMs
-LTU1NDUzNTM1NSwtNjcxODYxMDM2LC0xNTQzOTYxODIwLDE5Mz
-A0ODczMThdfQ==
+eyJoaXN0b3J5IjpbLTE1MTczMzQxMzYsMTAxODg2NjEwMCwtNz
+c0OTUwNzcyLDE5OTUzOTM3NzksODM2MjAxMTcsLTQyMjExNzEx
+OCw1MzI3NjkyNzMsNzUyMzY3MjcwLC02NDIyMzY3LDYxNjgyMT
+U0OCwtMTY4MjE5MDUxNywxNjAzOTk3MTE5LC03NTQ5OTczMTks
+LTEyMzIzMzY5ODMsLTU1NDUzNTM1NSwtNjcxODYxMDM2LC0xNT
+QzOTYxODIwLDE5MzA0ODczMThdfQ==
 -->
