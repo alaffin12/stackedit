@@ -57,15 +57,17 @@ Bildrath Cantemir works a general store here.  It sells basic adventuring gear (
 #### E2. Blood on the Vine Tavern
 >A single shaft of light thrusts illumination into the main square, its brightness looking like a solid pillar in the heavy fog. Above the gaping doorway, a sign hangs precariously askew, proclaiming this to be the Blood on the Vine tavern.
 
-##### Menu
+**Menu**
 | Item | Price |
 |--|--|
 | *Breakfast* |  |
-| Boiled Turnips | 
-
+| Boiled Turnips | 6 cp |
+| Grilled Lake Fish | Sold Out |
+| *Lunch/Dinner* | |
+|  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MjkyOTExNCw2Mjk5OTU3MTEsLTE1OT
+eyJoaXN0b3J5IjpbMTYxNDgwNzEyOSw2Mjk5OTU3MTEsLTE1OT
 g0MTI3MzAsLTU0MDYxMzgwNSwtMTY1NjMyNDExMCwtMTUxNzMz
 NDEzNiwxMDE4ODY2MTAwLC03NzQ5NTA3NzIsMTk5NTM5Mzc3OS
 w4MzYyMDExNywtNDIyMTE3MTE4LDUzMjc2OTI3Myw3NTIzNjcy
