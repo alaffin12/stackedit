@@ -44,13 +44,14 @@ Rather, upon awakening in the Svalich Woods and heading west (heading east bring
 
 The focus is going to be placed upon the locations in Barovia the players are likely to visit in the pursuit of this goal.  If they go off script you may have to improvise...
 
-### Barovia
+### The Village of Barovia
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA2Nzg2MjQ1LDgzNjIwMTE3LC00MjIxMT
-cxMTgsNTMyNzY5MjczLDc1MjM2NzI3MCwtNjQyMjM2Nyw2MTY4
-MjE1NDgsLTE2ODIxOTA1MTcsMTYwMzk5NzExOSwtNzU0OTk3Mz
-E5LC0xMjMyMzM2OTgzLC01NTQ1MzUzNTUsLTY3MTg2MTAzNiwt
-MTU0Mzk2MTgyMCwxOTMwNDg3MzE4XX0=
+eyJoaXN0b3J5IjpbLTQ3MTE2Njc5Myw4MzYyMDExNywtNDIyMT
+E3MTE4LDUzMjc2OTI3Myw3NTIzNjcyNzAsLTY0MjIzNjcsNjE2
+ODIxNTQ4LC0xNjgyMTkwNTE3LDE2MDM5OTcxMTksLTc1NDk5Nz
+MxOSwtMTIzMjMzNjk4MywtNTU0NTM1MzU1LC02NzE4NjEwMzYs
+LTE1NDM5NjE4MjAsMTkzMDQ4NzMxOF19
 -->
