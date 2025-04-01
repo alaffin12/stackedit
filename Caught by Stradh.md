@@ -44,12 +44,13 @@ Rather, upon awakening in the Svalich Woods and heading west (heading east bring
 
 The focus is going to be placed upon the locations in Barovia the players are likely to visit in the pursuit of this goal.  If they go off script you may have to improvise...
 
-### The Village of Barovia
+### The Village of Barovia (Area E)
+The first place the players encounter as they head west is the village from which the land gets its name
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MTE2Njc5Myw4MzYyMDExNywtNDIyMT
+eyJoaXN0b3J5IjpbMTk5NTM5Mzc3OSw4MzYyMDExNywtNDIyMT
 E3MTE4LDUzMjc2OTI3Myw3NTIzNjcyNzAsLTY0MjIzNjcsNjE2
 ODIxNTQ4LC0xNjgyMTkwNTE3LDE2MDM5OTcxMTksLTc1NDk5Nz
 MxOSwtMTIzMjMzNjk4MywtNTU0NTM1MzU1LC02NzE4NjEwMzYs
