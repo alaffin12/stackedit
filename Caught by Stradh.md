@@ -42,13 +42,15 @@ There is no intention for the players to play out the 'Curse of Stradh' as (a) t
 
 Rather, upon awakening in the Svalich Woods and heading west (heading east brings them to the Gates of Barovia and the mists that keep prisoners in their cell) the party should know enough to make for the Amber Temple, to learn of their jailers (something they need to do to save the cosmos) and maybe find a means of escape.
 
-Focus is going to be placed upon the locations in Barovia the players are likely to visit in the pursuit of this 
+The focus is going to be placed upon the locations in Barovia the players are likely to visit in the pursuit of this goal.  If they go off script, improvise...
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMjExNzExOCw1MzI3NjkyNzMsNzUyMz
-Y3MjcwLC02NDIyMzY3LDYxNjgyMTU0OCwtMTY4MjE5MDUxNywx
-NjAzOTk3MTE5LC03NTQ5OTczMTksLTEyMzIzMzY5ODMsLTU1ND
-UzNTM1NSwtNjcxODYxMDM2LC0xNTQzOTYxODIwLDE5MzA0ODcz
-MThdfQ==
+eyJoaXN0b3J5IjpbODM2MjAxMTcsLTQyMjExNzExOCw1MzI3Nj
+kyNzMsNzUyMzY3MjcwLC02NDIyMzY3LDYxNjgyMTU0OCwtMTY4
+MjE5MDUxNywxNjAzOTk3MTE5LC03NTQ5OTczMTksLTEyMzIzMz
+Y5ODMsLTU1NDUzNTM1NSwtNjcxODYxMDM2LC0xNTQzOTYxODIw
+LDE5MzA0ODczMThdfQ==
 -->
