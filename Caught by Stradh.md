@@ -73,13 +73,17 @@ Bildrath Cantemir works a general store here.  It sells basic adventuring gear (
 Fish is always sold out here.  Adventurer's Steak is whatever meat the local hunters haul in.  The barkeep doesn't know and doesn't care to ask.  Everything is super salty.  
 
 ## Drink in Barovia
-Almost all wine in Baro
+Almost all alcohol in Barovia is wine or wine-based, and almost all wine is made by the Martikov family (some is brought in by Vistani traders).  A description of the Martikov family wines is below:
+
+### Grapesmash
+
+### 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI3NDI4MjU2LDIwOTEwMTg0NjMsLTIwMD
-c2NTYyMzQsMzAyMjAzNiw2Mjk5OTU3MTEsLTE1OTg0MTI3MzAs
-LTU0MDYxMzgwNSwtMTY1NjMyNDExMCwtMTUxNzMzNDEzNiwxMD
-E4ODY2MTAwLC03NzQ5NTA3NzIsMTk5NTM5Mzc3OSw4MzYyMDEx
-NywtNDIyMTE3MTE4LDUzMjc2OTI3Myw3NTIzNjcyNzAsLTY0Mj
-IzNjcsNjE2ODIxNTQ4LC0xNjgyMTkwNTE3LDE2MDM5OTcxMTld
-fQ==
+eyJoaXN0b3J5IjpbLTE5ODA0MzM1MTgsMjA5MTAxODQ2MywtMj
+AwNzY1NjIzNCwzMDIyMDM2LDYyOTk5NTcxMSwtMTU5ODQxMjcz
+MCwtNTQwNjEzODA1LC0xNjU2MzI0MTEwLC0xNTE3MzM0MTM2LD
+EwMTg4NjYxMDAsLTc3NDk1MDc3MiwxOTk1MzkzNzc5LDgzNjIw
+MTE3LC00MjIxMTcxMTgsNTMyNzY5MjczLDc1MjM2NzI3MCwtNj
+QyMjM2Nyw2MTY4MjE1NDgsLTE2ODIxOTA1MTcsMTYwMzk5NzEx
+OV19
 -->
