@@ -52,12 +52,13 @@ The first place the players encounter as they head west is the village from whic
 #### E1. Bildrath's Mercantile
 >The sparse light from this building spills out from behind drawn heavy curtains. A sign over the door, creaking on its hinges, reads “Bildrath’s Mercantile.”
 
-Bildrath Cantemir works a general store here.  It sells basic adventuring gear (everything from the PHB labelled adventuring gear that costs less than 25 gp) for exorbitant prives (10x the list price)
+Bildrath Cantemir works a general store here.  It sells basic adventuring gear (everything from the PHB labelled adventuring gear that costs less than 25 gp) for exorbitant prives (10x the list price).  Bildrath is self serving and is not interested 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTYzMjQxMTAsLTE1MTczMzQxMzYsMT
-AxODg2NjEwMCwtNzc0OTUwNzcyLDE5OTUzOTM3NzksODM2MjAx
-MTcsLTQyMjExNzExOCw1MzI3NjkyNzMsNzUyMzY3MjcwLC02ND
-IyMzY3LDYxNjgyMTU0OCwtMTY4MjE5MDUxNywxNjAzOTk3MTE5
-LC03NTQ5OTczMTksLTEyMzIzMzY5ODMsLTU1NDUzNTM1NSwtNj
-cxODYxMDM2LC0xNTQzOTYxODIwLDE5MzA0ODczMThdfQ==
+eyJoaXN0b3J5IjpbLTU0MDYxMzgwNSwtMTY1NjMyNDExMCwtMT
+UxNzMzNDEzNiwxMDE4ODY2MTAwLC03NzQ5NTA3NzIsMTk5NTM5
+Mzc3OSw4MzYyMDExNywtNDIyMTE3MTE4LDUzMjc2OTI3Myw3NT
+IzNjcyNzAsLTY0MjIzNjcsNjE2ODIxNTQ4LC0xNjgyMTkwNTE3
+LDE2MDM5OTcxMTksLTc1NDk5NzMxOSwtMTIzMjMzNjk4MywtNT
+U0NTM1MzU1LC02NzE4NjEwMzYsLTE1NDM5NjE4MjAsMTkzMDQ4
+NzMxOF19
 -->
