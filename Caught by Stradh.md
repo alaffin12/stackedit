@@ -38,13 +38,15 @@ Additionally, some magic functions differently:
 * Any magic that allows communications with entities on other planes is usable, with the proviso that Stradh can always (and does always) listen in on such communication, or if he wishes, he can redirect the call to himself and respond as if he were the entity being contacted.
 
 ### The Story as Planned
-There is no intention for the players to play out the 'Curse of Stradh' as (a) the party 
+There is no intention for the players to play out the 'Curse of Stradh' as (a) the party are high enough level to trivialize most of the encounters and (b) the party are already in another adventure.  
+
+Rather, upon awakening in the Svalich Woods and heading west 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzAwMjI0NTksNTMyNzY5MjczLDc1Mj
-M2NzI3MCwtNjQyMjM2Nyw2MTY4MjE1NDgsLTE2ODIxOTA1MTcs
-MTYwMzk5NzExOSwtNzU0OTk3MzE5LC0xMjMyMzM2OTgzLC01NT
-Q1MzUzNTUsLTY3MTg2MTAzNiwtMTU0Mzk2MTgyMCwxOTMwNDg3
-MzE4XX0=
+eyJoaXN0b3J5IjpbLTk4MDAwODY3Miw1MzI3NjkyNzMsNzUyMz
+Y3MjcwLC02NDIyMzY3LDYxNjgyMTU0OCwtMTY4MjE5MDUxNywx
+NjAzOTk3MTE5LC03NTQ5OTczMTksLTEyMzIzMzY5ODMsLTU1ND
+UzNTM1NSwtNjcxODYxMDM2LC0xNTQzOTYxODIwLDE5MzA0ODcz
+MThdfQ==
 -->
