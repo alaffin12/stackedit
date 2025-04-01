@@ -65,14 +65,17 @@ Bildrath Cantemir works a general store here.  It sells basic adventuring gear (
 | Grilled Lake Fish | Sold Out |
 | *Lunch/Dinner* | |
 | Wolf Steak w/Sauerkraut | 10 cp | 
-| Toad & Beet Stew | 8 cp| 
+| Toad & Beet Stew | 8 cp |
+| *Drink* | |
+| Purple Grapesmash #3 - Glass | 3 cp |  
+| Purple Grapesmash #3 - Bottle | 20 cp |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAyMjAzNiw2Mjk5OTU3MTEsLTE1OTg0MT
-I3MzAsLTU0MDYxMzgwNSwtMTY1NjMyNDExMCwtMTUxNzMzNDEz
-NiwxMDE4ODY2MTAwLC03NzQ5NTA3NzIsMTk5NTM5Mzc3OSw4Mz
-YyMDExNywtNDIyMTE3MTE4LDUzMjc2OTI3Myw3NTIzNjcyNzAs
-LTY0MjIzNjcsNjE2ODIxNTQ4LC0xNjgyMTkwNTE3LDE2MDM5OT
-cxMTksLTc1NDk5NzMxOSwtMTIzMjMzNjk4MywtNTU0NTM1MzU1
+eyJoaXN0b3J5IjpbLTg1MTk2OTI3MywzMDIyMDM2LDYyOTk5NT
+cxMSwtMTU5ODQxMjczMCwtNTQwNjEzODA1LC0xNjU2MzI0MTEw
+LC0xNTE3MzM0MTM2LDEwMTg4NjYxMDAsLTc3NDk1MDc3MiwxOT
+k1MzkzNzc5LDgzNjIwMTE3LC00MjIxMTcxMTgsNTMyNzY5Mjcz
+LDc1MjM2NzI3MCwtNjQyMjM2Nyw2MTY4MjE1NDgsLTE2ODIxOT
+A1MTcsMTYwMzk5NzExOSwtNzU0OTk3MzE5LC0xMjMyMzM2OTgz
 XX0=
 -->
