@@ -64,14 +64,15 @@ Bildrath Cantemir works a general store here.  It sells basic adventuring gear (
 | Boiled Turnips | 6 cp |
 | Grilled Lake Fish | Sold Out |
 | *Lunch/Dinner* | |
-|  
+| Wolf Steak w/Sauerkraut | 10 cp | 
+| Toad & Beet Stew | 8 cp| 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNDgwNzEyOSw2Mjk5OTU3MTEsLTE1OT
-g0MTI3MzAsLTU0MDYxMzgwNSwtMTY1NjMyNDExMCwtMTUxNzMz
-NDEzNiwxMDE4ODY2MTAwLC03NzQ5NTA3NzIsMTk5NTM5Mzc3OS
-w4MzYyMDExNywtNDIyMTE3MTE4LDUzMjc2OTI3Myw3NTIzNjcy
-NzAsLTY0MjIzNjcsNjE2ODIxNTQ4LC0xNjgyMTkwNTE3LDE2MD
-M5OTcxMTksLTc1NDk5NzMxOSwtMTIzMjMzNjk4MywtNTU0NTM1
-MzU1XX0=
+eyJoaXN0b3J5IjpbMzAyMjAzNiw2Mjk5OTU3MTEsLTE1OTg0MT
+I3MzAsLTU0MDYxMzgwNSwtMTY1NjMyNDExMCwtMTUxNzMzNDEz
+NiwxMDE4ODY2MTAwLC03NzQ5NTA3NzIsMTk5NTM5Mzc3OSw4Mz
+YyMDExNywtNDIyMTE3MTE4LDUzMjc2OTI3Myw3NTIzNjcyNzAs
+LTY0MjIzNjcsNjE2ODIxNTQ4LC0xNjgyMTkwNTE3LDE2MDM5OT
+cxMTksLTc1NDk5NzMxOSwtMTIzMjMzNjk4MywtNTU0NTM1MzU1
+XX0=
 -->
