@@ -45,14 +45,16 @@ Rather, upon awakening in the Svalich Woods and heading west (heading east bring
 The focus is going to be placed upon the locations in Barovia the players are likely to visit in the pursuit of this goal.  If they go off script you may have to improvise...
 
 ### The Village of Barovia (Area E)
-The first place the players encounter as they head west is the village from which the land gets its name
+The first place the players encounter as they head west is the village from which the land gets its name...
+
+> A dense, unnatural mist clings to the crooked, rutted road as it winds into the heart of Barovia, a village suffocated by gloom. Sagging, decrepit houses lean toward the muddy streets, their shutters rattling in the cold wind like whispered warnings. The air is thick with damp rot, the scent of mildew and despair mingling with the faint iron tang of something fouler. The dim sunlight in this place barely punches through the broken windows, illuminating gaunt faces that vanish at the slightest movement. A church bell tolls weakly in the distance, its sound lost in the oppressive silence that blankets the village—a silence broken only by the occasional sob of an unseen mourner.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NTM5Mzc3OSw4MzYyMDExNywtNDIyMT
-E3MTE4LDUzMjc2OTI3Myw3NTIzNjcyNzAsLTY0MjIzNjcsNjE2
-ODIxNTQ4LC0xNjgyMTkwNTE3LDE2MDM5OTcxMTksLTc1NDk5Nz
-MxOSwtMTIzMjMzNjk4MywtNTU0NTM1MzU1LC02NzE4NjEwMzYs
-LTE1NDM5NjE4MjAsMTkzMDQ4NzMxOF19
+eyJoaXN0b3J5IjpbLTc3NDk1MDc3MiwxOTk1MzkzNzc5LDgzNj
+IwMTE3LC00MjIxMTcxMTgsNTMyNzY5MjczLDc1MjM2NzI3MCwt
+NjQyMjM2Nyw2MTY4MjE1NDgsLTE2ODIxOTA1MTcsMTYwMzk5Nz
+ExOSwtNzU0OTk3MzE5LC0xMjMyMzM2OTgzLC01NTQ1MzUzNTUs
+LTY3MTg2MTAzNiwtMTU0Mzk2MTgyMCwxOTMwNDg3MzE4XX0=
 -->
