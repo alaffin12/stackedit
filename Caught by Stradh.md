@@ -85,7 +85,7 @@ Fish is always sold out here.  Adventurer's Steak is whatever meat the local hun
 ##### NPCs
 **Arik Lorensk**, or just Arik the Barkeep, is a small and pudgy little man who tends the bar of the tavern.  Mindlessly he cleans the glasses, one after another, starting over when he finishes the first.  He doesn't do much conversing, but if spoke to he will answer in a dull and hollow voice, basically taking drink orders before moving on to something else.
  
-**Ismark Kolyanovich** sits in the bar, nursing a glass of Purple Grapesmash #3.  
+**Ismark Kolyanovich** sits in the bar, nursing a glass of Purple Grapesmash #3.  Today is the anniversary of his mother's death and it looms over him - putting him in a bad mood.  Ismark'
 **Queen of the Soil, Pure Forge and Pearl of the Forest Strem**
 
 
@@ -101,7 +101,7 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 ### Winterstomp
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ3NzgwNDExLDEyMDg1MjA3MjYsLTE0Mz
+eyJoaXN0b3J5IjpbNTE3NTg3OTkzLDEyMDg1MjA3MjYsLTE0Mz
 YzMjE1NDcsMTE1MTI3MDkzOCw1MjQ5NzA1OTIsMTU1NzA1Njgz
 NCwxOTk1NTA1MDAsLTEzMDE5MzI0MTYsLTQxODkyNjQ0NSwxOT
 kxMzE4ODU5LDc2MTY0OTQ0MywyMDkxMDE4NDYzLC0yMDA3NjU2
