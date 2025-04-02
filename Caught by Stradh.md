@@ -89,6 +89,8 @@ Fish is always sold out here.  Adventurer's Steak is whatever meat the local hun
 
 > "My father was burgomaster, my mother his beautiful bride.  They were happy, for a time.  But this place twists all that is good, and their love - that was good.  My mother - her name was Ireena - was said to resemble Katarina, Stradh's first love.  A love that was lost to him.  Stradh came for her.  He did not care for her wedding vows or for her maternal bonds.  He wished to possess her.  And he made his move.  My father - he was not a great warrior.  I am ten times the swords man he was in his heyday - and he was not in his heyday by that time.  Stradh slew him first.  Then my mother fell upon my father's blade to spare her from the indignity of being Stradh's bride.  And so tonight I drink.  To remember them, and to forget what killed them."
 
+Ismark is probably the friendliest face the party is going to see for awhile, and while he is not able to point them directly to the Amber Temple (if they ask)  h
+
 **Queen of the Soil, Pure Forge and Pearl of the Forest Strem**
 
 
@@ -104,7 +106,7 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 ### Winterstomp
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNTU2NTY2NCwxNzE2Mjc4MjcwLDEyMD
+eyJoaXN0b3J5IjpbMTA4OTk0ODYxNywxNzE2Mjc4MjcwLDEyMD
 g1MjA3MjYsLTE0MzYzMjE1NDcsMTE1MTI3MDkzOCw1MjQ5NzA1
 OTIsMTU1NzA1NjgzNCwxOTk1NTA1MDAsLTEzMDE5MzI0MTYsLT
 QxODkyNjQ0NSwxOTkxMzE4ODU5LDc2MTY0OTQ0MywyMDkxMDE4
