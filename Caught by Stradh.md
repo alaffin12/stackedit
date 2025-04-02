@@ -82,6 +82,9 @@ Bildrath Cantemir works a general store here.  It sells basic adventuring gear (
 
 Fish is always sold out here.  Adventurer's Steak is whatever meat the local hunters haul in.  The barkeep doesn't know and doesn't care to ask.  Everything is super salty.  
 
+**Patrons**
+
+
 ## Drink in Barovia
 Almost all alcohol in Barovia is wine or wine-based, and almost all wine is made by the Martikov family (some is brought in by Vistani traders).  A description of the Martikov family wines is below:
 
@@ -94,11 +97,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 ### Winterstomp
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzYzMjE1NDcsMTE1MTI3MDkzOCw1Mj
-Q5NzA1OTIsMTU1NzA1NjgzNCwxOTk1NTA1MDAsLTEzMDE5MzI0
-MTYsLTQxODkyNjQ0NSwxOTkxMzE4ODU5LDc2MTY0OTQ0MywyMD
-kxMDE4NDYzLC0yMDA3NjU2MjM0LDMwMjIwMzYsNjI5OTk1NzEx
-LC0xNTk4NDEyNzMwLC01NDA2MTM4MDUsLTE2NTYzMjQxMTAsLT
-E1MTczMzQxMzYsMTAxODg2NjEwMCwtNzc0OTUwNzcyLDE5OTUz
-OTM3NzldfQ==
+eyJoaXN0b3J5IjpbMTIwODUyMDcyNiwtMTQzNjMyMTU0NywxMT
+UxMjcwOTM4LDUyNDk3MDU5MiwxNTU3MDU2ODM0LDE5OTU1MDUw
+MCwtMTMwMTkzMjQxNiwtNDE4OTI2NDQ1LDE5OTEzMTg4NTksNz
+YxNjQ5NDQzLDIwOTEwMTg0NjMsLTIwMDc2NTYyMzQsMzAyMjAz
+Niw2Mjk5OTU3MTEsLTE1OTg0MTI3MzAsLTU0MDYxMzgwNSwtMT
+Y1NjMyNDExMCwtMTUxNzMzNDEzNiwxMDE4ODY2MTAwLC03NzQ5
+NTA3NzJdfQ==
 -->
