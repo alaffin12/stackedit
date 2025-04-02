@@ -91,7 +91,7 @@ Fish is always sold out here.  Adventurer's Steak is whatever meat the local hun
 
 Ismark is probably the friendliest face the party is going to see for awhile, and while he is not able to point them directly to the Amber Temple (if they ask) he does know that there is supposed to be some kind of repository of knowledge near Mount Ghakis.
 
-**Queen of the Soil, Pure Forge and Pearl of the Forest Stream** are the three Vistani (tabaxi) proprietors of t
+**Queen of the Soil, Pure Forge and Pearl of the Forest Stream** are the three Vistani (tabaxi) proprietors of the Blood of the Vine Tavern.  
 
 
 ## Drink in Barovia
@@ -106,7 +106,7 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 ### Winterstomp
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTQ0NDg5MDYsNjIzNzM2MzMwLDE3MT
+eyJoaXN0b3J5IjpbLTE0ODIyMTQ4NzUsNjIzNzM2MzMwLDE3MT
 YyNzgyNzAsMTIwODUyMDcyNiwtMTQzNjMyMTU0NywxMTUxMjcw
 OTM4LDUyNDk3MDU5MiwxNTU3MDU2ODM0LDE5OTU1MDUwMCwtMT
 MwMTkzMjQxNiwtNDE4OTI2NDQ1LDE5OTEzMTg4NTksNzYxNjQ5
