@@ -79,15 +79,16 @@ Almost all alcohol in Barovia is wine or wine-based, and almost all wine is made
 Grapesmash is the lowest grade of Martikov wine.  It is a red wine, made from grapes unfit for any other purpose.  It is, however, widely available.  Grapesmash wines tend to be tannin heavy and have a bitter, metallic aftertaste.  The Martikov's sell three types of Grapesmash wines - Grapesmash #3, which is purely made from Grapesmash grapes (and thus has the most pronounced Grapesmash 'flavour') and Grapesmash #2 & #1 - each of which uses progressively more of the Martikov's other grapes to dull the harsh edge of Grapesmash.
  
 ### Dragoncrush
-Dragoncrush is a red varietal from the Martikov winery.  They make two varieties of this varietal - Red Dragoncrush and Black Dragoncrush - as well as a brandy which is made from Red Dragoncrush called Dragon's Breath.  Red Dragoncrush uses dried grapes and is aged in oak barrels, giving it a spicy, cinnamony flavour.  Black Dragoncrush mixes fresh Dragoncrush grapes with Winterstomp grapes to give it a fresh, crisp flavour.    
+Dragoncrush is a red varietal from the Martikov winery.  They make two varieties of this varietal - Red Dragoncrush and Black Dragoncrush - as well as a brandy which is made from Red Dragoncrush called Dragon's Breath.  Red Dragoncrush uses dried grapes and is aged in oak barrels, giving it a spicy, cinnamony flavour.  Black Dragoncrush mixes fresh Dragoncrush grapes with Winterstomp grapes to give it a fresh, crisp flavour.  Dragon's Breath Brandy leans into the natural flavours of Red Dragoncrush, and is very spicy.  
 
 ### Winterstomp
+Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  They
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwOTcyMjk5OSwtMTMwMTkzMjQxNiwtND
-E4OTI2NDQ1LDE5OTEzMTg4NTksNzYxNjQ5NDQzLDIwOTEwMTg0
-NjMsLTIwMDc2NTYyMzQsMzAyMjAzNiw2Mjk5OTU3MTEsLTE1OT
-g0MTI3MzAsLTU0MDYxMzgwNSwtMTY1NjMyNDExMCwtMTUxNzMz
-NDEzNiwxMDE4ODY2MTAwLC03NzQ5NTA3NzIsMTk5NTM5Mzc3OS
-w4MzYyMDExNywtNDIyMTE3MTE4LDUzMjc2OTI3Myw3NTIzNjcy
-NzBdfQ==
+eyJoaXN0b3J5IjpbNzg1MDg3Mjk3LC0xMzAxOTMyNDE2LC00MT
+g5MjY0NDUsMTk5MTMxODg1OSw3NjE2NDk0NDMsMjA5MTAxODQ2
+MywtMjAwNzY1NjIzNCwzMDIyMDM2LDYyOTk5NTcxMSwtMTU5OD
+QxMjczMCwtNTQwNjEzODA1LC0xNjU2MzI0MTEwLC0xNTE3MzM0
+MTM2LDEwMTg4NjYxMDAsLTc3NDk1MDc3MiwxOTk1MzkzNzc5LD
+gzNjIwMTE3LC00MjIxMTcxMTgsNTMyNzY5MjczLDc1MjM2NzI3
+MF19
 -->
