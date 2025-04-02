@@ -82,7 +82,9 @@ Bildrath Cantemir works a general store here.  It sells basic adventuring gear (
 
 Fish is always sold out here.  Adventurer's Steak is whatever meat the local hunters haul in.  The barkeep doesn't know and doesn't care to ask.  Everything is super salty.  
 
-**Patrons**
+##### NPCs
+**Arik Lorensk**
+**Ismark Kolyanovich**
 
 
 ## Drink in Barovia
@@ -97,11 +99,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 ### Winterstomp
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwODUyMDcyNiwtMTQzNjMyMTU0NywxMT
-UxMjcwOTM4LDUyNDk3MDU5MiwxNTU3MDU2ODM0LDE5OTU1MDUw
-MCwtMTMwMTkzMjQxNiwtNDE4OTI2NDQ1LDE5OTEzMTg4NTksNz
-YxNjQ5NDQzLDIwOTEwMTg0NjMsLTIwMDc2NTYyMzQsMzAyMjAz
-Niw2Mjk5OTU3MTEsLTE1OTg0MTI3MzAsLTU0MDYxMzgwNSwtMT
-Y1NjMyNDExMCwtMTUxNzMzNDEzNiwxMDE4ODY2MTAwLC03NzQ5
-NTA3NzJdfQ==
+eyJoaXN0b3J5IjpbLTg3NTE1Njk5MSwxMjA4NTIwNzI2LC0xND
+M2MzIxNTQ3LDExNTEyNzA5MzgsNTI0OTcwNTkyLDE1NTcwNTY4
+MzQsMTk5NTUwNTAwLC0xMzAxOTMyNDE2LC00MTg5MjY0NDUsMT
+k5MTMxODg1OSw3NjE2NDk0NDMsMjA5MTAxODQ2MywtMjAwNzY1
+NjIzNCwzMDIyMDM2LDYyOTk5NTcxMSwtMTU5ODQxMjczMCwtNT
+QwNjEzODA1LC0xNjU2MzI0MTEwLC0xNTE3MzM0MTM2LDEwMTg4
+NjYxMDBdfQ==
 -->
