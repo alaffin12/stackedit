@@ -76,12 +76,13 @@ Fish is always sold out here.  Adventurer's Steak is whatever meat the local hun
 Almost all alcohol in Barovia is wine or wine-based, and almost all wine is made by the Martikov family (some is brought in by Vistani traders).  A description of the Martikov family wines is below:
 
 ### Grapesmash
-Grapesmash is the lowest grade of Martikov wine.  It is a red wine, made from grapes unfit for any other purpose.  It is, however, widely available.  Grapesmash wines tend to be tannin heavy and have a bitter, metallic aftertaste.  The Martikov's sell three types of Grapesmash wines - Grapesmash #3, which is purely made from Grapesmash grapes (and thus has the most pronounc
+Grapesmash is the lowest grade of Martikov wine.  It is a red wine, made from grapes unfit for any other purpose.  It is, however, widely available.  Grapesmash wines tend to be tannin heavy and have a bitter, metallic aftertaste.  The Martikov's sell three types of Grapesmash wines - Grapesmash #3, which is purely made from Grapesmash grapes (and thus has the most pronounced Grapesmash 'flavour') and Grapesmash #2 & #1 - each of which uses progressively more of the Martikov's other grapes to dull the harsh edge of Grapesmash.
+ 
 ### Dragoncrush
 
 ### Winterpress
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MjIzOTg1MCw3NjE2NDk0NDMsMjA5MT
+eyJoaXN0b3J5IjpbMTk5MTMxODg1OSw3NjE2NDk0NDMsMjA5MT
 AxODQ2MywtMjAwNzY1NjIzNCwzMDIyMDM2LDYyOTk5NTcxMSwt
 MTU5ODQxMjczMCwtNTQwNjEzODA1LC0xNjU2MzI0MTEwLC0xNT
 E3MzM0MTM2LDEwMTg4NjYxMDAsLTc3NDk1MDc3MiwxOTk1Mzkz
