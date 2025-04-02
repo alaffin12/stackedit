@@ -56,7 +56,8 @@ If players visit an location that is not otherwise noted as being significant on
 | - | - |
 | 1-3 | Empty |
 | 4-8 | Rats! |
-| 9-16 | Barovian Villagers|
+| 9-16 | Barovian Villagers |
+| 17-20 | 4+2*1d4 Ghosts |
 
 #### E1. Bildrath's Mercantile
 >The sparse light from this building spills out from behind drawn heavy curtains. A sign over the door, creaking on its hinges, reads “Bildrath’s Mercantile.”
@@ -93,11 +94,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 ### Winterstomp
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MTI3MDkzOCw1MjQ5NzA1OTIsMTU1Nz
-A1NjgzNCwxOTk1NTA1MDAsLTEzMDE5MzI0MTYsLTQxODkyNjQ0
-NSwxOTkxMzE4ODU5LDc2MTY0OTQ0MywyMDkxMDE4NDYzLC0yMD
-A3NjU2MjM0LDMwMjIwMzYsNjI5OTk1NzExLC0xNTk4NDEyNzMw
-LC01NDA2MTM4MDUsLTE2NTYzMjQxMTAsLTE1MTczMzQxMzYsMT
-AxODg2NjEwMCwtNzc0OTUwNzcyLDE5OTUzOTM3NzksODM2MjAx
-MTddfQ==
+eyJoaXN0b3J5IjpbLTE0MzYzMjE1NDcsMTE1MTI3MDkzOCw1Mj
+Q5NzA1OTIsMTU1NzA1NjgzNCwxOTk1NTA1MDAsLTEzMDE5MzI0
+MTYsLTQxODkyNjQ0NSwxOTkxMzE4ODU5LDc2MTY0OTQ0MywyMD
+kxMDE4NDYzLC0yMDA3NjU2MjM0LDMwMjIwMzYsNjI5OTk1NzEx
+LC0xNTk4NDEyNzMwLC01NDA2MTM4MDUsLTE2NTYzMjQxMTAsLT
+E1MTczMzQxMzYsMTAxODg2NjEwMCwtNzc0OTUwNzcyLDE5OTUz
+OTM3NzldfQ==
 -->
