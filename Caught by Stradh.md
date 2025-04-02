@@ -79,11 +79,11 @@ Almost all alcohol in Barovia is wine or wine-based, and almost all wine is made
 Grapesmash is the lowest grade of Martikov wine.  It is a red wine, made from grapes unfit for any other purpose.  It is, however, widely available.  Grapesmash wines tend to be tannin heavy and have a bitter, metallic aftertaste.  The Martikov's sell three types of Grapesmash wines - Grapesmash #3, which is purely made from Grapesmash grapes (and thus has the most pronounced Grapesmash 'flavour') and Grapesmash #2 & #1 - each of which uses progressively more of the Martikov's other grapes to dull the harsh edge of Grapesmash.
  
 ### Dragoncrush
-Dragoncrush is a red varietal from the Martikov winery.  They make two varieties of this varietal - Red Dragoncrush and Black Dragoncrush - as well as a brandy which is made from Red Dragoncrush called Dragon's Breath.    
+Dragoncrush is a red varietal from the Martikov winery.  They make two varieties of this varietal - Red Dragoncrush and Black Dragoncrush - as well as a brandy which is made from Red Dragoncrush called Dragon's Breath.  Red Dragoncrush uses dried grapes and is aged in oak barrels, giving it a spicy, cinnamony flavour.  Black Dragoncrush mixes fresh Dragoncrush grapes with Winterstomp grapes to give it a fresh, crisp flavour.    
 
 ### Winterstomp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyOTQ3NzY1NywtMTMwMTkzMjQxNiwtND
+eyJoaXN0b3J5IjpbMTAwOTcyMjk5OSwtMTMwMTkzMjQxNiwtND
 E4OTI2NDQ1LDE5OTEzMTg4NTksNzYxNjQ5NDQzLDIwOTEwMTg0
 NjMsLTIwMDc2NTYyMzQsMzAyMjAzNiw2Mjk5OTU3MTEsLTE1OT
 g0MTI3MzAsLTU0MDYxMzgwNSwtMTY1NjMyNDExMCwtMTUxNzMz
