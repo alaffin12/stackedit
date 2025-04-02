@@ -76,16 +76,16 @@ Fish is always sold out here.  Adventurer's Steak is whatever meat the local hun
 Almost all alcohol in Barovia is wine or wine-based, and almost all wine is made by the Martikov family (some is brought in by Vistani traders).  A description of the Martikov family wines is below:
 
 ### Grapesmash
-
+Grapesmash is the lowest grade of Martikov wine and comes from their lowest quality grapes.  It comes in three sub
 ### Dragoncrush
 
-### Winter
+### Winterpress
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM5ODI0MDg0LDc2MTY0OTQ0MywyMDkxMD
-E4NDYzLC0yMDA3NjU2MjM0LDMwMjIwMzYsNjI5OTk1NzExLC0x
-NTk4NDEyNzMwLC01NDA2MTM4MDUsLTE2NTYzMjQxMTAsLTE1MT
-czMzQxMzYsMTAxODg2NjEwMCwtNzc0OTUwNzcyLDE5OTUzOTM3
-NzksODM2MjAxMTcsLTQyMjExNzExOCw1MzI3NjkyNzMsNzUyMz
-Y3MjcwLC02NDIyMzY3LDYxNjgyMTU0OCwtMTY4MjE5MDUxN119
-
+eyJoaXN0b3J5IjpbMTQ2MzU4MDk0Myw3NjE2NDk0NDMsMjA5MT
+AxODQ2MywtMjAwNzY1NjIzNCwzMDIyMDM2LDYyOTk5NTcxMSwt
+MTU5ODQxMjczMCwtNTQwNjEzODA1LC0xNjU2MzI0MTEwLC0xNT
+E3MzM0MTM2LDEwMTg4NjYxMDAsLTc3NDk1MDc3MiwxOTk1Mzkz
+Nzc5LDgzNjIwMTE3LC00MjIxMTcxMTgsNTMyNzY5MjczLDc1Mj
+M2NzI3MCwtNjQyMjM2Nyw2MTY4MjE1NDgsLTE2ODIxOTA1MTdd
+fQ==
 -->
