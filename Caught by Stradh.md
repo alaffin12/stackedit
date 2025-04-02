@@ -82,9 +82,9 @@ Grapesmash is the lowest grade of Martikov wine.  It is a red wine, made from gr
 Dragoncrush is a red varietal from the Martikov winery.  They make two varieties of this varietal - Red Dragoncrush and Black Dragoncrush - as well as a brandy which is made from Red Dragoncrush called Dragon's Breath.  Red Dragoncrush uses dried grapes and is aged in oak barrels, giving it a spicy, cinnamony flavour.  Black Dragoncrush mixes fresh Dragoncrush grapes with Winterstomp grapes to give it a fresh, crisp flavour.  Dragon's Breath Brandy leans into the natural flavours of Red Dragoncrush, and is very spicy.  
 
 ### Winterstomp
-Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  They
+Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg1MDg3Mjk3LC0xMzAxOTMyNDE2LC00MT
+eyJoaXN0b3J5IjpbMTk5NTUwNTAwLC0xMzAxOTMyNDE2LC00MT
 g5MjY0NDUsMTk5MTMxODg1OSw3NjE2NDk0NDMsMjA5MTAxODQ2
 MywtMjAwNzY1NjIzNCwzMDIyMDM2LDYyOTk5NTcxMSwtMTU5OD
 QxMjczMCwtNTQwNjEzODA1LC0xNjU2MzI0MTEwLC0xNTE3MzM0
