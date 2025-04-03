@@ -66,7 +66,8 @@ As the players enter town they meet Morgantha, a night hag disguised as a kindly
 
 Morgantha is evil and works with her mother at the Old Bonegrinder windmill, stealing the souls of children to make her special pies.  However the pies do have useful magical properties (detailed below) and the party does not know Morgantha is evil yet.  Also as she is portraying a kindly (if somewhat shabby) old lady she will help the players with the following information:
 
-* The only inn
+* The only inn in town is the "Blood on the Vine" public house.  Calling it an inn is a stretch - it doesn't have rooms, just a common room with a hearth.  However it is warm, dry and safe at night.  
+* The Blood on the Vine is owned by three Vistani women.  Morgantha doesn't know much about the women or about the Vistani in general
 
 #### E1. Bildrath's Mercantile
 >The sparse light from this building spills out from behind drawn heavy curtains. A sign over the door, creaking on its hinges, reads “Bildrath’s Mercantile.”
@@ -115,7 +116,7 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 ### Winterstomp
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTM5Mzk3MSw5NzM3MzQ1OTEsLTE0OD
+eyJoaXN0b3J5IjpbLTgzMzYzNDk3Nyw5NzM3MzQ1OTEsLTE0OD
 IyMTQ4NzUsNjIzNzM2MzMwLDE3MTYyNzgyNzAsMTIwODUyMDcy
 NiwtMTQzNjMyMTU0NywxMTUxMjcwOTM4LDUyNDk3MDU5MiwxNT
 U3MDU2ODM0LDE5OTU1MDUwMCwtMTMwMTkzMjQxNiwtNDE4OTI2
