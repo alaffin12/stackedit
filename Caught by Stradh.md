@@ -62,7 +62,7 @@ If players visit an location that is not otherwise noted as being significant on
 #### Entering Town
 As the players enter town they meet Morgantha, a night hag disguised as a kindly old woman, exiting a house...
 
-> You hear a door open and as your head snaps around to see the source of the noise you see a kindly looking old woman dressed in rags stepping out from inside.  She says something unheard to an occupant inside the house, turns and 
+> You hear a door open and as your head snaps around to see the source of the noise you see a kindly looking old woman dressed in rags stepping out from inside.  She says something unheard to an occupant inside the house, turns and deposits a coin in a box she wears on her hip.  She moves to a nearby cart, looking over at you and smiling.  "Hm?  You're not from around here are you?  Could I interest you in one of my delicious hand pies?"
 
 #### E1. Bildrath's Mercantile
 >The sparse light from this building spills out from behind drawn heavy curtains. A sign over the door, creaking on its hinges, reads “Bildrath’s Mercantile.”
@@ -111,11 +111,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 ### Winterstomp
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc4MTk0LC0xNDgyMjE0ODc1LDYyMzczNj
-MzMCwxNzE2Mjc4MjcwLDEyMDg1MjA3MjYsLTE0MzYzMjE1NDcs
-MTE1MTI3MDkzOCw1MjQ5NzA1OTIsMTU1NzA1NjgzNCwxOTk1NT
-A1MDAsLTEzMDE5MzI0MTYsLTQxODkyNjQ0NSwxOTkxMzE4ODU5
-LDc2MTY0OTQ0MywyMDkxMDE4NDYzLC0yMDA3NjU2MjM0LDMwMj
-IwMzYsNjI5OTk1NzExLC0xNTk4NDEyNzMwLC01NDA2MTM4MDVd
-fQ==
+eyJoaXN0b3J5IjpbOTczNzM0NTkxLC0xNDgyMjE0ODc1LDYyMz
+czNjMzMCwxNzE2Mjc4MjcwLDEyMDg1MjA3MjYsLTE0MzYzMjE1
+NDcsMTE1MTI3MDkzOCw1MjQ5NzA1OTIsMTU1NzA1NjgzNCwxOT
+k1NTA1MDAsLTEzMDE5MzI0MTYsLTQxODkyNjQ0NSwxOTkxMzE4
+ODU5LDc2MTY0OTQ0MywyMDkxMDE4NDYzLC0yMDA3NjU2MjM0LD
+MwMjIwMzYsNjI5OTk1NzExLC0xNTk4NDEyNzMwLC01NDA2MTM4
+MDVdfQ==
 -->
