@@ -114,7 +114,9 @@ Ismark is probably the friendliest face the party is going to see for awhile, an
 Eating one of Morgantha's pies has one of the following effects:
 * If eaten as a bonus action in combat you may add 1d4 to any attack roll or saving throw in the next minute.
 * If eaten outside of combat it heals 2d4+2 hp
-* If eaten before a lon
+* If eaten before a long rest, you gain two extra hit dice to use during the next day.
+
+However they are addictive.  When you eat one roll a DC 10+2(Total Number of Pies Eaten Ever) C 
 ### Drink in Barovia
 Almost all alcohol in Barovia is wine or wine-based, and almost all wine is made by the Martikov family (some is brought in by Vistani traders).  A description of the Martikov family wines is below:
 
@@ -127,11 +129,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 #### Winterstomp
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NzM5NzY3LC03Mjc2NzczODUsOTczNz
-M0NTkxLC0xNDgyMjE0ODc1LDYyMzczNjMzMCwxNzE2Mjc4Mjcw
-LDEyMDg1MjA3MjYsLTE0MzYzMjE1NDcsMTE1MTI3MDkzOCw1Mj
-Q5NzA1OTIsMTU1NzA1NjgzNCwxOTk1NTA1MDAsLTEzMDE5MzI0
-MTYsLTQxODkyNjQ0NSwxOTkxMzE4ODU5LDc2MTY0OTQ0MywyMD
-kxMDE4NDYzLC0yMDA3NjU2MjM0LDMwMjIwMzYsNjI5OTk1NzEx
-XX0=
+eyJoaXN0b3J5IjpbLTE5MDQ5ODI4MzIsLTcyNzY3NzM4NSw5Nz
+M3MzQ1OTEsLTE0ODIyMTQ4NzUsNjIzNzM2MzMwLDE3MTYyNzgy
+NzAsMTIwODUyMDcyNiwtMTQzNjMyMTU0NywxMTUxMjcwOTM4LD
+UyNDk3MDU5MiwxNTU3MDU2ODM0LDE5OTU1MDUwMCwtMTMwMTkz
+MjQxNiwtNDE4OTI2NDQ1LDE5OTEzMTg4NTksNzYxNjQ5NDQzLD
+IwOTEwMTg0NjMsLTIwMDc2NTYyMzQsMzAyMjAzNiw2Mjk5OTU3
+MTFdfQ==
 -->
