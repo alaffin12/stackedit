@@ -118,7 +118,7 @@ Eating one of Morgantha's pies has one of the following effects:
 
 However they are addictive.  The morning after you eat one roll a DC 10+2*(Total Number of Pies Eaten Lifetime) Constitution Save.  If they fail they become first level addicts:
 
-
+*First Level Add
 ### Drink in Barovia
 Almost all alcohol in Barovia is wine or wine-based, and almost all wine is made by the Martikov family (some is brought in by Vistani traders).  A description of the Martikov family wines is below:
 
@@ -131,11 +131,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 #### Winterstomp
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMDEzNzA5OSwtNzI3Njc3Mzg1LDk3Mz
-czNDU5MSwtMTQ4MjIxNDg3NSw2MjM3MzYzMzAsMTcxNjI3ODI3
-MCwxMjA4NTIwNzI2LC0xNDM2MzIxNTQ3LDExNTEyNzA5MzgsNT
-I0OTcwNTkyLDE1NTcwNTY4MzQsMTk5NTUwNTAwLC0xMzAxOTMy
-NDE2LC00MTg5MjY0NDUsMTk5MTMxODg1OSw3NjE2NDk0NDMsMj
-A5MTAxODQ2MywtMjAwNzY1NjIzNCwzMDIyMDM2LDYyOTk5NTcx
-MV19
+eyJoaXN0b3J5IjpbNzQ3MzI1OTEwLC03Mjc2NzczODUsOTczNz
+M0NTkxLC0xNDgyMjE0ODc1LDYyMzczNjMzMCwxNzE2Mjc4Mjcw
+LDEyMDg1MjA3MjYsLTE0MzYzMjE1NDcsMTE1MTI3MDkzOCw1Mj
+Q5NzA1OTIsMTU1NzA1NjgzNCwxOTk1NTA1MDAsLTEzMDE5MzI0
+MTYsLTQxODkyNjQ0NSwxOTkxMzE4ODU5LDc2MTY0OTQ0MywyMD
+kxMDE4NDYzLC0yMDA3NjU2MjM0LDMwMjIwMzYsNjI5OTk1NzEx
+XX0=
 -->
