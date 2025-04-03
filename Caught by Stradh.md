@@ -71,6 +71,7 @@ Morgantha is evil and works with her mother at the Old Bonegrinder windmill, ste
 * The Blood on the Vine is owned by three Vistani women.  Morgantha doesn't know much about the women or about the Vistani in general
 * The is a semi-permanent Vistani camp nearby as well, near the Tser Pool.  It's about four hours if you follow the road, on the other side of the Ivalis River.
 * Stradh is a powerful ruler - the party should avoid crossing him if possible.
+* Morgantha's pies are made by her and her mother.  They usually have potato and turnip filling, along with meat if they can get some from the hunters.  Wolf meat is most 
 
 #### E1. Bildrath's Mercantile
 >The sparse light from this building spills out from behind drawn heavy curtains. A sign over the door, creaking on its hinges, reads “Bildrath’s Mercantile.”
@@ -119,11 +120,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 ### Winterstomp
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNzY3NzM4NSw5NzM3MzQ1OTEsLTE0OD
-IyMTQ4NzUsNjIzNzM2MzMwLDE3MTYyNzgyNzAsMTIwODUyMDcy
-NiwtMTQzNjMyMTU0NywxMTUxMjcwOTM4LDUyNDk3MDU5MiwxNT
-U3MDU2ODM0LDE5OTU1MDUwMCwtMTMwMTkzMjQxNiwtNDE4OTI2
-NDQ1LDE5OTEzMTg4NTksNzYxNjQ5NDQzLDIwOTEwMTg0NjMsLT
-IwMDc2NTYyMzQsMzAyMjAzNiw2Mjk5OTU3MTEsLTE1OTg0MTI3
-MzBdfQ==
+eyJoaXN0b3J5IjpbMTA3NTk0NTIyOCwtNzI3Njc3Mzg1LDk3Mz
+czNDU5MSwtMTQ4MjIxNDg3NSw2MjM3MzYzMzAsMTcxNjI3ODI3
+MCwxMjA4NTIwNzI2LC0xNDM2MzIxNTQ3LDExNTEyNzA5MzgsNT
+I0OTcwNTkyLDE1NTcwNTY4MzQsMTk5NTUwNTAwLC0xMzAxOTMy
+NDE2LC00MTg5MjY0NDUsMTk5MTMxODg1OSw3NjE2NDk0NDMsMj
+A5MTAxODQ2MywtMjAwNzY1NjIzNCwzMDIyMDM2LDYyOTk5NTcx
+MV19
 -->
