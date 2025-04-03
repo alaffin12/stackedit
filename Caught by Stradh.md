@@ -122,7 +122,7 @@ However they are addictive.  The morning after you eat one roll a DC 10+2*(Total
 
 *Second Level Addict*: Second level addicts have a level of exhaustion that can only be removed by eating a pie.  If they go 24 hours without eating a pie they drop to a First Level Addict.  Otherwise, if they eat a pie during the day they must make a DC 14+2*(Total Number of Pies Eaten Lifetime) Constitution saving throw or progress to a third level addict.
 
-*Third Level Addict*: Third level addicts have two levels of exhaustion that can only be removed by eating a pie.  
+*Third Level Addict*: Third level addicts have two levels of exhaustion that can only be removed by eating a pie.  If they go 24 hours without eating a pie they drop to a Second Level Addict.  
 ### Drink in Barovia
 Almost all alcohol in Barovia is wine or wine-based, and almost all wine is made by the Martikov family (some is brought in by Vistani traders).  A description of the Martikov family wines is below:
 
@@ -135,11 +135,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 #### Winterstomp
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQzNDc5MjUwLC03Mjc2NzczODUsOTczNz
-M0NTkxLC0xNDgyMjE0ODc1LDYyMzczNjMzMCwxNzE2Mjc4Mjcw
-LDEyMDg1MjA3MjYsLTE0MzYzMjE1NDcsMTE1MTI3MDkzOCw1Mj
-Q5NzA1OTIsMTU1NzA1NjgzNCwxOTk1NTA1MDAsLTEzMDE5MzI0
-MTYsLTQxODkyNjQ0NSwxOTkxMzE4ODU5LDc2MTY0OTQ0MywyMD
-kxMDE4NDYzLC0yMDA3NjU2MjM0LDMwMjIwMzYsNjI5OTk1NzEx
-XX0=
+eyJoaXN0b3J5IjpbLTY2MzcyOTQzNSwtNzI3Njc3Mzg1LDk3Mz
+czNDU5MSwtMTQ4MjIxNDg3NSw2MjM3MzYzMzAsMTcxNjI3ODI3
+MCwxMjA4NTIwNzI2LC0xNDM2MzIxNTQ3LDExNTEyNzA5MzgsNT
+I0OTcwNTkyLDE1NTcwNTY4MzQsMTk5NTUwNTAwLC0xMzAxOTMy
+NDE2LC00MTg5MjY0NDUsMTk5MTMxODg1OSw3NjE2NDk0NDMsMj
+A5MTAxODQ2MywtMjAwNzY1NjIzNCwzMDIyMDM2LDYyOTk5NTcx
+MV19
 -->
