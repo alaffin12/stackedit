@@ -72,7 +72,7 @@ Morgantha is evil and works with her mother at the Old Bonegrinder windmill, ste
 * The is a semi-permanent Vistani camp nearby as well, near the Tser Pool.  It's about four hours if you follow the road, on the other side of the Ivalis River.
 * Stradh is a powerful ruler - the party should avoid crossing him if possible.
 * Morgantha's pies are made by her and her mother.  They usually have potato and turnip filling, along with meat if they can get some from the hunters.  Wolf meat is most common (and is what she has today) owing to how common it is in Barovia.
-* If asked why they are so expensive (a gold each) Morgantha will explain that her and her mother use a little bit of the old magic - something that has been passed down from mother to daughter through her family for a long time.  Anyone who eats one will have on the sweetest dreams that night.  
+* If asked why they are so expensive (a gold each) Morgantha will explain that her and her mother use a little bit of the old magic - something that has been passed down from mother to daughter through her family for a long time.  Anyone who eats one will have on the sweetest dreams that night.  Sadly, such things have to be done right to get the magic to work - and doing things right costs gold in Barovia.  "It's not like I can use the cheap cast offs the hunters bring me, or rotten old potatoes.  
 
 #### E1. Bildrath's Mercantile
 >The sparse light from this building spills out from behind drawn heavy curtains. A sign over the door, creaking on its hinges, reads “Bildrath’s Mercantile.”
@@ -121,11 +121,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 ### Winterstomp
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczOTA4MTI3NCwtNzI3Njc3Mzg1LDk3Mz
-czNDU5MSwtMTQ4MjIxNDg3NSw2MjM3MzYzMzAsMTcxNjI3ODI3
-MCwxMjA4NTIwNzI2LC0xNDM2MzIxNTQ3LDExNTEyNzA5MzgsNT
-I0OTcwNTkyLDE1NTcwNTY4MzQsMTk5NTUwNTAwLC0xMzAxOTMy
-NDE2LC00MTg5MjY0NDUsMTk5MTMxODg1OSw3NjE2NDk0NDMsMj
-A5MTAxODQ2MywtMjAwNzY1NjIzNCwzMDIyMDM2LDYyOTk5NTcx
-MV19
+eyJoaXN0b3J5IjpbNzczNjIyMTcyLC03Mjc2NzczODUsOTczNz
+M0NTkxLC0xNDgyMjE0ODc1LDYyMzczNjMzMCwxNzE2Mjc4Mjcw
+LDEyMDg1MjA3MjYsLTE0MzYzMjE1NDcsMTE1MTI3MDkzOCw1Mj
+Q5NzA1OTIsMTU1NzA1NjgzNCwxOTk1NTA1MDAsLTEzMDE5MzI0
+MTYsLTQxODkyNjQ0NSwxOTkxMzE4ODU5LDc2MTY0OTQ0MywyMD
+kxMDE4NDYzLC0yMDA3NjU2MjM0LDMwMjIwMzYsNjI5OTk1NzEx
+XX0=
 -->
