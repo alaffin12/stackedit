@@ -116,7 +116,9 @@ Eating one of Morgantha's pies has one of the following effects:
 * If eaten outside of combat it heals 2d4+2 hp
 * If eaten before a long rest, you gain two extra hit dice to use during the next day.
 
-However they are addictive.  When you eat one roll a DC 10+2(Total Number of Pies Eaten Ever) C 
+However they are addictive.  The morning after you eat one roll a DC 10+2*(Total Number of Pies Eaten Lifetime) Constitution Save.  If they fail they become first level addicts:
+
+
 ### Drink in Barovia
 Almost all alcohol in Barovia is wine or wine-based, and almost all wine is made by the Martikov family (some is brought in by Vistani traders).  A description of the Martikov family wines is below:
 
@@ -129,11 +131,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 #### Winterstomp
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDQ5ODI4MzIsLTcyNzY3NzM4NSw5Nz
-M3MzQ1OTEsLTE0ODIyMTQ4NzUsNjIzNzM2MzMwLDE3MTYyNzgy
-NzAsMTIwODUyMDcyNiwtMTQzNjMyMTU0NywxMTUxMjcwOTM4LD
-UyNDk3MDU5MiwxNTU3MDU2ODM0LDE5OTU1MDUwMCwtMTMwMTkz
-MjQxNiwtNDE4OTI2NDQ1LDE5OTEzMTg4NTksNzYxNjQ5NDQzLD
-IwOTEwMTg0NjMsLTIwMDc2NTYyMzQsMzAyMjAzNiw2Mjk5OTU3
-MTFdfQ==
+eyJoaXN0b3J5IjpbMTkyMDEzNzA5OSwtNzI3Njc3Mzg1LDk3Mz
+czNDU5MSwtMTQ4MjIxNDg3NSw2MjM3MzYzMzAsMTcxNjI3ODI3
+MCwxMjA4NTIwNzI2LC0xNDM2MzIxNTQ3LDExNTEyNzA5MzgsNT
+I0OTcwNTkyLDE1NTcwNTY4MzQsMTk5NTUwNTAwLC0xMzAxOTMy
+NDE2LC00MTg5MjY0NDUsMTk5MTMxODg1OSw3NjE2NDk0NDMsMj
+A5MTAxODQ2MywtMjAwNzY1NjIzNCwzMDIyMDM2LDYyOTk5NTcx
+MV19
 -->
