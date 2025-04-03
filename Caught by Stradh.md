@@ -29,6 +29,7 @@ Presumably they'll return to the Orrey and try and make their way to Tovag.  How
 One of the Demiplanes of Dread, Barovia is subject to the following rules:
 * Supernatural mists surround Barovia and keep its prisoners imprisoned.  Anyone trying to leave Barovia gets lost in the mists and winds up back where they started - no exceptions (Stradh does frequently allow the Vistani to leave - but that is only by his parole, something he will not offer the players).
 *  Stradh, being a vampire, is not terribly interested in having the sun shining in his realm.  As such, heavy cloud almost always obscures the sun, bathing the world in dim light that does not impact creatures who are affected by the sun.  Vampires still tend to be nocturnal though (easier hunting) and magic that causes sunlight does function as normal.
+* Vistani is another name for Tabaxi in Barovia
 
 Additionally, some magic functions differently:
 * Any spell that would allow someone to escape the domain simply fails (after all, what good is a jail that can be escape with a plane shift).  This includes spells like banishment.  Simply put - what is in Barovia stays in Barovia unless Stradh or the Dark Powers get involved.
@@ -68,6 +69,7 @@ Morgantha is evil and works with her mother at the Old Bonegrinder windmill, ste
 
 * The only inn in town is the "Blood on the Vine" public house.  Calling it an inn is a stretch - it doesn't have rooms, just a common room with a hearth.  However it is warm, dry and safe at night.  
 * The Blood on the Vine is owned by three Vistani women.  Morgantha doesn't know much about the women or about the Vistani in general
+* The is a Vistani camp nearby too 
 
 #### E1. Bildrath's Mercantile
 >The sparse light from this building spills out from behind drawn heavy curtains. A sign over the door, creaking on its hinges, reads “Bildrath’s Mercantile.”
@@ -116,11 +118,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 ### Winterstomp
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMzYzNDk3Nyw5NzM3MzQ1OTEsLTE0OD
-IyMTQ4NzUsNjIzNzM2MzMwLDE3MTYyNzgyNzAsMTIwODUyMDcy
-NiwtMTQzNjMyMTU0NywxMTUxMjcwOTM4LDUyNDk3MDU5MiwxNT
-U3MDU2ODM0LDE5OTU1MDUwMCwtMTMwMTkzMjQxNiwtNDE4OTI2
-NDQ1LDE5OTEzMTg4NTksNzYxNjQ5NDQzLDIwOTEwMTg0NjMsLT
-IwMDc2NTYyMzQsMzAyMjAzNiw2Mjk5OTU3MTEsLTE1OTg0MTI3
-MzBdfQ==
+eyJoaXN0b3J5IjpbMjA3NjczMzMyLDk3MzczNDU5MSwtMTQ4Mj
+IxNDg3NSw2MjM3MzYzMzAsMTcxNjI3ODI3MCwxMjA4NTIwNzI2
+LC0xNDM2MzIxNTQ3LDExNTEyNzA5MzgsNTI0OTcwNTkyLDE1NT
+cwNTY4MzQsMTk5NTUwNTAwLC0xMzAxOTMyNDE2LC00MTg5MjY0
+NDUsMTk5MTMxODg1OSw3NjE2NDk0NDMsMjA5MTAxODQ2MywtMj
+AwNzY1NjIzNCwzMDIyMDM2LDYyOTk5NTcxMSwtMTU5ODQxMjcz
+MF19
 -->
