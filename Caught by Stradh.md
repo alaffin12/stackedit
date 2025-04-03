@@ -62,7 +62,7 @@ If players visit an location that is not otherwise noted as being significant on
 #### Entering Town
 As the players enter town they meet Morgantha, a night hag disguised as a kindly old woman, exiting a house...
 
-> 
+> You hear a door open and as your head snaps around to see the source of the noise you see a kindly looking old woman dressed in rags stepping out from inside.  She says something unheard to an occupant inside the house, turns and 
 
 #### E1. Bildrath's Mercantile
 >The sparse light from this building spills out from behind drawn heavy curtains. A sign over the door, creaking on its hinges, reads “Bildrath’s Mercantile.”
@@ -111,11 +111,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 ### Winterstomp
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NjIwNzcxNCwtMTQ4MjIxNDg3NSw2Mj
-M3MzYzMzAsMTcxNjI3ODI3MCwxMjA4NTIwNzI2LC0xNDM2MzIx
-NTQ3LDExNTEyNzA5MzgsNTI0OTcwNTkyLDE1NTcwNTY4MzQsMT
-k5NTUwNTAwLC0xMzAxOTMyNDE2LC00MTg5MjY0NDUsMTk5MTMx
-ODg1OSw3NjE2NDk0NDMsMjA5MTAxODQ2MywtMjAwNzY1NjIzNC
-wzMDIyMDM2LDYyOTk5NTcxMSwtMTU5ODQxMjczMCwtNTQwNjEz
-ODA1XX0=
+eyJoaXN0b3J5IjpbNTc4MTk0LC0xNDgyMjE0ODc1LDYyMzczNj
+MzMCwxNzE2Mjc4MjcwLDEyMDg1MjA3MjYsLTE0MzYzMjE1NDcs
+MTE1MTI3MDkzOCw1MjQ5NzA1OTIsMTU1NzA1NjgzNCwxOTk1NT
+A1MDAsLTEzMDE5MzI0MTYsLTQxODkyNjQ0NSwxOTkxMzE4ODU5
+LDc2MTY0OTQ0MywyMDkxMDE4NDYzLC0yMDA3NjU2MjM0LDMwMj
+IwMzYsNjI5OTk1NzExLC0xNTk4NDEyNzMwLC01NDA2MTM4MDVd
+fQ==
 -->
