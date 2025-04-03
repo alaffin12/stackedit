@@ -110,8 +110,9 @@ Ismark is probably the friendliest face the party is going to see for awhile, an
 
 ## Food and Drink in Barovia
 ### Foods in Barovia
-Morgantha's Dream
-
+#### Morgantha's Dream Pies
+Eating one of Morgantha's pies has one of the following effects:
+* 
 ### Drink in Barovia
 Almost all alcohol in Barovia is wine or wine-based, and almost all wine is made by the Martikov family (some is brought in by Vistani traders).  A description of the Martikov family wines is below:
 
@@ -124,11 +125,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 #### Winterstomp
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNTA1MTE4NywtNzI3Njc3Mzg1LDk3Mz
-czNDU5MSwtMTQ4MjIxNDg3NSw2MjM3MzYzMzAsMTcxNjI3ODI3
-MCwxMjA4NTIwNzI2LC0xNDM2MzIxNTQ3LDExNTEyNzA5MzgsNT
-I0OTcwNTkyLDE1NTcwNTY4MzQsMTk5NTUwNTAwLC0xMzAxOTMy
-NDE2LC00MTg5MjY0NDUsMTk5MTMxODg1OSw3NjE2NDk0NDMsMj
-A5MTAxODQ2MywtMjAwNzY1NjIzNCwzMDIyMDM2LDYyOTk5NTcx
-MV19
+eyJoaXN0b3J5IjpbLTEzNDkxOTIyNjAsLTcyNzY3NzM4NSw5Nz
+M3MzQ1OTEsLTE0ODIyMTQ4NzUsNjIzNzM2MzMwLDE3MTYyNzgy
+NzAsMTIwODUyMDcyNiwtMTQzNjMyMTU0NywxMTUxMjcwOTM4LD
+UyNDk3MDU5MiwxNTU3MDU2ODM0LDE5OTU1MDUwMCwtMTMwMTkz
+MjQxNiwtNDE4OTI2NDQ1LDE5OTEzMTg4NTksNzYxNjQ5NDQzLD
+IwOTEwMTg0NjMsLTIwMDc2NTYyMzQsMzAyMjAzNiw2Mjk5OTU3
+MTFdfQ==
 -->
