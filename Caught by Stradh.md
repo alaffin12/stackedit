@@ -168,7 +168,7 @@ Doru has only been fed sparingly by his father since he was imprisoned, and he c
 ##### E5g. Undercroft
 > The church’s undercroft has rough-hewn walls and a floor made of damp clay and earth. Rotting wooden pillars strain under the weight of the wooden ceiling. Candlelight from the chapel above slips though the cracks, allowing you to glimpse a gaunt shape in the far corner.
 
-The shape is Doru, Donavich's son and a Vampire Warrior sent by Stradh to torment Donavich.  
+The shape is Doru, Donavich's son and a Vampire Warrior sent by Stradh to torment Donavich.  Doru is hungry, having only be fed sparingly by his father (ostensibly to keep him weak).  He will try to sneak out, rather than directly confront that party, but he will not hesitate to try and take a meal from them either.
   
 The shape is **[Doru](http://journal.roll20.net/character/-Kg_OduUNJJVWEXb49kW)**, a vampire spawn sent by Strahd to torment Donavich and cast down the church. Doru is starved for blood and brave enough to attack a lone character. If the characters approach as a group, he does his best to avoid them while hissing, “I can smell your blood!” If they cut off his escape, he lunges forth and attacks.  
   
@@ -222,7 +222,7 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NDYxOTMwOCw0NDA1NjE1MSwtNTU0Mj
+eyJoaXN0b3J5IjpbMTkyMTM4MTY5NCw0NDA1NjE1MSwtNTU0Mj
 g3NTYsLTEzODAwNDEzNzIsNDkyMjY3NzM4LC0xNzMxNjg1Mjkz
 LC0xMDA0MzUwODksLTEyMjUzODM1MCwtMTUzNDcyNjgwNSw2ND
 c4NzYyOTIsLTE0MzY1NDM1NTIsMTkzMjA3MzAxMywtNzI3Njc3
