@@ -106,7 +106,7 @@ Fish is always sold out here.  Adventurer's Steak is whatever meat the local hun
 
 Ismark is probably the friendliest face the party is going to see for awhile, and while he is not able to point them directly to the Amber Temple (if they ask) he does know that there is supposed to be some kind of repository of knowledge near Mount Ghakis.
 
-**Queen of the Soil, Pure Forge and Pearl of the Forest Stream** are the three Vistani (tabaxi) proprietors of the Blood of the Vine Tavern.  The usually sit at a table by the door and keep an eye on things, making sure people pay their tabs and whatnot.  They are gossipy Mean Girl types, and pass judgment on all who enter.  If they see a Vistani (tabaxi) they will muse, wondering if the old fools had changed their mind, or decided they too were tired of living in horse manure.  
+**Queen of the Soil, Pure Forge and Pearl of the Forest Stream** are the three Vistani (tabaxi) proprietors of the Blood of the Vine Tavern.  The usually sit at a table by the door and keep an eye on things, making sure people pay their tabs and whatnot.  They are gossipy Mean Girl types, and pass judgment on all who enter.  If they see a Vistani (tabaxi) they will muse, wondering if the old fools had changed their mind, or decided they too were tired of living in horse manure.  Each has a small scar beneath their eye - a symbol of their status in the Vistani community.  They are considered *mortu* and have been exiled (and marked) for the crime of arranging the rape of one of their own kind two years ago.
 
 ---
 
@@ -139,11 +139,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MjY4MTkyNiw2NDc4NzYyOTIsLTE0Mz
-Y1NDM1NTIsMTkzMjA3MzAxMywtNzI3Njc3Mzg1LDk3MzczNDU5
-MSwtMTQ4MjIxNDg3NSw2MjM3MzYzMzAsMTcxNjI3ODI3MCwxMj
-A4NTIwNzI2LC0xNDM2MzIxNTQ3LDExNTEyNzA5MzgsNTI0OTcw
-NTkyLDE1NTcwNTY4MzQsMTk5NTUwNTAwLC0xMzAxOTMyNDE2LC
-00MTg5MjY0NDUsMTk5MTMxODg1OSwyMDkxMDE4NDYzLC0yMDA3
-NjU2MjM0XX0=
+eyJoaXN0b3J5IjpbLTE1MzQ3MjY4MDUsNjQ3ODc2MjkyLC0xND
+M2NTQzNTUyLDE5MzIwNzMwMTMsLTcyNzY3NzM4NSw5NzM3MzQ1
+OTEsLTE0ODIyMTQ4NzUsNjIzNzM2MzMwLDE3MTYyNzgyNzAsMT
+IwODUyMDcyNiwtMTQzNjMyMTU0NywxMTUxMjcwOTM4LDUyNDk3
+MDU5MiwxNTU3MDU2ODM0LDE5OTU1MDUwMCwtMTMwMTkzMjQxNi
+wtNDE4OTI2NDQ1LDE5OTEzMTg4NTksMjA5MTAxODQ2MywtMjAw
+NzY1NjIzNF19
 -->
