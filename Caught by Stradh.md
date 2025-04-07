@@ -123,9 +123,7 @@ If the characters approach the church doors, add:
 
 > The heavy wooden doors of the church are covered with claw marks and scarred by fire.
 
-The village priest, Donavich, lives here. Other Barov­ians shun the church for reasons that will quickly become obvious.  
-  
-The following areas correspond to labels on the map of the church.
+The village priest, Donavich, lives here. Other Barov­ians shun the church for reasons that will quickly become obvious.  The following areas correspond to labels on the map of the church.
 
 ---
 
@@ -158,7 +156,7 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNjU0MDgxMSwtMTIyNTM4MzUwLC0xNT
+eyJoaXN0b3J5IjpbLTEwMDQzNTA4OSwtMTIyNTM4MzUwLC0xNT
 M0NzI2ODA1LDY0Nzg3NjI5MiwtMTQzNjU0MzU1MiwxOTMyMDcz
 MDEzLC03Mjc2NzczODUsOTczNzM0NTkxLC0xNDgyMjE0ODc1LD
 YyMzczNjMzMCwxNzE2Mjc4MjcwLDEyMDg1MjA3MjYsLTE0MzYz
