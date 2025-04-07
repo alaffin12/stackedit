@@ -117,8 +117,15 @@ Mad Mary, a crazy old woman, lives here with her daughter Gertuda.  Gertuda is k
 Ismark's home.  Nothing of interest here, save pictures of Ismark's mother and father.
 
 #### E5. The Church
+> Atop a slight rise, against the roots of the pillar stone that supports Castle Ravenloft, stands a gray, sagging edifice of stone and wood. This church has obviously weathered the assaults of evil for centuries on end and is worn and weary. A bell tower rises toward the back, and flickering light shines through holes in the shingled roof. The rafters strain feebly against their load.
 
+If the characters approach the church doors, add:  
 
+> The heavy wooden doors of the church are covered with claw marks and scarred by fire.
+
+The village priest, Donavich, lives here. Other Barov­ians shun the church for reasons that will quickly become obvious.  
+  
+The following areas correspond to labels on the map of the church.
 
 ---
 
@@ -151,11 +158,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjUzODM1MCwtMTUzNDcyNjgwNSw2ND
-c4NzYyOTIsLTE0MzY1NDM1NTIsMTkzMjA3MzAxMywtNzI3Njc3
-Mzg1LDk3MzczNDU5MSwtMTQ4MjIxNDg3NSw2MjM3MzYzMzAsMT
-cxNjI3ODI3MCwxMjA4NTIwNzI2LC0xNDM2MzIxNTQ3LDExNTEy
-NzA5MzgsNTI0OTcwNTkyLDE1NTcwNTY4MzQsMTk5NTUwNTAwLC
-0xMzAxOTMyNDE2LC00MTg5MjY0NDUsMTk5MTMxODg1OSwyMDkx
-MDE4NDYzXX0=
+eyJoaXN0b3J5IjpbMTMwNjU0MDgxMSwtMTIyNTM4MzUwLC0xNT
+M0NzI2ODA1LDY0Nzg3NjI5MiwtMTQzNjU0MzU1MiwxOTMyMDcz
+MDEzLC03Mjc2NzczODUsOTczNzM0NTkxLC0xNDgyMjE0ODc1LD
+YyMzczNjMzMCwxNzE2Mjc4MjcwLDEyMDg1MjA3MjYsLTE0MzYz
+MjE1NDcsMTE1MTI3MDkzOCw1MjQ5NzA1OTIsMTU1NzA1NjgzNC
+wxOTk1NTA1MDAsLTEzMDE5MzI0MTYsLTQxODkyNjQ0NSwxOTkx
+MzE4ODU5XX0=
 -->
