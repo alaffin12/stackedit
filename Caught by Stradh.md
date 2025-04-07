@@ -145,7 +145,7 @@ This is Donavich’s room and contains nothing of value.
 #### E5d. Trapdoor
 > Time and neglect have punched holes in the ceiling of this moldy room, which contains a few broken roof shingles amid puddles of water. In one corner, set into the floor, is a heavy wooden trapdoor held shut with a chain and a padlock.  It is engraved - although engraved is perhaps not the right word, given the rough nature of the engraving - with all manner of sigils and symbols, prayers and mantras A young man’s screams of anguish can be heard through the door.
 
-Donavich keeps his son Doru in the undercroft, unable to kill him but well aware of the monster Doru has become.  As the years have gone by Donavich has fed his son
+Donavich keeps his son Doru in the undercroft, unable to kill him but well aware of the monster Doru has become.  As the years have gone by Donavich has fed his son sparingly with his own blood, and has redoubled the wards and sigils on the trap door in the hopes of keeping his son down there.
 
 ----------
 
@@ -247,7 +247,7 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNjg1NTMxNCw0OTIyNjc3MzgsLTE3Mz
+eyJoaXN0b3J5IjpbLTIyMTIyODI5Miw0OTIyNjc3MzgsLTE3Mz
 E2ODUyOTMsLTEwMDQzNTA4OSwtMTIyNTM4MzUwLC0xNTM0NzI2
 ODA1LDY0Nzg3NjI5MiwtMTQzNjU0MzU1MiwxOTMyMDczMDEzLC
 03Mjc2NzczODUsOTczNzM0NTkxLC0xNDgyMjE0ODc1LDYyMzcz
