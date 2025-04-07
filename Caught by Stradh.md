@@ -163,20 +163,7 @@ If the characters have not already entered the undercroft, add:
   
 Donavich has been praying throughout the night.  As he has every night for more than a year. His voice is hoarse and weak. He is, in a word, insane. A little more than a year ago, his twenty-year-old son Doru and several other villagers stormed Castle Ravenloft in a futile revolt.  There were few enough survivors, but those that returned confirmed that Doru had died.  And yet less than a week later he returned home.  Donavich is crazy, but he is not stupid.  He knows what his son is.  A monster.  But he cannot bring himself to kill his son.  Donavich was able to trap his son in the church’s undercroft, where he remains to this day.  
   
-Doru has only been fed sparingly by hisince he was imprisoned, and he cries out to his father at all hours. Meanwhile, Donavich prays day and night, hoping that the gods will tell him how to save Doru without destroying him. If the characters seem intent on slaying Doru, Donavich does his best to stop them. If Doru dies, Donavich falls to the floor and weeps inconsolably, overcome with despair.  
-  
-In addition to the lore known to all Barovians (see “[Barovian Lore](http://journal.roll20.net/handout/-Khibqr7SqTgQ80FxFOI)” in chapter 2), Donavich knows the following useful information:  
-  
-
--   Ireena Kolyana isn’t the natural daughter of Kolyan Indirovich. Although Ireena never knew, Kolyan found her at the edge of the Svalich Woods near the Pillarstone of Ravenloft. She was but a girl then and seemed to have no memory of her past. Kolyan adopted her and loved her dearly.
--   Every night at midnight, the spirits of dead adventurers rise up out of the church graveyard, forming a silent procession as they walk the road toward Castle Ravenloft. (See “March of the Dead” in the “[Special Events](http://journal.roll20.net/handout/-KiHLZ74TWwaYABwHSVl)” section.)
-
-  
-**_Funeral for the Burgomaster._** If the characters bring Kolyan Indirovich’s body to the church, [Donavich](http://journal.roll20.net/character/-Kg_Nw5fwbUiyTz3bLCL) presses the characters into helping him bury the burgomaster in the cemetery (area E6) at dawn. During the burial, Donavich offers prayers to the Morning­lord in exchange for Kolyan Indirovich’s deliverance from Barovia.  
-  
-Once Kolyan is put in the ground, Donavich suggests that Ireena be taken as far from Castle Ravenloft as possible. He proposes that the characters take her to the Abbey of Saint Markovia in [Krezk](http://journal.roll20.net/handout/-KhcEE0MSkUtmoajlGG3) (chapter 8) or, failing that, the fortified town of [Vallaki](http://journal.roll20.net/handout/-KhzJiAtnsLv_67j23Sn) (chapter 5). Donavich is unaware that the abbey, once a bastion of good, has become a den of evil.  
-
-----------
+Doru has only been fed sparingly by his father since he was imprisoned, and he cries out at all hours. Meanwhile, Donavich prays day and night, hoping that the gods will tell him how to save Doru without destroying him. If the characters seem intent on slaying Doru, Donavich does his best to stop them. If Doru dies, Donavich falls to the floor and weeps inconsolably, overcome with despair.  
 
 ### E5g. Undercroft
 
@@ -235,11 +222,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNTg0MjM4OCwtNTU0Mjg3NTYsLTEzOD
-AwNDEzNzIsNDkyMjY3NzM4LC0xNzMxNjg1MjkzLC0xMDA0MzUw
-ODksLTEyMjUzODM1MCwtMTUzNDcyNjgwNSw2NDc4NzYyOTIsLT
-E0MzY1NDM1NTIsMTkzMjA3MzAxMywtNzI3Njc3Mzg1LDk3Mzcz
-NDU5MSwtMTQ4MjIxNDg3NSw2MjM3MzYzMzAsMTcxNjI3ODI3MC
-wxMjA4NTIwNzI2LC0xNDM2MzIxNTQ3LDExNTEyNzA5MzgsNTI0
-OTcwNTkyXX0=
+eyJoaXN0b3J5IjpbNDQwNTYxNTEsLTU1NDI4NzU2LC0xMzgwMD
+QxMzcyLDQ5MjI2NzczOCwtMTczMTY4NTI5MywtMTAwNDM1MDg5
+LC0xMjI1MzgzNTAsLTE1MzQ3MjY4MDUsNjQ3ODc2MjkyLC0xND
+M2NTQzNTUyLDE5MzIwNzMwMTMsLTcyNzY3NzM4NSw5NzM3MzQ1
+OTEsLTE0ODIyMTQ4NzUsNjIzNzM2MzMwLDE3MTYyNzgyNzAsMT
+IwODUyMDcyNiwtMTQzNjMyMTU0NywxMTUxMjcwOTM4LDUyNDk3
+MDU5Ml19
 -->
