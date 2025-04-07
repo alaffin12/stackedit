@@ -152,17 +152,12 @@ Donavich keeps his son Doru in the undercroft, unable to kill him but well aware
   
 An empty wooden poor box rests on the seat of the chair. The desk drawers contain a few sheets of blank parchment, along with a couple of quill pens and dried-up jars of ink.  
   
-For its size, the wooden cabinet contains very little. Inside are a tinderbox, a few wooden boxes full of candles, and two well-used books: *Hymns to the Dawn*, a volume of prayers and chants dedicated to the worship of the Morninglord, and *The Blade of Truth: The Uses of Logic in the War Against Diabolist Heresies, as Fought by the Ulmist Inquisition*, a strange book that mixes logic exercises with lurid descriptions of fiend-worshiping cults.  
+For its size, the wooden cabinet contains very little. Inside are a tinderbox, a few wooden boxes full of candles, and two well-used books: *Hymns to the Dawn*, a volume of prayers and chants dedicated to the worship of the Morninglord, and *The Blade of Truth: The Uses of Logic in the War Against Diabolist Heresies, as Fought by the Ulmist Inquisition*, a strange book that mixes logic exercises with lurid descriptions of fiend-worshiping cults.  Among the writings in that book there are several pages dedicated to the "Repository of Knowledge" located on Mount Ghakis.
 
-----------
-
-### E5f. Chapel
-
+##### E5f. Chapel
 > The chapel is a shambles, with overturned and broken pews littering the dusty floor. Dozens of candles mounted in candlesticks and candelabras light every dusty corner in a fervent attempt to rid the chapel of shadows. At the far end of the church sits a claw-scarred altar, behind which kneels a priest in soiled vestments. Next to him hangs a long, thick rope that stretches up into the bell tower.
-
   
 If the characters have not already entered the undercroft, add:  
-  
 
 > From beneath the chapel floor, you hear a young man’s voice cry out, “Father! I’m starving!”
 
@@ -241,11 +236,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODAwNDEzNzIsNDkyMjY3NzM4LC0xNz
-MxNjg1MjkzLC0xMDA0MzUwODksLTEyMjUzODM1MCwtMTUzNDcy
-NjgwNSw2NDc4NzYyOTIsLTE0MzY1NDM1NTIsMTkzMjA3MzAxMy
-wtNzI3Njc3Mzg1LDk3MzczNDU5MSwtMTQ4MjIxNDg3NSw2MjM3
-MzYzMzAsMTcxNjI3ODI3MCwxMjA4NTIwNzI2LC0xNDM2MzIxNT
-Q3LDExNTEyNzA5MzgsNTI0OTcwNTkyLDE1NTcwNTY4MzQsMTk5
-NTUwNTAwXX0=
+eyJoaXN0b3J5IjpbLTU1NDI4NzU2LC0xMzgwMDQxMzcyLDQ5Mj
+I2NzczOCwtMTczMTY4NTI5MywtMTAwNDM1MDg5LC0xMjI1Mzgz
+NTAsLTE1MzQ3MjY4MDUsNjQ3ODc2MjkyLC0xNDM2NTQzNTUyLD
+E5MzIwNzMwMTMsLTcyNzY3NzM4NSw5NzM3MzQ1OTEsLTE0ODIy
+MTQ4NzUsNjIzNzM2MzMwLDE3MTYyNzgyNzAsMTIwODUyMDcyNi
+wtMTQzNjMyMTU0NywxMTUxMjcwOTM4LDUyNDk3MDU5MiwxNTU3
+MDU2ODM0XX0=
 -->
