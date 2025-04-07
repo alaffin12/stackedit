@@ -112,6 +112,10 @@ Ismark is probably the friendliest face the party is going to see for awhile, an
 Mad Mary, a crazy old woman, lives here with her daughter Gertuda.  Gertuda is kept inside by her mother, who is (understandably) paranoid about everything.
 
 #### E4. Burgomaster's Mansion
+> A weary-looking mansion squats behind a rusting iron fence. The iron gates are twisted and torn. The right gate lies cast aside, while the left swings lazily in the wind. The stuttering squeal and clang of the gate repeats with mindless precision. Weeds choke the grounds and press with menace upon the house itself.
+
+Ismark's home.  Nothing of interest here, save pictures of Ismark's mother and father.
+
 
 
 
@@ -146,11 +150,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQwMTQ4MzA2LC0xNTM0NzI2ODA1LDY0Nz
-g3NjI5MiwtMTQzNjU0MzU1MiwxOTMyMDczMDEzLC03Mjc2Nzcz
-ODUsOTczNzM0NTkxLC0xNDgyMjE0ODc1LDYyMzczNjMzMCwxNz
-E2Mjc4MjcwLDEyMDg1MjA3MjYsLTE0MzYzMjE1NDcsMTE1MTI3
-MDkzOCw1MjQ5NzA1OTIsMTU1NzA1NjgzNCwxOTk1NTA1MDAsLT
-EzMDE5MzI0MTYsLTQxODkyNjQ0NSwxOTkxMzE4ODU5LDIwOTEw
-MTg0NjNdfQ==
+eyJoaXN0b3J5IjpbLTIxMzI2OTI5NDQsLTE1MzQ3MjY4MDUsNj
+Q3ODc2MjkyLC0xNDM2NTQzNTUyLDE5MzIwNzMwMTMsLTcyNzY3
+NzM4NSw5NzM3MzQ1OTEsLTE0ODIyMTQ4NzUsNjIzNzM2MzMwLD
+E3MTYyNzgyNzAsMTIwODUyMDcyNiwtMTQzNjMyMTU0NywxMTUx
+MjcwOTM4LDUyNDk3MDU5MiwxNTU3MDU2ODM0LDE5OTU1MDUwMC
+wtMTMwMTkzMjQxNiwtNDE4OTI2NDQ1LDE5OTEzMTg4NTksMjA5
+MTAxODQ2M119
 -->
