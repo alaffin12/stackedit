@@ -161,9 +161,9 @@ If the characters have not already entered the undercroft, add:
 
 > From beneath the chapel floor, you hear a young man’s voice cry out, “Father! I’m starving!”
   
-Donavich has been praying throughout the night.  As he has every night for more than a year. His voice is hoarse and weak. He is, in a word, insane. A little more than a year ago, his twenty-year-old son Doru and several other villagers stormed Castle Ravenloft in a futile revolt.  By all accounts Doru died.   too did Doru, who returned to his father as a vampire spawn. Donavich was able to trap his son in the church’s undercroft, where he remains to this day.  
+Donavich has been praying throughout the night.  As he has every night for more than a year. His voice is hoarse and weak. He is, in a word, insane. A little more than a year ago, his twenty-year-old son Doru and several other villagers stormed Castle Ravenloft in a futile revolt.  There were few enough survivors, but those that returned confirmed that Doru had died.  And yet less than a week later he returned home.  Donavich is crazy, but he is not stupid.  He knows what his son is.  A monster.  But he cannot bring himself to kill his son.  Donavich was able to trap his son in the church’s undercroft, where he remains to this day.  
   
-Doru hasn’t fed since he was imprisoned, and he cries out to his father at all hours. Meanwhile, Donavich prays day and night, hoping that the gods will tell him how to save Doru without destroying him. If the characters seem intent on slaying Doru, Donavich does his best to stop them. If Doru dies, Donavich falls to the floor and weeps inconsolably, overcome with despair.  
+Doru has only been fed sparingly by hisince he was imprisoned, and he cries out to his father at all hours. Meanwhile, Donavich prays day and night, hoping that the gods will tell him how to save Doru without destroying him. If the characters seem intent on slaying Doru, Donavich does his best to stop them. If Doru dies, Donavich falls to the floor and weeps inconsolably, overcome with despair.  
   
 In addition to the lore known to all Barovians (see “[Barovian Lore](http://journal.roll20.net/handout/-Khibqr7SqTgQ80FxFOI)” in chapter 2), Donavich knows the following useful information:  
   
@@ -235,11 +235,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI1ODQ0MjY0LC01NTQyODc1NiwtMTM4MD
-A0MTM3Miw0OTIyNjc3MzgsLTE3MzE2ODUyOTMsLTEwMDQzNTA4
-OSwtMTIyNTM4MzUwLC0xNTM0NzI2ODA1LDY0Nzg3NjI5MiwtMT
-QzNjU0MzU1MiwxOTMyMDczMDEzLC03Mjc2NzczODUsOTczNzM0
-NTkxLC0xNDgyMjE0ODc1LDYyMzczNjMzMCwxNzE2Mjc4MjcwLD
-EyMDg1MjA3MjYsLTE0MzYzMjE1NDcsMTE1MTI3MDkzOCw1MjQ5
-NzA1OTJdfQ==
+eyJoaXN0b3J5IjpbLTgwNTg0MjM4OCwtNTU0Mjg3NTYsLTEzOD
+AwNDEzNzIsNDkyMjY3NzM4LC0xNzMxNjg1MjkzLC0xMDA0MzUw
+ODksLTEyMjUzODM1MCwtMTUzNDcyNjgwNSw2NDc4NzYyOTIsLT
+E0MzY1NDM1NTIsMTkzMjA3MzAxMywtNzI3Njc3Mzg1LDk3Mzcz
+NDU5MSwtMTQ4MjIxNDg3NSw2MjM3MzYzMzAsMTcxNjI3ODI3MC
+wxMjA4NTIwNzI2LC0xNDM2MzIxNTQ3LDExNTEyNzA5MzgsNTI0
+OTcwNTkyXX0=
 -->
