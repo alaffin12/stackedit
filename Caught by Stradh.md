@@ -116,6 +116,7 @@ Mad Mary, a crazy old woman, lives here with her daughter Gertuda.  Gertuda is k
 
 Ismark's home.  Nothing of interest here, save pictures of Ismark's mother and father.
 
+#### E5. The Church
 
 
 
@@ -150,11 +151,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzI2OTI5NDQsLTE1MzQ3MjY4MDUsNj
-Q3ODc2MjkyLC0xNDM2NTQzNTUyLDE5MzIwNzMwMTMsLTcyNzY3
-NzM4NSw5NzM3MzQ1OTEsLTE0ODIyMTQ4NzUsNjIzNzM2MzMwLD
-E3MTYyNzgyNzAsMTIwODUyMDcyNiwtMTQzNjMyMTU0NywxMTUx
-MjcwOTM4LDUyNDk3MDU5MiwxNTU3MDU2ODM0LDE5OTU1MDUwMC
-wtMTMwMTkzMjQxNiwtNDE4OTI2NDQ1LDE5OTEzMTg4NTksMjA5
-MTAxODQ2M119
+eyJoaXN0b3J5IjpbLTEyMjUzODM1MCwtMTUzNDcyNjgwNSw2ND
+c4NzYyOTIsLTE0MzY1NDM1NTIsMTkzMjA3MzAxMywtNzI3Njc3
+Mzg1LDk3MzczNDU5MSwtMTQ4MjIxNDg3NSw2MjM3MzYzMzAsMT
+cxNjI3ODI3MCwxMjA4NTIwNzI2LC0xNDM2MzIxNTQ3LDExNTEy
+NzA5MzgsNTI0OTcwNTkyLDE1NTcwNTY4MzQsMTk5NTUwNTAwLC
+0xMzAxOTMyNDE2LC00MTg5MjY0NDUsMTk5MTMxODg1OSwyMDkx
+MDE4NDYzXX0=
 -->
