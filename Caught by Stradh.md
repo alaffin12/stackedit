@@ -172,9 +172,10 @@ The shape is Doru, Donavich's son and a Vampire Warrior sent by Stradh to tormen
   
 #### E6. Cemetery
 > A fence of wrought iron with a rusty gate encloses a rectangular plot of land behind the dilapidated church. Tightly packed gravestones shrouded by fog bear the names of souls long passed. All seems quiet.
-
   
 During daytime, the cemetery is a still and peaceful place. Every night at midnight, however, a ghostly procession takes place (probably don't do this - it's stupid)
+
+G
 
 
 
@@ -208,11 +209,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ2NTQ3MjM1LDQ0MDU2MTUxLC01NTQyOD
-c1NiwtMTM4MDA0MTM3Miw0OTIyNjc3MzgsLTE3MzE2ODUyOTMs
-LTEwMDQzNTA4OSwtMTIyNTM4MzUwLC0xNTM0NzI2ODA1LDY0Nz
-g3NjI5MiwtMTQzNjU0MzU1MiwxOTMyMDczMDEzLC03Mjc2Nzcz
-ODUsOTczNzM0NTkxLC0xNDgyMjE0ODc1LDYyMzczNjMzMCwxNz
-E2Mjc4MjcwLDEyMDg1MjA3MjYsLTE0MzYzMjE1NDcsMTE1MTI3
-MDkzOF19
+eyJoaXN0b3J5IjpbMTM5MDE5NTY4LDg0NjU0NzIzNSw0NDA1Nj
+E1MSwtNTU0Mjg3NTYsLTEzODAwNDEzNzIsNDkyMjY3NzM4LC0x
+NzMxNjg1MjkzLC0xMDA0MzUwODksLTEyMjUzODM1MCwtMTUzND
+cyNjgwNSw2NDc4NzYyOTIsLTE0MzY1NDM1NTIsMTkzMjA3MzAx
+MywtNzI3Njc3Mzg1LDk3MzczNDU5MSwtMTQ4MjIxNDg3NSw2Mj
+M3MzYzMzAsMTcxNjI3ODI3MCwxMjA4NTIwNzI2LC0xNDM2MzIx
+NTQ3XX0=
 -->
