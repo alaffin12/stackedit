@@ -102,7 +102,7 @@ Fish is always sold out here.  Adventurer's Steak is whatever meat the local hun
  
 **Ismark Kolyanovich** sits in the bar, nursing a glass of Purple Grapesmash #3.  Today is the anniversary of his mother and father's death and it looms over him - putting him in a bad mood.  Of a regal, aristocratic bearing, Ismark will briefly fill in some of the blanks to his allies.
 
-> "My father was burgomaster, my mother his beautiful bride.  They were happy, for a time.  But this place twists all that is good, and their love - that was good.  My mother - her name was Ireena - was said to resemble Katarina, Stradh's first love.  A love that was lost to him.  Stradh came for her.  He did not care for her wedding vows or for her maternal bonds.  He wished to possess her.  And he made his move.  My father - he was not a great warrior.  I am ten times the swords man he was in his heyday - and he was not in his heyday by that time.  Stradh slew him first.  Then my mother fell upon my father's blade to spare her from the indignity of being Stradh's bride.  And so tonight I drink.  To remember them, and to forget what killed them."
+> "My father was burgomaster, my mother his beautiful bride.  They were happy, for a time.  But this place twists all that is good, and their love - that was good.  My mother - her name was Ireena - was said to resemble Katarina, Stradh's first love.  A love that was lost to him.  Stradh came for her.  He did not care for her wedding vows or for her maternal bonds.  He wished to possess her.  And he made his move.  My father - he was not a great warrior.  I am ten times the swordsman he was in his heyday - and he was not in his heyday by that time.  Stradh slew him first.  Then my mother fell upon my father's blade to spare her from the indignity of being Stradh's bride.  And so tonight I drink.  To remember them, and to forget what killed them."
 
 Ismark is probably the friendliest face the party is going to see for awhile, and while he is not able to point them directly to the Amber Temple (if they ask) he does know that there is supposed to be some kind of repository of knowledge near Mount Ghakis.
 
@@ -110,6 +110,8 @@ Ismark is probably the friendliest face the party is going to see for awhile, an
 
 #### E3. Mad Mary and Gertuda
 Mad Mary, a crazy old woman, lives here with her daughter Gertuda.  Gertuda is kept inside by her mother, who is (understandably) paranoid about everything.
+
+#### E4. Burgomaster's Mansion
 
 
 
@@ -144,11 +146,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTQ1Mzc4NzUsLTE1MzQ3MjY4MDUsNj
-Q3ODc2MjkyLC0xNDM2NTQzNTUyLDE5MzIwNzMwMTMsLTcyNzY3
-NzM4NSw5NzM3MzQ1OTEsLTE0ODIyMTQ4NzUsNjIzNzM2MzMwLD
-E3MTYyNzgyNzAsMTIwODUyMDcyNiwtMTQzNjMyMTU0NywxMTUx
-MjcwOTM4LDUyNDk3MDU5MiwxNTU3MDU2ODM0LDE5OTU1MDUwMC
-wtMTMwMTkzMjQxNiwtNDE4OTI2NDQ1LDE5OTEzMTg4NTksMjA5
-MTAxODQ2M119
+eyJoaXN0b3J5IjpbMzQwMTQ4MzA2LC0xNTM0NzI2ODA1LDY0Nz
+g3NjI5MiwtMTQzNjU0MzU1MiwxOTMyMDczMDEzLC03Mjc2Nzcz
+ODUsOTczNzM0NTkxLC0xNDgyMjE0ODc1LDYyMzczNjMzMCwxNz
+E2Mjc4MjcwLDEyMDg1MjA3MjYsLTE0MzYzMjE1NDcsMTE1MTI3
+MDkzOCw1MjQ5NzA1OTIsMTU1NzA1NjgzNCwxOTk1NTA1MDAsLT
+EzMDE5MzI0MTYsLTQxODkyNjQ0NSwxOTkxMzE4ODU5LDIwOTEw
+MTg0NjNdfQ==
 -->
