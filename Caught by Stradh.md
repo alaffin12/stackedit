@@ -160,9 +160,8 @@ For its size, the wooden cabinet contains very little. Inside are a tinderbox, a
 If the characters have not already entered the undercroft, add:  
 
 > From beneath the chapel floor, you hear a young man’s voice cry out, “Father! I’m starving!”
-
   
-**[Donavich](http://journal.roll20.net/character/-Kg_Nw5fwbUiyTz3bLCL)** (LG male human) has been praying throughout the night. His voice is hoarse and weak. He is, in a word, insane. A little more than a year ago, his twenty-year-old son [Doru](http://journal.roll20.net/character/-Kg_OduUNJJVWEXb49kW) and several other villagers stormed Castle Ravenloft in revolt, having been lured there by a wizard in black robes who came to Barovia from a faraway land (see [The Mad Mage](http://journal.roll20.net/character/-KgZgCiuMVcKH5ZdzkWy) entry for more information on the wizard). By all accounts, the wizard died by Strahd’s hand, and so too did Doru, who returned to his father as a vampire spawn. Donavich was able to trap his son in the church’s undercroft, where he remains to this day.  
+Donavich has been praying throughout the night.  As he has every night for more than a year. His voice is hoarse and weak. He is, in a word, insane. A little more than a year ago, his twenty-year-old son Doru and several other villagers stormed Castle Ravenloft in a futile revolt.  By all accounts Doru died.   too did Doru, who returned to his father as a vampire spawn. Donavich was able to trap his son in the church’s undercroft, where he remains to this day.  
   
 Doru hasn’t fed since he was imprisoned, and he cries out to his father at all hours. Meanwhile, Donavich prays day and night, hoping that the gods will tell him how to save Doru without destroying him. If the characters seem intent on slaying Doru, Donavich does his best to stop them. If Doru dies, Donavich falls to the floor and weeps inconsolably, overcome with despair.  
   
@@ -236,11 +235,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NDI4NzU2LC0xMzgwMDQxMzcyLDQ5Mj
-I2NzczOCwtMTczMTY4NTI5MywtMTAwNDM1MDg5LC0xMjI1Mzgz
-NTAsLTE1MzQ3MjY4MDUsNjQ3ODc2MjkyLC0xNDM2NTQzNTUyLD
-E5MzIwNzMwMTMsLTcyNzY3NzM4NSw5NzM3MzQ1OTEsLTE0ODIy
-MTQ4NzUsNjIzNzM2MzMwLDE3MTYyNzgyNzAsMTIwODUyMDcyNi
-wtMTQzNjMyMTU0NywxMTUxMjcwOTM4LDUyNDk3MDU5MiwxNTU3
-MDU2ODM0XX0=
+eyJoaXN0b3J5IjpbMzI1ODQ0MjY0LC01NTQyODc1NiwtMTM4MD
+A0MTM3Miw0OTIyNjc3MzgsLTE3MzE2ODUyOTMsLTEwMDQzNTA4
+OSwtMTIyNTM4MzUwLC0xNTM0NzI2ODA1LDY0Nzg3NjI5MiwtMT
+QzNjU0MzU1MiwxOTMyMDczMDEzLC03Mjc2NzczODUsOTczNzM0
+NTkxLC0xNDgyMjE0ODc1LDYyMzczNjMzMCwxNzE2Mjc4MjcwLD
+EyMDg1MjA3MjYsLTE0MzYzMjE1NDcsMTE1MTI3MDkzOCw1MjQ5
+NzA1OTJdfQ==
 -->
