@@ -129,7 +129,6 @@ The village priest, Donavich, lives here. Other Barov­ians shun the church for 
 > The doors open to reveal a ten-foot-wide, twenty-foot-long hall leading to a brightly lit chapel. The hall is unlit and reeks of mildew. Four doors, two on each side of the hall, lead to adjacent chambers.  
 >   
 > You can see that the chapel is strewn with debris, and you hear a soft voice from within reciting a prayer. Suddenly, the prayer is blotted out by an inhuman scream that rises up from beneath the wooden floor.
-
   
 The scream comes from the church’s undercroft (area E5g). The soft voice uttering the prayer belongs to [Donavich](http://journal.roll20.net/character/-Kg_Nw5fwbUiyTz3bLCL), the priest (see area E5f).  
   
@@ -257,11 +256,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzIyNDMyOTUsLTEwMDQzNTA4OSwtMT
-IyNTM4MzUwLC0xNTM0NzI2ODA1LDY0Nzg3NjI5MiwtMTQzNjU0
-MzU1MiwxOTMyMDczMDEzLC03Mjc2NzczODUsOTczNzM0NTkxLC
-0xNDgyMjE0ODc1LDYyMzczNjMzMCwxNzE2Mjc4MjcwLDEyMDg1
-MjA3MjYsLTE0MzYzMjE1NDcsMTE1MTI3MDkzOCw1MjQ5NzA1OT
-IsMTU1NzA1NjgzNCwxOTk1NTA1MDAsLTEzMDE5MzI0MTYsLTQx
-ODkyNjQ0NV19
+eyJoaXN0b3J5IjpbMTk4NTc3MTA1OSwtMTAwNDM1MDg5LC0xMj
+I1MzgzNTAsLTE1MzQ3MjY4MDUsNjQ3ODc2MjkyLC0xNDM2NTQz
+NTUyLDE5MzIwNzMwMTMsLTcyNzY3NzM4NSw5NzM3MzQ1OTEsLT
+E0ODIyMTQ4NzUsNjIzNzM2MzMwLDE3MTYyNzgyNzAsMTIwODUy
+MDcyNiwtMTQzNjMyMTU0NywxMTUxMjcwOTM4LDUyNDk3MDU5Mi
+wxNTU3MDU2ODM0LDE5OTU1MDUwMCwtMTMwMTkzMjQxNiwtNDE4
+OTI2NDQ1XX0=
 -->
