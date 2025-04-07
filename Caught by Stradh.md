@@ -74,18 +74,7 @@ Morgantha is evil and works with her mother at the Old Bonegrinder windmill, ste
 * Morgantha's pies are made by her and her mother.  They usually have potato and turnip filling, along with meat if they can get some from the hunters.  Wolf meat is most common (and is what she has today) owing to how common it is in Barovia.
 * If asked why they are so expensive (a gold each) Morgantha will explain that her and her mother use a little bit of the old magic - something that has been passed down from mother to daughter through her family for a long time.  Anyone who eats one will have on the sweetest dreams that night.  Sadly, such things have to be done right to get the magic to work - and doing things right costs gold in Barovia.  "It's not like I can use the cheap cast offs the hunters give away cheap, or rotten old potatoes."
 
-#### ##### NPCs
-**Arik Lorensk**, or just Arik the Barkeep, is a small and pudgy little man who tends the bar of the tavern.  Mindlessly he cleans the glasses, one after another, starting over when he finishes the first.  He doesn't do much conversing, but if spoke to he will answer in a dull and hollow voice, basically taking drink orders before moving on to something else.
- 
-**Ismark Kolyanovich** sits in the bar, nursing a glass of Purple Grapesmash #3.  Today is the anniversary of his mother and father's death and it looms over him - putting him in a bad mood.  Of a regal, aristocratic bearing, Ismark will briefly fill in some of the blanks to his allies.
-
-> "My father was burgomaster, my mother his beautiful bride.  They were happy, for a time.  But this place twists all that is good, and their love - that was good.  My mother - her name was Ireena - was said to resemble Katarina, Stradh's first love.  A love that was lost to him.  Stradh came for her.  He did not care for her wedding vows or for her maternal bonds.  He wished to possess her.  And he made his move.  My father - he was not a great warrior.  I am ten times the swords man he was in his heyday - and he was not in his heyday by that time.  Stradh slew him first.  Then my mother fell upon my father's blade to spare her from the indignity of being Stradh's bride.  And so tonight I drink.  To remember them, and to forget what killed them."
-
-Ismark is probably the friendliest face the party is going to see for awhile, and while he is not able to point them directly to the Amber Temple (if they ask) he does know that there is supposed to be some kind of repository of knowledge near Mount Ghakis.
-
-**Queen of the Soil, Pure Forge and Pearl of the Forest Stream** are the three Vistani (tabaxi) proprietors of the Blood of the Vine Tavern.  
-
-#E1. Bildrath's Mercantile
+#### E1. Bildrath's Mercantile
 >The sparse light from this building spills out from behind drawn heavy curtains. A sign over the door, creaking on its hinges, reads “Bildrath’s Mercantile.”
 
 Bildrath Cantemir works a general store here.  It sells basic adventuring gear (everything from the PHB labelled adventuring gear that costs less than 25 gp) for exorbitant prives (10x the list price).  Bildrath is self serving and is not interested in haggling - "All prices are best and final.  No haggling - you want, you pay!"  His nephew, Parpol "Parriwhimple" Cantemir (who is a large, strong but ultimately dumb young man) also works at the shop.
@@ -107,6 +96,19 @@ Bildrath Cantemir works a general store here.  It sells basic adventuring gear (
 | Purple Grapesmash #3 - Bottle | 20 cp |
 
 Fish is always sold out here.  Adventurer's Steak is whatever meat the local hunters haul in.  The barkeep doesn't know and doesn't care to ask.  Everything is super salty.  
+
+##### NPCs
+**Arik Lorensk**, or just Arik the Barkeep, is a small and pudgy little man who tends the bar of the tavern.  Mindlessly he cleans the glasses, one after another, starting over when he finishes the first.  He doesn't do much conversing, but if spoke to he will answer in a dull and hollow voice, basically taking drink orders before moving on to something else.
+ 
+**Ismark Kolyanovich** sits in the bar, nursing a glass of Purple Grapesmash #3.  Today is the anniversary of his mother and father's death and it looms over him - putting him in a bad mood.  Of a regal, aristocratic bearing, Ismark will briefly fill in some of the blanks to his allies.
+
+> "My father was burgomaster, my mother his beautiful bride.  They were happy, for a time.  But this place twists all that is good, and their love - that was good.  My mother - her name was Ireena - was said to resemble Katarina, Stradh's first love.  A love that was lost to him.  Stradh came for her.  He did not care for her wedding vows or for her maternal bonds.  He wished to possess her.  And he made his move.  My father - he was not a great warrior.  I am ten times the swords man he was in his heyday - and he was not in his heyday by that time.  Stradh slew him first.  Then my mother fell upon my father's blade to spare her from the indignity of being Stradh's bride.  And so tonight I drink.  To remember them, and to forget what killed them."
+
+Ismark is probably the friendliest face the party is going to see for awhile, and while he is not able to point them directly to the Amber Temple (if they ask) he does know that there is supposed to be some kind of repository of knowledge near Mount Ghakis.
+
+**Queen of the Soil, Pure Forge and Pearl of the Forest Stream** are the three Vistani (tabaxi) proprietors of the Blood of the Vine Tavern.  
+
+---
 
 ## Food and Drink in Barovia
 ### Foods in Barovia
@@ -137,11 +139,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzY1NDM1NTIsMTkzMjA3MzAxMywtNz
-I3Njc3Mzg1LDk3MzczNDU5MSwtMTQ4MjIxNDg3NSw2MjM3MzYz
-MzAsMTcxNjI3ODI3MCwxMjA4NTIwNzI2LC0xNDM2MzIxNTQ3LD
-ExNTEyNzA5MzgsNTI0OTcwNTkyLDE1NTcwNTY4MzQsMTk5NTUw
-NTAwLC0xMzAxOTMyNDE2LC00MTg5MjY0NDUsMTk5MTMxODg1OS
-wyMDkxMDE4NDYzLC0yMDA3NjU2MjM0LDMwMjIwMzYsNjI5OTk1
-NzExXX0=
+eyJoaXN0b3J5IjpbNjQ3ODc2MjkyLC0xNDM2NTQzNTUyLDE5Mz
+IwNzMwMTMsLTcyNzY3NzM4NSw5NzM3MzQ1OTEsLTE0ODIyMTQ4
+NzUsNjIzNzM2MzMwLDE3MTYyNzgyNzAsMTIwODUyMDcyNiwtMT
+QzNjMyMTU0NywxMTUxMjcwOTM4LDUyNDk3MDU5MiwxNTU3MDU2
+ODM0LDE5OTU1MDUwMCwtMTMwMTkzMjQxNiwtNDE4OTI2NDQ1LD
+E5OTEzMTg4NTksMjA5MTAxODQ2MywtMjAwNzY1NjIzNCwzMDIy
+MDM2XX0=
 -->
