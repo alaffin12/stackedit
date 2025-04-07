@@ -125,34 +125,30 @@ If the characters approach the church doors, add:
 
 The village priest, Donavich, lives here. Other Barov­ians shun the church for reasons that will quickly become obvious.  The following areas correspond to labels on the map of the church.
 
-#### E5a. Hall
+##### E5a. Hall
 > The doors open to reveal a ten-foot-wide, twenty-foot-long hall leading to a brightly lit chapel. The hall is unlit and reeks of mildew. Four doors, two on each side of the hall, lead to adjacent chambers.  
 >   
 > You can see that the chapel is strewn with debris, and you hear a soft voice from within reciting a prayer. Suddenly, the prayer is blotted out by an inhuman scream that rises up from beneath the wooden floor.
   
 The scream comes from the church’s undercroft (area E5g). The soft voice uttering the prayer belongs to Donavich, the priest (see area E5f).  
   
-#### E5b. Doru’s Bedroom
+##### E5b. Doru’s Bedroom
 > This dirty, lightless room contains a wooden bed with a straw-filled mattress. Mounted above the bed’s headboard is a wooden holy symbol.
   
 This room once belonged to Doru, Donavich’s son, who is trapped in the undercroft (area E5g). It hasn’t been used in more than a year and contains nothing of value.  
 
-#### E5c. Donavich’s Bedroom
+##### E5c. Donavich’s Bedroom
 > This dirty room contains a wooden bed with a straw-filled mattress, next to which rests a small table with an oil lamp burning brightly on it. Mounted above the bed’s headboard is a wooden sun-shaped holy symbol.
 
 This is Donavich’s room and contains nothing of value.  
 
-#### E5d. Trapdoor
+##### E5d. Trapdoor
 > Time and neglect have punched holes in the ceiling of this moldy room, which contains a few broken roof shingles amid puddles of water. In one corner, set into the floor, is a heavy wooden trapdoor held shut with a chain and a padlock.  It is engraved - although engraved is perhaps not the right word, given the rough nature of the engraving - with all manner of sigils and symbols, prayers and mantras A young man’s screams of anguish can be heard through the door.
 
 Donavich keeps his son Doru in the undercroft, unable to kill him but well aware of the monster Doru has become.  As the years have gone by Donavich has fed his son sparingly with his own blood, and has redoubled the wards and sigils on the trap door in the hopes of keeping his son down there.
-
-----------
-
   
 
-### E5e. Office
-
+##### E5e. Office
 > An old desk and chair stand against the south wall, a wooden holy symbol mounted above them—a sunburst. A ten-foot-long iron rod attached to the north wall stands bare, suggesting a tapestry once hung there. Against the far wall stands a wooden cabinet with four tall doors.
 
   
@@ -247,11 +243,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMTIyODI5Miw0OTIyNjc3MzgsLTE3Mz
-E2ODUyOTMsLTEwMDQzNTA4OSwtMTIyNTM4MzUwLC0xNTM0NzI2
-ODA1LDY0Nzg3NjI5MiwtMTQzNjU0MzU1MiwxOTMyMDczMDEzLC
-03Mjc2NzczODUsOTczNzM0NTkxLC0xNDgyMjE0ODc1LDYyMzcz
-NjMzMCwxNzE2Mjc4MjcwLDEyMDg1MjA3MjYsLTE0MzYzMjE1ND
-csMTE1MTI3MDkzOCw1MjQ5NzA1OTIsMTU1NzA1NjgzNCwxOTk1
-NTA1MDBdfQ==
+eyJoaXN0b3J5IjpbNTk5NjQ1MjQyLDQ5MjI2NzczOCwtMTczMT
+Y4NTI5MywtMTAwNDM1MDg5LC0xMjI1MzgzNTAsLTE1MzQ3MjY4
+MDUsNjQ3ODc2MjkyLC0xNDM2NTQzNTUyLDE5MzIwNzMwMTMsLT
+cyNzY3NzM4NSw5NzM3MzQ1OTEsLTE0ODIyMTQ4NzUsNjIzNzM2
+MzMwLDE3MTYyNzgyNzAsMTIwODUyMDcyNiwtMTQzNjMyMTU0Ny
+wxMTUxMjcwOTM4LDUyNDk3MDU5MiwxNTU3MDU2ODM0LDE5OTU1
+MDUwMF19
 -->
