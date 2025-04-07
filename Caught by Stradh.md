@@ -179,8 +179,10 @@ During daytime, the cemetery is a still and peaceful place. Every night at midni
 > The road gradually disappears and is replaced by a twisted, muddy path through the trees. Deep ruts in the earth are evidence of the comings and goings of wagons.  
 >
 > The canopy of mist and branches suddenly gives way to black clouds boiling far above. There is a clearing here, next to a river that widens to form a small lake several hundred feet across. Five colorful round tents, each ten feet in diameter, are pitched outside a ring of four barrel-topped wagons. A much larger tent stands near the shore of the lake, its sagging form lit from within. Near this tent, eight unbridled horses drink from the river.  
-  
-The mournful strains of an accordion clash with the singing of several brightly clad figures around a bonfire. A footpath continues beyond this encampment, meandering north between the river and the forest’s edge.
+>
+> The upbeat strains of an accordion clash with the singing of several brightly clad Vistani - tabaxi - around a bonfire. A footpath continues beyond this encampment, meandering north between the river and the forest’s edge.
+
+
 G, H, I, B, O, N, P, R, T
 
 
@@ -215,11 +217,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA0Mjg5NTk5LC0xOTAwMDU4Nzg2LDg0Nj
-U0NzIzNSw0NDA1NjE1MSwtNTU0Mjg3NTYsLTEzODAwNDEzNzIs
-NDkyMjY3NzM4LC0xNzMxNjg1MjkzLC0xMDA0MzUwODksLTEyMj
-UzODM1MCwtMTUzNDcyNjgwNSw2NDc4NzYyOTIsLTE0MzY1NDM1
-NTIsMTkzMjA3MzAxMywtNzI3Njc3Mzg1LDk3MzczNDU5MSwtMT
-Q4MjIxNDg3NSw2MjM3MzYzMzAsMTcxNjI3ODI3MCwxMjA4NTIw
-NzI2XX0=
+eyJoaXN0b3J5IjpbLTE1NzgxNzMyMDQsLTE5MDAwNTg3ODYsOD
+Q2NTQ3MjM1LDQ0MDU2MTUxLC01NTQyODc1NiwtMTM4MDA0MTM3
+Miw0OTIyNjc3MzgsLTE3MzE2ODUyOTMsLTEwMDQzNTA4OSwtMT
+IyNTM4MzUwLC0xNTM0NzI2ODA1LDY0Nzg3NjI5MiwtMTQzNjU0
+MzU1MiwxOTMyMDczMDEzLC03Mjc2NzczODUsOTczNzM0NTkxLC
+0xNDgyMjE0ODc1LDYyMzczNjMzMCwxNzE2Mjc4MjcwLDEyMDg1
+MjA3MjZdfQ==
 -->
