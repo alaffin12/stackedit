@@ -182,7 +182,10 @@ During daytime, the cemetery is a still and peaceful place. Every night at midni
 >
 > The upbeat strains of an accordion clash with the singing of several brightly clad Vistani - tabaxi - around a bonfire. A footpath continues beyond this encampment, meandering north between the river and the forest’s edge.
 
+There is little for the players to do here, but if they sit by the campfire they will have two opportunities to gain knowledge about the world they are in - and how to escape.
 
+#### Campfire Tales
+If the party socializes with the Vistani then eventually one of them might ask about the Amber Temple
 G, H, I, B, O, N, P, R, T
 
 
@@ -217,7 +220,7 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzgxNzMyMDQsLTE5MDAwNTg3ODYsOD
+eyJoaXN0b3J5IjpbLTE3NDQ3MTcxNDEsLTE5MDAwNTg3ODYsOD
 Q2NTQ3MjM1LDQ0MDU2MTUxLC01NTQyODc1NiwtMTM4MDA0MTM3
 Miw0OTIyNjc3MzgsLTE3MzE2ODUyOTMsLTEwMDQzNTA4OSwtMT
 IyNTM4MzUwLC0xNTM0NzI2ODA1LDY0Nzg3NjI5MiwtMTQzNjU0
