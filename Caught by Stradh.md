@@ -74,30 +74,7 @@ Morgantha is evil and works with her mother at the Old Bonegrinder windmill, ste
 * Morgantha's pies are made by her and her mother.  They usually have potato and turnip filling, along with meat if they can get some from the hunters.  Wolf meat is most common (and is what she has today) owing to how common it is in Barovia.
 * If asked why they are so expensive (a gold each) Morgantha will explain that her and her mother use a little bit of the old magic - something that has been passed down from mother to daughter through her family for a long time.  Anyone who eats one will have on the sweetest dreams that night.  Sadly, such things have to be done right to get the magic to work - and doing things right costs gold in Barovia.  "It's not like I can use the cheap cast offs the hunters give away cheap, or rotten old potatoes."
 
-#### E1. Bildrath's Mercantile
->The sparse light from this building spills out from behind drawn heavy curtains. A sign over the door, creaking on its hinges, reads “Bildrath’s Mercantile.”
-
-Bildrath Cantemir works a general store here.  It sells basic adventuring gear (everything from the PHB labelled adventuring gear that costs less than 25 gp) for exorbitant prives (10x the list price).  Bildrath is self serving and is not interested in haggling - "All prices are best and final.  No haggling - you want, you pay!"  His nephew, Parpol "Parriwhimple" Cantemir (who is a large, strong but ultimately dumb young man) also works at the shop.
-
-#### E2. Blood on the Vine Tavern
->A single shaft of light thrusts illumination into the main square, its brightness looking like a solid pillar in the heavy fog. Above the gaping doorway, a sign hangs precariously askew, proclaiming this to be the Blood on the Vine tavern.
-
-**Menu**
-| Item | Price |
-|--|--|
-| *Breakfast* |  |
-| Boiled Turnips | 6 cp |
-| Grilled Lake Fish | Sold Out |
-| *Lunch/Dinner* | |
-| Adventurer's Steak w/Sauerkraut | 10 cp | 
-| Toad & Beet Stew | 8 cp |
-| *Drink* | |
-| Purple Grapesmash #3 - Glass | 3 cp |  
-| Purple Grapesmash #3 - Bottle | 20 cp |
-
-Fish is always sold out here.  Adventurer's Steak is whatever meat the local hunters haul in.  The barkeep doesn't know and doesn't care to ask.  Everything is super salty.  
-
-##### NPCs
+#### ##### NPCs
 **Arik Lorensk**, or just Arik the Barkeep, is a small and pudgy little man who tends the bar of the tavern.  Mindlessly he cleans the glasses, one after another, starting over when he finishes the first.  He doesn't do much conversing, but if spoke to he will answer in a dull and hollow voice, basically taking drink orders before moving on to something else.
  
 **Ismark Kolyanovich** sits in the bar, nursing a glass of Purple Grapesmash #3.  Today is the anniversary of his mother and father's death and it looms over him - putting him in a bad mood.  Of a regal, aristocratic bearing, Ismark will briefly fill in some of the blanks to his allies.
@@ -124,7 +101,30 @@ However they are addictive.  The morning after you eat one roll a DC 10+2*(Total
 
 *Third Level Addict*: Third level addicts have two levels of exhaustion that can only be removed by eating a pie.  If they go 24 hours without eating a pie they may make a DC 15+2*(Total Number of Pies Eaten Lifetime) Constitution saving throw to drop to a second level addict. 
 
-### Drink in Barovia
+#E1. Bildrath's Mercantile
+>The sparse light from this building spills out from behind drawn heavy curtains. A sign over the door, creaking on its hinges, reads “Bildrath’s Mercantile.”
+
+Bildrath Cantemir works a general store here.  It sells basic adventuring gear (everything from the PHB labelled adventuring gear that costs less than 25 gp) for exorbitant prives (10x the list price).  Bildrath is self serving and is not interested in haggling - "All prices are best and final.  No haggling - you want, you pay!"  His nephew, Parpol "Parriwhimple" Cantemir (who is a large, strong but ultimately dumb young man) also works at the shop.
+
+#### E2. Blood on the Vine Tavern
+>A single shaft of light thrusts illumination into the main square, its brightness looking like a solid pillar in the heavy fog. Above the gaping doorway, a sign hangs precariously askew, proclaiming this to be the Blood on the Vine tavern.
+
+**Menu**
+| Item | Price |
+|--|--|
+| *Breakfast* |  |
+| Boiled Turnips | 6 cp |
+| Grilled Lake Fish | Sold Out |
+| *Lunch/Dinner* | |
+| Adventurer's Steak w/Sauerkraut | 10 cp | 
+| Toad & Beet Stew | 8 cp |
+| *Drink* | |
+| Purple Grapesmash #3 - Glass | 3 cp |  
+| Purple Grapesmash #3 - Bottle | 20 cp |
+
+Fish is always sold out here.  Adventurer's Steak is whatever meat the local hunters haul in.  The barkeep doesn't know and doesn't care to ask.  Everything is super salty.  
+
+## Drink in Barovia
 Almost all alcohol in Barovia is wine or wine-based, and almost all wine is made by the Martikov family (some is brought in by Vistani traders).  A description of the Martikov family wines is below:
 
 #### Grapesmash
@@ -135,12 +135,15 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 
 #### Winterstomp
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
+### Dragoncrush
+
+### Snowpulp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMjA3MzAxMywtNzI3Njc3Mzg1LDk3Mz
-czNDU5MSwtMTQ4MjIxNDg3NSw2MjM3MzYzMzAsMTcxNjI3ODI3
-MCwxMjA4NTIwNzI2LC0xNDM2MzIxNTQ3LDExNTEyNzA5MzgsNT
-I0OTcwNTkyLDE1NTcwNTY4MzQsMTk5NTUwNTAwLC0xMzAxOTMy
-NDE2LC00MTg5MjY0NDUsMTk5MTMxODg1OSw3NjE2NDk0NDMsMj
-A5MTAxODQ2MywtMjAwNzY1NjIzNCwzMDIyMDM2LDYyOTk5NTcx
-MV19
+eyJoaXN0b3J5IjpbLTExNDEyNzU5MzEsMTkzMjA3MzAxMywtNz
+I3Njc3Mzg1LDk3MzczNDU5MSwtMTQ4MjIxNDg3NSw2MjM3MzYz
+MzAsMTcxNjI3ODI3MCwxMjA4NTIwNzI2LC0xNDM2MzIxNTQ3LD
+ExNTEyNzA5MzgsNTI0OTcwNTkyLDE1NTcwNTY4MzQsMTk5NTUw
+NTAwLC0xMzAxOTMyNDE2LC00MTg5MjY0NDUsMTk5MTMxODg1OS
+wyMDkxMDE4NDYzLC0yMDA3NjU2MjM0LDMwMjIwMzYsNjI5OTk1
+NzExXX0=
 -->
