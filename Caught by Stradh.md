@@ -85,22 +85,6 @@ Ismark is probably the friendliest face the party is going to see for awhile, an
 
 **Queen of the Soil, Pure Forge and Pearl of the Forest Stream** are the three Vistani (tabaxi) proprietors of the Blood of the Vine Tavern.  
 
-## Food and Drink in Barovia
-### Foods in Barovia
-#### Morgantha's Dream Pies
-Eating one of Morgantha's pies has one of the following effects:
-* If eaten as a bonus action in combat you may add 1d4 to any attack roll or saving throw in the next minute.
-* If eaten outside of combat it heals 2d4+2 hp
-* If eaten before a long rest, you gain two extra hit dice to use during the next day.
-
-However they are addictive.  The morning after you eat one roll a DC 10+2*(Total Number of Pies Eaten Lifetime) Constitution Save.  If they fail they become first level addicts:
-
-*First Level Addict*: First level addict have a general -1 to all attack rolls and skill checks.  They can remedy this by eating a pie (but gain no other benefits from the pie except alleviating this).  If they go 24 hours without eating a pie, they lose this status.  Otherwise if they eat a pie during the day the next morning they must make a DC 12+2*(Total Number of Pies Eaten Lifetime) Constitution Save or progress to a second level addict.
-
-*Second Level Addict*: Second level addicts have a level of exhaustion that can only be removed by eating a pie.  If they go 24 hours without eating a pie they drop to a First Level Addict.  Otherwise, if they eat a pie during the day they must make a DC 14+2*(Total Number of Pies Eaten Lifetime) Constitution saving throw or progress to a third level addict.
-
-*Third Level Addict*: Third level addicts have two levels of exhaustion that can only be removed by eating a pie.  If they go 24 hours without eating a pie they may make a DC 15+2*(Total Number of Pies Eaten Lifetime) Constitution saving throw to drop to a second level addict. 
-
 #E1. Bildrath's Mercantile
 >The sparse light from this building spills out from behind drawn heavy curtains. A sign over the door, creaking on its hinges, reads “Bildrath’s Mercantile.”
 
@@ -124,7 +108,23 @@ Bildrath Cantemir works a general store here.  It sells basic adventuring gear (
 
 Fish is always sold out here.  Adventurer's Steak is whatever meat the local hunters haul in.  The barkeep doesn't know and doesn't care to ask.  Everything is super salty.  
 
-## Drink in Barovia
+## Food and Drink in Barovia
+### Foods in Barovia
+#### Morgantha's Dream Pies
+Eating one of Morgantha's pies has one of the following effects:
+* If eaten as a bonus action in combat you may add 1d4 to any attack roll or saving throw in the next minute.
+* If eaten outside of combat it heals 2d4+2 hp
+* If eaten before a long rest, you gain two extra hit dice to use during the next day.
+
+However they are addictive.  The morning after you eat one roll a DC 10+2*(Total Number of Pies Eaten Lifetime) Constitution Save.  If they fail they become first level addicts:
+
+*First Level Addict*: First level addict have a general -1 to all attack rolls and skill checks.  They can remedy this by eating a pie (but gain no other benefits from the pie except alleviating this).  If they go 24 hours without eating a pie, they lose this status.  Otherwise if they eat a pie during the day the next morning they must make a DC 12+2*(Total Number of Pies Eaten Lifetime) Constitution Save or progress to a second level addict.
+
+*Second Level Addict*: Second level addicts have a level of exhaustion that can only be removed by eating a pie.  If they go 24 hours without eating a pie they drop to a First Level Addict.  Otherwise, if they eat a pie during the day they must make a DC 14+2*(Total Number of Pies Eaten Lifetime) Constitution saving throw or progress to a third level addict.
+
+*Third Level Addict*: Third level addicts have two levels of exhaustion that can only be removed by eating a pie.  If they go 24 hours without eating a pie they may make a DC 15+2*(Total Number of Pies Eaten Lifetime) Constitution saving throw to drop to a second level addict. 
+
+### Drink in Barovia
 Almost all alcohol in Barovia is wine or wine-based, and almost all wine is made by the Martikov family (some is brought in by Vistani traders).  A description of the Martikov family wines is below:
 
 #### Grapesmash
@@ -137,11 +137,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0ODM4MzMwNSwxOTMyMDczMDEzLC03Mj
-c2NzczODUsOTczNzM0NTkxLC0xNDgyMjE0ODc1LDYyMzczNjMz
-MCwxNzE2Mjc4MjcwLDEyMDg1MjA3MjYsLTE0MzYzMjE1NDcsMT
-E1MTI3MDkzOCw1MjQ5NzA1OTIsMTU1NzA1NjgzNCwxOTk1NTA1
-MDAsLTEzMDE5MzI0MTYsLTQxODkyNjQ0NSwxOTkxMzE4ODU5LD
-IwOTEwMTg0NjMsLTIwMDc2NTYyMzQsMzAyMjAzNiw2Mjk5OTU3
-MTFdfQ==
+eyJoaXN0b3J5IjpbLTE0MzY1NDM1NTIsMTkzMjA3MzAxMywtNz
+I3Njc3Mzg1LDk3MzczNDU5MSwtMTQ4MjIxNDg3NSw2MjM3MzYz
+MzAsMTcxNjI3ODI3MCwxMjA4NTIwNzI2LC0xNDM2MzIxNTQ3LD
+ExNTEyNzA5MzgsNTI0OTcwNTkyLDE1NTcwNTY4MzQsMTk5NTUw
+NTAwLC0xMzAxOTMyNDE2LC00MTg5MjY0NDUsMTk5MTMxODg1OS
+wyMDkxMDE4NDYzLC0yMDA3NjU2MjM0LDMwMjIwMzYsNjI5OTk1
+NzExXX0=
 -->
