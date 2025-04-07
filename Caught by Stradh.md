@@ -108,6 +108,11 @@ Ismark is probably the friendliest face the party is going to see for awhile, an
 
 **Queen of the Soil, Pure Forge and Pearl of the Forest Stream** are the three Vistani (tabaxi) proprietors of the Blood of the Vine Tavern.  The usually sit at a table by the door and keep an eye on things, making sure people pay their tabs and whatnot.  They are gossipy Mean Girl types, and pass judgment on all who enter.  If they see a Vistani (tabaxi) they will muse, wondering if the old fools had changed their mind, or decided they too were tired of living in horse manure.  Each has a small scar beneath their eye - a symbol of their status in the Vistani community.  They are considered *mortu* and have been exiled (and marked) for the crime of arranging the rape of one of their own kind two years ago.
 
+#### E3. Mad Mary and Gertuda
+Mad Mary, a crazy old woman, lives here with her daughter Gertuda.  Gertuda is kept inside by her mother, who is (understandably) paranoid about everything.
+
+
+
 ---
 
 ## Food and Drink in Barovia
@@ -139,11 +144,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzQ3MjY4MDUsNjQ3ODc2MjkyLC0xND
-M2NTQzNTUyLDE5MzIwNzMwMTMsLTcyNzY3NzM4NSw5NzM3MzQ1
-OTEsLTE0ODIyMTQ4NzUsNjIzNzM2MzMwLDE3MTYyNzgyNzAsMT
-IwODUyMDcyNiwtMTQzNjMyMTU0NywxMTUxMjcwOTM4LDUyNDk3
-MDU5MiwxNTU3MDU2ODM0LDE5OTU1MDUwMCwtMTMwMTkzMjQxNi
-wtNDE4OTI2NDQ1LDE5OTEzMTg4NTksMjA5MTAxODQ2MywtMjAw
-NzY1NjIzNF19
+eyJoaXN0b3J5IjpbLTE1NTQ1Mzc4NzUsLTE1MzQ3MjY4MDUsNj
+Q3ODc2MjkyLC0xNDM2NTQzNTUyLDE5MzIwNzMwMTMsLTcyNzY3
+NzM4NSw5NzM3MzQ1OTEsLTE0ODIyMTQ4NzUsNjIzNzM2MzMwLD
+E3MTYyNzgyNzAsMTIwODUyMDcyNiwtMTQzNjMyMTU0NywxMTUx
+MjcwOTM4LDUyNDk3MDU5MiwxNTU3MDU2ODM0LDE5OTU1MDUwMC
+wtMTMwMTkzMjQxNiwtNDE4OTI2NDQ1LDE5OTEzMTg4NTksMjA5
+MTAxODQ2M119
 -->
