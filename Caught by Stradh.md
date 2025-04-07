@@ -165,10 +165,10 @@ Donavich has been praying throughout the night.  As he has every night for more 
   
 Doru has only been fed sparingly by his father since he was imprisoned, and he cries out at all hours. Meanwhile, Donavich prays day and night, hoping that the gods will tell him how to save Doru without destroying him. If the characters seem intent on slaying Doru, Donavich does his best to stop them. If Doru dies, Donavich falls to the floor and weeps inconsolably, overcome with despair.  
 
-### E5g. Undercroft
-
+##### E5g. Undercroft
 > The church’s undercroft has rough-hewn walls and a floor made of damp clay and earth. Rotting wooden pillars strain under the weight of the wooden ceiling. Candlelight from the chapel above slips though the cracks, allowing you to glimpse a gaunt shape in the far corner.
 
+The shape is Doru, Donavich's son and a Vampire Warrior sent by Stradh to torment Donavich.  
   
 The shape is **[Doru](http://journal.roll20.net/character/-Kg_OduUNJJVWEXb49kW)**, a vampire spawn sent by Strahd to torment Donavich and cast down the church. Doru is starved for blood and brave enough to attack a lone character. If the characters approach as a group, he does his best to avoid them while hissing, “I can smell your blood!” If they cut off his escape, he lunges forth and attacks.  
   
@@ -222,11 +222,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQwNTYxNTEsLTU1NDI4NzU2LC0xMzgwMD
-QxMzcyLDQ5MjI2NzczOCwtMTczMTY4NTI5MywtMTAwNDM1MDg5
-LC0xMjI1MzgzNTAsLTE1MzQ3MjY4MDUsNjQ3ODc2MjkyLC0xND
-M2NTQzNTUyLDE5MzIwNzMwMTMsLTcyNzY3NzM4NSw5NzM3MzQ1
-OTEsLTE0ODIyMTQ4NzUsNjIzNzM2MzMwLDE3MTYyNzgyNzAsMT
-IwODUyMDcyNiwtMTQzNjMyMTU0NywxMTUxMjcwOTM4LDUyNDk3
-MDU5Ml19
+eyJoaXN0b3J5IjpbLTU3NDYxOTMwOCw0NDA1NjE1MSwtNTU0Mj
+g3NTYsLTEzODAwNDEzNzIsNDkyMjY3NzM4LC0xNzMxNjg1Mjkz
+LC0xMDA0MzUwODksLTEyMjUzODM1MCwtMTUzNDcyNjgwNSw2ND
+c4NzYyOTIsLTE0MzY1NDM1NTIsMTkzMjA3MzAxMywtNzI3Njc3
+Mzg1LDk3MzczNDU5MSwtMTQ4MjIxNDg3NSw2MjM3MzYzMzAsMT
+cxNjI3ODI3MCwxMjA4NTIwNzI2LC0xNDM2MzIxNTQ3LDExNTEy
+NzA5MzhdfQ==
 -->
