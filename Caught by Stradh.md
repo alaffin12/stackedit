@@ -106,7 +106,7 @@ Fish is always sold out here.  Adventurer's Steak is whatever meat the local hun
 
 Ismark is probably the friendliest face the party is going to see for awhile, and while he is not able to point them directly to the Amber Temple (if they ask) he does know that there is supposed to be some kind of repository of knowledge near Mount Ghakis.
 
-**Queen of the Soil, Pure Forge and Pearl of the Forest Stream** are the three Vistani (tabaxi) proprietors of the Blood of the Vine Tavern.  
+**Queen of the Soil, Pure Forge and Pearl of the Forest Stream** are the three Vistani (tabaxi) proprietors of the Blood of the Vine Tavern.  The usually sit at a table by the door and keep an eye on things, making sure people pay their tabs and whatnot.  
 
 ---
 
@@ -139,11 +139,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ3ODc2MjkyLC0xNDM2NTQzNTUyLDE5Mz
-IwNzMwMTMsLTcyNzY3NzM4NSw5NzM3MzQ1OTEsLTE0ODIyMTQ4
-NzUsNjIzNzM2MzMwLDE3MTYyNzgyNzAsMTIwODUyMDcyNiwtMT
-QzNjMyMTU0NywxMTUxMjcwOTM4LDUyNDk3MDU5MiwxNTU3MDU2
-ODM0LDE5OTU1MDUwMCwtMTMwMTkzMjQxNiwtNDE4OTI2NDQ1LD
-E5OTEzMTg4NTksMjA5MTAxODQ2MywtMjAwNzY1NjIzNCwzMDIy
-MDM2XX0=
+eyJoaXN0b3J5IjpbMTg2MjY3MTAzLDY0Nzg3NjI5MiwtMTQzNj
+U0MzU1MiwxOTMyMDczMDEzLC03Mjc2NzczODUsOTczNzM0NTkx
+LC0xNDgyMjE0ODc1LDYyMzczNjMzMCwxNzE2Mjc4MjcwLDEyMD
+g1MjA3MjYsLTE0MzYzMjE1NDcsMTE1MTI3MDkzOCw1MjQ5NzA1
+OTIsMTU1NzA1NjgzNCwxOTk1NTA1MDAsLTEzMDE5MzI0MTYsLT
+QxODkyNjQ0NSwxOTkxMzE4ODU5LDIwOTEwMTg0NjMsLTIwMDc2
+NTYyMzRdfQ==
 -->
