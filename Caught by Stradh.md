@@ -170,29 +170,15 @@ Doru has only been fed sparingly by his father since he was imprisoned, and he c
 
 The shape is Doru, Donavich's son and a Vampire Warrior sent by Stradh to torment Donavich.  Doru is hungry, having only be fed sparingly by his father (ostensibly to keep him weak).  He will try to sneak out, rather than directly confront that party, but he will not hesitate to try and take a meal from them either.
   
-The shape is **[Doru](http://journal.roll20.net/character/-Kg_OduUNJJVWEXb49kW)**, a vampire spawn sent by Strahd to torment Donavich and cast down the church. Doru is starved for blood and brave enough to attack a lone character. If the characters approach as a group, he does his best to avoid them while hissing, “I can smell your blood!” If they cut off his escape, he lunges forth and attacks.  
-  
-If the characters restrain Doru and either promise him blood or threaten to destroy him, or if they kill him and then raise him from the dead, he recounts the events that led to his downfall (see area E5f).  
-  
-
-#### Fortunes of Ravenloft
-
-If your card reading reveals that a treasure is in the undercroft, it’s contained in a moldy, old chest in the southwest corner of the room. The chest is unlocked and not trapped.  
-  
-
-----------
-
-  
-
-### E6. Cemetery
-
+#### E6. Cemetery
 > A fence of wrought iron with a rusty gate encloses a rectangular plot of land behind the dilapidated church. Tightly packed gravestones shrouded by fog bear the names of souls long passed. All seems quiet.
 
   
-During daytime, the cemetery is a still and peaceful place. Every night at midnight, however, a ghostly procession takes place (see “March of the Dead” in the [Special Events: Chapter 3](http://journal.roll20.net/handout/-KiHLZ74TWwaYABwHSVl) handout).
+During daytime, the cemetery is a still and peaceful place. Every night at midnight, however, a ghostly procession takes place (probably don't do this - it's stupid)
+
+
 
 ---
-
 ## Food and Drink in Barovia
 ### Foods in Barovia
 #### Morgantha's Dream Pies
@@ -222,11 +208,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMTM4MTY5NCw0NDA1NjE1MSwtNTU0Mj
-g3NTYsLTEzODAwNDEzNzIsNDkyMjY3NzM4LC0xNzMxNjg1Mjkz
-LC0xMDA0MzUwODksLTEyMjUzODM1MCwtMTUzNDcyNjgwNSw2ND
-c4NzYyOTIsLTE0MzY1NDM1NTIsMTkzMjA3MzAxMywtNzI3Njc3
-Mzg1LDk3MzczNDU5MSwtMTQ4MjIxNDg3NSw2MjM3MzYzMzAsMT
-cxNjI3ODI3MCwxMjA4NTIwNzI2LC0xNDM2MzIxNTQ3LDExNTEy
-NzA5MzhdfQ==
+eyJoaXN0b3J5IjpbODQ2NTQ3MjM1LDQ0MDU2MTUxLC01NTQyOD
+c1NiwtMTM4MDA0MTM3Miw0OTIyNjc3MzgsLTE3MzE2ODUyOTMs
+LTEwMDQzNTA4OSwtMTIyNTM4MzUwLC0xNTM0NzI2ODA1LDY0Nz
+g3NjI5MiwtMTQzNjU0MzU1MiwxOTMyMDczMDEzLC03Mjc2Nzcz
+ODUsOTczNzM0NTkxLC0xNDgyMjE0ODc1LDYyMzczNjMzMCwxNz
+E2Mjc4MjcwLDEyMDg1MjA3MjYsLTE0MzYzMjE1NDcsMTE1MTI3
+MDkzOF19
 -->
