@@ -147,14 +147,12 @@ This is Donavich’s room and contains nothing of value.
 
 Donavich keeps his son Doru in the undercroft, unable to kill him but well aware of the monster Doru has become.  As the years have gone by Donavich has fed his son sparingly with his own blood, and has redoubled the wards and sigils on the trap door in the hopes of keeping his son down there.
   
-
 ##### E5e. Office
 > An old desk and chair stand against the south wall, a wooden holy symbol mounted above them—a sunburst. A ten-foot-long iron rod attached to the north wall stands bare, suggesting a tapestry once hung there. Against the far wall stands a wooden cabinet with four tall doors.
-
   
 An empty wooden poor box rests on the seat of the chair. The desk drawers contain a few sheets of blank parchment, along with a couple of quill pens and dried-up jars of ink.  
   
-For its size, the wooden cabinet contains very little. Inside are a tinderbox, a few wooden boxes full of candles, and two well-used books: _Hymns to the Dawn_, a volume of chants to the Morninglord, and _The Blade of Truth: The Uses of Logic in the War Against Diabolist Heresies, as Fought by the Ulmist Inquisition_, a strange book that mixes logic exercises with lurid descriptions of fiend-worshiping cults.  
+For its size, the wooden cabinet contains very little. Inside are a tinderbox, a few wooden boxes full of candles, and two well-used books: *Hymns to the Dawn*, a volume of prayers and chants dedicated to the worship of the Morninglord, and *The Blade of Truth: The Uses of Logic in the War Against Diabolist Heresies, as Fought by the Ulmist Inquisition*, a strange book that mixes logic exercises with lurid descriptions of fiend-worshiping cults.  
 
 ----------
 
@@ -243,11 +241,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk5NjQ1MjQyLDQ5MjI2NzczOCwtMTczMT
-Y4NTI5MywtMTAwNDM1MDg5LC0xMjI1MzgzNTAsLTE1MzQ3MjY4
-MDUsNjQ3ODc2MjkyLC0xNDM2NTQzNTUyLDE5MzIwNzMwMTMsLT
-cyNzY3NzM4NSw5NzM3MzQ1OTEsLTE0ODIyMTQ4NzUsNjIzNzM2
-MzMwLDE3MTYyNzgyNzAsMTIwODUyMDcyNiwtMTQzNjMyMTU0Ny
-wxMTUxMjcwOTM4LDUyNDk3MDU5MiwxNTU3MDU2ODM0LDE5OTU1
-MDUwMF19
+eyJoaXN0b3J5IjpbLTEzODAwNDEzNzIsNDkyMjY3NzM4LC0xNz
+MxNjg1MjkzLC0xMDA0MzUwODksLTEyMjUzODM1MCwtMTUzNDcy
+NjgwNSw2NDc4NzYyOTIsLTE0MzY1NDM1NTIsMTkzMjA3MzAxMy
+wtNzI3Njc3Mzg1LDk3MzczNDU5MSwtMTQ4MjIxNDg3NSw2MjM3
+MzYzMzAsMTcxNjI3ODI3MCwxMjA4NTIwNzI2LC0xNDM2MzIxNT
+Q3LDExNTEyNzA5MzgsNTI0OTcwNTkyLDE1NTcwNTY4MzQsMTk5
+NTUwNTAwXX0=
 -->
