@@ -145,7 +145,7 @@ This is Donavich’s room and contains nothing of value.
 #### E5d. Trapdoor
 > Time and neglect have punched holes in the ceiling of this moldy room, which contains a few broken roof shingles amid puddles of water. In one corner, set into the floor, is a heavy wooden trapdoor held shut with a chain and a padlock.  It is engraved - although engraved is perhaps not the right word, given the rough nature of the engraving - with all manner of sigils and symbols, prayers and mantras A young man’s screams of anguish can be heard through the door.
 
-Donavich lost the key to the iron padlock. If the chain is removed and the trapdoor is opened, the screaming in the undercroft stops. The trapdoor is swollen and stuck in its frame, so that a successful DC 12 Strength check is required to pull it open. Below it is a wooden staircase that descends 15 feet into the undercroft (area E5g).  
+Donavich keeps his son Doru in the undercroft, unable to kill him but well aware of the monster Doru has become.  As the years have gone by Donavich has fed his son
 
 ----------
 
@@ -247,11 +247,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkyMjY3NzM4LC0xNzMxNjg1MjkzLC0xMD
-A0MzUwODksLTEyMjUzODM1MCwtMTUzNDcyNjgwNSw2NDc4NzYy
-OTIsLTE0MzY1NDM1NTIsMTkzMjA3MzAxMywtNzI3Njc3Mzg1LD
-k3MzczNDU5MSwtMTQ4MjIxNDg3NSw2MjM3MzYzMzAsMTcxNjI3
-ODI3MCwxMjA4NTIwNzI2LC0xNDM2MzIxNTQ3LDExNTEyNzA5Mz
-gsNTI0OTcwNTkyLDE1NTcwNTY4MzQsMTk5NTUwNTAwLC0xMzAx
-OTMyNDE2XX0=
+eyJoaXN0b3J5IjpbMTgzNjg1NTMxNCw0OTIyNjc3MzgsLTE3Mz
+E2ODUyOTMsLTEwMDQzNTA4OSwtMTIyNTM4MzUwLC0xNTM0NzI2
+ODA1LDY0Nzg3NjI5MiwtMTQzNjU0MzU1MiwxOTMyMDczMDEzLC
+03Mjc2NzczODUsOTczNzM0NTkxLC0xNDgyMjE0ODc1LDYyMzcz
+NjMzMCwxNzE2Mjc4MjcwLDEyMDg1MjA3MjYsLTE0MzYzMjE1ND
+csMTE1MTI3MDkzOCw1MjQ5NzA1OTIsMTU1NzA1NjgzNCwxOTk1
+NTA1MDBdfQ==
 -->
