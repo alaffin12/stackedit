@@ -184,7 +184,9 @@ During daytime, the cemetery is a still and peaceful place. Every night at midni
 
 There is little for the players to do here, but if they sit by the campfire they will opportunities to talk to the Vistani and find out about the world they are trapped in.  The Vistani know the following:
 * Stradh is a powerful ruler, a god-king of sorts.  However he draws his power from someone or something else.  
-* Vistani are not free, per se, but they have some liberty owing to some ancient agreement between the Vistani and Stradh when he was a mortal.  The Vistani are allowed to travel to and from Barov
+* Vistani are not free, per se, but they have some liberty owing to some ancient agreement between the Vistani and Stradh when he was a mortal.  The Vistani are allowed to travel to and from Barovia, although they can never leave it behind forever.  
+* 
+* There is a repository of ancient knowledge away to the south, near the snowy and shadowed peak of Mount 
 
 One of Life
 
@@ -224,7 +226,7 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NTU1Njg1NSwtMTc0NDcxNzE0MSwtMT
+eyJoaXN0b3J5IjpbMTUzMTkyOTc1MywtMTc0NDcxNzE0MSwtMT
 kwMDA1ODc4Niw4NDY1NDcyMzUsNDQwNTYxNTEsLTU1NDI4NzU2
 LC0xMzgwMDQxMzcyLDQ5MjI2NzczOCwtMTczMTY4NTI5MywtMT
 AwNDM1MDg5LC0xMjI1MzgzNTAsLTE1MzQ3MjY4MDUsNjQ3ODc2
