@@ -189,7 +189,7 @@ There is little for the players to do here, but if they sit by the campfire they
 * There is a repository of ancient knowledge away to the south, near the snowy and shadowed peak of Mount of Storms, which Barovians call Mount Ghakis.  It is a forbidden place for the Vistani, but One of Life might know more.
 
 If the players seek the Fortune Teller One of Life she will peer into their future:
-> "You are not meant to be here.  You are outsiders, trapped.  But not prisoners, not part of his game.
+> "Interesting, you are not meant to be here.  Like us - the Vistani - you are not part of this place, it's endless loop of hopes broken and dreams crushed.  You are outsiders.  And you are trapped.  
 
 One of Life
 
@@ -229,11 +229,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MTU1OTczNiwtNjIxOTgyMTAzLC0xNz
-Q0NzE3MTQxLC0xOTAwMDU4Nzg2LDg0NjU0NzIzNSw0NDA1NjE1
-MSwtNTU0Mjg3NTYsLTEzODAwNDEzNzIsNDkyMjY3NzM4LC0xNz
-MxNjg1MjkzLC0xMDA0MzUwODksLTEyMjUzODM1MCwtMTUzNDcy
-NjgwNSw2NDc4NzYyOTIsLTE0MzY1NDM1NTIsMTkzMjA3MzAxMy
-wtNzI3Njc3Mzg1LDk3MzczNDU5MSwtMTQ4MjIxNDg3NSw2MjM3
-MzYzMzBdfQ==
+eyJoaXN0b3J5IjpbLTU2MDE1OTUxOCwxODgxNTU5NzM2LC02Mj
+E5ODIxMDMsLTE3NDQ3MTcxNDEsLTE5MDAwNTg3ODYsODQ2NTQ3
+MjM1LDQ0MDU2MTUxLC01NTQyODc1NiwtMTM4MDA0MTM3Miw0OT
+IyNjc3MzgsLTE3MzE2ODUyOTMsLTEwMDQzNTA4OSwtMTIyNTM4
+MzUwLC0xNTM0NzI2ODA1LDY0Nzg3NjI5MiwtMTQzNjU0MzU1Mi
+wxOTMyMDczMDEzLC03Mjc2NzczODUsOTczNzM0NTkxLC0xNDgy
+MjE0ODc1XX0=
 -->
