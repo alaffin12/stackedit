@@ -188,8 +188,8 @@ There is little for the players to do here, but if they sit by the campfire they
 * The people of Barovia hate the Vistani for this freedom.  That is why Vistani mostly keep to themselves and stay out of the towns.
 * There is a repository of ancient knowledge away to the south, near the snowy and shadowed peak of Mount of Storms, which Barovians call Mount Ghakis.  It is a forbidden place for the Vistani, but One of Life might know more.
 
-If the players seek the Fortune Teller One of Life she will peer into their future:
-> "Interesting, you are not meant to be here.  Like us - the Vistani - you are not part of this place, it's endless loop of hopes broken and dreams crushed.  You are outsiders.  And you are trapped.  
+If the players seek the Fortune Teller/Vistani Elder One of Life she will peer into their future:
+> "Interesting, you are not meant to be here.  Like us - the Vistani - you are not part of this place, its endless loop of hopes broken and dreams crushed.  You are outsiders.  And you are trapped here.  
 
 One of Life
 
@@ -229,11 +229,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MDE1OTUxOCwxODgxNTU5NzM2LC02Mj
-E5ODIxMDMsLTE3NDQ3MTcxNDEsLTE5MDAwNTg3ODYsODQ2NTQ3
-MjM1LDQ0MDU2MTUxLC01NTQyODc1NiwtMTM4MDA0MTM3Miw0OT
-IyNjc3MzgsLTE3MzE2ODUyOTMsLTEwMDQzNTA4OSwtMTIyNTM4
-MzUwLC0xNTM0NzI2ODA1LDY0Nzg3NjI5MiwtMTQzNjU0MzU1Mi
-wxOTMyMDczMDEzLC03Mjc2NzczODUsOTczNzM0NTkxLC0xNDgy
-MjE0ODc1XX0=
+eyJoaXN0b3J5IjpbLTY0OTIzNTk2MiwtNTYwMTU5NTE4LDE4OD
+E1NTk3MzYsLTYyMTk4MjEwMywtMTc0NDcxNzE0MSwtMTkwMDA1
+ODc4Niw4NDY1NDcyMzUsNDQwNTYxNTEsLTU1NDI4NzU2LC0xMz
+gwMDQxMzcyLDQ5MjI2NzczOCwtMTczMTY4NTI5MywtMTAwNDM1
+MDg5LC0xMjI1MzgzNTAsLTE1MzQ3MjY4MDUsNjQ3ODc2MjkyLC
+0xNDM2NTQzNTUyLDE5MzIwNzMwMTMsLTcyNzY3NzM4NSw5NzM3
+MzQ1OTFdfQ==
 -->
