@@ -190,7 +190,7 @@ There is little for the players to do here, but if they sit by the campfire they
 
 If the players seek the Fortune Teller/Vistani Elder One of Life she will peer into their future:
 * The party are, like the Vistani, not true prisoners of Ravenloft and the Dark Powers.  They are not part of it's endless cycle of forgotten hopes and shattered dreams.  Stradh keeps them here though, which is not much different
-* The knowledge the party seeks is forbidden to the Vistani, part of their pact with Stradh.  It lies away to the south, in a place that is older than Stradh.  He went there one time - that is how he became ruler of the land, how he became imprisoned.  But I do not know more.  However the path is straight - if that is your destination 
+* The knowledge the party seeks is forbidden to the Vistani, part of their pact with Stradh.  It lies away to the south, in a place that is older than Stradh.  He went there one time - that is how he became ruler of the land, how he became imprisoned here.  The Vistani do not know more of their path, 
 
 One of Life
 
@@ -230,11 +230,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDMwNjk5NjUsLTEzODc3NTA5ODMsNj
-I2Nzc0NzgwLC01NjAxNTk1MTgsMTg4MTU1OTczNiwtNjIxOTgy
-MTAzLC0xNzQ0NzE3MTQxLC0xOTAwMDU4Nzg2LDg0NjU0NzIzNS
-w0NDA1NjE1MSwtNTU0Mjg3NTYsLTEzODAwNDEzNzIsNDkyMjY3
-NzM4LC0xNzMxNjg1MjkzLC0xMDA0MzUwODksLTEyMjUzODM1MC
-wtMTUzNDcyNjgwNSw2NDc4NzYyOTIsLTE0MzY1NDM1NTIsMTkz
-MjA3MzAxM119
+eyJoaXN0b3J5IjpbMjAzNDE1OTQyLC0xMzg3NzUwOTgzLDYyNj
+c3NDc4MCwtNTYwMTU5NTE4LDE4ODE1NTk3MzYsLTYyMTk4MjEw
+MywtMTc0NDcxNzE0MSwtMTkwMDA1ODc4Niw4NDY1NDcyMzUsND
+QwNTYxNTEsLTU1NDI4NzU2LC0xMzgwMDQxMzcyLDQ5MjI2Nzcz
+OCwtMTczMTY4NTI5MywtMTAwNDM1MDg5LC0xMjI1MzgzNTAsLT
+E1MzQ3MjY4MDUsNjQ3ODc2MjkyLC0xNDM2NTQzNTUyLDE5MzIw
+NzMwMTNdfQ==
 -->
