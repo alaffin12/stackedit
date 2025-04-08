@@ -194,8 +194,7 @@ If the players seek the Fortune Teller/Vistani Elder One of Life she will peer i
 * One of Life will then offer to read the fortunes of the party:
 
 > "I can see you walk a path.  Let me light a lamp for you, to help you with the way forward."
-> "The eight of swords.  You are trapped.  Surrounded on all sides, forced to walk a path not of your own choosing."
-> 
+> "Let us see where you begin, where you are now."  She deals two cards. "The eight of swords upon the magician.  
 
 One of Life
 
@@ -235,7 +234,7 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMjg1MjM2NCwxNTc2MDc5OTQ2LC05MT
+eyJoaXN0b3J5IjpbMTEwMTcyMjYwNywxNTc2MDc5OTQ2LC05MT
 A5MjE1MDAsLTEzODc3NTA5ODMsNjI2Nzc0NzgwLC01NjAxNTk1
 MTgsMTg4MTU1OTczNiwtNjIxOTgyMTAzLC0xNzQ0NzE3MTQxLC
 0xOTAwMDU4Nzg2LDg0NjU0NzIzNSw0NDA1NjE1MSwtNTU0Mjg3
