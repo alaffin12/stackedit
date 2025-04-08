@@ -193,7 +193,7 @@ If the players seek the Fortune Teller/Vistani Elder One of Life she will peer i
 * The knowledge the party seeks is forbidden to the Vistani, part of their pact with Stradh.  It lies away to the south, in a place that is older than Stradh.  He went there one time - that is how he became ruler of the land, how he became imprisoned here.  The Vistani do not know more of what they might find there, but the path is straight - along the Svalich Road to Raven River, then south into the Tsolenka Pass.  Then climb the mountain road, to the Father of Storms, and to the knowledge they seek.
 * One of Life will then offer to read the fortunes of the party.  Make up something for the party based on their histories and their path (Athas, Krynn, Oerth, Hell, Final Battles).  Then...
 
-> A
+> As One of Life surveys the tarot a fearful look crosses her face.  "No... no this cannot be.  It is... it is him?"
 
 
 
@@ -235,7 +235,7 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMDQ5ODY3NiwxNTc2MDc5OTQ2LC05MT
+eyJoaXN0b3J5IjpbMTU3NTY3MTkwMiwxNTc2MDc5OTQ2LC05MT
 A5MjE1MDAsLTEzODc3NTA5ODMsNjI2Nzc0NzgwLC01NjAxNTk1
 MTgsMTg4MTU1OTczNiwtNjIxOTgyMTAzLC0xNzQ0NzE3MTQxLC
 0xOTAwMDU4Nzg2LDg0NjU0NzIzNSw0NDA1NjE1MSwtNTU0Mjg3
