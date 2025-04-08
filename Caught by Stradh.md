@@ -186,11 +186,11 @@ There is little for the players to do here, but if they sit by the campfire they
 * Stradh is a powerful ruler, a god-king of sorts.  However he draws his power from someone or something else.  
 * Vistani are not free, per se, but they have some liberty owing to some ancient agreement between the Vistani and Stradh when he was a mortal.  The Vistani are allowed to travel to and from Barovia, although they can never leave it behind forever.  
 * The people of Barovia hate the Vistani for this freedom.  That is why Vistani mostly keep to themselves and stay out of the towns.
-* There is a repository of ancient knowledge away to the south, near the snowy and shadowed peak of Mount of Storms, which Barovians call Mount Ghakis.  It is a forbidden place for the Vistani, but One of Life might know more.
+* There is a repository of ancient knowledge away to the south, near the snowy and shadowed peak of the Father of Storms, which Barovians call Mount Ghakis.  It is a forbidden place for the Vistani, but One of Life might know more.
 
 If the players seek the Fortune Teller/Vistani Elder One of Life she will peer into their future:
 * The party are, like the Vistani, not true prisoners of Ravenloft and the Dark Powers.  They are not part of it's endless cycle of forgotten hopes and shattered dreams.  Stradh keeps them here though, which is not much different
-* The knowledge the party seeks is forbidden to the Vistani, part of their pact with Stradh.  It lies away to the south, in a place that is older than Stradh.  He went there one time - that is how he became ruler of the land, how he became imprisoned here.  The Vistani do not know more of what they might find there, but the path is straight - along the Svalich Road to Raven River, then south into the Tsolenka Pass
+* The knowledge the party seeks is forbidden to the Vistani, part of their pact with Stradh.  It lies away to the south, in a place that is older than Stradh.  He went there one time - that is how he became ruler of the land, how he became imprisoned here.  The Vistani do not know more of what they might find there, but the path is straight - along the Svalich Road to Raven River, then south into the Tsolenka Pass.  Then climb the mountain pass, to the Father of Storms
 
 One of Life
 
@@ -230,11 +230,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODIwMTMyNzUsLTEzODc3NTA5ODMsNj
-I2Nzc0NzgwLC01NjAxNTk1MTgsMTg4MTU1OTczNiwtNjIxOTgy
-MTAzLC0xNzQ0NzE3MTQxLC0xOTAwMDU4Nzg2LDg0NjU0NzIzNS
-w0NDA1NjE1MSwtNTU0Mjg3NTYsLTEzODAwNDEzNzIsNDkyMjY3
-NzM4LC0xNzMxNjg1MjkzLC0xMDA0MzUwODksLTEyMjUzODM1MC
-wtMTUzNDcyNjgwNSw2NDc4NzYyOTIsLTE0MzY1NDM1NTIsMTkz
-MjA3MzAxM119
+eyJoaXN0b3J5IjpbMTQ5MDk3NTA5NSwtMTM4Nzc1MDk4Myw2Mj
+Y3NzQ3ODAsLTU2MDE1OTUxOCwxODgxNTU5NzM2LC02MjE5ODIx
+MDMsLTE3NDQ3MTcxNDEsLTE5MDAwNTg3ODYsODQ2NTQ3MjM1LD
+Q0MDU2MTUxLC01NTQyODc1NiwtMTM4MDA0MTM3Miw0OTIyNjc3
+MzgsLTE3MzE2ODUyOTMsLTEwMDQzNTA4OSwtMTIyNTM4MzUwLC
+0xNTM0NzI2ODA1LDY0Nzg3NjI5MiwtMTQzNjU0MzU1MiwxOTMy
+MDczMDEzXX0=
 -->
