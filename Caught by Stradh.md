@@ -190,7 +190,8 @@ There is little for the players to do here, but if they sit by the campfire they
 
 If the players seek the Fortune Teller/Vistani Elder One of Life she will peer into their future:
 * The party are, like the Vistani, not true prisoners of Ravenloft and the Dark Powers.  They are not part of it's endless cycle of forgotten hopes and shattered dreams.  Stradh keeps them here though, which is not much different
-* The knowledge the party seeks is forbidden to the Vistani, part of their pact with Stradh.  It lies away to the south, in a place that is older than Stradh.  He went there one time - that is how he became ruler of the land, how he became imprisoned here.  The Vistani do not know more of what they might find there, but the path is straight - along the Svalich Road to Raven River, then south into the Tsolenka Pass.  Then climb the mountain pass, to the Father of Storms
+* The knowledge the party seeks is forbidden to the Vistani, part of their pact with Stradh.  It lies away to the south, in a place that is older than Stradh.  He went there one time - that is how he became ruler of the land, how he became imprisoned here.  The Vistani do not know more of what they might find there, but the path is straight - along the Svalich Road to Raven River, then south into the Tsolenka Pass.  Then climb the mountain road, to the Father of Storms, and to the knowledge they seek.
+* One of Life will then offer to read the fortunes of the part
 
 One of Life
 
@@ -230,7 +231,7 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MDk3NTA5NSwtMTM4Nzc1MDk4Myw2Mj
+eyJoaXN0b3J5IjpbLTkxMDkyMTUwMCwtMTM4Nzc1MDk4Myw2Mj
 Y3NzQ3ODAsLTU2MDE1OTUxOCwxODgxNTU5NzM2LC02MjE5ODIx
 MDMsLTE3NDQ3MTcxNDEsLTE5MDAwNTg3ODYsODQ2NTQ3MjM1LD
 Q0MDU2MTUxLC01NTQyODc1NiwtMTM4MDA0MTM3Miw0OTIyNjc3
