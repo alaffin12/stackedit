@@ -196,7 +196,7 @@ If the players seek the Fortune Teller/Vistani Elder One of Life she will peer i
 > "I can see you walk a path.  Let me light a lamp for you, to help you with the way forward."
 > "Let us see where you begin, where you are now."  She deals two cards. "The eight of swords upon the magician, reversed.  You are trapped on a path not of your own design.  A trickster - a powerful one - laid the path for you.  But something is wrong.  The trickster is not where he ought to be.  Curious."
 > "The next step..." she deals another card "...the Sun." She chuckles "That card is never drawn in this land.  So your path leads you away.  Elsewhere.  That is good."
-> "After that..." she deals another card "...
+> "After that..." she deals another card "...a moon.  But I do not see a land of night for you.  Something different."  She deals another card on top of it. "A three of 
 
 One of Life
 
@@ -236,11 +236,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYzOTUxOTUwLDE1NzYwNzk5NDYsLTkxMD
-kyMTUwMCwtMTM4Nzc1MDk4Myw2MjY3NzQ3ODAsLTU2MDE1OTUx
-OCwxODgxNTU5NzM2LC02MjE5ODIxMDMsLTE3NDQ3MTcxNDEsLT
-E5MDAwNTg3ODYsODQ2NTQ3MjM1LDQ0MDU2MTUxLC01NTQyODc1
-NiwtMTM4MDA0MTM3Miw0OTIyNjc3MzgsLTE3MzE2ODUyOTMsLT
-EwMDQzNTA4OSwtMTIyNTM4MzUwLC0xNTM0NzI2ODA1LDY0Nzg3
-NjI5Ml19
+eyJoaXN0b3J5IjpbMTMxODE2MzI5OSwxNTc2MDc5OTQ2LC05MT
+A5MjE1MDAsLTEzODc3NTA5ODMsNjI2Nzc0NzgwLC01NjAxNTk1
+MTgsMTg4MTU1OTczNiwtNjIxOTgyMTAzLC0xNzQ0NzE3MTQxLC
+0xOTAwMDU4Nzg2LDg0NjU0NzIzNSw0NDA1NjE1MSwtNTU0Mjg3
+NTYsLTEzODAwNDEzNzIsNDkyMjY3NzM4LC0xNzMxNjg1MjkzLC
+0xMDA0MzUwODksLTEyMjUzODM1MCwtMTUzNDcyNjgwNSw2NDc4
+NzYyOTJdfQ==
 -->
