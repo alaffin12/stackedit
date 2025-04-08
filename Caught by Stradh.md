@@ -190,7 +190,7 @@ There is little for the players to do here, but if they sit by the campfire they
 
 If the players seek the Fortune Teller/Vistani Elder One of Life she will peer into their future:
 * The party are, like the Vistani, not true prisoners of Ravenloft and the Dark Powers.  They are not part of it's endless cycle of forgotten hopes and shattered dreams.  Stradh keeps them here though, which is not much different
-* The knowledge the party seeks is forbidden to the Vistani, part of their pact with Stradh.  It lies away
+* The knowledge the party seeks is forbidden to the Vistani, part of their pact with Stradh.  It lies away to the south, in a place that is older than Stradh.  He went there one time - that is how he became ruler of the land, how he became imprisoned.  But I do not kn
 
 One of Life
 
@@ -230,11 +230,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI2Nzc0NzgwLC01NjAxNTk1MTgsMTg4MT
-U1OTczNiwtNjIxOTgyMTAzLC0xNzQ0NzE3MTQxLC0xOTAwMDU4
-Nzg2LDg0NjU0NzIzNSw0NDA1NjE1MSwtNTU0Mjg3NTYsLTEzOD
-AwNDEzNzIsNDkyMjY3NzM4LC0xNzMxNjg1MjkzLC0xMDA0MzUw
-ODksLTEyMjUzODM1MCwtMTUzNDcyNjgwNSw2NDc4NzYyOTIsLT
-E0MzY1NDM1NTIsMTkzMjA3MzAxMywtNzI3Njc3Mzg1LDk3Mzcz
-NDU5MV19
+eyJoaXN0b3J5IjpbLTM2ODcxNzkyNiw2MjY3NzQ3ODAsLTU2MD
+E1OTUxOCwxODgxNTU5NzM2LC02MjE5ODIxMDMsLTE3NDQ3MTcx
+NDEsLTE5MDAwNTg3ODYsODQ2NTQ3MjM1LDQ0MDU2MTUxLC01NT
+QyODc1NiwtMTM4MDA0MTM3Miw0OTIyNjc3MzgsLTE3MzE2ODUy
+OTMsLTEwMDQzNTA4OSwtMTIyNTM4MzUwLC0xNTM0NzI2ODA1LD
+Y0Nzg3NjI5MiwtMTQzNjU0MzU1MiwxOTMyMDczMDEzLC03Mjc2
+NzczODVdfQ==
 -->
