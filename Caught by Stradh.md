@@ -182,7 +182,9 @@ During daytime, the cemetery is a still and peaceful place. Every night at midni
 >
 > The upbeat strains of an accordion clash with the singing of several brightly clad Vistani - tabaxi - around a bonfire. A footpath continues beyond this encampment, meandering north between the river and the forest’s edge.
 
-There is little for the players to do here, but if they sit by the campfire they will opportunities to talk to the Vistani and find out about the world they are trapped in.  The Vistani know 
+There is little for the players to do here, but if they sit by the campfire they will opportunities to talk to the Vistani and find out about the world they are trapped in.  The Vistani know the following:
+* Stradh is a powerful ruler, a god-king of sorts.  However he draws his power from someone or something else.  
+* Non-
 
 One of Life
 
@@ -222,11 +224,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3Mjc2NTE3MywtMTc0NDcxNzE0MSwtMT
-kwMDA1ODc4Niw4NDY1NDcyMzUsNDQwNTYxNTEsLTU1NDI4NzU2
-LC0xMzgwMDQxMzcyLDQ5MjI2NzczOCwtMTczMTY4NTI5MywtMT
-AwNDM1MDg5LC0xMjI1MzgzNTAsLTE1MzQ3MjY4MDUsNjQ3ODc2
-MjkyLC0xNDM2NTQzNTUyLDE5MzIwNzMwMTMsLTcyNzY3NzM4NS
-w5NzM3MzQ1OTEsLTE0ODIyMTQ4NzUsNjIzNzM2MzMwLDE3MTYy
-NzgyNzBdfQ==
+eyJoaXN0b3J5IjpbLTEwMTA3NTQxOTQsLTE3NDQ3MTcxNDEsLT
+E5MDAwNTg3ODYsODQ2NTQ3MjM1LDQ0MDU2MTUxLC01NTQyODc1
+NiwtMTM4MDA0MTM3Miw0OTIyNjc3MzgsLTE3MzE2ODUyOTMsLT
+EwMDQzNTA4OSwtMTIyNTM4MzUwLC0xNTM0NzI2ODA1LDY0Nzg3
+NjI5MiwtMTQzNjU0MzU1MiwxOTMyMDczMDEzLC03Mjc2NzczOD
+UsOTczNzM0NTkxLC0xNDgyMjE0ODc1LDYyMzczNjMzMCwxNzE2
+Mjc4MjcwXX0=
 -->
