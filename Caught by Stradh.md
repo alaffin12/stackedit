@@ -186,7 +186,10 @@ There is little for the players to do here, but if they sit by the campfire they
 * Stradh is a powerful ruler, a god-king of sorts.  However he draws his power from someone or something else.  
 * Vistani are not free, per se, but they have some liberty owing to some ancient agreement between the Vistani and Stradh when he was a mortal.  The Vistani are allowed to travel to and from Barovia, although they can never leave it behind forever.  
 * The people of Barovia hate the Vistani for this freedom.  That is why Vistani mostly keep to themselves and stay out of the towns.
-* There is a repository of ancient knowledge away to the south, near the snowy and shadowed peak of Mount of Storms, which Barovians call Mount Ghakis.  
+* There is a repository of ancient knowledge away to the south, near the snowy and shadowed peak of Mount of Storms, which Barovians call Mount Ghakis.  It is a forbidden place for the Vistani, but One of Life might know more.
+
+If the players seek the Fortune Teller One of Life she will peer into their future:
+> "You are not meant to be here.  You are outsiders, trapped.  But not prisoners, not part of his game.
 
 One of Life
 
@@ -226,11 +229,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMTk4MjEwMywtMTc0NDcxNzE0MSwtMT
-kwMDA1ODc4Niw4NDY1NDcyMzUsNDQwNTYxNTEsLTU1NDI4NzU2
-LC0xMzgwMDQxMzcyLDQ5MjI2NzczOCwtMTczMTY4NTI5MywtMT
-AwNDM1MDg5LC0xMjI1MzgzNTAsLTE1MzQ3MjY4MDUsNjQ3ODc2
-MjkyLC0xNDM2NTQzNTUyLDE5MzIwNzMwMTMsLTcyNzY3NzM4NS
-w5NzM3MzQ1OTEsLTE0ODIyMTQ4NzUsNjIzNzM2MzMwLDE3MTYy
-NzgyNzBdfQ==
+eyJoaXN0b3J5IjpbMTg4MTU1OTczNiwtNjIxOTgyMTAzLC0xNz
+Q0NzE3MTQxLC0xOTAwMDU4Nzg2LDg0NjU0NzIzNSw0NDA1NjE1
+MSwtNTU0Mjg3NTYsLTEzODAwNDEzNzIsNDkyMjY3NzM4LC0xNz
+MxNjg1MjkzLC0xMDA0MzUwODksLTEyMjUzODM1MCwtMTUzNDcy
+NjgwNSw2NDc4NzYyOTIsLTE0MzY1NDM1NTIsMTkzMjA3MzAxMy
+wtNzI3Njc3Mzg1LDk3MzczNDU5MSwtMTQ4MjIxNDg3NSw2MjM3
+MzYzMzBdfQ==
 -->
