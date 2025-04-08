@@ -195,7 +195,7 @@ If the players seek the Fortune Teller/Vistani Elder One of Life she will peer i
 
 > As One of Life surveys the tarot a fearful look crosses her face.  "No... no this cannot be.  It is... it is him!"
 
-One of Life will panic, and if they party steps outside they will find the encampment under attack by servants of Vecna - 1 x Necromancer, 1 x Flind, 2 x Ogre Zombies, 4 x 
+One of Life will panic, and if they party steps outside they will find the encampment under attack by servants of Vecna - 1 x Necromancer, 1 x Flind, 2 x Ogre Zombies, 2 x Gnoll Flesh Gnawer, 2 x Gnoll Pack Lord.
 
 
 
@@ -237,11 +237,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MjYxMDE3NCwxNTc1NjcxOTAyLDE1Nz
-YwNzk5NDYsLTkxMDkyMTUwMCwtMTM4Nzc1MDk4Myw2MjY3NzQ3
-ODAsLTU2MDE1OTUxOCwxODgxNTU5NzM2LC02MjE5ODIxMDMsLT
-E3NDQ3MTcxNDEsLTE5MDAwNTg3ODYsODQ2NTQ3MjM1LDQ0MDU2
-MTUxLC01NTQyODc1NiwtMTM4MDA0MTM3Miw0OTIyNjc3MzgsLT
-E3MzE2ODUyOTMsLTEwMDQzNTA4OSwtMTIyNTM4MzUwLC0xNTM0
-NzI2ODA1XX0=
+eyJoaXN0b3J5IjpbODQxMzg1MjE0LDE1NzU2NzE5MDIsMTU3Nj
+A3OTk0NiwtOTEwOTIxNTAwLC0xMzg3NzUwOTgzLDYyNjc3NDc4
+MCwtNTYwMTU5NTE4LDE4ODE1NTk3MzYsLTYyMTk4MjEwMywtMT
+c0NDcxNzE0MSwtMTkwMDA1ODc4Niw4NDY1NDcyMzUsNDQwNTYx
+NTEsLTU1NDI4NzU2LC0xMzgwMDQxMzcyLDQ5MjI2NzczOCwtMT
+czMTY4NTI5MywtMTAwNDM1MDg5LC0xMjI1MzgzNTAsLTE1MzQ3
+MjY4MDVdfQ==
 -->
