@@ -195,14 +195,10 @@ If the players seek the Fortune Teller/Vistani Elder One of Life she will peer i
 
 > As One of Life surveys the tarot a fearful look crosses her face.  "No... no this cannot be.  This is Stradh's domain!  It is... it is him!"
 
-One of Life will panic, and i> "
-
-One of Life
-
-#### Campfire Tales
-If they party steps outside they will find the encampment under attack by servants of Vecna - 1 x Necromancer, 1 x Flind, 2 x Ogre Zombies, 4 x Gnoll Pack Lord.  Add others (low level gnolls and zombies) to deal with the Vistani, who are clearly not capable of fighting off this attack.  The party may try and save the Vistani, they may flee - let them make choices.  The aftermath will be bloody, however...
+One of Life will panic, and if they party steps outside they will find the encampment under attack by servants of Vecna - 1 x Necromancer, 1 x Flind, 2 x Ogre Zombies, 4 x Gnoll Pack Lord.  Add others (low level gnolls and zombies) to deal with the Vistani, who are clearly not capable of fighting off this attack.  The party may try and save the Vistani, they may flee - let them make choices.  The aftermath will be bloody, however...
 
 ### Old Bonegrinder (Area O) (Two blood hags one night hag)
+
 #### Approach
 > The Old Svalich Road transitions here from being a winding path through the Balinok Mountains to a lazy trail that hugs the mountainside as it descends into a fog-filled valley.  Further down in the valley you can make out the shadow of a walled town near the shores of a massive lake.  Near here the road splits, the branch climbing to a small promontory, atop which is perched a dilapidated stone windmill, its warped wooden vanes stripped bare.
 
@@ -260,11 +256,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MDk5MjcxMCwxMTY3ODg5NDM2LDIwNj
-I0MzE4MzEsLTU1MDQ1MTQsMjAxOTM4MTk2OSwtMjA5MzE1OTU4
-OCwtMzMyODcyNDQ2LDE3NjYyOTEyMDYsMTIzNTY3NjYxNSwyNT
-YxNjMwNDEsLTEwOTMxMjQ2MzksLTE1NTMyMDMwMDUsODQxMzg1
-MjE0LDE1NzU2NzE5MDIsMTU3NjA3OTk0NiwtOTEwOTIxNTAwLC
-0xMzg3NzUwOTgzLDYyNjc3NDc4MCwtNTYwMTU5NTE4LC02MjE5
-ODIxMDNdfQ==
+eyJoaXN0b3J5IjpbLTIwNDcxMDE3OTgsMTE2Nzg4OTQzNiwyMD
+YyNDMxODMxLC01NTA0NTE0LDIwMTkzODE5NjksLTIwOTMxNTk1
+ODgsLTMzMjg3MjQ0NiwxNzY2MjkxMjA2LDEyMzU2NzY2MTUsMj
+U2MTYzMDQxLC0xMDkzMTI0NjM5LC0xNTUzMjAzMDA1LDg0MTM4
+NTIxNCwxNTc1NjcxOTAyLDE1NzYwNzk5NDYsLTkxMDkyMTUwMC
+wtMTM4Nzc1MDk4Myw2MjY3NzQ3ODAsLTU2MDE1OTUxOCwtNjIx
+OTgyMTAzXX0=
 -->
