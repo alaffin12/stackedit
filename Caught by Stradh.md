@@ -201,6 +201,13 @@ One of Life will panic, and if they party steps outside they will find the encam
 #### Approach
 > The Old Svalich Road transitions here from being a winding path through the Balinok Mountains to a lazy trail that hugs the mountainside as it descends into a fog-filled valley.  Further down in the valley you can make out the shadow of a walled town near the shores of a massive lake.  Near here the road splits, the branch climbing to a small promontory, atop which is perched a dilapidated stone windmill, its warped wooden vanes stripped bare.
 
+If they investigate the windmill...
+
+> The onion-domed edifice leans forward and to one side, as though trying to turn away from the stormy gray sky. You see gray brick walls and dirt-covered windows on the upper floors. A decrepit wooden platform encircles the windmill above a flimsy doorway leading to the building's interior. Perched on a wooden beam above the door is a raven. It hops about and squawks at you, seemingly agitated.
+
+A character who pays attention to the bird and succeeds on a DC 12 Wisdom (Insight) check senses the 
+
+
 ### Vallaki
 
 ### The Amber Temple
@@ -235,11 +242,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxOTM4MTk2OSwtMjA5MzE1OTU4OCwtMz
-MyODcyNDQ2LDE3NjYyOTEyMDYsMTIzNTY3NjYxNSwyNTYxNjMw
-NDEsLTEwOTMxMjQ2MzksLTE1NTMyMDMwMDUsODQxMzg1MjE0LD
-E1NzU2NzE5MDIsMTU3NjA3OTk0NiwtOTEwOTIxNTAwLC0xMzg3
-NzUwOTgzLDYyNjc3NDc4MCwtNTYwMTU5NTE4LDE4ODE1NTk3Mz
-YsLTYyMTk4MjEwMywtMTc0NDcxNzE0MSwtMTkwMDA1ODc4Niw4
-NDY1NDcyMzVdfQ==
+eyJoaXN0b3J5IjpbLTYzMzY3NzM2LDIwMTkzODE5NjksLTIwOT
+MxNTk1ODgsLTMzMjg3MjQ0NiwxNzY2MjkxMjA2LDEyMzU2NzY2
+MTUsMjU2MTYzMDQxLC0xMDkzMTI0NjM5LC0xNTUzMjAzMDA1LD
+g0MTM4NTIxNCwxNTc1NjcxOTAyLDE1NzYwNzk5NDYsLTkxMDky
+MTUwMCwtMTM4Nzc1MDk4Myw2MjY3NzQ3ODAsLTU2MDE1OTUxOC
+wxODgxNTU5NzM2LC02MjE5ODIxMDMsLTE3NDQ3MTcxNDEsLTE5
+MDAwNTg3ODZdfQ==
 -->
