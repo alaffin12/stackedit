@@ -195,15 +195,12 @@ If the players seek the Fortune Teller/Vistani Elder One of Life she will peer i
 
 > As One of Life surveys the tarot a fearful look crosses her face.  "No... no this cannot be.  It is... it is him!"
 
-One of Life will panic, and if they party steps outside they will find the encampment under attack by servants of Vecna - 1 x Necromancer, 1 x Flind, 2 x Ogre Zombies, 2 x Gnoll Flesh Gnawer, 2 x Gnoll Pack Lord.  Add others (low level gnolls and zombies) to deal with the Vistani, who are clearly not capable of fighting off this attack.  The party may try and save the Vistani, they may flee - let them make choices.  It will likely not be kind however
+One of Life will panic, and if they party steps outside they will find the encampment under attack by servants of Vecna - 1 x Necromancer, 1 x Flind, 2 x Ogre Zombies, 2 x Gnoll Flesh Gnawer, 2 x Gnoll Pack Lord.  Add others (low level gnolls and zombies) to deal with the Vistani, who are clearly not capable of fighting off this attack.  The party may try and save the Vistani, they may flee - let them make choices.  The aftermath will be bloody, however...
 
-
-
-One of Life
 
 #### Campfire Tales
 If the party socializes with the Vistani then eventually one of them might ask about the Amber Temple
-G, H, I, B, O, N, P, R, T
+H, I, B, O, N, P, R, T
 
 
 
@@ -237,11 +234,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTMxMjQ2MzksLTE1NTMyMDMwMDUsOD
-QxMzg1MjE0LDE1NzU2NzE5MDIsMTU3NjA3OTk0NiwtOTEwOTIx
-NTAwLC0xMzg3NzUwOTgzLDYyNjc3NDc4MCwtNTYwMTU5NTE4LD
-E4ODE1NTk3MzYsLTYyMTk4MjEwMywtMTc0NDcxNzE0MSwtMTkw
-MDA1ODc4Niw4NDY1NDcyMzUsNDQwNTYxNTEsLTU1NDI4NzU2LC
-0xMzgwMDQxMzcyLDQ5MjI2NzczOCwtMTczMTY4NTI5MywtMTAw
-NDM1MDg5XX0=
+eyJoaXN0b3J5IjpbMjU2MTYzMDQxLC0xMDkzMTI0NjM5LC0xNT
+UzMjAzMDA1LDg0MTM4NTIxNCwxNTc1NjcxOTAyLDE1NzYwNzk5
+NDYsLTkxMDkyMTUwMCwtMTM4Nzc1MDk4Myw2MjY3NzQ3ODAsLT
+U2MDE1OTUxOCwxODgxNTU5NzM2LC02MjE5ODIxMDMsLTE3NDQ3
+MTcxNDEsLTE5MDAwNTg3ODYsODQ2NTQ3MjM1LDQ0MDU2MTUxLC
+01NTQyODc1NiwtMTM4MDA0MTM3Miw0OTIyNjc3MzgsLTE3MzE2
+ODUyOTNdfQ==
 -->
