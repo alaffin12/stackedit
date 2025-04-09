@@ -193,17 +193,15 @@ If the players seek the Fortune Teller/Vistani Elder One of Life she will peer i
 * The knowledge the party seeks is forbidden to the Vistani, part of their pact with Stradh.  It lies away to the south, in a place that is older than Stradh.  He went there one time - that is how he became ruler of the land, how he became imprisoned here.  The Vistani do not know more of what they might find there, but the path is straight - along the Svalich Road to Raven River, then south into the Tsolenka Pass.  Then climb the mountain road, to the Father of Storms, and to the knowledge they seek.
 * One of Life will then offer to read the fortunes of the party.  Make up something for the party based on their histories and their path (Athas, Krynn, Oerth, Hell, Final Battles).  Then...
 
-> As One of Life surveys the tarot a fearful look crosses her face.  "No... no this cannot be.  It is... it is him!"
+> As One of Life surveys the tarot a fearful look crosses her face.  "No... no this cannot be.  This is Stradh's domain!  It is... it is him!"
 
 One of Life will panic, and if they party steps outside they will find the encampment under attack by servants of Vecna - 1 x Necromancer, 1 x Flind, 2 x Ogre Zombies, 2 x Gnoll Flesh Gnawer, 2 x Gnoll Pack Lord.  Add others (low level gnolls and zombies) to deal with the Vistani, who are clearly not capable of fighting off this attack.  The party may try and save the Vistani, they may flee - let them make choices.  The aftermath will be bloody, however...
 
 ### Old Bonegrinder (Area O)
 
+### Vallaki
 
-
-H, I, B, O, N, P, R, T
-
-
+### The Amber Temple
 
 ---
 ## Food and Drink in Barovia
@@ -235,7 +233,7 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MzEyOTc5NSwyNTYxNjMwNDEsLTEwOT
+eyJoaXN0b3J5IjpbMTIzNTY3NjYxNSwyNTYxNjMwNDEsLTEwOT
 MxMjQ2MzksLTE1NTMyMDMwMDUsODQxMzg1MjE0LDE1NzU2NzE5
 MDIsMTU3NjA3OTk0NiwtOTEwOTIxNTAwLC0xMzg3NzUwOTgzLD
 YyNjc3NDc4MCwtNTYwMTU5NTE4LDE4ODE1NTk3MzYsLTYyMTk4
