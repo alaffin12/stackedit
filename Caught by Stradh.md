@@ -214,6 +214,8 @@ A character who pays attention to the bird and succeeds on a DC 12 Wisdom (Insig
 
 The ceiling here is eight feet high.  If characters move into the room, they note the floor is littered with small bones.  If they make a DC 12 Wisdom (Medicine) check they recognize the bones as children's bones.
 
+This room is filled with baking implements, including but not limited to: wooden bowls; rolling pin
+
 ### Vallaki
 
 ### The Amber Temple
@@ -248,7 +250,7 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MzkzNTgwNiwtNTUwNDUxNCwyMDE5Mz
+eyJoaXN0b3J5IjpbMTEwODI1MzI2NSwtNTUwNDUxNCwyMDE5Mz
 gxOTY5LC0yMDkzMTU5NTg4LC0zMzI4NzI0NDYsMTc2NjI5MTIw
 NiwxMjM1Njc2NjE1LDI1NjE2MzA0MSwtMTA5MzEyNDYzOSwtMT
 U1MzIwMzAwNSw4NDEzODUyMTQsMTU3NTY3MTkwMiwxNTc2MDc5
