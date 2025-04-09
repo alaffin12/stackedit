@@ -198,6 +198,8 @@ If the players seek the Fortune Teller/Vistani Elder One of Life she will peer i
 One of Life will panic, and if they party steps outside they will find the encampment under attack by servants of Vecna - 1 x Necromancer, 1 x Flind, 2 x Ogre Zombies, 4 x Gnoll Pack Lord.  Add others (low level gnolls and zombies) to deal with the Vistani, who are clearly not capable of fighting off this attack.  The party may try and save the Vistani, they may flee - let them make choices.  The aftermath will be bloody, however...
 
 ### Old Bonegrinder (Area O) (Two blood hags one night hag)
+#### Approach
+> The Old Svalich Road transitions here from being a winding path through the Balinok Mountains to a lazy trail that hugs the mountainside as it descends into a fog-filled valley.  
 
 ### Vallaki
 
@@ -233,11 +235,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTMxNTk1ODgsLTMzMjg3MjQ0NiwxNz
-Y2MjkxMjA2LDEyMzU2NzY2MTUsMjU2MTYzMDQxLC0xMDkzMTI0
-NjM5LC0xNTUzMjAzMDA1LDg0MTM4NTIxNCwxNTc1NjcxOTAyLD
-E1NzYwNzk5NDYsLTkxMDkyMTUwMCwtMTM4Nzc1MDk4Myw2MjY3
-NzQ3ODAsLTU2MDE1OTUxOCwxODgxNTU5NzM2LC02MjE5ODIxMD
-MsLTE3NDQ3MTcxNDEsLTE5MDAwNTg3ODYsODQ2NTQ3MjM1LDQ0
-MDU2MTUxXX0=
+eyJoaXN0b3J5IjpbLTE3NTAzNTQ4NjEsLTIwOTMxNTk1ODgsLT
+MzMjg3MjQ0NiwxNzY2MjkxMjA2LDEyMzU2NzY2MTUsMjU2MTYz
+MDQxLC0xMDkzMTI0NjM5LC0xNTUzMjAzMDA1LDg0MTM4NTIxNC
+wxNTc1NjcxOTAyLDE1NzYwNzk5NDYsLTkxMDkyMTUwMCwtMTM4
+Nzc1MDk4Myw2MjY3NzQ3ODAsLTU2MDE1OTUxOCwxODgxNTU5Nz
+M2LC02MjE5ODIxMDMsLTE3NDQ3MTcxNDEsLTE5MDAwNTg3ODYs
+ODQ2NTQ3MjM1XX0=
 -->
