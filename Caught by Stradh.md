@@ -207,8 +207,10 @@ If they investigate the windmill...
 
 A character who pays attention to the bird and succeeds on a DC 12 Wisdom (Insight) check senses the raven is trying to warn the party.  Regardless, after it has delivered its message it flies away in the direction of the town in the valley below.  One at the windmill the party can look down into a forest in between the windmill and the town, and see four squat megaliths at the forest's edge.  Ravens can be seen circling in the air above the stones.
 
-
-
+#### O1. Ground Floor
+> The ground floor has been converted into a makeshift kitchen, but the room is filthy. Baskets and old dishware are piled everywhere. Adding to the clutter is a peddler's cart, a chicken coop, a heavy wooden trunk, and a pretty wooden cabinet with flowers painted on its doors. In addition to the clucking of the chickens, you hear toads croaking. 
+>
+> Warmth issues from a brick oven against one wall, and a crumbling staircase ascends the wall across from it. Shrieks and cackles from somewhere higher up cause the old mill to shudder.
 
 ### Vallaki
 
@@ -244,11 +246,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MDQ1MTQsMjAxOTM4MTk2OSwtMjA5Mz
-E1OTU4OCwtMzMyODcyNDQ2LDE3NjYyOTEyMDYsMTIzNTY3NjYx
-NSwyNTYxNjMwNDEsLTEwOTMxMjQ2MzksLTE1NTMyMDMwMDUsOD
-QxMzg1MjE0LDE1NzU2NzE5MDIsMTU3NjA3OTk0NiwtOTEwOTIx
-NTAwLC0xMzg3NzUwOTgzLDYyNjc3NDc4MCwtNTYwMTU5NTE4LD
-E4ODE1NTk3MzYsLTYyMTk4MjEwMywtMTc0NDcxNzE0MSwtMTkw
-MDA1ODc4Nl19
+eyJoaXN0b3J5IjpbNjY0ODc1OTQzLC01NTA0NTE0LDIwMTkzOD
+E5NjksLTIwOTMxNTk1ODgsLTMzMjg3MjQ0NiwxNzY2MjkxMjA2
+LDEyMzU2NzY2MTUsMjU2MTYzMDQxLC0xMDkzMTI0NjM5LC0xNT
+UzMjAzMDA1LDg0MTM4NTIxNCwxNTc1NjcxOTAyLDE1NzYwNzk5
+NDYsLTkxMDkyMTUwMCwtMTM4Nzc1MDk4Myw2MjY3NzQ3ODAsLT
+U2MDE1OTUxOCwxODgxNTU5NzM2LC02MjE5ODIxMDMsLTE3NDQ3
+MTcxNDFdfQ==
 -->
