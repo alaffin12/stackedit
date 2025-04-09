@@ -199,7 +199,7 @@ One of Life will panic, and if they party steps outside they will find the encam
 
 ### Old Bonegrinder (Area O) (Two blood hags one night hag)
 #### Approach
-> The Old Svalich Road transitions here from being a winding path through the Balinok Mountains to a lazy trail that hugs the mountainside as it descends into a fog-filled valley.  
+> The Old Svalich Road transitions here from being a winding path through the Balinok Mountains to a lazy trail that hugs the mountainside as it descends into a fog-filled valley.  Further down in the valley you can make out the shadow of a walled town near the shores of a massive lake.  Near here the road splits, the branch climbing to a small promontory, atop which is perched a dilapidated stone windmill, its warped wooden vanes stripped bare.
 
 ### Vallaki
 
@@ -235,11 +235,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTAzNTQ4NjEsLTIwOTMxNTk1ODgsLT
-MzMjg3MjQ0NiwxNzY2MjkxMjA2LDEyMzU2NzY2MTUsMjU2MTYz
-MDQxLC0xMDkzMTI0NjM5LC0xNTUzMjAzMDA1LDg0MTM4NTIxNC
-wxNTc1NjcxOTAyLDE1NzYwNzk5NDYsLTkxMDkyMTUwMCwtMTM4
-Nzc1MDk4Myw2MjY3NzQ3ODAsLTU2MDE1OTUxOCwxODgxNTU5Nz
-M2LC02MjE5ODIxMDMsLTE3NDQ3MTcxNDEsLTE5MDAwNTg3ODYs
-ODQ2NTQ3MjM1XX0=
+eyJoaXN0b3J5IjpbMjAxOTM4MTk2OSwtMjA5MzE1OTU4OCwtMz
+MyODcyNDQ2LDE3NjYyOTEyMDYsMTIzNTY3NjYxNSwyNTYxNjMw
+NDEsLTEwOTMxMjQ2MzksLTE1NTMyMDMwMDUsODQxMzg1MjE0LD
+E1NzU2NzE5MDIsMTU3NjA3OTk0NiwtOTEwOTIxNTAwLC0xMzg3
+NzUwOTgzLDYyNjc3NDc4MCwtNTYwMTU5NTE4LDE4ODE1NTk3Mz
+YsLTYyMTk4MjEwMywtMTc0NDcxNzE0MSwtMTkwMDA1ODc4Niw4
+NDY1NDcyMzVdfQ==
 -->
