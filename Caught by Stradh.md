@@ -205,7 +205,7 @@ If they investigate the windmill...
 
 > The onion-domed edifice leans forward and to one side, as though trying to turn away from the stormy gray sky. You see gray brick walls and dirt-covered windows on the upper floors. A decrepit wooden platform encircles the windmill above a flimsy doorway leading to the building's interior. Perched on a wooden beam above the door is a raven. It hops about and squawks at you, seemingly agitated.
 
-A character who pays attention to the bird and succeeds on a DC 12 Wisdom (Insight) check senses the 
+A character who pays attention to the bird and succeeds on a DC 12 Wisdom (Insight) check senses the raven is trying to warn the party.  Regardless, after it has delivered its message it flies away in the direction of the town in the valley below.  One at the windmill the party can look down into a forest in between the windmill and the town, and see four squat megaliths at the forest's edge.  
 
 
 ### Vallaki
@@ -242,11 +242,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMzY3NzM2LDIwMTkzODE5NjksLTIwOT
-MxNTk1ODgsLTMzMjg3MjQ0NiwxNzY2MjkxMjA2LDEyMzU2NzY2
-MTUsMjU2MTYzMDQxLC0xMDkzMTI0NjM5LC0xNTUzMjAzMDA1LD
-g0MTM4NTIxNCwxNTc1NjcxOTAyLDE1NzYwNzk5NDYsLTkxMDky
-MTUwMCwtMTM4Nzc1MDk4Myw2MjY3NzQ3ODAsLTU2MDE1OTUxOC
-wxODgxNTU5NzM2LC02MjE5ODIxMDMsLTE3NDQ3MTcxNDEsLTE5
-MDAwNTg3ODZdfQ==
+eyJoaXN0b3J5IjpbMTI0OTg5NzAwNiwyMDE5MzgxOTY5LC0yMD
+kzMTU5NTg4LC0zMzI4NzI0NDYsMTc2NjI5MTIwNiwxMjM1Njc2
+NjE1LDI1NjE2MzA0MSwtMTA5MzEyNDYzOSwtMTU1MzIwMzAwNS
+w4NDEzODUyMTQsMTU3NTY3MTkwMiwxNTc2MDc5OTQ2LC05MTA5
+MjE1MDAsLTEzODc3NTA5ODMsNjI2Nzc0NzgwLC01NjAxNTk1MT
+gsMTg4MTU1OTczNiwtNjIxOTgyMTAzLC0xNzQ0NzE3MTQxLC0x
+OTAwMDU4Nzg2XX0=
 -->
