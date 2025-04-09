@@ -61,11 +61,11 @@ If players visit an location that is not otherwise noted as being significant on
 | 17-20 | 4+2*1d4 Ghosts |
 
 #### Entering Town
-As the players enter town they meet Morgantha, a night hag disguised as a kindly old woman, exiting a house...
+As the players enter town they meet Morgantha, a blood hag disguised as a kindly old woman, exiting a house...
 
 > You hear a door open and as your head snaps around to see the source of the noise you see a kindly looking old woman dressed in rags stepping out from inside.  She says something unheard to an occupant inside the house, turns and deposits a coin in a box she wears on her hip.  She moves to a nearby cart, looking over at you and smiling.  "Hm?  You're not from around here are you?  Could I interest you in one of my delicious hand pies?"
 
-Morgantha is evil and works with her mother at the Old Bonegrinder windmill, stealing the souls of children to make her special pies.  However the pies do have useful magical properties (detailed below) and the party does not know Morgantha is evil yet.  Also as she is portraying a kindly (if somewhat shabby) old lady she will help the players with the following information:
+Morgantha is evil and works with her mother and daughter at the Old Bonegrinder windmill, stealing the souls of children to make her special pies.  However the pies do have useful magical properties (detailed below) and the party does not know Morgantha is evil yet.  Also as she is portraying a kindly (if somewhat shabby) old lady she will help the players with the following information:
 
 * The only inn in town is the "Blood on the Vine" public house.  Calling it an inn is a stretch - it doesn't have rooms, just a common room with a hearth.  However it is warm, dry and safe at night.  
 * The Blood on the Vine is owned by three Vistani women.  Morgantha doesn't know much about the women or about the Vistani in general
@@ -233,11 +233,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNTY3NjYxNSwyNTYxNjMwNDEsLTEwOT
-MxMjQ2MzksLTE1NTMyMDMwMDUsODQxMzg1MjE0LDE1NzU2NzE5
-MDIsMTU3NjA3OTk0NiwtOTEwOTIxNTAwLC0xMzg3NzUwOTgzLD
-YyNjc3NDc4MCwtNTYwMTU5NTE4LDE4ODE1NTk3MzYsLTYyMTk4
-MjEwMywtMTc0NDcxNzE0MSwtMTkwMDA1ODc4Niw4NDY1NDcyMz
-UsNDQwNTYxNTEsLTU1NDI4NzU2LC0xMzgwMDQxMzcyLDQ5MjI2
-NzczOF19
+eyJoaXN0b3J5IjpbMTc2NjI5MTIwNiwxMjM1Njc2NjE1LDI1Nj
+E2MzA0MSwtMTA5MzEyNDYzOSwtMTU1MzIwMzAwNSw4NDEzODUy
+MTQsMTU3NTY3MTkwMiwxNTc2MDc5OTQ2LC05MTA5MjE1MDAsLT
+EzODc3NTA5ODMsNjI2Nzc0NzgwLC01NjAxNTk1MTgsMTg4MTU1
+OTczNiwtNjIxOTgyMTAzLC0xNzQ0NzE3MTQxLC0xOTAwMDU4Nz
+g2LDg0NjU0NzIzNSw0NDA1NjE1MSwtNTU0Mjg3NTYsLTEzODAw
+NDEzNzJdfQ==
 -->
