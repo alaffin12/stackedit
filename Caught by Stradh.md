@@ -214,7 +214,7 @@ A character who pays attention to the bird and succeeds on a DC 12 Wisdom (Insig
 
 The ceiling here is eight feet high.  If characters move into the room, they note the floor is littered with small bones.  If they make a DC 12 Wisdom (Medicine) check they recognize the bones as children's bones.
 
-This room is filled with baking implements, including but not limited to: wooden bowls; rolling pin
+This room is filled with baking implements, including but not limited to: wooden bowls; rolling pins; various herbs and spices; flour; sugar and several gourds of an unknown white powder.  In one of the cupboards are three elixers - one labelled "Youth" which makes the imbiber appear younger and more attractive for 24 hours; one labelled "Laughter" which in
 
 ### Vallaki
 
@@ -250,11 +250,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwODI1MzI2NSwtNTUwNDUxNCwyMDE5Mz
-gxOTY5LC0yMDkzMTU5NTg4LC0zMzI4NzI0NDYsMTc2NjI5MTIw
-NiwxMjM1Njc2NjE1LDI1NjE2MzA0MSwtMTA5MzEyNDYzOSwtMT
-U1MzIwMzAwNSw4NDEzODUyMTQsMTU3NTY3MTkwMiwxNTc2MDc5
-OTQ2LC05MTA5MjE1MDAsLTEzODc3NTA5ODMsNjI2Nzc0NzgwLC
-01NjAxNTk1MTgsMTg4MTU1OTczNiwtNjIxOTgyMTAzLC0xNzQ0
-NzE3MTQxXX0=
+eyJoaXN0b3J5IjpbODEzNzUyMjIsLTU1MDQ1MTQsMjAxOTM4MT
+k2OSwtMjA5MzE1OTU4OCwtMzMyODcyNDQ2LDE3NjYyOTEyMDYs
+MTIzNTY3NjYxNSwyNTYxNjMwNDEsLTEwOTMxMjQ2MzksLTE1NT
+MyMDMwMDUsODQxMzg1MjE0LDE1NzU2NzE5MDIsMTU3NjA3OTk0
+NiwtOTEwOTIxNTAwLC0xMzg3NzUwOTgzLDYyNjc3NDc4MCwtNT
+YwMTU5NTE4LDE4ODE1NTk3MzYsLTYyMTk4MjEwMywtMTc0NDcx
+NzE0MV19
 -->
