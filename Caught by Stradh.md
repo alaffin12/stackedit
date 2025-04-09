@@ -197,6 +197,7 @@ If the players seek the Fortune Teller/Vistani Elder One of Life she will peer i
 
 One of Life will panic, and if they party steps outside they will find the encampment under attack by servants of Vecna - 1 x Necromancer, 1 x Flind, 2 x Ogre Zombies, 2 x Gnoll Flesh Gnawer, 2 x Gnoll Pack Lord.  Add others (low level gnolls and zombies) to deal with the Vistani, who are clearly not capable of fighting off this attack.  The party may try and save the Vistani, they may flee - let them make choices.  The aftermath will be bloody, however...
 
+### Old Bonegrinder (Area O)
 
 
 
@@ -234,11 +235,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQzNTY3MTE3LDI1NjE2MzA0MSwtMTA5Mz
-EyNDYzOSwtMTU1MzIwMzAwNSw4NDEzODUyMTQsMTU3NTY3MTkw
-MiwxNTc2MDc5OTQ2LC05MTA5MjE1MDAsLTEzODc3NTA5ODMsNj
-I2Nzc0NzgwLC01NjAxNTk1MTgsMTg4MTU1OTczNiwtNjIxOTgy
-MTAzLC0xNzQ0NzE3MTQxLC0xOTAwMDU4Nzg2LDg0NjU0NzIzNS
-w0NDA1NjE1MSwtNTU0Mjg3NTYsLTEzODAwNDEzNzIsNDkyMjY3
-NzM4XX0=
+eyJoaXN0b3J5IjpbLTI2MzEyOTc5NSwyNTYxNjMwNDEsLTEwOT
+MxMjQ2MzksLTE1NTMyMDMwMDUsODQxMzg1MjE0LDE1NzU2NzE5
+MDIsMTU3NjA3OTk0NiwtOTEwOTIxNTAwLC0xMzg3NzUwOTgzLD
+YyNjc3NDc4MCwtNTYwMTU5NTE4LDE4ODE1NTk3MzYsLTYyMTk4
+MjEwMywtMTc0NDcxNzE0MSwtMTkwMDA1ODc4Niw4NDY1NDcyMz
+UsNDQwNTYxNTEsLTU1NDI4NzU2LC0xMzgwMDQxMzcyLDQ5MjI2
+NzczOF19
 -->
