@@ -225,7 +225,11 @@ If the players are being quiet then Morgantha remains ignorant of their presence
 Morgantha is here, unless she has been lured elsewhere.
 
 #### O3. Bedroom
-> A thick wooden gear shaft dominates this cramped, circular room.  A rotting wooden closet is here, with three crate
+> A thick wooden gear shaft dominates this cramped, circular room.  A rotting wooden closet is here, with three crates stacked one atop of another, with small doors set into them.  Next to the closet is a heap of discarded clothing.  A ladder climbs to a wooden trapdoor in the night foot high ceiling.  A moldy bed with a tattered canopy stands nearby.
+
+Morgantha's mother Offalia (another Blood Hag) and her daughter Bella (a Night Hag) are here, unless they have been lured elsewhere.
+
+
 
 
 
@@ -261,7 +265,7 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MTYzNDU4MiwtOTcwNTQ0Nzc5LC04OD
+eyJoaXN0b3J5IjpbLTE0MzU2NDkxNiwtOTcwNTQ0Nzc5LC04OD
 MzMDU0ODQsLTE1MjU4NTgxODYsLTE4MjQzMTc3ODUsLTk1MTI5
 MDQ2OSwzNDM0NTY1MzQsLTIwNDcxMDE3OTgsMjA2MjQzMTgzMS
 wtNTUwNDUxNCwyMDE5MzgxOTY5LC0yMDkzMTU5NTg4LC0zMzI4
