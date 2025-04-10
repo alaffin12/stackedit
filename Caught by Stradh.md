@@ -259,7 +259,7 @@ As the party approaches the gate they will notice several eyes - and crossbows -
 
 The question is simple.  Assuming the party responds with something that is straightforward enough the guard will not deny them admittance.
 
-> "Very well.  You may enter the city.  As you are not from Vallaki, I will adv
+> "Very well.  You may enter the city.  As you are not from Vallaki, I will advise you of some important laws of the city.  The first - any mention of Strahd is strictly prohibited.  Know that even now as I asy the name it is the last time you will hear it within these gates.  If you must mention that individual you are to refer to him simply as the Devil.  
 
 ### Tsolenka Pass
 
@@ -296,7 +296,7 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MzA1MjA5NiwtMTgzNzA0Mjc2NSwxND
+eyJoaXN0b3J5IjpbMTU4MTMzNjQyOCwtMTgzNzA0Mjc2NSwxND
 cxNTkyOTcsLTI5MzY1NTc1MCwxMjI2OTQyNjk1LC0xMzY0MTgw
 NTEyLC0zNTI1MzY4NzMsNTA1NzAwODkxLC0xMjU2MjI3OTYsMT
 c2Nzg1MzkzMSwtOTcwNTQ0Nzc5LC04ODMzMDU0ODQsLTE1MjU4
