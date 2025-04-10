@@ -243,7 +243,7 @@ The bed is not used for sleeping, but the hags store their treasure here.  The p
 Characters searching this space find nothing more than a few old, abandoned bird's nests.
 
 #### The Megaliths
-
+The megaliths here were raised by the ancient peoples of Barovia, in in honour of the Three Ladies
 
 
 
@@ -279,11 +279,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjQxODA1MTIsLTM1MjUzNjg3Myw1MD
-U3MDA4OTEsLTEyNTYyMjc5NiwxNzY3ODUzOTMxLC05NzA1NDQ3
-NzksLTg4MzMwNTQ4NCwtMTUyNTg1ODE4NiwtMTgyNDMxNzc4NS
-wtOTUxMjkwNDY5LDM0MzQ1NjUzNCwtMjA0NzEwMTc5OCwyMDYy
-NDMxODMxLC01NTA0NTE0LDIwMTkzODE5NjksLTIwOTMxNTk1OD
-gsLTMzMjg3MjQ0NiwxNzY2MjkxMjA2LDEyMzU2NzY2MTUsMjU2
-MTYzMDQxXX0=
+eyJoaXN0b3J5IjpbLTU1NzMxNTIwNiwtMTM2NDE4MDUxMiwtMz
+UyNTM2ODczLDUwNTcwMDg5MSwtMTI1NjIyNzk2LDE3Njc4NTM5
+MzEsLTk3MDU0NDc3OSwtODgzMzA1NDg0LC0xNTI1ODU4MTg2LC
+0xODI0MzE3Nzg1LC05NTEyOTA0NjksMzQzNDU2NTM0LC0yMDQ3
+MTAxNzk4LDIwNjI0MzE4MzEsLTU1MDQ1MTQsMjAxOTM4MTk2OS
+wtMjA5MzE1OTU4OCwtMzMyODcyNDQ2LDE3NjYyOTEyMDYsMTIz
+NTY3NjYxNV19
 -->
