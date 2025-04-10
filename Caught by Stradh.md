@@ -251,6 +251,7 @@ Anyone with a passing familiarity with Barovian culture and history can make a D
 Morgantha, Offalia and Bella are all hags, but usually disguise themselves.  The older two (Morgantha and Offalia) are Blood Hags while the younger one (Bella) is still just a night hag.  Morgantha is the "face" of their operation, and is happy to do business with anyone who shows up at her door.  However if folks are uninterested in what she is selling, or if they are too aggressive she will dismiss them - and then summon her family, if need be, to chase them off.
 
 ### Vallaki
+>The Old Svalich Road meanders around the valley here, watched over by dark brooding mountains to the north and south.  The choking woods of the valley rec
 
 ### Tsolenka Pass
 
@@ -287,11 +288,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTU1ODM5NjEsMTQ3MTU5Mjk3LC0yOT
-M2NTU3NTAsMTIyNjk0MjY5NSwtMTM2NDE4MDUxMiwtMzUyNTM2
-ODczLDUwNTcwMDg5MSwtMTI1NjIyNzk2LDE3Njc4NTM5MzEsLT
-k3MDU0NDc3OSwtODgzMzA1NDg0LC0xNTI1ODU4MTg2LC0xODI0
-MzE3Nzg1LC05NTEyOTA0NjksMzQzNDU2NTM0LC0yMDQ3MTAxNz
-k4LDIwNjI0MzE4MzEsLTU1MDQ1MTQsMjAxOTM4MTk2OSwtMjA5
-MzE1OTU4OF19
+eyJoaXN0b3J5IjpbMTU1NDg1MDk2LDE0NzE1OTI5NywtMjkzNj
+U1NzUwLDEyMjY5NDI2OTUsLTEzNjQxODA1MTIsLTM1MjUzNjg3
+Myw1MDU3MDA4OTEsLTEyNTYyMjc5NiwxNzY3ODUzOTMxLC05Nz
+A1NDQ3NzksLTg4MzMwNTQ4NCwtMTUyNTg1ODE4NiwtMTgyNDMx
+Nzc4NSwtOTUxMjkwNDY5LDM0MzQ1NjUzNCwtMjA0NzEwMTc5OC
+wyMDYyNDMxODMxLC01NTA0NTE0LDIwMTkzODE5NjksLTIwOTMx
+NTk1ODhdfQ==
 -->
