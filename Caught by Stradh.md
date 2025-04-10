@@ -197,7 +197,7 @@ If the players seek the Fortune Teller/Vistani Elder One of Life she will peer i
 
 One of Life will panic, and if they party steps outside they will find the encampment under attack by servants of Vecna - 1 x Necromancer, 1 x Flind, 2 x Ogre Zombies, 4 x Gnoll Pack Lord.  Add others (low level gnolls and zombies) to deal with the Vistani, who are clearly not capable of fighting off this attack.  The party may try and save the Vistani, they may flee - let them make choices.  The aftermath will be bloody, however...
 
-### Old Bonegrinder (Area O) (Two blood hags one night hag)
+### Old Bonegrinder (Area O) 
 
 #### Approach
 > The Old Svalich Road transitions here from being a winding path through the Balinok Mountains to a lazy trail that hugs the mountainside as it descends into a fog-filled valley.  Further down in the valley you can make out the shadow of a walled town near the shores of a massive lake.  Near here the road splits, the branch climbing to a small promontory, atop which is perched a dilapidated stone windmill, its warped wooden vanes stripped bare.
@@ -250,7 +250,7 @@ Anyone with a passing familiarity with Barovian culture and history can make a D
 #### The Hags
 Morgantha, Offalia and Bella are all hags, but usually disguise themselves.  The older two (Morgantha and Offalia) are Blood Hags while the younger one (Bella) is still just a night hag.  Morgantha is the "face" of their operation, and is happy to do business with anyone who shows up at her door.  However if folks are uninterested in what she is selling, or if they are too aggressive she will dismiss them - and then summon her family, if need be, to chase them off.
 
-
+### Vallaki
 
 
 ---
@@ -283,11 +283,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MzY1NTc1MCwxMjI2OTQyNjk1LC0xMz
-Y0MTgwNTEyLC0zNTI1MzY4NzMsNTA1NzAwODkxLC0xMjU2MjI3
-OTYsMTc2Nzg1MzkzMSwtOTcwNTQ0Nzc5LC04ODMzMDU0ODQsLT
-E1MjU4NTgxODYsLTE4MjQzMTc3ODUsLTk1MTI5MDQ2OSwzNDM0
-NTY1MzQsLTIwNDcxMDE3OTgsMjA2MjQzMTgzMSwtNTUwNDUxNC
-wyMDE5MzgxOTY5LC0yMDkzMTU5NTg4LC0zMzI4NzI0NDYsMTc2
-NjI5MTIwNl19
+eyJoaXN0b3J5IjpbMTQ3MTU5Mjk3LC0yOTM2NTU3NTAsMTIyNj
+k0MjY5NSwtMTM2NDE4MDUxMiwtMzUyNTM2ODczLDUwNTcwMDg5
+MSwtMTI1NjIyNzk2LDE3Njc4NTM5MzEsLTk3MDU0NDc3OSwtOD
+gzMzA1NDg0LC0xNTI1ODU4MTg2LC0xODI0MzE3Nzg1LC05NTEy
+OTA0NjksMzQzNDU2NTM0LC0yMDQ3MTAxNzk4LDIwNjI0MzE4Mz
+EsLTU1MDQ1MTQsMjAxOTM4MTk2OSwtMjA5MzE1OTU4OCwtMzMy
+ODcyNDQ2XX0=
 -->
