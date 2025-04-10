@@ -215,7 +215,9 @@ A character who pays attention to the bird and succeeds on a DC 12 Wisdom (Insig
 
 The ceiling here is eight feet high.  If characters move into the room, they note the floor is littered with small bones.  If they make a DC 12 Wisdom (Medicine) check they recognize the bones as children's bones.
 
-This room is filled with baking implements, including but not limited to: wooden bowls; rolling pins; various herbs and spices; flour; sugar and several gourds of an unknown white powder.  In one of the cupboards are three elixers - a magical one labelled "Youth" which makes the imbiber appear younger and more attractive for 24 hours; a non-magical one labelled "Laughter" which infects the imbibers with "Cackle Fever"; and a non-magical one labelled "Mother's Milk" which is actually a dose of "Pale Tincture"
+This room is filled with baking implements, including but not limited to: wooden bowls; rolling pins; various herbs and spices; flour; sugar and several gourds of an unknown white powder.  In one of the cupboards are three elixers - a magical one labelled "Youth" which makes the imbiber appear younger and more attractive for 24 hours; a non-magical one labelled "Laughter" which infects the imbibers with "Cackle Fever"; and a non-magical one labelled "Mother's Milk" which is actually a dose of "Pale Tincture".
+
+If the players are being quiet then Morgantha 
 
 
 
@@ -249,11 +251,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQzNDU2NTM0LC0yMDQ3MTAxNzk4LDIwNj
-I0MzE4MzEsLTU1MDQ1MTQsMjAxOTM4MTk2OSwtMjA5MzE1OTU4
-OCwtMzMyODcyNDQ2LDE3NjYyOTEyMDYsMTIzNTY3NjYxNSwyNT
-YxNjMwNDEsLTEwOTMxMjQ2MzksLTE1NTMyMDMwMDUsODQxMzg1
-MjE0LDE1NzU2NzE5MDIsMTU3NjA3OTk0NiwtOTEwOTIxNTAwLC
-0xMzg3NzUwOTgzLDYyNjc3NDc4MCwtNTYwMTU5NTE4LC02MjE5
-ODIxMDNdfQ==
+eyJoaXN0b3J5IjpbLTk1MTI5MDQ2OSwzNDM0NTY1MzQsLTIwND
+cxMDE3OTgsMjA2MjQzMTgzMSwtNTUwNDUxNCwyMDE5MzgxOTY5
+LC0yMDkzMTU5NTg4LC0zMzI4NzI0NDYsMTc2NjI5MTIwNiwxMj
+M1Njc2NjE1LDI1NjE2MzA0MSwtMTA5MzEyNDYzOSwtMTU1MzIw
+MzAwNSw4NDEzODUyMTQsMTU3NTY3MTkwMiwxNTc2MDc5OTQ2LC
+05MTA5MjE1MDAsLTEzODc3NTA5ODMsNjI2Nzc0NzgwLC01NjAx
+NTk1MThdfQ==
 -->
