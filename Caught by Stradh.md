@@ -255,7 +255,7 @@ Morgantha, Offalia and Bella are all hags, but usually disguise themselves.  The
 
 As the party approaches the gate they will notice several eyes - and crossbows - trained on them.  One of the guards - armed with a pike - will step forward.
 
-
+> 
 
 ### Tsolenka Pass
 
@@ -292,7 +292,7 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MjY0ODc1NSwtMTgzNzA0Mjc2NSwxND
+eyJoaXN0b3J5IjpbMTAxNjQ4ODQ5NSwtMTgzNzA0Mjc2NSwxND
 cxNTkyOTcsLTI5MzY1NTc1MCwxMjI2OTQyNjk1LC0xMzY0MTgw
 NTEyLC0zNTI1MzY4NzMsNTA1NzAwODkxLC0xMjU2MjI3OTYsMT
 c2Nzg1MzkzMSwtOTcwNTQ0Nzc5LC04ODMzMDU0ODQsLTE1MjU4
