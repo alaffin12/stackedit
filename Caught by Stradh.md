@@ -235,6 +235,8 @@ The outward facing side of each create is fitted with a small door that has an i
 
 The two children are from the village of Barovia after being given to the hags by their parents in exchange for Dream Pastries.  The boy, Freek, is seven while the girl, Myrtle, is barely five.  The crates are full of crumbs as the hags have been fattening them up.  If freed neither wants to return to their homes, because of what their parents did.
 
+The bed is not used for sleeping, but the hags store their treasure here.  The part can find ten pieces of cheap costume jewellery inside the mattress, each worth about 25 gp.
+
 
 
 
@@ -269,11 +271,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTYyMjc5NiwxNzY3ODUzOTMxLC05Nz
-A1NDQ3NzksLTg4MzMwNTQ4NCwtMTUyNTg1ODE4NiwtMTgyNDMx
-Nzc4NSwtOTUxMjkwNDY5LDM0MzQ1NjUzNCwtMjA0NzEwMTc5OC
-wyMDYyNDMxODMxLC01NTA0NTE0LDIwMTkzODE5NjksLTIwOTMx
-NTk1ODgsLTMzMjg3MjQ0NiwxNzY2MjkxMjA2LDEyMzU2NzY2MT
-UsMjU2MTYzMDQxLC0xMDkzMTI0NjM5LC0xNTUzMjAzMDA1LDg0
-MTM4NTIxNF19
+eyJoaXN0b3J5IjpbNTA1NzAwODkxLC0xMjU2MjI3OTYsMTc2Nz
+g1MzkzMSwtOTcwNTQ0Nzc5LC04ODMzMDU0ODQsLTE1MjU4NTgx
+ODYsLTE4MjQzMTc3ODUsLTk1MTI5MDQ2OSwzNDM0NTY1MzQsLT
+IwNDcxMDE3OTgsMjA2MjQzMTgzMSwtNTUwNDUxNCwyMDE5Mzgx
+OTY5LC0yMDkzMTU5NTg4LC0zMzI4NzI0NDYsMTc2NjI5MTIwNi
+wxMjM1Njc2NjE1LDI1NjE2MzA0MSwtMTA5MzEyNDYzOSwtMTU1
+MzIwMzAwNV19
 -->
