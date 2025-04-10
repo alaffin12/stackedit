@@ -252,6 +252,10 @@ Morgantha, Offalia and Bella are all hags, but usually disguise themselves.  The
 
 ### Vallaki
 
+### Tsolenka Pass
+
+### Amber Temple
+
 
 ---
 ## Food and Drink in Barovia
@@ -283,11 +287,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MTU5Mjk3LC0yOTM2NTU3NTAsMTIyNj
-k0MjY5NSwtMTM2NDE4MDUxMiwtMzUyNTM2ODczLDUwNTcwMDg5
-MSwtMTI1NjIyNzk2LDE3Njc4NTM5MzEsLTk3MDU0NDc3OSwtOD
-gzMzA1NDg0LC0xNTI1ODU4MTg2LC0xODI0MzE3Nzg1LC05NTEy
-OTA0NjksMzQzNDU2NTM0LC0yMDQ3MTAxNzk4LDIwNjI0MzE4Mz
-EsLTU1MDQ1MTQsMjAxOTM4MTk2OSwtMjA5MzE1OTU4OCwtMzMy
-ODcyNDQ2XX0=
+eyJoaXN0b3J5IjpbLTE0OTU1ODM5NjEsMTQ3MTU5Mjk3LC0yOT
+M2NTU3NTAsMTIyNjk0MjY5NSwtMTM2NDE4MDUxMiwtMzUyNTM2
+ODczLDUwNTcwMDg5MSwtMTI1NjIyNzk2LDE3Njc4NTM5MzEsLT
+k3MDU0NDc3OSwtODgzMzA1NDg0LC0xNTI1ODU4MTg2LC0xODI0
+MzE3Nzg1LC05NTEyOTA0NjksMzQzNDU2NTM0LC0yMDQ3MTAxNz
+k4LDIwNjI0MzE4MzEsLTU1MDQ1MTQsMjAxOTM4MTk2OSwtMjA5
+MzE1OTU4OF19
 -->
