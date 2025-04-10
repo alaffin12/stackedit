@@ -237,6 +237,11 @@ The two children are from the village of Barovia after being given to the hags b
 
 The bed is not used for sleeping, but the hags store their treasure here.  The part can find ten pieces of cheap costume jewellery inside the mattress, each worth about 25 gp.
 
+#### O4. Domed Attic
+> You've reached the windmill's peak-a domed chamber filled with old machinery. There's not much room to move around. Light slips into this attic through small holes in the walls.
+
+Characters searching this space find nothing more than a few old, abandoned bird's nests.
+
 
 
 
@@ -271,11 +276,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA1NzAwODkxLC0xMjU2MjI3OTYsMTc2Nz
-g1MzkzMSwtOTcwNTQ0Nzc5LC04ODMzMDU0ODQsLTE1MjU4NTgx
-ODYsLTE4MjQzMTc3ODUsLTk1MTI5MDQ2OSwzNDM0NTY1MzQsLT
-IwNDcxMDE3OTgsMjA2MjQzMTgzMSwtNTUwNDUxNCwyMDE5Mzgx
-OTY5LC0yMDkzMTU5NTg4LC0zMzI4NzI0NDYsMTc2NjI5MTIwNi
-wxMjM1Njc2NjE1LDI1NjE2MzA0MSwtMTA5MzEyNDYzOSwtMTU1
-MzIwMzAwNV19
+eyJoaXN0b3J5IjpbLTM1MjUzNjg3Myw1MDU3MDA4OTEsLTEyNT
+YyMjc5NiwxNzY3ODUzOTMxLC05NzA1NDQ3NzksLTg4MzMwNTQ4
+NCwtMTUyNTg1ODE4NiwtMTgyNDMxNzc4NSwtOTUxMjkwNDY5LD
+M0MzQ1NjUzNCwtMjA0NzEwMTc5OCwyMDYyNDMxODMxLC01NTA0
+NTE0LDIwMTkzODE5NjksLTIwOTMxNTk1ODgsLTMzMjg3MjQ0Ni
+wxNzY2MjkxMjA2LDEyMzU2NzY2MTUsMjU2MTYzMDQxLC0xMDkz
+MTI0NjM5XX0=
 -->
