@@ -72,7 +72,7 @@ Morgantha is evil and works with her mother and daughter at the Old Bonegrinder 
 * The is a semi-permanent Vistani camp nearby as well, near the Tser Pool.  It's about four hours if you follow the road, on the other side of the Ivalis River.
 * Stradh is a powerful ruler - the party should avoid crossing him if possible.
 * Morgantha's pies are made by her and her mother.  They usually have potato and turnip filling, along with meat if they can get some from the hunters.  Wolf meat is most common (and is what she has today) owing to how common it is in Barovia.
-* If asked why they are so expensive (a gold each) Morgantha will explain that her and her mother use a little bit of the old magic - something that has been passed down from mother to daughter through her family for a long time.  Anyone who eats one will have on the sweetest dreams that night.  Sadly, such things have to be done right to get the magic to work - and doing things right costs gold in Barovia.  "It's not like I can use the cheap cast offs the hunters give away cheap, or rotten old potatoes."
+* If asked why they are so expensive (a gold each) Morgantha will explain that her, her daughter and her mother use a little bit of the old magic - something that has been passed down from mother to daughter through her family for a long time.  Anyone who eats one will have on the sweetest dreams that night.  Sadly, such things have to be done right to get the magic to work - and doing things right costs gold in Barovia.  "It's not like I can use the cheap cast offs the hunters give away cheap, or rotten old potatoes."
 
 #### E1. Bildrath's Mercantile
 >The sparse light from this building spills out from behind drawn heavy curtains. A sign over the door, creaking on its hinges, reads “Bildrath’s Mercantile.”
@@ -247,6 +247,8 @@ The megaliths here were raised by the ancient peoples of Barovia, in in honour o
 
 Anyone with a passing familiarity with Barovian culture and history can make a DC 15 Intelligence (History or Religion) check to identify that three of the stones represent the Seeker (Raven), the Weaver (Spider) and the Huntress (Wolf) and that the fourth represent the Shadow - a forced opposed to the ladies.  
 
+#### The Hags
+
 
 
 
@@ -281,11 +283,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNjk0MjY5NSwtMTM2NDE4MDUxMiwtMz
-UyNTM2ODczLDUwNTcwMDg5MSwtMTI1NjIyNzk2LDE3Njc4NTM5
-MzEsLTk3MDU0NDc3OSwtODgzMzA1NDg0LC0xNTI1ODU4MTg2LC
-0xODI0MzE3Nzg1LC05NTEyOTA0NjksMzQzNDU2NTM0LC0yMDQ3
-MTAxNzk4LDIwNjI0MzE4MzEsLTU1MDQ1MTQsMjAxOTM4MTk2OS
-wtMjA5MzE1OTU4OCwtMzMyODcyNDQ2LDE3NjYyOTEyMDYsMTIz
-NTY3NjYxNV19
+eyJoaXN0b3J5IjpbMTE0ODM0NjA2MCwxMjI2OTQyNjk1LC0xMz
+Y0MTgwNTEyLC0zNTI1MzY4NzMsNTA1NzAwODkxLC0xMjU2MjI3
+OTYsMTc2Nzg1MzkzMSwtOTcwNTQ0Nzc5LC04ODMzMDU0ODQsLT
+E1MjU4NTgxODYsLTE4MjQzMTc3ODUsLTk1MTI5MDQ2OSwzNDM0
+NTY1MzQsLTIwNDcxMDE3OTgsMjA2MjQzMTgzMSwtNTUwNDUxNC
+wyMDE5MzgxOTY5LC0yMDkzMTU5NTg4LC0zMzI4NzI0NDYsMTc2
+NjI5MTIwNl19
 -->
