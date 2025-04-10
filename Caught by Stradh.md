@@ -224,6 +224,8 @@ If the players are being quiet then Morgantha remains ignorant of their presence
 
 Morgantha is here, unless she has been lured elsewhere.
 
+#### O3. 
+
 
 
 
@@ -258,11 +260,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjU4NTgxODYsLTE4MjQzMTc3ODUsLT
-k1MTI5MDQ2OSwzNDM0NTY1MzQsLTIwNDcxMDE3OTgsMjA2MjQz
-MTgzMSwtNTUwNDUxNCwyMDE5MzgxOTY5LC0yMDkzMTU5NTg4LC
-0zMzI4NzI0NDYsMTc2NjI5MTIwNiwxMjM1Njc2NjE1LDI1NjE2
-MzA0MSwtMTA5MzEyNDYzOSwtMTU1MzIwMzAwNSw4NDEzODUyMT
-QsMTU3NTY3MTkwMiwxNTc2MDc5OTQ2LC05MTA5MjE1MDAsLTEz
-ODc3NTA5ODNdfQ==
+eyJoaXN0b3J5IjpbLTg4MzMwNTQ4NCwtMTUyNTg1ODE4NiwtMT
+gyNDMxNzc4NSwtOTUxMjkwNDY5LDM0MzQ1NjUzNCwtMjA0NzEw
+MTc5OCwyMDYyNDMxODMxLC01NTA0NTE0LDIwMTkzODE5NjksLT
+IwOTMxNTk1ODgsLTMzMjg3MjQ0NiwxNzY2MjkxMjA2LDEyMzU2
+NzY2MTUsMjU2MTYzMDQxLC0xMDkzMTI0NjM5LC0xNTUzMjAzMD
+A1LDg0MTM4NTIxNCwxNTc1NjcxOTAyLDE1NzYwNzk5NDYsLTkx
+MDkyMTUwMF19
 -->
