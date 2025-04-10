@@ -215,7 +215,7 @@ A character who pays attention to the bird and succeeds on a DC 12 Wisdom (Insig
 
 The ceiling here is eight feet high.  If characters move into the room, they note the floor is littered with small bones.  If they make a DC 12 Wisdom (Medicine) check they recognize the bones as children's bones.
 
-This room is filled with baking implements, including but not limited to: wooden bowls; rolling pins; various herbs and spices; flour; sugar and several gourds of an unknown white powder.  In one of the cupboards are three elixers - a magical one labelled "Youth" which makes the imbiber appear younger and more attractive for 24 hours; a non-magical one labelled "Laughter" which infects the imbibers with "Cackle Fever"; and a non-magical one labelled "Mother's Milk" which is actually a dose of "Pale Tincture".  Elsewhere a chicken coop contains several chickens and a rooster, as well as a few laid eggs and a woo
+This room is filled with baking implements, including but not limited to: wooden bowls; rolling pins; various herbs and spices; flour; sugar and several gourds of an unknown white powder.  In one of the cupboards are three elixers - a magical one labelled "Youth" which makes the imbiber appear younger and more attractive for 24 hours; a non-magical one labelled "Laughter" which infects the imbibers with "Cackle Fever"; and a non-magical one labelled "Mother's Milk" which is actually a dose of "Pale Tincture".  Elsewhere a chicken coop contains several chickens and a rooster, as well as a few laid eggs and a wooden trunk that had tiny holes bored into its lid.  This contains a hundred or so croaking toads, some of which will escape if the lid is lifted.
 
 If the players are being quiet then Morgantha remains ignorant of their presence upstairs.  If they are less quiet then she comes down to meet them, disguised as the same kindly old lady they met in Barovia.  
 
@@ -251,7 +251,7 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDY4ODgyMjgsLTk1MTI5MDQ2OSwzND
+eyJoaXN0b3J5IjpbLTE4MjQzMTc3ODUsLTk1MTI5MDQ2OSwzND
 M0NTY1MzQsLTIwNDcxMDE3OTgsMjA2MjQzMTgzMSwtNTUwNDUx
 NCwyMDE5MzgxOTY5LC0yMDkzMTU5NTg4LC0zMzI4NzI0NDYsMT
 c2NjI5MTIwNiwxMjM1Njc2NjE1LDI1NjE2MzA0MSwtMTA5MzEy
