@@ -229,7 +229,9 @@ Morgantha is here, unless she has been lured elsewhere.
 
 Morgantha's mother Offalia (another Blood Hag) and her daughter Bella (a Night Hag) are here, unless they have been lured elsewhere.
 
-The crates, each of which is three cubic feet, are built to contain children.  The top crate is currently empty, but the middle and lower ones each have a child in them.  
+The crates, each of which is three cubic feet, are built to contain children.  The top crate is currently empty, but the middle and lower ones each have a child in them.  If Offalia and Bella are here they delight in torturing the children, pricking them and trying to make them cry.  Any attempt to free the children will incur the hag's wrath.
+
+
 
 
 
@@ -265,11 +267,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NDM2MzMxLC05NzA1NDQ3NzksLTg4Mz
-MwNTQ4NCwtMTUyNTg1ODE4NiwtMTgyNDMxNzc4NSwtOTUxMjkw
-NDY5LDM0MzQ1NjUzNCwtMjA0NzEwMTc5OCwyMDYyNDMxODMxLC
-01NTA0NTE0LDIwMTkzODE5NjksLTIwOTMxNTk1ODgsLTMzMjg3
-MjQ0NiwxNzY2MjkxMjA2LDEyMzU2NzY2MTUsMjU2MTYzMDQxLC
-0xMDkzMTI0NjM5LC0xNTUzMjAzMDA1LDg0MTM4NTIxNCwxNTc1
-NjcxOTAyXX0=
+eyJoaXN0b3J5IjpbMTc2Nzg1MzkzMSwtOTcwNTQ0Nzc5LC04OD
+MzMDU0ODQsLTE1MjU4NTgxODYsLTE4MjQzMTc3ODUsLTk1MTI5
+MDQ2OSwzNDM0NTY1MzQsLTIwNDcxMDE3OTgsMjA2MjQzMTgzMS
+wtNTUwNDUxNCwyMDE5MzgxOTY5LC0yMDkzMTU5NTg4LC0zMzI4
+NzI0NDYsMTc2NjI5MTIwNiwxMjM1Njc2NjE1LDI1NjE2MzA0MS
+wtMTA5MzEyNDYzOSwtMTU1MzIwMzAwNSw4NDEzODUyMTQsMTU3
+NTY3MTkwMl19
 -->
