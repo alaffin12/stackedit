@@ -248,7 +248,7 @@ The megaliths here were raised by the ancient peoples of Barovia, in in honour o
 Anyone with a passing familiarity with Barovian culture and history can make a DC 15 Intelligence (History or Religion) check to identify that three of the stones represent the Seeker (Raven), the Weaver (Spider) and the Huntress (Wolf) and that the fourth represent the Shadow - a forced opposed to the ladies.  
 
 #### The Hags
-
+Morgantha, Offalia and Bella are all hags, but usually disguise themselves.  The older two (Morgantha and Offalia) are Bl
 
 
 
@@ -283,7 +283,7 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0ODM0NjA2MCwxMjI2OTQyNjk1LC0xMz
+eyJoaXN0b3J5IjpbLTY1ODcxNzQxMSwxMjI2OTQyNjk1LC0xMz
 Y0MTgwNTEyLC0zNTI1MzY4NzMsNTA1NzAwODkxLC0xMjU2MjI3
 OTYsMTc2Nzg1MzkzMSwtOTcwNTQ0Nzc5LC04ODMzMDU0ODQsLT
 E1MjU4NTgxODYsLTE4MjQzMTc3ODUsLTk1MTI5MDQ2OSwzNDM0
