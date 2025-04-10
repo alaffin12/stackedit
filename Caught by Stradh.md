@@ -233,7 +233,7 @@ The crates, each of which is three cubic feet, are built to contain children.  T
 
 The outward facing side of each create is fitted with a small door that has an iron latch and iron hinges.  It can be unlatched and opened easily from the outside.
 
-The two children are from the village of Barovia 
+The two children are from the village of Barovia after being given to the hags by their parents in exchange for Dream Pastries.  The boy, Freek, is seven while the girl, Myrtle, is barely five.  The crates are full of crumbs as the hags have been fattening them up.  If freed neither wants to return to their homes, because of what their parents did.
 
 
 
@@ -269,7 +269,7 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0ODY0NTg0NSwxNzY3ODUzOTMxLC05Nz
+eyJoaXN0b3J5IjpbLTEyNTYyMjc5NiwxNzY3ODUzOTMxLC05Nz
 A1NDQ3NzksLTg4MzMwNTQ4NCwtMTUyNTg1ODE4NiwtMTgyNDMx
 Nzc4NSwtOTUxMjkwNDY5LDM0MzQ1NjUzNCwtMjA0NzEwMTc5OC
 wyMDYyNDMxODMxLC01NTA0NTE0LDIwMTkzODE5NjksLTIwOTMx
