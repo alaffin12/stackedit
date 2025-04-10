@@ -225,7 +225,7 @@ If the players are being quiet then Morgantha remains ignorant of their presence
 Morgantha is here, unless she has been lured elsewhere.
 
 #### O3. Bedroom
-> A thick wooden gear shaft dominates this cramped, circular room
+> A thick wooden gear shaft dominates this cramped, circular room.  A rotting wooden closet is here, with three crate
 
 
 
@@ -261,11 +261,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MDU0NDc3OSwtODgzMzA1NDg0LC0xNT
-I1ODU4MTg2LC0xODI0MzE3Nzg1LC05NTEyOTA0NjksMzQzNDU2
-NTM0LC0yMDQ3MTAxNzk4LDIwNjI0MzE4MzEsLTU1MDQ1MTQsMj
-AxOTM4MTk2OSwtMjA5MzE1OTU4OCwtMzMyODcyNDQ2LDE3NjYy
-OTEyMDYsMTIzNTY3NjYxNSwyNTYxNjMwNDEsLTEwOTMxMjQ2Mz
-ksLTE1NTMyMDMwMDUsODQxMzg1MjE0LDE1NzU2NzE5MDIsMTU3
-NjA3OTk0Nl19
+eyJoaXN0b3J5IjpbMjA4MTYzNDU4MiwtOTcwNTQ0Nzc5LC04OD
+MzMDU0ODQsLTE1MjU4NTgxODYsLTE4MjQzMTc3ODUsLTk1MTI5
+MDQ2OSwzNDM0NTY1MzQsLTIwNDcxMDE3OTgsMjA2MjQzMTgzMS
+wtNTUwNDUxNCwyMDE5MzgxOTY5LC0yMDkzMTU5NTg4LC0zMzI4
+NzI0NDYsMTc2NjI5MTIwNiwxMjM1Njc2NjE1LDI1NjE2MzA0MS
+wtMTA5MzEyNDYzOSwtMTU1MzIwMzAwNSw4NDEzODUyMTQsMTU3
+NTY3MTkwMl19
 -->
