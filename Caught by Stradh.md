@@ -217,13 +217,6 @@ The ceiling here is eight feet high.  If characters move into the room, they not
 
 This room is filled with baking implements, including but not limited to: wooden bowls; rolling pins; various herbs and spices; flour; sugar and several gourds of an unknown white powder.  In one of the cupboards are three elixers - a magical one labelled "Youth" which makes the imbiber appear younger and more attractive for 24 hours; a non-magical one labelled "Laughter" which infects the imbibers with "Cackle Fever"; and a non-magical one labelled "Mother's Milk" which is actually a dose of "Pale Tincture"
 
-*Note for "Cackle Fever" - the odds of contracting it in the presence of someone infected with it over the course of the day are incredibly high.  Every day they spend time around someone infect they must make a DC 20 Constitution save or become infected themselves*
-
-### Vallaki
-
-### The Amber Templeocializes with the Vistani then eventually one of them might ask about the Amber Temple
-G, H, I, B, O, N, P, R, T
-
 
 
 ---
@@ -256,11 +249,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDcxMDE3OTgsMTE2Nzg4OTQzNiwyMD
-YyNDMxODMxLC01NTA0NTE0LDIwMTkzODE5NjksLTIwOTMxNTk1
-ODgsLTMzMjg3MjQ0NiwxNzY2MjkxMjA2LDEyMzU2NzY2MTUsMj
-U2MTYzMDQxLC0xMDkzMTI0NjM5LC0xNTUzMjAzMDA1LDg0MTM4
-NTIxNCwxNTc1NjcxOTAyLDE1NzYwNzk5NDYsLTkxMDkyMTUwMC
-wtMTM4Nzc1MDk4Myw2MjY3NzQ3ODAsLTU2MDE1OTUxOCwtNjIx
-OTgyMTAzXX0=
+eyJoaXN0b3J5IjpbMzQzNDU2NTM0LC0yMDQ3MTAxNzk4LDIwNj
+I0MzE4MzEsLTU1MDQ1MTQsMjAxOTM4MTk2OSwtMjA5MzE1OTU4
+OCwtMzMyODcyNDQ2LDE3NjYyOTEyMDYsMTIzNTY3NjYxNSwyNT
+YxNjMwNDEsLTEwOTMxMjQ2MzksLTE1NTMyMDMwMDUsODQxMzg1
+MjE0LDE1NzU2NzE5MDIsMTU3NjA3OTk0NiwtOTEwOTIxNTAwLC
+0xMzg3NzUwOTgzLDYyNjc3NDc4MCwtNTYwMTU5NTE4LC02MjE5
+ODIxMDNdfQ==
 -->
