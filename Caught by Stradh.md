@@ -251,7 +251,7 @@ Anyone with a passing familiarity with Barovian culture and history can make a D
 Morgantha, Offalia and Bella are all hags, but usually disguise themselves.  The older two (Morgantha and Offalia) are Blood Hags while the younger one (Bella) is still just a night hag.  Morgantha is the "face" of their operation, and is happy to do business with anyone who shows up at her door.  However if folks are uninterested in what she is selling, or if they are too aggressive she will dismiss them - and then summon her family, if need be, to chase them off.
 
 ### Vallaki
->The Old Svalich Road meanders around the valley here, watched over by dark brooding mountains to the north and south.  The choking woods of the valley recede, revealing a sullen burg surrounded by a wooden palisade.  
+>The Old Svalich Road meanders around the valley here, watched over by dark brooding mountains to the north and south.  The choking woods of the valley recede, revealing a sullen burg surrounded by a wooden palisade.  The thick fog of the valley presses against this wall, as if looking for a way inside - to catch the town aslumber.
 
 ### Tsolenka Pass
 
@@ -288,11 +288,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzcwNDI3NjUsMTQ3MTU5Mjk3LC0yOT
-M2NTU3NTAsMTIyNjk0MjY5NSwtMTM2NDE4MDUxMiwtMzUyNTM2
-ODczLDUwNTcwMDg5MSwtMTI1NjIyNzk2LDE3Njc4NTM5MzEsLT
-k3MDU0NDc3OSwtODgzMzA1NDg0LC0xNTI1ODU4MTg2LC0xODI0
-MzE3Nzg1LC05NTEyOTA0NjksMzQzNDU2NTM0LC0yMDQ3MTAxNz
-k4LDIwNjI0MzE4MzEsLTU1MDQ1MTQsMjAxOTM4MTk2OSwtMjA5
-MzE1OTU4OF19
+eyJoaXN0b3J5IjpbMTM5ODc3NzMyMCwtMTgzNzA0Mjc2NSwxND
+cxNTkyOTcsLTI5MzY1NTc1MCwxMjI2OTQyNjk1LC0xMzY0MTgw
+NTEyLC0zNTI1MzY4NzMsNTA1NzAwODkxLC0xMjU2MjI3OTYsMT
+c2Nzg1MzkzMSwtOTcwNTQ0Nzc5LC04ODMzMDU0ODQsLTE1MjU4
+NTgxODYsLTE4MjQzMTc3ODUsLTk1MTI5MDQ2OSwzNDM0NTY1Mz
+QsLTIwNDcxMDE3OTgsMjA2MjQzMTgzMSwtNTUwNDUxNCwyMDE5
+MzgxOTY5XX0=
 -->
