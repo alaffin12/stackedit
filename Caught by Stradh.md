@@ -243,7 +243,9 @@ The bed is not used for sleeping, but the hags store their treasure here.  The p
 Characters searching this space find nothing more than a few old, abandoned bird's nests.
 
 #### The Megaliths
-The megaliths here were raised by the ancient peoples of Barovia, in in honour of the Three Ladies.  Each moss-covered stone bears a crude carving, representing a figure from the mythos - one is engraved with a raven, another with a spider and a third with a wolf.  The fourth has chaotic,   Anyone with a passing familiarity with Barovian culture and history can make a DC 15 Intelligence (History or Religion) check to identify that three of the stones represent the Seeker, the Weaver and the Huntress and that the fourth represent the Shadow - a forced opposed to the ladies.  
+The megaliths here were raised by the ancient peoples of Barovia, in in honour of the Three Ladies.  Each moss-covered stone bears a crude carving, representing a figure from the mythos - one is engraved with a raven, another with a spider and a third with a wolf.  The fourth has chaotic, unintelligible sigils etched into it.  Ravens circle overhead, and on the ground in the middle is a small pile of children's teeth - which the hags are using to weaken the natural order of Barovia for Stradh.   
+
+Anyone with a passing familiarity with Barovian culture and history can make a DC 15 Intelligence (History or Religion) check to identify that three of the stones represent the Seeker (Raven), the Weaver  and the Huntress and that the fourth represent the Shadow - a forced opposed to the ladies.  
 
 
 
@@ -279,7 +281,7 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MDQxMjQ4OSwtMTM2NDE4MDUxMiwtMz
+eyJoaXN0b3J5IjpbMTM1MjMzMDEzOCwtMTM2NDE4MDUxMiwtMz
 UyNTM2ODczLDUwNTcwMDg5MSwtMTI1NjIyNzk2LDE3Njc4NTM5
 MzEsLTk3MDU0NDc3OSwtODgzMzA1NDg0LC0xNTI1ODU4MTg2LC
 0xODI0MzE3Nzg1LC05NTEyOTA0NjksMzQzNDU2NTM0LC0yMDQ3
