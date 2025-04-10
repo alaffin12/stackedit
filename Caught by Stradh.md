@@ -259,7 +259,13 @@ As the party approaches the gate they will notice several eyes - and crossbows -
 
 The question is simple.  Assuming the party responds with something that is straightforward enough the guard will not deny them admittance.
 
-> "Very well.  You may enter the city.  As you are not from Vallaki, I will advise you of some important laws of the city.  The first - any mention of Strahd is strictly prohibited.  Know that even now as I asy the name it is the last time you will hear it within these gates.  If you must mention that individual you are to refer to him simply as the Devil.  The second - this noble town holds a weekly festival n honour of the resident's general merriment and the continued support of the burgomaster, Baron Vargas Vallakovich.  As guests of Vallaki, you will not be required to aid in the preparation for our festivals. However, your attendance and participation in each and every festival is absolutely mandatory for the length of your stay. Failure to attend will be in strict opposition to Vallakian law. The next great Vallakian festival, the Festival of the Blazing Sun, will be held tomorrow in the town square.
+> "Very well.  You may enter the city.  As you are not from Vallaki, I will advise you of some important laws of the city.  The first - any mention of Strahd is strictly prohibited.  Know that even now as I asy the name it is the last time you will hear it within these gates.  If you must mention that individual you are to refer to him simply as the Devil.  "
+>
+> "The second - this noble town holds a weekly festival n honour of the resident's general merriment and the continued support of the burgomaster, Baron Vargas Vallakovich.  As guests of Vallaki, you will not be required to aid in the preparation for our festivals. However, your attendance and participation in each and every festival is absolutely mandatory for the length of your stay. Failure to attend will be in strict opposition to Vallakian law. The next great Vallakian festival, the Festival of the Blazing Sun, will be held tomorrow in the town square."
+> 
+> "The third - the high morale of this town is the source of its ability to stand up to the Devil.  While we understand you might not always feel in the best of spirits - especially as you come from beyond this safe and joyous place and will have to return to your home in time - it is best to hide those emotions away, lest they spread to others.  Harming the morale of the residents is considered a crime, and the punishment can be severe."
+> 
+> "Failure to comply with Vallakian Law will m
 
 ### Tsolenka Pass
 
@@ -296,11 +302,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MzAzMjE1OSwtMTgzNzA0Mjc2NSwxND
-cxNTkyOTcsLTI5MzY1NTc1MCwxMjI2OTQyNjk1LC0xMzY0MTgw
-NTEyLC0zNTI1MzY4NzMsNTA1NzAwODkxLC0xMjU2MjI3OTYsMT
-c2Nzg1MzkzMSwtOTcwNTQ0Nzc5LC04ODMzMDU0ODQsLTE1MjU4
-NTgxODYsLTE4MjQzMTc3ODUsLTk1MTI5MDQ2OSwzNDM0NTY1Mz
-QsLTIwNDcxMDE3OTgsMjA2MjQzMTgzMSwtNTUwNDUxNCwyMDE5
-MzgxOTY5XX0=
+eyJoaXN0b3J5IjpbLTExNDI5OTQ0NzUsLTE4MzcwNDI3NjUsMT
+Q3MTU5Mjk3LC0yOTM2NTU3NTAsMTIyNjk0MjY5NSwtMTM2NDE4
+MDUxMiwtMzUyNTM2ODczLDUwNTcwMDg5MSwtMTI1NjIyNzk2LD
+E3Njc4NTM5MzEsLTk3MDU0NDc3OSwtODgzMzA1NDg0LC0xNTI1
+ODU4MTg2LC0xODI0MzE3Nzg1LC05NTEyOTA0NjksMzQzNDU2NT
+M0LC0yMDQ3MTAxNzk4LDIwNjI0MzE4MzEsLTU1MDQ1MTQsMjAx
+OTM4MTk2OV19
 -->
