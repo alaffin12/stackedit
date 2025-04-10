@@ -219,7 +219,8 @@ This room is filled with baking implements, including but not limited to: wooden
 
 If the players are being quiet then Morgantha remains ignorant of their presence upstairs, no roll necessary.  If they are not being quiet then Morgantha comes down to greet them.
 
-
+#### O2. Bone Mill
+> The dirt-caked windows of this room allow very little light to enter this eight foot high chamber, most of which is take up by a large millstone connected to a wooden gear shaft that rises through the ceiling in the centre of the room.  A stone 
 
 
 
@@ -253,11 +254,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDkzODE3OTcsLTE4MjQzMTc3ODUsLT
-k1MTI5MDQ2OSwzNDM0NTY1MzQsLTIwNDcxMDE3OTgsMjA2MjQz
-MTgzMSwtNTUwNDUxNCwyMDE5MzgxOTY5LC0yMDkzMTU5NTg4LC
-0zMzI4NzI0NDYsMTc2NjI5MTIwNiwxMjM1Njc2NjE1LDI1NjE2
-MzA0MSwtMTA5MzEyNDYzOSwtMTU1MzIwMzAwNSw4NDEzODUyMT
-QsMTU3NTY3MTkwMiwxNTc2MDc5OTQ2LC05MTA5MjE1MDAsLTEz
-ODc3NTA5ODNdfQ==
+eyJoaXN0b3J5IjpbNjI5NjE5MzMwLC0xODI0MzE3Nzg1LC05NT
+EyOTA0NjksMzQzNDU2NTM0LC0yMDQ3MTAxNzk4LDIwNjI0MzE4
+MzEsLTU1MDQ1MTQsMjAxOTM4MTk2OSwtMjA5MzE1OTU4OCwtMz
+MyODcyNDQ2LDE3NjYyOTEyMDYsMTIzNTY3NjYxNSwyNTYxNjMw
+NDEsLTEwOTMxMjQ2MzksLTE1NTMyMDMwMDUsODQxMzg1MjE0LD
+E1NzU2NzE5MDIsMTU3NjA3OTk0NiwtOTEwOTIxNTAwLC0xMzg3
+NzUwOTgzXX0=
 -->
