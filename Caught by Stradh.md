@@ -248,7 +248,7 @@ The megaliths here were raised by the ancient peoples of Barovia, in in honour o
 Anyone with a passing familiarity with Barovian culture and history can make a DC 15 Intelligence (History or Religion) check to identify that three of the stones represent the Seeker (Raven), the Weaver (Spider) and the Huntress (Wolf) and that the fourth represent the Shadow - a forced opposed to the ladies.  
 
 #### The Hags
-Morgantha, Offalia and Bella are all hags, but usually disguise themselves.  The older two (Morgantha and Offalia) are Bl
+Morgantha, Offalia and Bella are all hags, but usually disguise themselves.  The older two (Morgantha and Offalia) are Blood Hags while the younger one (Bella) is still just a night hag.  Morgantha is the "face" of their operation, and is happy to do business with anyone who shows up at her door.  However if folks are uninterested in what she is selling, or if they are too aggressive she will dismiss them - and then summon her family, if need be, t
 
 
 
@@ -283,11 +283,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1ODcxNzQxMSwxMjI2OTQyNjk1LC0xMz
-Y0MTgwNTEyLC0zNTI1MzY4NzMsNTA1NzAwODkxLC0xMjU2MjI3
-OTYsMTc2Nzg1MzkzMSwtOTcwNTQ0Nzc5LC04ODMzMDU0ODQsLT
-E1MjU4NTgxODYsLTE4MjQzMTc3ODUsLTk1MTI5MDQ2OSwzNDM0
-NTY1MzQsLTIwNDcxMDE3OTgsMjA2MjQzMTgzMSwtNTUwNDUxNC
-wyMDE5MzgxOTY5LC0yMDkzMTU5NTg4LC0zMzI4NzI0NDYsMTc2
-NjI5MTIwNl19
+eyJoaXN0b3J5IjpbMjQzNjI0MTM0LDEyMjY5NDI2OTUsLTEzNj
+QxODA1MTIsLTM1MjUzNjg3Myw1MDU3MDA4OTEsLTEyNTYyMjc5
+NiwxNzY3ODUzOTMxLC05NzA1NDQ3NzksLTg4MzMwNTQ4NCwtMT
+UyNTg1ODE4NiwtMTgyNDMxNzc4NSwtOTUxMjkwNDY5LDM0MzQ1
+NjUzNCwtMjA0NzEwMTc5OCwyMDYyNDMxODMxLC01NTA0NTE0LD
+IwMTkzODE5NjksLTIwOTMxNTk1ODgsLTMzMjg3MjQ0NiwxNzY2
+MjkxMjA2XX0=
 -->
