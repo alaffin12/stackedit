@@ -261,11 +261,11 @@ The question is simple.  Assuming the party responds with something that is stra
 
 > "Very well.  You may enter the city.  As you are not from Vallaki, I will advise you of some important laws of the city.  The first - any mention of Strahd is strictly prohibited.  Know that even now as I asy the name it is the last time you will hear it within these gates.  If you must mention that individual you are to refer to him simply as the Devil.  "
 >
-> "The second - this noble town holds a weekly festival n honour of the resident's general merriment and the continued support of the burgomaster, Baron Vargas Vallakovich.  As guests of Vallaki, you will not be required to aid in the preparation for our festivals. However, your attendance and participation in each and every festival is absolutely mandatory for the length of your stay. Failure to attend will be in strict opposition to Vallakian law. The next great Vallakian festival, the Festival of the Blazing Sun, will be held tomorrow in the town square."
+> "The second - this noble town holds a weekly festival in honour of the resident's general merriment and the continued support of the burgomaster, Baron Vargas Vallakovich.  As guests of Vallaki, you will not be required to aid in the preparation for our festivals. However, your attendance and participation in each and every festival is absolutely mandatory for the length of your stay. Failure to attend will be in strict opposition to Vallakian law. The next great Vallakian festival, the Festival of the Blazing Sun, will be held tomorrow in the town square."
 > 
 > "The third - the high morale of this town is the source of its ability to stand up to the Devil.  While we understand you might not always feel in the best of spirits - especially as you come from beyond this safe and joyous place and will have to return to your home in time - it is best to hide those emotions away, lest they spread to others.  Harming the morale of the residents is considered a crime, and the punishment can be severe."
 > 
-> "Failure to comply with Vallakian Law will m
+> "Failure to comply with Vallakian Law will mark you as criminals in our city, and you will be punished in accordance with our justice system.  If you have any questions now is the time to ask them."
 
 ### Tsolenka Pass
 
@@ -302,7 +302,7 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDI5OTQ0NzUsLTE4MzcwNDI3NjUsMT
+eyJoaXN0b3J5IjpbLTIwMzM0MjQ2MjUsLTE4MzcwNDI3NjUsMT
 Q3MTU5Mjk3LC0yOTM2NTU3NTAsMTIyNjk0MjY5NSwtMTM2NDE4
 MDUxMiwtMzUyNTM2ODczLDUwNTcwMDg5MSwtMTI1NjIyNzk2LD
 E3Njc4NTM5MzEsLTk3MDU0NDc3OSwtODgzMzA1NDg0LC0xNTI1
