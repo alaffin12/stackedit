@@ -272,7 +272,7 @@ If the players have questions the guards possess the following information:
 * On the laws of Vallaki: The guards will reiterate the law as many times as the players require.  If asked about their seemingly extreme nature they will say the festivals and the warm hearts of Vallaki have kept the devil at bay for more than a hundred years.  
 * On the possible punishments: They range from fines and imprisonment to exile and to execution in some cases.  There is also a possibility of torture as the burgomaster is a sadist, but they do not mention that.
 * On the festivals: The guards will expound their virtues, again reiterating the fact that the morale of the people has kept the people of Vallaki safe for a century.
-* On where to stay: The Blue Water Inn,
+* On where to stay: The Blue Water Inn is the only inn in town.
 
 Once the players confirm they have no more questions the guards will call for a scribe and take a brief description of the party, along with their weapons.  Vallaki does not require visitors to go unarmed (after all, Barovia is a rough place) and they won't even get too mad if people try to lie or hide things (after all, Barovia is the kind of place that inspires paranoia) (DC 12 check to hide items, use false names etc).  
 
@@ -315,11 +315,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU5MDcwMTU1LDEwMjM5NzQ5NTUsMTIxNj
-QxNDIxNSwxNTQ2MTY0NTYzLDE1MDU2MDUwNDgsLTE4NDI5MDY0
-NTgsLTE2MzUxOTE3NDksLTIwOTQ4NjgzNjUsLTIwMzM0MjQ2Mj
-UsLTE4MzcwNDI3NjUsMTQ3MTU5Mjk3LC0yOTM2NTU3NTAsMTIy
-Njk0MjY5NSwtMTM2NDE4MDUxMiwtMzUyNTM2ODczLDUwNTcwMD
-g5MSwtMTI1NjIyNzk2LDE3Njc4NTM5MzEsLTk3MDU0NDc3OSwt
-ODgzMzA1NDg0XX0=
+eyJoaXN0b3J5IjpbMTg3NjUxMzA3MiwxMDIzOTc0OTU1LDEyMT
+Y0MTQyMTUsMTU0NjE2NDU2MywxNTA1NjA1MDQ4LC0xODQyOTA2
+NDU4LC0xNjM1MTkxNzQ5LC0yMDk0ODY4MzY1LC0yMDMzNDI0Nj
+I1LC0xODM3MDQyNzY1LDE0NzE1OTI5NywtMjkzNjU1NzUwLDEy
+MjY5NDI2OTUsLTEzNjQxODA1MTIsLTM1MjUzNjg3Myw1MDU3MD
+A4OTEsLTEyNTYyMjc5NiwxNzY3ODUzOTMxLC05NzA1NDQ3Nzks
+LTg4MzMwNTQ4NF19
 -->
