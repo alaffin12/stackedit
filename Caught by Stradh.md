@@ -282,7 +282,7 @@ Once the players confirm they have no more questions the guards will call for a 
 The plan is for the players to pick up some cold weather gear to head into the mountains (remind them, if they haven't figured this out yet) and spend a couple evenings in town before heading out.  Refer to this [Reddit Post](https://www.reddit.com/r/CurseofStrahd/comments/8oj1qt/shops_in_vallaki/) for more information on the shops.  This can go lots of ways, but try to follow this basic outline - the players enter the town, get watched by Ernst Lanark, go to Endless Delights, get told to come back in two days (after the festival), go to the inn, get an invite by Lady Wachter, go to the festival the next day, get involved in the riot (maybe), fallout from riot/uprising, get clothes, continue on their path.
 
 ##### Being Watched
-Shortly after entering town anyone with a passive perception of 14 or more will notice they are being watched
+Shortly after entering town anyone with a passive perception of 14 or more will notice they are being watched by a pale, thin man with a hawkish nose and slicked back hair.  
 
 
 ### Tsolenka Pass
@@ -320,11 +320,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4Mjc0NjU0OCwtMTg2NzYzNTE0MSwtOD
-U0NTQ4OTQzLDE4NzY1MTMwNzIsMTAyMzk3NDk1NSwxMjE2NDE0
-MjE1LDE1NDYxNjQ1NjMsMTUwNTYwNTA0OCwtMTg0MjkwNjQ1OC
-wtMTYzNTE5MTc0OSwtMjA5NDg2ODM2NSwtMjAzMzQyNDYyNSwt
-MTgzNzA0Mjc2NSwxNDcxNTkyOTcsLTI5MzY1NTc1MCwxMjI2OT
-QyNjk1LC0xMzY0MTgwNTEyLC0zNTI1MzY4NzMsNTA1NzAwODkx
-LC0xMjU2MjI3OTZdfQ==
+eyJoaXN0b3J5IjpbNDYzMTcyNTIxLDEzODI3NDY1NDgsLTE4Nj
+c2MzUxNDEsLTg1NDU0ODk0MywxODc2NTEzMDcyLDEwMjM5NzQ5
+NTUsMTIxNjQxNDIxNSwxNTQ2MTY0NTYzLDE1MDU2MDUwNDgsLT
+E4NDI5MDY0NTgsLTE2MzUxOTE3NDksLTIwOTQ4NjgzNjUsLTIw
+MzM0MjQ2MjUsLTE4MzcwNDI3NjUsMTQ3MTU5Mjk3LC0yOTM2NT
+U3NTAsMTIyNjk0MjY5NSwtMTM2NDE4MDUxMiwtMzUyNTM2ODcz
+LDUwNTcwMDg5MV19
 -->
