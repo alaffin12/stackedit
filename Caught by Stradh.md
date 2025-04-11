@@ -278,7 +278,7 @@ Once the players confirm they have no more questions the guards will call for a 
 
 #### Around Town
 ##### General
-The plan is for the players to pick up some cold weather gear to head into the mountains (remind them, if they haven't figured this out yet) and spend a couple evenings in town before heading out.  
+The plan is for the players to pick up some cold weather gear to head into the mountains (remind them, if they haven't figured this out yet) and spend a couple evenings in town before heading out.  Refer to this [Reddit Post](https://www.reddit.com/r/CurseofStrahd/comments/8oj1qt/shops_in_vallaki/) for more information on the shops.  The basic plan is as follows
 
 
 ### Tsolenka Pass
@@ -316,7 +316,7 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQzNTUxNjY4LDE4NzY1MTMwNzIsMTAyMz
+eyJoaXN0b3J5IjpbNjIzMzUxNTEyLDE4NzY1MTMwNzIsMTAyMz
 k3NDk1NSwxMjE2NDE0MjE1LDE1NDYxNjQ1NjMsMTUwNTYwNTA0
 OCwtMTg0MjkwNjQ1OCwtMTYzNTE5MTc0OSwtMjA5NDg2ODM2NS
 wtMjAzMzQyNDYyNSwtMTgzNzA0Mjc2NSwxNDcxNTkyOTcsLTI5
