@@ -279,7 +279,7 @@ Once the players confirm they have no more questions the guards will call for a 
 
 #### Around Town
 ##### General
-The plan is for the players to pick up some cold weather gear to head into the mountains (remind them, if they haven't figured this out yet) and spend a couple evenings in town before heading out.  Refer to this [Reddit Post](https://www.reddit.com/r/CurseofStrahd/comments/8oj1qt/shops_in_vallaki/) for more information on the shops.  This can go lots of ways, but try to follow this basic outline - the players w
+The plan is for the players to pick up some cold weather gear to head into the mountains (remind them, if they haven't figured this out yet) and spend a couple evenings in town before heading out.  Refer to this [Reddit Post](https://www.reddit.com/r/CurseofStrahd/comments/8oj1qt/shops_in_vallaki/) for more information on the shops.  This can go lots of ways, but try to follow this basic outline - the players enter the town, get watched by 
 
 
 ### Tsolenka Pass
@@ -317,11 +317,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NDU0ODk0MywxODc2NTEzMDcyLDEwMj
-M5NzQ5NTUsMTIxNjQxNDIxNSwxNTQ2MTY0NTYzLDE1MDU2MDUw
-NDgsLTE4NDI5MDY0NTgsLTE2MzUxOTE3NDksLTIwOTQ4NjgzNj
-UsLTIwMzM0MjQ2MjUsLTE4MzcwNDI3NjUsMTQ3MTU5Mjk3LC0y
-OTM2NTU3NTAsMTIyNjk0MjY5NSwtMTM2NDE4MDUxMiwtMzUyNT
-M2ODczLDUwNTcwMDg5MSwtMTI1NjIyNzk2LDE3Njc4NTM5MzEs
-LTk3MDU0NDc3OV19
+eyJoaXN0b3J5IjpbMjMzNDY2MDI2LC04NTQ1NDg5NDMsMTg3Nj
+UxMzA3MiwxMDIzOTc0OTU1LDEyMTY0MTQyMTUsMTU0NjE2NDU2
+MywxNTA1NjA1MDQ4LC0xODQyOTA2NDU4LC0xNjM1MTkxNzQ5LC
+0yMDk0ODY4MzY1LC0yMDMzNDI0NjI1LC0xODM3MDQyNzY1LDE0
+NzE1OTI5NywtMjkzNjU1NzUwLDEyMjY5NDI2OTUsLTEzNjQxOD
+A1MTIsLTM1MjUzNjg3Myw1MDU3MDA4OTEsLTEyNTYyMjc5Niwx
+NzY3ODUzOTMxXX0=
 -->
