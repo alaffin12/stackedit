@@ -91,7 +91,8 @@ Bildrath Cantemir works a general store here.  It sells basic adventuring gear (
 | *Lunch/Dinner* | |
 | Potato Bread (Tough, nearly inedible bread) | 2 cp |
 | Cabbage Soup (Watery soup of potato and cabbage, with a few bits of chopped bacon. | 3 cp |
-| Beef Tripe Soup (Tastes strongly of garlic andv
+| Wolf Soup (Tastes strongly of garlic and vinegar, with some carrots and bits of stringy wolf meat) | 3 sp |
+| Blood Sausage (Made of wolf's blood.  Tough and stringy, but filling) 
 | *Drink* | |
 | Purple Grapesmash #3 - Glass | 3 cp |  
 | Purple Grapesmash #3 - Bottle | 20 cp |
@@ -342,7 +343,7 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NzIyNDkxOSwxNjkyMjMxMTUwLC0xND
+eyJoaXN0b3J5IjpbLTU5NTk5NzQyNywxNjkyMjMxMTUwLC0xND
 E0Nzc1MjI0LDIwNzQxNDc5NzAsNDQ3NjE0NzQ1LC0yMzQzMTgy
 OTUsMTM4Mjc0NjU0OCwtMTg2NzYzNTE0MSwtODU0NTQ4OTQzLD
 E4NzY1MTMwNzIsMTAyMzk3NDk1NSwxMjE2NDE0MjE1LDE1NDYx
