@@ -275,6 +275,8 @@ If the players have questions the guards possess the following information:
 
 Once the players confirm they have no more questions the guards will call for a scribe and take a brief description of the party, along with their weapons.  Vallaki does not require visitors to go unarmed (after all, Barovia is a rough place) and they won't even get too mad if people try to lie or hide things (after all, Barovia is the kind of place that inspires paranoia) (DC 12 check to hide items, use false names etc).  
 
+
+
 ### Tsolenka Pass
 
 ### Amber Temple
@@ -310,11 +312,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNjQxNDIxNSwxNTQ2MTY0NTYzLDE1MD
-U2MDUwNDgsLTE4NDI5MDY0NTgsLTE2MzUxOTE3NDksLTIwOTQ4
-NjgzNjUsLTIwMzM0MjQ2MjUsLTE4MzcwNDI3NjUsMTQ3MTU5Mj
-k3LC0yOTM2NTU3NTAsMTIyNjk0MjY5NSwtMTM2NDE4MDUxMiwt
-MzUyNTM2ODczLDUwNTcwMDg5MSwtMTI1NjIyNzk2LDE3Njc4NT
-M5MzEsLTk3MDU0NDc3OSwtODgzMzA1NDg0LC0xNTI1ODU4MTg2
-LC0xODI0MzE3Nzg1XX0=
+eyJoaXN0b3J5IjpbMTAyMzk3NDk1NSwxMjE2NDE0MjE1LDE1ND
+YxNjQ1NjMsMTUwNTYwNTA0OCwtMTg0MjkwNjQ1OCwtMTYzNTE5
+MTc0OSwtMjA5NDg2ODM2NSwtMjAzMzQyNDYyNSwtMTgzNzA0Mj
+c2NSwxNDcxNTkyOTcsLTI5MzY1NTc1MCwxMjI2OTQyNjk1LC0x
+MzY0MTgwNTEyLC0zNTI1MzY4NzMsNTA1NzAwODkxLC0xMjU2Mj
+I3OTYsMTc2Nzg1MzkzMSwtOTcwNTQ0Nzc5LC04ODMzMDU0ODQs
+LTE1MjU4NTgxODZdfQ==
 -->
