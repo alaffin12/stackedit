@@ -320,7 +320,7 @@ Rooms cost five silver a night.  The inn also has food and drink available:
 | Winterstomp Sparkling - Glass | 3 sp | 
 
 **NPCs**
-*The Martikovs*
+*The Martikovs*: 
 
 ### Tsolenka Pass
 
@@ -357,11 +357,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEyNTU1ODUsMTY5MjIzMTE1MCwtMTQxND
-c3NTIyNCwyMDc0MTQ3OTcwLDQ0NzYxNDc0NSwtMjM0MzE4Mjk1
-LDEzODI3NDY1NDgsLTE4Njc2MzUxNDEsLTg1NDU0ODk0MywxOD
-c2NTEzMDcyLDEwMjM5NzQ5NTUsMTIxNjQxNDIxNSwxNTQ2MTY0
-NTYzLDE1MDU2MDUwNDgsLTE4NDI5MDY0NTgsLTE2MzUxOTE3ND
-ksLTIwOTQ4NjgzNjUsLTIwMzM0MjQ2MjUsLTE4MzcwNDI3NjUs
-MTQ3MTU5Mjk3XX0=
+eyJoaXN0b3J5IjpbLTExNzYxNDE4MTcsMTY5MjIzMTE1MCwtMT
+QxNDc3NTIyNCwyMDc0MTQ3OTcwLDQ0NzYxNDc0NSwtMjM0MzE4
+Mjk1LDEzODI3NDY1NDgsLTE4Njc2MzUxNDEsLTg1NDU0ODk0My
+wxODc2NTEzMDcyLDEwMjM5NzQ5NTUsMTIxNjQxNDIxNSwxNTQ2
+MTY0NTYzLDE1MDU2MDUwNDgsLTE4NDI5MDY0NTgsLTE2MzUxOT
+E3NDksLTIwOTQ4NjgzNjUsLTIwMzM0MjQ2MjUsLTE4MzcwNDI3
+NjUsMTQ3MTU5Mjk3XX0=
 -->
