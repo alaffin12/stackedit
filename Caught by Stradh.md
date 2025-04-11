@@ -320,7 +320,7 @@ Rooms cost five silver a night.  The inn also has food and drink available:
 | Winterstomp Sparkling - Glass | 3 sp | 
 
 **NPCs**
-*The Martikovs*: Urwin and his wife Danika are the owners of the Inn and are usually seen splitting their time between the tavern area and the kitchen.  Their young sons Brom and Bray are also often present.  
+*The Martikovs*: Urwin and his wife Danika are the owners of the Inn and are usually seen splitting their time between the tavern area and the kitchen.  Their young sons Brom and Bray are also often present.  Urwin can be prickly and difficult to deal with.  Danika is more friendly, but she still has a proud and noble bearing and does not suffer fools.  The two boys are 11 and 9 and are typical boys of that age (except that all are wereravens and Urwin and Danika are members of the Keepers of the Feather).
 
 ### Tsolenka Pass
 
@@ -357,7 +357,7 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMjk4NzUwLC0xMTc2MTQxODE3LDE2OT
+eyJoaXN0b3J5IjpbNDUyODE4NTAxLC0xMTc2MTQxODE3LDE2OT
 IyMzExNTAsLTE0MTQ3NzUyMjQsMjA3NDE0Nzk3MCw0NDc2MTQ3
 NDUsLTIzNDMxODI5NSwxMzgyNzQ2NTQ4LC0xODY3NjM1MTQxLC
 04NTQ1NDg5NDMsMTg3NjUxMzA3MiwxMDIzOTc0OTU1LDEyMTY0
