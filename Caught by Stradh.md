@@ -86,16 +86,15 @@ Bildrath Cantemir works a general store here.  It sells basic adventuring gear (
 | Item | Price |
 |--|--|
 | *Breakfast* |  |
-| Rye Bread | 2 cp |
-| Grilled Lake Fish | Sold Out |
+| Potato Bread (Tough, nearly inedible bread) | 2 cp |
+| Barley Porridge | 3 cp |
 | *Lunch/Dinner* | |
-| Adventurer's Steak w/Sauerkraut | 10 cp | 
+| Cabbage Soup (Watery soup of potato and cabbage, with a few bits of chopped bacon. | 10 cp | 
 | Toad & Beet Stew | 8 cp |
 | *Drink* | |
 | Purple Grapesmash #3 - Glass | 3 cp |  
 | Purple Grapesmash #3 - Bottle | 20 cp |
 
-Fish is always sold out here.  Adventurer's Steak is whatever meat the local hunters haul in.  The barkeep doesn't know and doesn't care to ask.  Everything is super salty.  
 
 ##### NPCs
 **Arik Lorensk**, or just Arik the Barkeep, is a small and pudgy little man who tends the bar of the tavern.  Mindlessly he cleans the glasses, one after another, starting over when he finishes the first.  He doesn't do much conversing, but if spoke to he will answer in a dull and hollow voice, basically taking drink orders before moving on to something else.
@@ -342,7 +341,7 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNDUyMTg0MCwxNjkyMjMxMTUwLC0xND
+eyJoaXN0b3J5IjpbLTk4NTM1NDk3NiwxNjkyMjMxMTUwLC0xND
 E0Nzc1MjI0LDIwNzQxNDc5NzAsNDQ3NjE0NzQ1LC0yMzQzMTgy
 OTUsMTM4Mjc0NjU0OCwtMTg2NzYzNTE0MSwtODU0NTQ4OTQzLD
 E4NzY1MTMwNzIsMTAyMzk3NDk1NSwxMjE2NDE0MjE1LDE1NDYx
