@@ -282,7 +282,7 @@ Once the players confirm they have no more questions the guards will call for a 
 The plan is for the players to pick up some cold weather gear to head into the mountains (remind them, if they haven't figured this out yet) and spend a couple evenings in town before heading out.  Refer to this [Reddit Post](https://www.reddit.com/r/CurseofStrahd/comments/8oj1qt/shops_in_vallaki/) for more information on the shops.  This can go lots of ways, but try to follow this basic outline - the players enter the town, get watched by Ernst Lanark, go to Endless Delights, get told to come back in two days (after the festival), go to the inn, get an invite by Lady Wachter, go to the festival the next day, get involved in the riot (maybe), fallout from riot/uprising, get clothes, continue on their path.
 
 ##### Being Watched
-Shortly after entering town anyone with a passive perception of 14 or more will notice they are being watched by a pale, thin man with a hawkish nose and slicked back hair.  This is Lady Wachter's spy Ernst Lanark.  If confronted Lanark claims he keeps a 
+Shortly after entering town anyone with a passive perception of 14 or more will notice they are being watched by a pale, thin man with a hawkish nose and slicked back hair.  This is Lady Wachter's spy Ernst Lanark.  If confronted Lanark claims he keeps a watchful eye on all strangers.  If they threaten him he will back off, but he will not tell them anything about his purpose.  Once the party decide to leave him alone he will
 
 
 ### Tsolenka Pass
@@ -320,11 +320,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODM2MjUyMzMsMTM4Mjc0NjU0OCwtMT
-g2NzYzNTE0MSwtODU0NTQ4OTQzLDE4NzY1MTMwNzIsMTAyMzk3
-NDk1NSwxMjE2NDE0MjE1LDE1NDYxNjQ1NjMsMTUwNTYwNTA0OC
-wtMTg0MjkwNjQ1OCwtMTYzNTE5MTc0OSwtMjA5NDg2ODM2NSwt
-MjAzMzQyNDYyNSwtMTgzNzA0Mjc2NSwxNDcxNTkyOTcsLTI5Mz
-Y1NTc1MCwxMjI2OTQyNjk1LC0xMzY0MTgwNTEyLC0zNTI1MzY4
-NzMsNTA1NzAwODkxXX0=
+eyJoaXN0b3J5IjpbMTUzMTA0NzU5OSwxMzgyNzQ2NTQ4LC0xOD
+Y3NjM1MTQxLC04NTQ1NDg5NDMsMTg3NjUxMzA3MiwxMDIzOTc0
+OTU1LDEyMTY0MTQyMTUsMTU0NjE2NDU2MywxNTA1NjA1MDQ4LC
+0xODQyOTA2NDU4LC0xNjM1MTkxNzQ5LC0yMDk0ODY4MzY1LC0y
+MDMzNDI0NjI1LC0xODM3MDQyNzY1LDE0NzE1OTI5NywtMjkzNj
+U1NzUwLDEyMjY5NDI2OTUsLTEzNjQxODA1MTIsLTM1MjUzNjg3
+Myw1MDU3MDA4OTFdfQ==
 -->
