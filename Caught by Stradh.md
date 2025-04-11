@@ -269,7 +269,7 @@ The question is simple.  Assuming the party responds with something that is stra
 > "Failure to comply with Vallakian Law will mark you as criminals in our city, and you will be punished in accordance with our justice system.  If you have any questions now is the time to ask them."
 
 If the players have questions the guards possess the following information:
-* On the laws of Vallaki: The guards will reiterate the law as many times as the players require.  If asked about their seemingly extreme nature they will say Str
+* On the laws of Vallaki: The guards will reiterate the law as many times as the players require.  If asked about their seemingly extreme nature they will say the festivals and the warm hearts of Vallaki have kept the devil at bay for more than a hundred years.  
 
 ### Tsolenka Pass
 
@@ -306,7 +306,7 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTU4OTI5NTIsLTE2MzUxOTE3NDksLT
+eyJoaXN0b3J5IjpbLTE4NDI5MDY0NTgsLTE2MzUxOTE3NDksLT
 IwOTQ4NjgzNjUsLTIwMzM0MjQ2MjUsLTE4MzcwNDI3NjUsMTQ3
 MTU5Mjk3LC0yOTM2NTU3NTAsMTIyNjk0MjY5NSwtMTM2NDE4MD
 UxMiwtMzUyNTM2ODczLDUwNTcwMDg5MSwtMTI1NjIyNzk2LDE3
