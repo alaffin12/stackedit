@@ -288,6 +288,19 @@ Shortly after entering town anyone with a passive perception of 14 or more will 
 Upon entering endless delights they will see the Alastroi siblings (Alek, Andrej, and Alana) hard at work - making things for tomorrow's festival.  They seem very busy, and if the party talks to them they might find out that the siblings are ecstatic about the constant festivals, since it keeps their pockets lined with gold.  If they party asks for winter gear the siblings will say they can get it for them - but they will have to wait until after the festival.
 
 ##### Blue Water Inn
+The only inn in town, during the day only Urwin or his wife Danika are here.  During the evening 
+**Menu**
+| Item | Price |
+|--|--|
+| *Breakfast* |  |
+| Boiled Turnips | 6 cp |
+| Grilled Lake Fish | Sold Out |
+| *Lunch/Dinner* | |
+| Adventurer's Steak w/Sauerkraut | 10 cp | 
+| Toad & Beet Stew | 8 cp |
+| *Drink* | |
+| Purple Grapesmash #3 - Glass | 3 cp |  
+| Purple Grapesmash #3 - Bottle | 20 cp |
 
 
 
@@ -326,11 +339,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NDE0Nzk3MCw0NDc2MTQ3NDUsLTIzND
-MxODI5NSwxMzgyNzQ2NTQ4LC0xODY3NjM1MTQxLC04NTQ1NDg5
-NDMsMTg3NjUxMzA3MiwxMDIzOTc0OTU1LDEyMTY0MTQyMTUsMT
-U0NjE2NDU2MywxNTA1NjA1MDQ4LC0xODQyOTA2NDU4LC0xNjM1
-MTkxNzQ5LC0yMDk0ODY4MzY1LC0yMDMzNDI0NjI1LC0xODM3MD
-QyNzY1LDE0NzE1OTI5NywtMjkzNjU1NzUwLDEyMjY5NDI2OTUs
-LTEzNjQxODA1MTJdfQ==
+eyJoaXN0b3J5IjpbLTEyNjUxOTY4NzIsMjA3NDE0Nzk3MCw0ND
+c2MTQ3NDUsLTIzNDMxODI5NSwxMzgyNzQ2NTQ4LC0xODY3NjM1
+MTQxLC04NTQ1NDg5NDMsMTg3NjUxMzA3MiwxMDIzOTc0OTU1LD
+EyMTY0MTQyMTUsMTU0NjE2NDU2MywxNTA1NjA1MDQ4LC0xODQy
+OTA2NDU4LC0xNjM1MTkxNzQ5LC0yMDk0ODY4MzY1LC0yMDMzND
+I0NjI1LC0xODM3MDQyNzY1LDE0NzE1OTI5NywtMjkzNjU1NzUw
+LDEyMjY5NDI2OTVdfQ==
 -->
