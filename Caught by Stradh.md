@@ -86,7 +86,7 @@ Bildrath Cantemir works a general store here.  It sells basic adventuring gear (
 | Item | Price |
 |--|--|
 | *Breakfast* |  |
-| Boiled Turnips | 6 cp |
+| Rye Bread | 2 cp |
 | Grilled Lake Fish | Sold Out |
 | *Lunch/Dinner* | |
 | Adventurer's Steak w/Sauerkraut | 10 cp | 
@@ -342,11 +342,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MjIzMTE1MCwtMTQxNDc3NTIyNCwyMD
-c0MTQ3OTcwLDQ0NzYxNDc0NSwtMjM0MzE4Mjk1LDEzODI3NDY1
-NDgsLTE4Njc2MzUxNDEsLTg1NDU0ODk0MywxODc2NTEzMDcyLD
-EwMjM5NzQ5NTUsMTIxNjQxNDIxNSwxNTQ2MTY0NTYzLDE1MDU2
-MDUwNDgsLTE4NDI5MDY0NTgsLTE2MzUxOTE3NDksLTIwOTQ4Nj
-gzNjUsLTIwMzM0MjQ2MjUsLTE4MzcwNDI3NjUsMTQ3MTU5Mjk3
-LC0yOTM2NTU3NTBdfQ==
+eyJoaXN0b3J5IjpbLTUzNDUyMTg0MCwxNjkyMjMxMTUwLC0xND
+E0Nzc1MjI0LDIwNzQxNDc5NzAsNDQ3NjE0NzQ1LC0yMzQzMTgy
+OTUsMTM4Mjc0NjU0OCwtMTg2NzYzNTE0MSwtODU0NTQ4OTQzLD
+E4NzY1MTMwNzIsMTAyMzk3NDk1NSwxMjE2NDE0MjE1LDE1NDYx
+NjQ1NjMsMTUwNTYwNTA0OCwtMTg0MjkwNjQ1OCwtMTYzNTE5MT
+c0OSwtMjA5NDg2ODM2NSwtMjAzMzQyNDYyNSwtMTgzNzA0Mjc2
+NSwxNDcxNTkyOTddfQ==
 -->
