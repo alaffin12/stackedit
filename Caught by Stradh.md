@@ -272,8 +272,11 @@ If the players have questions the guards possess the following information:
 * On the laws of Vallaki: The guards will reiterate the law as many times as the players require.  If asked about their seemingly extreme nature they will say the festivals and the warm hearts of Vallaki have kept the devil at bay for more than a hundred years.  
 * On the possible punishments: They range from fines and imprisonment to exile and to execution in some cases.  There is also a possibility of torture as the burgomaster is a sadist, but they do not mention that.
 * On the festivals: The guards will expound their virtues, again reiterating the fact that the morale of the people has kept the people of Vallaki safe for a century.
+* On where to stay: The Blue Water Inn,
 
 Once the players confirm they have no more questions the guards will call for a scribe and take a brief description of the party, along with their weapons.  Vallaki does not require visitors to go unarmed (after all, Barovia is a rough place) and they won't even get too mad if people try to lie or hide things (after all, Barovia is the kind of place that inspires paranoia) (DC 12 check to hide items, use false names etc).  
+
+#### Around Town
 
 
 
@@ -312,11 +315,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMzk3NDk1NSwxMjE2NDE0MjE1LDE1ND
-YxNjQ1NjMsMTUwNTYwNTA0OCwtMTg0MjkwNjQ1OCwtMTYzNTE5
-MTc0OSwtMjA5NDg2ODM2NSwtMjAzMzQyNDYyNSwtMTgzNzA0Mj
-c2NSwxNDcxNTkyOTcsLTI5MzY1NTc1MCwxMjI2OTQyNjk1LC0x
-MzY0MTgwNTEyLC0zNTI1MzY4NzMsNTA1NzAwODkxLC0xMjU2Mj
-I3OTYsMTc2Nzg1MzkzMSwtOTcwNTQ0Nzc5LC04ODMzMDU0ODQs
-LTE1MjU4NTgxODZdfQ==
+eyJoaXN0b3J5IjpbNzU5MDcwMTU1LDEwMjM5NzQ5NTUsMTIxNj
+QxNDIxNSwxNTQ2MTY0NTYzLDE1MDU2MDUwNDgsLTE4NDI5MDY0
+NTgsLTE2MzUxOTE3NDksLTIwOTQ4NjgzNjUsLTIwMzM0MjQ2Mj
+UsLTE4MzcwNDI3NjUsMTQ3MTU5Mjk3LC0yOTM2NTU3NTAsMTIy
+Njk0MjY5NSwtMTM2NDE4MDUxMiwtMzUyNTM2ODczLDUwNTcwMD
+g5MSwtMTI1NjIyNzk2LDE3Njc4NTM5MzEsLTk3MDU0NDc3OSwt
+ODgzMzA1NDg0XX0=
 -->
