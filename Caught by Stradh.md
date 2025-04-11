@@ -273,7 +273,7 @@ If the players have questions the guards possess the following information:
 * On the possible punishments: They range from fines and imprisonment to exile and to execution in some cases.  There is also a possibility of torture as the burgomaster is a sadist, but they do not mention that.
 * On the festivals: The guards will expound their virtues, again reiterating the fact that the morale of the people has kept the people of Vallaki safe for a century.
 
-Once the players confirm they have no more questions the guards will call for a scribe and take a brief description of the party, along with their weapons.  Vallaki does not require visitors to go unarmed (after all, Barovia is a rough place) and they won't even get too mad if people try to lie or hide things (because Barovia is a paranoid place)
+Once the players confirm they have no more questions the guards will call for a scribe and take a brief description of the party, along with their weapons.  Vallaki does not require visitors to go unarmed (after all, Barovia is a rough place) and they won't even get too mad if people try to lie or hide things (after all, Barovia is the kind of place that inspires paranoia.)
 
 ### Tsolenka Pass
 
@@ -310,7 +310,7 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NjY1MzUyMiwxNTA1NjA1MDQ4LC0xOD
+eyJoaXN0b3J5IjpbMTU0NjE2NDU2MywxNTA1NjA1MDQ4LC0xOD
 QyOTA2NDU4LC0xNjM1MTkxNzQ5LC0yMDk0ODY4MzY1LC0yMDMz
 NDI0NjI1LC0xODM3MDQyNzY1LDE0NzE1OTI5NywtMjkzNjU1Nz
 UwLDEyMjY5NDI2OTUsLTEzNjQxODA1MTIsLTM1MjUzNjg3Myw1
