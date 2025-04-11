@@ -309,7 +309,7 @@ Rooms cost five silver a night.  The inn also has food and drink available:
 | *Soups of the Day (Roll 1d4)* | |
 | 1. Cabbage (Cabbages, onions, potatoes and parsnips with garlic and a little bit of wolf meat) | |
 | 2. Borscht (Beet, carrot, potato and cabbage with a little bit of wolf meat; very sour) | |
-| | |
+| 3. Sorrel Soup (Sorrel leaves with potatoes, carrots and parsley served with a few slices of boiled egg) | |
 | | |
 | *Drink* | |
 | Purple Grapesmash #3 - Glass | 3 cp |  
@@ -356,7 +356,7 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NTk0NjYwMiwxNjkyMjMxMTUwLC0xND
+eyJoaXN0b3J5IjpbLTEyNDc5Nzk3MywxNjkyMjMxMTUwLC0xND
 E0Nzc1MjI0LDIwNzQxNDc5NzAsNDQ3NjE0NzQ1LC0yMzQzMTgy
 OTUsMTM4Mjc0NjU0OCwtMTg2NzYzNTE0MSwtODU0NTQ4OTQzLD
 E4NzY1MTMwNzIsMTAyMzk3NDk1NSwxMjE2NDE0MjE1LDE1NDYx
