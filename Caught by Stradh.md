@@ -259,7 +259,7 @@ As the party approaches the gate they will notice several eyes - and crossbows -
 
 The question is simple.  Assuming the party responds with something that is straightforward enough the guard will not deny them admittance.
 
-> "Very well.  You may enter the city.  As you are not from Vallaki, I will advise you of some important laws of the city.  The first - any mention of Strahd is strictly prohibited.  Know that even now as I asy the name it is the last time you will hear it within these gates.  If you must mention that individual you are to refer to him simply as the Devil.  "
+> "Very well.  You may enter the city.  As you are not from Vallaki, I will advise you of some important laws of the city.  The first - any mention of Strahd is strictly prohibited.  Know that even now as I say the name it is the last time you will hear it within these gates.  If you must mention that individual you are to refer to him simply as the Devil.  "
 >
 > "The second - this noble town holds a weekly festival in honour of the resident's general merriment and the continued support of the burgomaster, Baron Vargas Vallakovich.  As guests of Vallaki, you will not be required to aid in the preparation for our festivals. However, your attendance and participation in each and every festival is absolutely mandatory for the length of your stay. Failure to attend will be in strict opposition to Vallakian law. The next great Vallakian festival, the Festival of the Blazing Sun, will be held tomorrow in the town square."
 > 
@@ -302,11 +302,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzM0MjQ2MjUsLTE4MzcwNDI3NjUsMT
-Q3MTU5Mjk3LC0yOTM2NTU3NTAsMTIyNjk0MjY5NSwtMTM2NDE4
-MDUxMiwtMzUyNTM2ODczLDUwNTcwMDg5MSwtMTI1NjIyNzk2LD
-E3Njc4NTM5MzEsLTk3MDU0NDc3OSwtODgzMzA1NDg0LC0xNTI1
-ODU4MTg2LC0xODI0MzE3Nzg1LC05NTEyOTA0NjksMzQzNDU2NT
-M0LC0yMDQ3MTAxNzk4LDIwNjI0MzE4MzEsLTU1MDQ1MTQsMjAx
-OTM4MTk2OV19
+eyJoaXN0b3J5IjpbLTIwOTQ4NjgzNjUsLTIwMzM0MjQ2MjUsLT
+E4MzcwNDI3NjUsMTQ3MTU5Mjk3LC0yOTM2NTU3NTAsMTIyNjk0
+MjY5NSwtMTM2NDE4MDUxMiwtMzUyNTM2ODczLDUwNTcwMDg5MS
+wtMTI1NjIyNzk2LDE3Njc4NTM5MzEsLTk3MDU0NDc3OSwtODgz
+MzA1NDg0LC0xNTI1ODU4MTg2LC0xODI0MzE3Nzg1LC05NTEyOT
+A0NjksMzQzNDU2NTM0LC0yMDQ3MTAxNzk4LDIwNjI0MzE4MzEs
+LTU1MDQ1MTRdfQ==
 -->
