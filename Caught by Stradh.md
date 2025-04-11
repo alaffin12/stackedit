@@ -273,7 +273,7 @@ If the players have questions the guards possess the following information:
 * On the possible punishments: They range from fines and imprisonment to exile and to execution in some cases.  There is also a possibility of torture as the burgomaster is a sadist, but they do not mention that.
 * On the festivals: The guards will expound their virtues, again reiterating the fact that the morale of the people has kept the people of Vallaki safe for a century.
 * On where to stay: The Blue Water Inn is the only inn in town.
-* On where to buy gear: Dragomir Ulbrek runs a smithy in town; the Henrik van der Voort, the coffin maker, is the town's best carpenter; Fatima Lukresh runs the tannery; the Alastroi siblings run Endless Delights Clothiers.
+* On where to buy gear: Dragomir Ulbrek runs a smithy in town; the Henrik van der Voort, the coffin maker, is the town's best carpenter; Fatima Lukresh runs the tannery; the Alastroi siblings run Endless Delights Clothiers and Gadof Blinsky's for toys
 
 Once the players confirm they have no more questions the guards will call for a scribe and take a brief description of the party, along with their weapons.  Vallaki does not require visitors to go unarmed (after all, Barovia is a rough place) and they won't even get too mad if people try to lie or hide things (after all, Barovia is the kind of place that inspires paranoia) (DC 12 check to hide items, use false names etc).  
 
@@ -282,7 +282,7 @@ Once the players confirm they have no more questions the guards will call for a 
 The plan is for the players to pick up some cold weather gear to head into the mountains (remind them, if they haven't figured this out yet) and spend a couple evenings in town before heading out.  Refer to this [Reddit Post](https://www.reddit.com/r/CurseofStrahd/comments/8oj1qt/shops_in_vallaki/) for more information on the shops.  This can go lots of ways, but try to follow this basic outline - the players enter the town, get watched by Ernst Lanark, go to Endless Delights, get told to come back in two days (after the festival), go to the inn, get an invite by Lady Wachter, go to the festival the next day, get involved in the riot (maybe), fallout from riot/uprising, get clothes, continue on their path.
 
 ##### Being Watched
-Shortly after entering town anyone with a passive perception of 14 or more will notice they are being watched by a pale, thin man with a hawkish nose and slicked back hair.  This is Lady Wachter's spy Ernst Lanark.  If confronted Lanark claims he keeps a watchful eye on all strangers.  If they threaten him he will back off, but he will not tell them anything about his purpose.  Once the party decide to leave him alone he will
+Shortly after entering town anyone with a passive perception of 14 or more will notice they are being watched by a pale, thin man with a hawkish nose and slicked back hair.  This is Lady Wachter's spy Ernst Lanark.  If confronted Lanark claims he keeps a watchful eye on all strangers.  If they threaten him he will back off, but he will not tell them anything about his purpose.  Once the party decide to leave him alone he will report back to Lady Wachter (they might follow him to find this out 
 
 
 ### Tsolenka Pass
@@ -320,7 +320,7 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMTA0NzU5OSwxMzgyNzQ2NTQ4LC0xOD
+eyJoaXN0b3J5IjpbMTU2Njg5OTE5MywxMzgyNzQ2NTQ4LC0xOD
 Y3NjM1MTQxLC04NTQ1NDg5NDMsMTg3NjUxMzA3MiwxMDIzOTc0
 OTU1LDEyMTY0MTQyMTUsMTU0NjE2NDU2MywxNTA1NjA1MDQ4LC
 0xODQyOTA2NDU4LC0xNjM1MTkxNzQ5LC0yMDk0ODY4MzY1LC0y
