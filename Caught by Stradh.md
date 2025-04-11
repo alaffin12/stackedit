@@ -273,7 +273,7 @@ If the players have questions the guards possess the following information:
 * On the possible punishments: They range from fines and imprisonment to exile and to execution in some cases.  There is also a possibility of torture as the burgomaster is a sadist, but they do not mention that.
 * On the festivals: The guards will expound their virtues, again reiterating the fact that the morale of the people has kept the people of Vallaki safe for a century.
 
-Once the players confirm they have no more questions the guards will call for a scribe and take a brief description of the party, along with their weapons.  Vallaki does not require visitors to go unarmed (after all, Barovia is a rough place) and they won't even get too mad if people try to lie or hide things (after all, Barovia is the kind of place that inspires paranoia .)
+Once the players confirm they have no more questions the guards will call for a scribe and take a brief description of the party, along with their weapons.  Vallaki does not require visitors to go unarmed (after all, Barovia is a rough place) and they won't even get too mad if people try to lie or hide things (after all, Barovia is the kind of place that inspires paranoia) (DC 12 check to hide items, use false names etc).  
 
 ### Tsolenka Pass
 
@@ -310,11 +310,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjA4ODAzNzMsMTU0NjE2NDU2MywxNT
-A1NjA1MDQ4LC0xODQyOTA2NDU4LC0xNjM1MTkxNzQ5LC0yMDk0
-ODY4MzY1LC0yMDMzNDI0NjI1LC0xODM3MDQyNzY1LDE0NzE1OT
-I5NywtMjkzNjU1NzUwLDEyMjY5NDI2OTUsLTEzNjQxODA1MTIs
-LTM1MjUzNjg3Myw1MDU3MDA4OTEsLTEyNTYyMjc5NiwxNzY3OD
-UzOTMxLC05NzA1NDQ3NzksLTg4MzMwNTQ4NCwtMTUyNTg1ODE4
-NiwtMTgyNDMxNzc4NV19
+eyJoaXN0b3J5IjpbMTIxNjQxNDIxNSwxNTQ2MTY0NTYzLDE1MD
+U2MDUwNDgsLTE4NDI5MDY0NTgsLTE2MzUxOTE3NDksLTIwOTQ4
+NjgzNjUsLTIwMzM0MjQ2MjUsLTE4MzcwNDI3NjUsMTQ3MTU5Mj
+k3LC0yOTM2NTU3NTAsMTIyNjk0MjY5NSwtMTM2NDE4MDUxMiwt
+MzUyNTM2ODczLDUwNTcwMDg5MSwtMTI1NjIyNzk2LDE3Njc4NT
+M5MzEsLTk3MDU0NDc3OSwtODgzMzA1NDg0LC0xNTI1ODU4MTg2
+LC0xODI0MzE3Nzg1XX0=
 -->
