@@ -303,7 +303,9 @@ Rooms cost five silver a night.  The inn also has food and drink available:
 | Rye Bread (Well-Made, if dense bread) | 3 cp |
 | Soup of the Day (Free for Guests) | 5 cp | 
 | Baratok Salad (Diced beetroot, potato and carrot mixed with chopped onions and sauerkrat.  Sour but fresh)| 6 cp |
-| Blue Water Potatoes (Chopped & b
+| Blue Water Potatoes (Chopped and boiled skin-on potatoes seasoned with garlic and parsely) |
+| Eggs (2) (Usually boiled, but Urwin will happily try other preparations) | 9 cp |
+
 | *Drink* | |
 | Purple Grapesmash #3 - Glass | 3 cp |  
 | Purple Grapesmash #3 - Bottle | 20 cp |
@@ -345,7 +347,7 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMjkzNzY5MiwxNjkyMjMxMTUwLC0xND
+eyJoaXN0b3J5IjpbLTg5MTIxNTE1MiwxNjkyMjMxMTUwLC0xND
 E0Nzc1MjI0LDIwNzQxNDc5NzAsNDQ3NjE0NzQ1LC0yMzQzMTgy
 OTUsMTM4Mjc0NjU0OCwtMTg2NzYzNTE0MSwtODU0NTQ4OTQzLD
 E4NzY1MTMwNzIsMTAyMzk3NDk1NSwxMjE2NDE0MjE1LDE1NDYx
