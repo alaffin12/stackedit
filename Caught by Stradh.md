@@ -361,12 +361,13 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 #### Winterstomp
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
+https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkzNzUyNjY1LDEzNDU1NDU5NTgsMTA0OD
-g3OTM1NCwtMTE3NjE0MTgxNywxNjkyMjMxMTUwLC0xNDE0Nzc1
-MjI0LDIwNzQxNDc5NzAsNDQ3NjE0NzQ1LC0yMzQzMTgyOTUsMT
-M4Mjc0NjU0OCwtMTg2NzYzNTE0MSwtODU0NTQ4OTQzLDE4NzY1
-MTMwNzIsMTAyMzk3NDk1NSwxMjE2NDE0MjE1LDE1NDYxNjQ1Nj
-MsMTUwNTYwNTA0OCwtMTg0MjkwNjQ1OCwtMTYzNTE5MTc0OSwt
-MjA5NDg2ODM2NV19
+eyJoaXN0b3J5IjpbNTk2Njg4NTI1LDg5Mzc1MjY2NSwxMzQ1NT
+Q1OTU4LDEwNDg4NzkzNTQsLTExNzYxNDE4MTcsMTY5MjIzMTE1
+MCwtMTQxNDc3NTIyNCwyMDc0MTQ3OTcwLDQ0NzYxNDc0NSwtMj
+M0MzE4Mjk1LDEzODI3NDY1NDgsLTE4Njc2MzUxNDEsLTg1NDU0
+ODk0MywxODc2NTEzMDcyLDEwMjM5NzQ5NTUsMTIxNjQxNDIxNS
+wxNTQ2MTY0NTYzLDE1MDU2MDUwNDgsLTE4NDI5MDY0NTgsLTE2
+MzUxOTE3NDldfQ==
 -->
