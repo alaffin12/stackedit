@@ -279,7 +279,7 @@ Once the players confirm they have no more questions the guards will call for a 
 
 #### Around Town
 ##### General
-The plan is for the players to pick up some cold weather gear to head into the mountains (remind them, if they haven't figured this out yet) and spend a couple evenings in town before heading out.  Refer to this [Reddit Post](https://www.reddit.com/r/CurseofStrahd/comments/8oj1qt/shops_in_vallaki/) for more information on the shops.  This can go lots of ways, but try to follow this basic outline - the players enter the town, get watched by 
+The plan is for the players to pick up some cold weather gear to head into the mountains (remind them, if they haven't figured this out yet) and spend a couple evenings in town before heading out.  Refer to this [Reddit Post](https://www.reddit.com/r/CurseofStrahd/comments/8oj1qt/shops_in_vallaki/) for more information on the shops.  This can go lots of ways, but try to follow this basic outline - the players enter the town, get watched by Ernst Lanark, go to Endless Delights, get told to come back in two days (after the festival), go to the inn, get an invite by Lady Wachter, go to the festival the next day, get involved in the riot (maybe) 
 
 
 ### Tsolenka Pass
@@ -317,7 +317,7 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMzNDY2MDI2LC04NTQ1NDg5NDMsMTg3Nj
+eyJoaXN0b3J5IjpbOTY3MjQxNTkxLC04NTQ1NDg5NDMsMTg3Nj
 UxMzA3MiwxMDIzOTc0OTU1LDEyMTY0MTQyMTUsMTU0NjE2NDU2
 MywxNTA1NjA1MDQ4LC0xODQyOTA2NDU4LC0xNjM1MTkxNzQ5LC
 0yMDk0ODY4MzY1LC0yMDMzNDI0NjI1LC0xODM3MDQyNzY1LDE0
