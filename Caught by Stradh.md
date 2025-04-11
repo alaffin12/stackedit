@@ -273,12 +273,13 @@ If the players have questions the guards possess the following information:
 * On the possible punishments: They range from fines and imprisonment to exile and to execution in some cases.  There is also a possibility of torture as the burgomaster is a sadist, but they do not mention that.
 * On the festivals: The guards will expound their virtues, again reiterating the fact that the morale of the people has kept the people of Vallaki safe for a century.
 * On where to stay: The Blue Water Inn is the only inn in town.
+* On where to buy gear: Ulbrek's shop ('the Cracked Anvil') for metal work
 
 Once the players confirm they have no more questions the guards will call for a scribe and take a brief description of the party, along with their weapons.  Vallaki does not require visitors to go unarmed (after all, Barovia is a rough place) and they won't even get too mad if people try to lie or hide things (after all, Barovia is the kind of place that inspires paranoia) (DC 12 check to hide items, use false names etc).  
 
 #### Around Town
 ##### General
-The plan is for the players to pick up some cold weather gear to head into the mountains (remind them, if they haven't figured this out yet) and spend a couple evenings in town before heading out.  Refer to this [Reddit Post](https://www.reddit.com/r/CurseofStrahd/comments/8oj1qt/shops_in_vallaki/) for more information on the shops.  The basic plan is as follows
+The plan is for the players to pick up some cold weather gear to head into the mountains (remind them, if they haven't figured this out yet) and spend a couple evenings in town before heading out.  Refer to this [Reddit Post](https://www.reddit.com/r/CurseofStrahd/comments/8oj1qt/shops_in_vallaki/) for more information on the shops.  This can go lots of ways, but try to follow this basic outline - the players w
 
 
 ### Tsolenka Pass
@@ -316,11 +317,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIzMzUxNTEyLDE4NzY1MTMwNzIsMTAyMz
-k3NDk1NSwxMjE2NDE0MjE1LDE1NDYxNjQ1NjMsMTUwNTYwNTA0
-OCwtMTg0MjkwNjQ1OCwtMTYzNTE5MTc0OSwtMjA5NDg2ODM2NS
-wtMjAzMzQyNDYyNSwtMTgzNzA0Mjc2NSwxNDcxNTkyOTcsLTI5
-MzY1NTc1MCwxMjI2OTQyNjk1LC0xMzY0MTgwNTEyLC0zNTI1Mz
-Y4NzMsNTA1NzAwODkxLC0xMjU2MjI3OTYsMTc2Nzg1MzkzMSwt
-OTcwNTQ0Nzc5XX0=
+eyJoaXN0b3J5IjpbLTE3Mjc0MzMzNDcsMTg3NjUxMzA3MiwxMD
+IzOTc0OTU1LDEyMTY0MTQyMTUsMTU0NjE2NDU2MywxNTA1NjA1
+MDQ4LC0xODQyOTA2NDU4LC0xNjM1MTkxNzQ5LC0yMDk0ODY4Mz
+Y1LC0yMDMzNDI0NjI1LC0xODM3MDQyNzY1LDE0NzE1OTI5Nywt
+MjkzNjU1NzUwLDEyMjY5NDI2OTUsLTEzNjQxODA1MTIsLTM1Mj
+UzNjg3Myw1MDU3MDA4OTEsLTEyNTYyMjc5NiwxNzY3ODUzOTMx
+LC05NzA1NDQ3NzldfQ==
 -->
