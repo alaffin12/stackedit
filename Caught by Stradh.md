@@ -297,8 +297,8 @@ Rooms cost five silver a night.  The inn also has food and drink available:
 | Item | Price |
 |--|--|
 | *Breakfast* |  |
-| Barley Porridge (Hearty porridge) | 6 cp |
-| Grilled Lake Fish | Sold Out |
+| Barley Porridge (Hearty porridge) | 3 cp |
+| Rye Bread (Well-Made, if dense bread) | Sold Out |
 | *Lunch/Dinner* | |
 | Adventurer's Steak w/Sauerkraut | 10 cp | 
 | Toad & Beet Stew | 8 cp |
@@ -343,11 +343,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYwNzU3NTIwLDE2OTIyMzExNTAsLTE0MT
-Q3NzUyMjQsMjA3NDE0Nzk3MCw0NDc2MTQ3NDUsLTIzNDMxODI5
-NSwxMzgyNzQ2NTQ4LC0xODY3NjM1MTQxLC04NTQ1NDg5NDMsMT
-g3NjUxMzA3MiwxMDIzOTc0OTU1LDEyMTY0MTQyMTUsMTU0NjE2
-NDU2MywxNTA1NjA1MDQ4LC0xODQyOTA2NDU4LC0xNjM1MTkxNz
-Q5LC0yMDk0ODY4MzY1LC0yMDMzNDI0NjI1LC0xODM3MDQyNzY1
-LDE0NzE1OTI5N119
+eyJoaXN0b3J5IjpbMTc2MTg1Nzc3NCwxNjkyMjMxMTUwLC0xND
+E0Nzc1MjI0LDIwNzQxNDc5NzAsNDQ3NjE0NzQ1LC0yMzQzMTgy
+OTUsMTM4Mjc0NjU0OCwtMTg2NzYzNTE0MSwtODU0NTQ4OTQzLD
+E4NzY1MTMwNzIsMTAyMzk3NDk1NSwxMjE2NDE0MjE1LDE1NDYx
+NjQ1NjMsMTUwNTYwNTA0OCwtMTg0MjkwNjQ1OCwtMTYzNTE5MT
+c0OSwtMjA5NDg2ODM2NSwtMjAzMzQyNDYyNSwtMTgzNzA0Mjc2
+NSwxNDcxNTkyOTddfQ==
 -->
