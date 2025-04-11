@@ -270,8 +270,8 @@ The question is simple.  Assuming the party responds with something that is stra
 
 If the players have questions the guards possess the following information:
 * On the laws of Vallaki: The guards will reiterate the law as many times as the players require.  If asked about their seemingly extreme nature they will say the festivals and the warm hearts of Vallaki have kept the devil at bay for more than a hundred years.  
-* One the possible punishments: They range from fines to exile and to execution in some cases.  There is also a possibility of torture as the burgomaster is a sadist, but they do not mention that.
-* 
+* On the possible punishments: They range from fines and imprisonment to exile and to execution in some cases.  There is also a possibility of torture as the burgomaster is a sadist, but they do not mention that.
+* On the festivals: The guards will expound their virtues, again reiterating the fact that the morale of the people has kept the people of Vallaki safe for a century.
 
 ### Tsolenka Pass
 
@@ -308,7 +308,7 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwOTYwNjU3NCwtMTg0MjkwNjQ1OCwtMT
+eyJoaXN0b3J5IjpbMTUwNTYwNTA0OCwtMTg0MjkwNjQ1OCwtMT
 YzNTE5MTc0OSwtMjA5NDg2ODM2NSwtMjAzMzQyNDYyNSwtMTgz
 NzA0Mjc2NSwxNDcxNTkyOTcsLTI5MzY1NTc1MCwxMjI2OTQyNj
 k1LC0xMzY0MTgwNTEyLC0zNTI1MzY4NzMsNTA1NzAwODkxLC0x
