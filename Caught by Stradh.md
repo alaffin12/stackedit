@@ -320,7 +320,7 @@ Rooms cost five silver a night.  The inn also has food and drink available:
 | Winterstomp Sparkling - Glass | 3 sp | 
 
 **NPCs**
-*The Martikovs*: 
+*The Martikovs*: Urwin and his wife Danika are the owners of the Inn and are usually seen splitting their time between the tavern area and the kitchen.  
 
 ### Tsolenka Pass
 
@@ -357,11 +357,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzYxNDE4MTcsMTY5MjIzMTE1MCwtMT
-QxNDc3NTIyNCwyMDc0MTQ3OTcwLDQ0NzYxNDc0NSwtMjM0MzE4
-Mjk1LDEzODI3NDY1NDgsLTE4Njc2MzUxNDEsLTg1NDU0ODk0My
-wxODc2NTEzMDcyLDEwMjM5NzQ5NTUsMTIxNjQxNDIxNSwxNTQ2
-MTY0NTYzLDE1MDU2MDUwNDgsLTE4NDI5MDY0NTgsLTE2MzUxOT
-E3NDksLTIwOTQ4NjgzNjUsLTIwMzM0MjQ2MjUsLTE4MzcwNDI3
-NjUsMTQ3MTU5Mjk3XX0=
+eyJoaXN0b3J5IjpbLTYzMjExMTY1OCwtMTE3NjE0MTgxNywxNj
+kyMjMxMTUwLC0xNDE0Nzc1MjI0LDIwNzQxNDc5NzAsNDQ3NjE0
+NzQ1LC0yMzQzMTgyOTUsMTM4Mjc0NjU0OCwtMTg2NzYzNTE0MS
+wtODU0NTQ4OTQzLDE4NzY1MTMwNzIsMTAyMzk3NDk1NSwxMjE2
+NDE0MjE1LDE1NDYxNjQ1NjMsMTUwNTYwNTA0OCwtMTg0MjkwNj
+Q1OCwtMTYzNTE5MTc0OSwtMjA5NDg2ODM2NSwtMjAzMzQyNDYy
+NSwtMTgzNzA0Mjc2NV19
 -->
