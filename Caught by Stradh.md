@@ -289,7 +289,7 @@ Shortly after entering town anyone with a passive perception of 14 or more will 
 Upon entering endless delights they will see the Alastroi siblings (Alek, Andrej, and Alana) hard at work - making things for tomorrow's festival.  They seem very busy, and if the party talks to them they might find out that the siblings are ecstatic about the constant festivals, since it keeps their pockets lined with gold.  If they party asks for winter gear the siblings will say they can get it for them - but they will have to wait until after the festival.
 
 ##### Blue Water Inn
-The only inn in town, during the day only Urwin or his wife Danika are here.  During the evening there are other NPCs.  For their descriptions see below.  At some point during the day (assuming Ernst made is back to Lady W
+The only inn in town, during the day only Urwin or his wife Danika are here.  During the evening there are other NPCs.  For their descriptions see below.  At some point during the day (assuming Ernst made is back to Lady Wachter) the party will get an invitation to attend a supper with Lady Wachter that evening.
 
 Rooms cost five silver a night.  The inn also has food and drink available:
 
@@ -319,7 +319,8 @@ Rooms cost five silver a night.  The inn also has food and drink available:
 | Dragon's Breath Brandy - Glass | 5 sp |
 | Winterstomp Sparkling - Glass | 3 sp | 
 
-
+**NPCs**
+*The Martikovs*
 
 ### Tsolenka Pass
 
@@ -356,11 +357,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwOTA0NzQ1MSwxNjkyMjMxMTUwLC0xND
-E0Nzc1MjI0LDIwNzQxNDc5NzAsNDQ3NjE0NzQ1LC0yMzQzMTgy
-OTUsMTM4Mjc0NjU0OCwtMTg2NzYzNTE0MSwtODU0NTQ4OTQzLD
-E4NzY1MTMwNzIsMTAyMzk3NDk1NSwxMjE2NDE0MjE1LDE1NDYx
-NjQ1NjMsMTUwNTYwNTA0OCwtMTg0MjkwNjQ1OCwtMTYzNTE5MT
-c0OSwtMjA5NDg2ODM2NSwtMjAzMzQyNDYyNSwtMTgzNzA0Mjc2
-NSwxNDcxNTkyOTddfQ==
+eyJoaXN0b3J5IjpbNjEyNTU1ODUsMTY5MjIzMTE1MCwtMTQxND
+c3NTIyNCwyMDc0MTQ3OTcwLDQ0NzYxNDc0NSwtMjM0MzE4Mjk1
+LDEzODI3NDY1NDgsLTE4Njc2MzUxNDEsLTg1NDU0ODk0MywxOD
+c2NTEzMDcyLDEwMjM5NzQ5NTUsMTIxNjQxNDIxNSwxNTQ2MTY0
+NTYzLDE1MDU2MDUwNDgsLTE4NDI5MDY0NTgsLTE2MzUxOTE3ND
+ksLTIwOTQ4NjgzNjUsLTIwMzM0MjQ2MjUsLTE4MzcwNDI3NjUs
+MTQ3MTU5Mjk3XX0=
 -->
