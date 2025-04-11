@@ -251,6 +251,7 @@ Anyone with a passing familiarity with Barovian culture and history can make a D
 Morgantha, Offalia and Bella are all hags, but usually disguise themselves.  The older two (Morgantha and Offalia) are Blood Hags while the younger one (Bella) is still just a night hag.  Morgantha is the "face" of their operation, and is happy to do business with anyone who shows up at her door.  However if folks are uninterested in what she is selling, or if they are too aggressive she will dismiss them - and then summon her family, if need be, to chase them off.
 
 ### Vallaki
+#### Approaching the Town
 >The Old Svalich Road meanders around the valley here, watched over by dark brooding mountains to the north and south.  The choking woods of the valley recede, revealing a sullen burg surrounded by a wooden palisade.  The thick fog of the valley presses against this wall, as if looking for a way inside - to catch the town aslumber.
 
 As the party approaches the gate they will notice several eyes - and crossbows - trained on them.  One of the guards - armed with a pike - will step forward.
@@ -266,6 +267,7 @@ The question is simple.  Assuming the party responds with something that is stra
 > "The third - the high morale of this town is the source of its ability to stand up to the Devil.  While we understand you might not always feel in the best of spirits - especially as you come from beyond this safe and joyous place and will have to return to your home in time - it is best to hide those emotions away, lest they spread to others.  Harming the morale of the residents is considered a crime, and the punishment can be severe."
 > 
 > "Failure to comply with Vallakian Law will mark you as criminals in our city, and you will be punished in accordance with our justice system.  If you have any questions now is the time to ask them."
+
 
 ### Tsolenka Pass
 
@@ -302,11 +304,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzUxOTE3NDksLTIwOTQ4NjgzNjUsLT
-IwMzM0MjQ2MjUsLTE4MzcwNDI3NjUsMTQ3MTU5Mjk3LC0yOTM2
-NTU3NTAsMTIyNjk0MjY5NSwtMTM2NDE4MDUxMiwtMzUyNTM2OD
-czLDUwNTcwMDg5MSwtMTI1NjIyNzk2LDE3Njc4NTM5MzEsLTk3
-MDU0NDc3OSwtODgzMzA1NDg0LC0xNTI1ODU4MTg2LC0xODI0Mz
-E3Nzg1LC05NTEyOTA0NjksMzQzNDU2NTM0LC0yMDQ3MTAxNzk4
-LDIwNjI0MzE4MzFdfQ==
+eyJoaXN0b3J5IjpbLTc0MzAzMDUzMCwtMTYzNTE5MTc0OSwtMj
+A5NDg2ODM2NSwtMjAzMzQyNDYyNSwtMTgzNzA0Mjc2NSwxNDcx
+NTkyOTcsLTI5MzY1NTc1MCwxMjI2OTQyNjk1LC0xMzY0MTgwNT
+EyLC0zNTI1MzY4NzMsNTA1NzAwODkxLC0xMjU2MjI3OTYsMTc2
+Nzg1MzkzMSwtOTcwNTQ0Nzc5LC04ODMzMDU0ODQsLTE1MjU4NT
+gxODYsLTE4MjQzMTc3ODUsLTk1MTI5MDQ2OSwzNDM0NTY1MzQs
+LTIwNDcxMDE3OThdfQ==
 -->
