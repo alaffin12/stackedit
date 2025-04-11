@@ -307,7 +307,10 @@ Rooms cost five silver a night.  The inn also has food and drink available:
 | Eggs (2) (Usually boiled, but Urwin will happily try other preparations) | 9 cp |
 | Wolf Sausage (Stringy, unpleasant tasting meat covered up with good seasoning and fillers.  Tolerable and served with sauerkraut. | 5 sp |
 | *Soups of the Day (Roll 1d4)* | |
-| 1. Cabbage (Cabbages, onions, potatoes and parsnips with garlic and a little bit of wolf meat | |
+| 1. Cabbage (Cabbages, onions, potatoes and parsnips with garlic and a little bit of wolf meat) | |
+| 2. Borscht (Beet, carrot, potato and cabbage with a little bit of wolf meat; very sour) | |
+| | |
+| | |
 | *Drink* | |
 | Purple Grapesmash #3 - Glass | 3 cp |  
 | Purple Grapesmash #2 - Glass | 5 cp |
@@ -353,7 +356,7 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MTkxNzUxOSwxNjkyMjMxMTUwLC0xND
+eyJoaXN0b3J5IjpbLTY5NTk0NjYwMiwxNjkyMjMxMTUwLC0xND
 E0Nzc1MjI0LDIwNzQxNDc5NzAsNDQ3NjE0NzQ1LC0yMzQzMTgy
 OTUsMTM4Mjc0NjU0OCwtMTg2NzYzNTE0MSwtODU0NTQ4OTQzLD
 E4NzY1MTMwNzIsMTAyMzk3NDk1NSwxMjE2NDE0MjE1LDE1NDYx
