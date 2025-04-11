@@ -324,6 +324,7 @@ Rooms cost five silver a night.  The inn also has food and drink available:
 
 *The Hunters*: Szoldar Szoldarovich and Yevgeni Krushkin are two grim and dour hunters who frequent the tavern.  They don't have much to say and tend to keep to themselves.  If asked they will happily guide the party to the Amber Temple - so long as they pay them 100 gp.  Half upfront.  No haggling.  If they want better directions (or some kind of advice) they provide it for drinks.
 
+*The Wachters*: Nikolai and Karl 
 
 
 ### Tsolenka Pass
@@ -361,11 +362,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0ODg3OTM1NCwtMTE3NjE0MTgxNywxNj
-kyMjMxMTUwLC0xNDE0Nzc1MjI0LDIwNzQxNDc5NzAsNDQ3NjE0
-NzQ1LC0yMzQzMTgyOTUsMTM4Mjc0NjU0OCwtMTg2NzYzNTE0MS
-wtODU0NTQ4OTQzLDE4NzY1MTMwNzIsMTAyMzk3NDk1NSwxMjE2
-NDE0MjE1LDE1NDYxNjQ1NjMsMTUwNTYwNTA0OCwtMTg0MjkwNj
-Q1OCwtMTYzNTE5MTc0OSwtMjA5NDg2ODM2NSwtMjAzMzQyNDYy
-NSwtMTgzNzA0Mjc2NV19
+eyJoaXN0b3J5IjpbMTM0NTU0NTk1OCwxMDQ4ODc5MzU0LC0xMT
+c2MTQxODE3LDE2OTIyMzExNTAsLTE0MTQ3NzUyMjQsMjA3NDE0
+Nzk3MCw0NDc2MTQ3NDUsLTIzNDMxODI5NSwxMzgyNzQ2NTQ4LC
+0xODY3NjM1MTQxLC04NTQ1NDg5NDMsMTg3NjUxMzA3MiwxMDIz
+OTc0OTU1LDEyMTY0MTQyMTUsMTU0NjE2NDU2MywxNTA1NjA1MD
+Q4LC0xODQyOTA2NDU4LC0xNjM1MTkxNzQ5LC0yMDk0ODY4MzY1
+LC0yMDMzNDI0NjI1XX0=
 -->
