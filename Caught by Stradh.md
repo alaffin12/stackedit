@@ -285,7 +285,7 @@ The plan is for the players to pick up some cold weather gear to head into the m
 Shortly after entering town anyone with a passive perception of 14 or more will notice they are being watched by a pale, thin man with a hawkish nose and slicked back hair.  This is Lady Wachter's spy Ernst Lanark.  If confronted Lanark claims he keeps a watchful eye on all strangers.  If they threaten him he will back off, but he will not tell them anything about his purpose.  Once the party decide to leave him alone he will report back to Lady Wachter (they might follow him to find this out).
 
 ##### Endless Delights
-
+Upon entering endless delights they will see the Alastroi siblings (Alek, Andrej, and Alana) hard at work - making things for tomorrow's festival.  
 
 
 ### Tsolenka Pass
@@ -323,11 +323,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNDMxODI5NSwxMzgyNzQ2NTQ4LC0xOD
-Y3NjM1MTQxLC04NTQ1NDg5NDMsMTg3NjUxMzA3MiwxMDIzOTc0
-OTU1LDEyMTY0MTQyMTUsMTU0NjE2NDU2MywxNTA1NjA1MDQ4LC
-0xODQyOTA2NDU4LC0xNjM1MTkxNzQ5LC0yMDk0ODY4MzY1LC0y
-MDMzNDI0NjI1LC0xODM3MDQyNzY1LDE0NzE1OTI5NywtMjkzNj
-U1NzUwLDEyMjY5NDI2OTUsLTEzNjQxODA1MTIsLTM1MjUzNjg3
-Myw1MDU3MDA4OTFdfQ==
+eyJoaXN0b3J5IjpbODc4MDc5Mzk3LC0yMzQzMTgyOTUsMTM4Mj
+c0NjU0OCwtMTg2NzYzNTE0MSwtODU0NTQ4OTQzLDE4NzY1MTMw
+NzIsMTAyMzk3NDk1NSwxMjE2NDE0MjE1LDE1NDYxNjQ1NjMsMT
+UwNTYwNTA0OCwtMTg0MjkwNjQ1OCwtMTYzNTE5MTc0OSwtMjA5
+NDg2ODM2NSwtMjAzMzQyNDYyNSwtMTgzNzA0Mjc2NSwxNDcxNT
+kyOTcsLTI5MzY1NTc1MCwxMjI2OTQyNjk1LC0xMzY0MTgwNTEy
+LC0zNTI1MzY4NzNdfQ==
 -->
