@@ -322,7 +322,9 @@ Rooms cost five silver a night.  The inn also has food and drink available:
 **NPCs**
 *The Martikovs*: Urwin and his wife Danika are the owners of the Inn and are usually seen splitting their time between the tavern area and the kitchen.  Their young sons Brom and Bray are also often present.  Urwin can be prickly and difficult to deal with.  Danika is more friendly, but she still has a proud and noble bearing and does not suffer fools.  The two boys are 11 and 9 and are typical boys of that age (except that all are wereravens and Urwin and Danika are members of the Keepers of the Feather).
 
-*The Hunters*: Szoldar Szoldarovich and Yevgeni Krushkin are two grim and dour hunters who frequent the tavern.  They don't have much to say and tend to keep to themselves.  If asked they will happily guide the party to the Amber Temple - so long as they pay them 100 gp
+*The Hunters*: Szoldar Szoldarovich and Yevgeni Krushkin are two grim and dour hunters who frequent the tavern.  They don't have much to say and tend to keep to themselves.  If asked they will happily guide the party to the Amber Temple - so long as they pay them 100 gp.  Half upfront.  No haggling.  If they want better directions (or some kind of advice) they provide it for drinks.
+
+
 
 ### Tsolenka Pass
 
@@ -359,11 +361,11 @@ Dragoncrush is a red varietal from the Martikov winery.  They make two varieties
 Winterstomp is a white varietal from the Martikov winery.  They are mainly used to balance the flavours of the Martikov Red varietals, as the grapes themselves are almost too acidic on their own.  The Martikov's do make a sparkling Winterstomp wine that is somewhat refreshing (if very acidic).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDYxMDU4NTEsLTExNzYxNDE4MTcsMT
-Y5MjIzMTE1MCwtMTQxNDc3NTIyNCwyMDc0MTQ3OTcwLDQ0NzYx
-NDc0NSwtMjM0MzE4Mjk1LDEzODI3NDY1NDgsLTE4Njc2MzUxND
-EsLTg1NDU0ODk0MywxODc2NTEzMDcyLDEwMjM5NzQ5NTUsMTIx
-NjQxNDIxNSwxNTQ2MTY0NTYzLDE1MDU2MDUwNDgsLTE4NDI5MD
-Y0NTgsLTE2MzUxOTE3NDksLTIwOTQ4NjgzNjUsLTIwMzM0MjQ2
-MjUsLTE4MzcwNDI3NjVdfQ==
+eyJoaXN0b3J5IjpbMTA0ODg3OTM1NCwtMTE3NjE0MTgxNywxNj
+kyMjMxMTUwLC0xNDE0Nzc1MjI0LDIwNzQxNDc5NzAsNDQ3NjE0
+NzQ1LC0yMzQzMTgyOTUsMTM4Mjc0NjU0OCwtMTg2NzYzNTE0MS
+wtODU0NTQ4OTQzLDE4NzY1MTMwNzIsMTAyMzk3NDk1NSwxMjE2
+NDE0MjE1LDE1NDYxNjQ1NjMsMTUwNTYwNTA0OCwtMTg0MjkwNj
+Q1OCwtMTYzNTE5MTc0OSwtMjA5NDg2ODM2NSwtMjAzMzQyNDYy
+NSwtMTgzNzA0Mjc2NV19
 -->
