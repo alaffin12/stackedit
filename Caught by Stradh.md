@@ -326,8 +326,8 @@ Rooms cost five silver a night.  The inn also has food and drink available:
 
 *The Wachters*: Nikolai and Karl are the sons of Lady Wachter.  They are brash drunkards and always looking for trouble - but they know better than to pick fights with well-armed strangers.  They are not privy to their mother's plans (she doesn't trust them) nor do they attend her dinner.
 
-##### Watcherhaus
-For the next ste
+##### Wachterhaus
+For the next step the players are invited to dinner at Wachterhaus by Lady Wachter herself.  
 
 ### Tsolenka Pass
 
@@ -365,11 +365,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDc2NTM0MDQsODkzNzUyNjY1LDEzND
-U1NDU5NTgsMTA0ODg3OTM1NCwtMTE3NjE0MTgxNywxNjkyMjMx
-MTUwLC0xNDE0Nzc1MjI0LDIwNzQxNDc5NzAsNDQ3NjE0NzQ1LC
-0yMzQzMTgyOTUsMTM4Mjc0NjU0OCwtMTg2NzYzNTE0MSwtODU0
-NTQ4OTQzLDE4NzY1MTMwNzIsMTAyMzk3NDk1NSwxMjE2NDE0Mj
-E1LDE1NDYxNjQ1NjMsMTUwNTYwNTA0OCwtMTg0MjkwNjQ1OCwt
-MTYzNTE5MTc0OV19
+eyJoaXN0b3J5IjpbNjY0NTQ5Mjk3LDg5Mzc1MjY2NSwxMzQ1NT
+Q1OTU4LDEwNDg4NzkzNTQsLTExNzYxNDE4MTcsMTY5MjIzMTE1
+MCwtMTQxNDc3NTIyNCwyMDc0MTQ3OTcwLDQ0NzYxNDc0NSwtMj
+M0MzE4Mjk1LDEzODI3NDY1NDgsLTE4Njc2MzUxNDEsLTg1NDU0
+ODk0MywxODc2NTEzMDcyLDEwMjM5NzQ5NTUsMTIxNjQxNDIxNS
+wxNTQ2MTY0NTYzLDE1MDU2MDUwNDgsLTE4NDI5MDY0NTgsLTE2
+MzUxOTE3NDldfQ==
 -->
