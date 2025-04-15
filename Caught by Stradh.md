@@ -334,9 +334,9 @@ The players are welcomed by Lady Wachter's valet Haliq and escorted to the dinin
 
 | Course | Item | Description |
 | - | - | - |
-| Appetizer | Roast Chard Salad | |
-| Soup | Black Soup | |
-| Main | Sausage, Potatoes and Sauerkraut | |
+| Appetizer | Chard Salad | A salad of roasted chard leaves along with roasted parsnips, onions, and mushrooms. Sprinkled with crumbly Krezk cheese |
+| Soup | Black Soup | A sweet and sour soup cooked with blood, vinegar, cherries, and honey. Little dumplings float in the soup. |
+| Main | Sausage & Potatoes | Pork sausage with boiled and buttered potatoes, serve |
 | Desert | Svalich Wood Pudding | |
 
 
@@ -377,11 +377,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODU0OTk2NjMsNjY5NTMwMDAyLDY2ND
-U0OTI5Nyw4OTM3NTI2NjUsMTM0NTU0NTk1OCwxMDQ4ODc5MzU0
-LC0xMTc2MTQxODE3LDE2OTIyMzExNTAsLTE0MTQ3NzUyMjQsMj
-A3NDE0Nzk3MCw0NDc2MTQ3NDUsLTIzNDMxODI5NSwxMzgyNzQ2
-NTQ4LC0xODY3NjM1MTQxLC04NTQ1NDg5NDMsMTg3NjUxMzA3Mi
-wxMDIzOTc0OTU1LDEyMTY0MTQyMTUsMTU0NjE2NDU2MywxNTA1
-NjA1MDQ4XX0=
+eyJoaXN0b3J5IjpbLTg1NzI1MzI3OCw2Njk1MzAwMDIsNjY0NT
+Q5Mjk3LDg5Mzc1MjY2NSwxMzQ1NTQ1OTU4LDEwNDg4NzkzNTQs
+LTExNzYxNDE4MTcsMTY5MjIzMTE1MCwtMTQxNDc3NTIyNCwyMD
+c0MTQ3OTcwLDQ0NzYxNDc0NSwtMjM0MzE4Mjk1LDEzODI3NDY1
+NDgsLTE4Njc2MzUxNDEsLTg1NDU0ODk0MywxODc2NTEzMDcyLD
+EwMjM5NzQ5NTUsMTIxNjQxNDIxNSwxNTQ2MTY0NTYzLDE1MDU2
+MDUwNDhdfQ==
 -->
