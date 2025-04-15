@@ -330,7 +330,9 @@ Rooms cost five silver a night.  The inn also has food and drink available:
 For the next step the players are invited to dinner at Wachterhaus by Lady Wachter herself.  As they approach:
 > This house seems disgusted with itself.  A slouching roof hangs heavy over furrowed gables, and moss-covered walls sag and bulge under the weight of the vegetation.  As you study the house's sullen countenance you hear the edifice actually groan
 
-The players are welcomed by Lady Wachter's valet Haliq and escorted to the dining room, where they are set a feast.  Ernst Lanark hovers nearby, watching - but clearly not welcome to the feast.  
+The players are welcomed by Lady Wachter's valet Haliq and escorted to the dining room, where they are set a feast.  Ernst Lanark hovers nearby, watching - but clearly not welcome to the feast.  The menu for the feast is:
+
+| Course | Item | Descti 
 
 
 
@@ -370,11 +372,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgxNzgzNDA0LDY2OTUzMDAwMiw2NjQ1ND
-kyOTcsODkzNzUyNjY1LDEzNDU1NDU5NTgsMTA0ODg3OTM1NCwt
-MTE3NjE0MTgxNywxNjkyMjMxMTUwLC0xNDE0Nzc1MjI0LDIwNz
-QxNDc5NzAsNDQ3NjE0NzQ1LC0yMzQzMTgyOTUsMTM4Mjc0NjU0
-OCwtMTg2NzYzNTE0MSwtODU0NTQ4OTQzLDE4NzY1MTMwNzIsMT
-AyMzk3NDk1NSwxMjE2NDE0MjE1LDE1NDYxNjQ1NjMsMTUwNTYw
-NTA0OF19
+eyJoaXN0b3J5IjpbLTEwNzk1Njc3NDMsNjY5NTMwMDAyLDY2ND
+U0OTI5Nyw4OTM3NTI2NjUsMTM0NTU0NTk1OCwxMDQ4ODc5MzU0
+LC0xMTc2MTQxODE3LDE2OTIyMzExNTAsLTE0MTQ3NzUyMjQsMj
+A3NDE0Nzk3MCw0NDc2MTQ3NDUsLTIzNDMxODI5NSwxMzgyNzQ2
+NTQ4LC0xODY3NjM1MTQxLC04NTQ1NDg5NDMsMTg3NjUxMzA3Mi
+wxMDIzOTc0OTU1LDEyMTY0MTQyMTUsMTU0NjE2NDU2MywxNTA1
+NjA1MDQ4XX0=
 -->
