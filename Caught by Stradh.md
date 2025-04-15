@@ -345,7 +345,7 @@ Things the Lady 'knows'...
 * The Baron is not a good man and in his heart he does not truly care for the people of Vallaki.  He is of short temper, and frail ego - burdening the people of the town with his inane laws and freak festivals to prove he is a great and benevolent ruler, while throwing any who speaks but a word of dissent into the stockade - or worse.  
 * His henchman Izek is worse - a sadist who loves torturing people.  There are enough people who disappear into the Baron's grasp - into that sadist's grasp - who never return or who return broken body and soul.  I do not know what he does, but it is terrible.
 * The baron's son Viktor holds an especially dark place in the Lady's heart.  Once upon a time Viktor and her daughter Stella were betrothed.  But something that boy did to her broke her mind - forcing Lady Wachter to send her beloved Stella to the Abbey of St. Markovia.
-* The festivals are pitiful, and the Baron knows - or should know - they are pointless.  Wachter knows Stradh is not perfect, but he does not s
+* The festivals are pitiful, and the Baron knows - or should know - they are pointless.  Wachter knows Stradh is not perfect, but he does not seek the destruction of his domain.  "The Count is, at worst, an absentee landlord.  Vallaki could thrive and the count will pursue his own goals - so long as we do not stand in his way.  
 
 
 
@@ -385,7 +385,7 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NTI4Mzc3NiwtNjYxMDcxOTExLC0xMD
+eyJoaXN0b3J5IjpbLTI0Mjk4MTkwMCwtNjYxMDcxOTExLC0xMD
 U3NDM0NzE5LDY2OTUzMDAwMiw2NjQ1NDkyOTcsODkzNzUyNjY1
 LDEzNDU1NDU5NTgsMTA0ODg3OTM1NCwtMTE3NjE0MTgxNywxNj
 kyMjMxMTUwLC0xNDE0Nzc1MjI0LDIwNzQxNDc5NzAsNDQ3NjE0
