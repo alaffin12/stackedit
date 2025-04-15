@@ -328,8 +328,9 @@ Rooms cost five silver a night.  The inn also has food and drink available:
 
 ##### Wachterhaus
 For the next step the players are invited to dinner at Wachterhaus by Lady Wachter herself.  As they approach:
-> This house seems disgusted with itself.  A slouching roof hangs heavy over furrowed gables, and moss-covered walls sag and bulge under the weight of the vegetation.  As you study the house's sullen contenence you hear the ediface actually groan
-> 
+> This house seems disgusted with itself.  A slouching roof hangs heavy over furrowed gables, and moss-covered walls sag and bulge under the weight of the vegetation.  As you study the house's sullen countenance you hear the edifice actually groan
+
+
 
 ### Tsolenka Pass
 
@@ -367,11 +368,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY5NTMwMDAyLDY2NDU0OTI5Nyw4OTM3NT
-I2NjUsMTM0NTU0NTk1OCwxMDQ4ODc5MzU0LC0xMTc2MTQxODE3
-LDE2OTIyMzExNTAsLTE0MTQ3NzUyMjQsMjA3NDE0Nzk3MCw0ND
-c2MTQ3NDUsLTIzNDMxODI5NSwxMzgyNzQ2NTQ4LC0xODY3NjM1
-MTQxLC04NTQ1NDg5NDMsMTg3NjUxMzA3MiwxMDIzOTc0OTU1LD
-EyMTY0MTQyMTUsMTU0NjE2NDU2MywxNTA1NjA1MDQ4LC0xODQy
-OTA2NDU4XX0=
+eyJoaXN0b3J5IjpbLTEyMDAwMzY2OSw2Njk1MzAwMDIsNjY0NT
+Q5Mjk3LDg5Mzc1MjY2NSwxMzQ1NTQ1OTU4LDEwNDg4NzkzNTQs
+LTExNzYxNDE4MTcsMTY5MjIzMTE1MCwtMTQxNDc3NTIyNCwyMD
+c0MTQ3OTcwLDQ0NzYxNDc0NSwtMjM0MzE4Mjk1LDEzODI3NDY1
+NDgsLTE4Njc2MzUxNDEsLTg1NDU0ODk0MywxODc2NTEzMDcyLD
+EwMjM5NzQ5NTUsMTIxNjQxNDIxNSwxNTQ2MTY0NTYzLDE1MDU2
+MDUwNDhdfQ==
 -->
