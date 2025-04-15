@@ -322,13 +322,15 @@ Rooms cost five silver a night.  The inn also has food and drink available:
 **NPCs**
 *The Martikovs*: Urwin and his wife Danika are the owners of the Inn and are usually seen splitting their time between the tavern area and the kitchen.  Their young sons Brom and Bray are also often present.  Urwin can be prickly and difficult to deal with.  Danika is more friendly, but she still has a proud and noble bearing and does not suffer fools.  The two boys are 11 and 9 and are typical boys of that age (except that all are wereravens and Urwin and Danika are members of the Keepers of the Feather).
 
-*The Hunters*: Szoldar Szoldarovich and Yevgeni Krushkin are two grim and dour hunters who frequent the tavern.  They don't have much to say and tend to keep to themselves.  If asked they will happily guide the party to the Amber Temple - so long as they pay them 100 gp.  Half upfront.  No haggling.  If they want better directions (or some kind of advice) they provide it for drinks.
+*The Hunters*: Szoldar Szoldarovich and Yevgeni Krushkin are two grim and dour hunters who frequent the tavern.  They don't have much to say and tend to keep to themselves.  If asked they will happily guide the party to the Amber Temple - so long as they pay them 500 gp apiece.  Half upfront.  No haggling.  If they want better directions (or some kind of advice) they provide it for drinks.
 
 *The Wachters*: Nikolai and Karl are the sons of Lady Wachter.  They are brash drunkards and always looking for trouble - but they know better than to pick fights with well-armed strangers.  They are not privy to their mother's plans (she doesn't trust them) nor do they attend her dinner.
 
 ##### Wachterhaus
 For the next step the players are invited to dinner at Wachterhaus by Lady Wachter herself.  As they approach:
 > This house seems disgusted with itself.  A slouching roof hangs heavy over furrowed gables, and moss-covered walls sag and bulge under the weight of the vegetation.  As you study the house's sullen countenance you hear the edifice actually groan
+
+The players are welcomed by Lady Wachter
 
 
 
@@ -368,7 +370,7 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDAwMzY2OSw2Njk1MzAwMDIsNjY0NT
+eyJoaXN0b3J5IjpbLTY0NjM3MjYwMCw2Njk1MzAwMDIsNjY0NT
 Q5Mjk3LDg5Mzc1MjY2NSwxMzQ1NTQ1OTU4LDEwNDg4NzkzNTQs
 LTExNzYxNDE4MTcsMTY5MjIzMTE1MCwtMTQxNDc3NTIyNCwyMD
 c0MTQ3OTcwLDQ0NzYxNDc0NSwtMjM0MzE4Mjk1LDEzODI3NDY1
