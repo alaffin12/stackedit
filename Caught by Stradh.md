@@ -342,7 +342,7 @@ The players are welcomed by Lady Wachter's valet Haliq and escorted to the dinin
 Lady Wachter is trying to get the measure of the party.  She is planning a coup d'etat tomorrow at the festival, and she is unsure what the arrival of the party means for those plans - they could be mercenaries hired by the baron to protect him, or they could be passers-by - still dangerous if they draw swords during the conflict.  On the other hand if they could be convinced to side with her...
 
 Things the Lady 'knows'...
-* The Baron is not a good man and in his heart he does not truly care for the people of Vallaki.  He is of short temper, and frail ego - burdening the people of the town with his inane laws and freak festivals to prove he is a great and benevolent ruler, while throwing any who speaks but a word of dissent into the stoc
+* The Baron is not a good man and in his heart he does not truly care for the people of Vallaki.  He is of short temper, and frail ego - burdening the people of the town with his inane laws and freak festivals to prove he is a great and benevolent ruler, while throwing any who speaks but a word of dissent into the stockade - or worse.  His henchman Izek is a sadist who loves torturing people who run afoul of the baron.  And his son Viktor - once upon a time Viktor and 
 
 
 
@@ -383,7 +383,7 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MTc2NDcwNCwtNjYxMDcxOTExLC0xMD
+eyJoaXN0b3J5IjpbMTA2NjQ0OTE1OSwtNjYxMDcxOTExLC0xMD
 U3NDM0NzE5LDY2OTUzMDAwMiw2NjQ1NDkyOTcsODkzNzUyNjY1
 LDEzNDU1NDU5NTgsMTA0ODg3OTM1NCwtMTE3NjE0MTgxNywxNj
 kyMjMxMTUwLC0xNDE0Nzc1MjI0LDIwNzQxNDc5NzAsNDQ3NjE0
