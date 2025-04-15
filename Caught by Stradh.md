@@ -339,7 +339,7 @@ The players are welcomed by Lady Wachter's valet Haliq and escorted to the dinin
 | Main | Sausage & Potatoes | Pork sausage with boiled and buttered potatoes, served with sauerkraut. |
 | Desert | Svalich Pudding | A rich pudding made from cream, eggs, blackberries, cherries, and blackcurrants. |
 
-Lady Wachter is trying t
+Lady Wachter is trying to get the measure of the party.  She is planning a coup d'ete tomorrow at the festival, and she is unsure what the arrival of the party means for those plans - 
 
 
 ### Tsolenka Pass
@@ -378,7 +378,7 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk4MTQ0NjY2LDY2OTUzMDAwMiw2NjQ1ND
+eyJoaXN0b3J5IjpbNzg4NTYxMzczLDY2OTUzMDAwMiw2NjQ1ND
 kyOTcsODkzNzUyNjY1LDEzNDU1NDU5NTgsMTA0ODg3OTM1NCwt
 MTE3NjE0MTgxNywxNjkyMjMxMTUwLC0xNDE0Nzc1MjI0LDIwNz
 QxNDc5NzAsNDQ3NjE0NzQ1LC0yMzQzMTgyOTUsMTM4Mjc0NjU0
