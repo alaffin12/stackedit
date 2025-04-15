@@ -343,7 +343,8 @@ Lady Wachter is trying to get the measure of the party.  She is planning a coup 
 
 Things the Lady 'knows'...
 * The Baron is not a good man and in his heart he does not truly care for the people of Vallaki.  He is of short temper, and frail ego - burdening the people of the town with his inane laws and freak festivals to prove he is a great and benevolent ruler, while throwing any who speaks but a word of dissent into the stockade - or worse.  
-* His henchman Izek is a sadist who loves torturing people who run afoul of the baron.  And his son Viktor - once upon a time Viktor and her daughter Stella were betrothed.  But something that boy did to her broke her mind - forcing Lady Wachter to send her beloved Stella to the Abbey of St. Markovia.
+* His henchman Izek is worse - a sadist who loves torturing people.  There are enough people who disappear into the Baron's grasp - into that sadist's grasp - who never return or who return broken body and soul.  I do not know what he does, but it is terrible.
+* The baron's son Viktor holds an especially dark place in the Lady's hea once upon a time Viktor and her daughter Stella were betrothed.  But something that boy did to her broke her mind - forcing Lady Wachter to send her beloved Stella to the Abbey of St. Markovia.
 
 
 
@@ -384,11 +385,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTkzOTgyNDIsLTY2MTA3MTkxMSwtMT
-A1NzQzNDcxOSw2Njk1MzAwMDIsNjY0NTQ5Mjk3LDg5Mzc1MjY2
-NSwxMzQ1NTQ1OTU4LDEwNDg4NzkzNTQsLTExNzYxNDE4MTcsMT
-Y5MjIzMTE1MCwtMTQxNDc3NTIyNCwyMDc0MTQ3OTcwLDQ0NzYx
-NDc0NSwtMjM0MzE4Mjk1LDEzODI3NDY1NDgsLTE4Njc2MzUxND
-EsLTg1NDU0ODk0MywxODc2NTEzMDcyLDEwMjM5NzQ5NTUsMTIx
-NjQxNDIxNV19
+eyJoaXN0b3J5IjpbMTAyODIyMDQ1MCwtNjYxMDcxOTExLC0xMD
+U3NDM0NzE5LDY2OTUzMDAwMiw2NjQ1NDkyOTcsODkzNzUyNjY1
+LDEzNDU1NDU5NTgsMTA0ODg3OTM1NCwtMTE3NjE0MTgxNywxNj
+kyMjMxMTUwLC0xNDE0Nzc1MjI0LDIwNzQxNDc5NzAsNDQ3NjE0
+NzQ1LC0yMzQzMTgyOTUsMTM4Mjc0NjU0OCwtMTg2NzYzNTE0MS
+wtODU0NTQ4OTQzLDE4NzY1MTMwNzIsMTAyMzk3NDk1NSwxMjE2
+NDE0MjE1XX0=
 -->
