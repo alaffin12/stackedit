@@ -332,7 +332,12 @@ For the next step the players are invited to dinner at Wachterhaus by Lady Wacht
 
 The players are welcomed by Lady Wachter's valet Haliq and escorted to the dining room, where they are set a feast.  Ernst Lanark hovers nearby, watching - but clearly not welcome to the feast.  The menu for the feast is:
 
-| Course | Item | Descti 
+| Course | Item | Description |
+| - | - | - |
+| Appetizer | Roast Chard Salad | |
+| Soup | Black Soup | |
+| Main | Sausage, Potatoes and Sauerkraut | |
+| Desert | Svalich Wood Pudding | |
 
 
 
@@ -372,7 +377,7 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzk1Njc3NDMsNjY5NTMwMDAyLDY2ND
+eyJoaXN0b3J5IjpbLTEwODU0OTk2NjMsNjY5NTMwMDAyLDY2ND
 U0OTI5Nyw4OTM3NTI2NjUsMTM0NTU0NTk1OCwxMDQ4ODc5MzU0
 LC0xMTc2MTQxODE3LDE2OTIyMzExNTAsLTE0MTQ3NzUyMjQsMj
 A3NDE0Nzk3MCw0NDc2MTQ3NDUsLTIzNDMxODI5NSwxMzgyNzQ2
