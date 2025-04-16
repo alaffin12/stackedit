@@ -351,7 +351,11 @@ If the party manage to snoop around the house for a bit and subsequently confron
 
  - **The Body of Her Deceased Husband:** "Yes, I keep my husband's body here.  I cannot mourn him properly with the Baron's foolish laws.  And I dare not bury him in secret beyond these walls - I will not allow his corpse to become part of the corruption of this land."
  - **Stella Imprisoned:** "No, I did not send my daughter to the Abbey.  How could I?  Have you heard what happens to people there?  I have heard... rumours.  I could not take a chance with my daughter.  Not... not like that."
- - **Secret Cult:** "What of it?  You think the Baron does not use similar means of gathering his helpers?  It is just a coincidence that his son and his right hand man are the most sadistic bastards in all of Barovia?  Yes, we practice magic.
+ - **Secret Cult:** "What of it?  You think the Baron does not use similar means of gathering his helpers?  It is just a coincidence that his son and his right hand man are the most sadistic bastards in all of Barovia?  Yes, we practice magic.  Maybe you think them dark magics.  Look around you - this is a dark land."
+
+If they get too pushy she will eject them.  If they get REALLY too pushy she will try to have them assassinated.  But ideally she will get them on her side, because the revolution starts tomorrow!
+
+
 
 ### Tsolenka Pass
 
@@ -389,7 +393,7 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5Njk2ODk4OSwtNTUzODU4OTUyLDM3OT
+eyJoaXN0b3J5IjpbLTU1MDAzMzk2MCwtNTUzODU4OTUyLDM3OT
 Q1MzMzNCwtMTU5OTE5NzI5NCwxMjA0NTEyODIwLC0yNDI5ODE5
 MDAsLTY2MTA3MTkxMSwtMTA1NzQzNDcxOSw2Njk1MzAwMDIsNj
 Y0NTQ5Mjk3LDg5Mzc1MjY2NSwxMzQ1NTQ1OTU4LDEwNDg4Nzkz
