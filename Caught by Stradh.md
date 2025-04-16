@@ -370,20 +370,17 @@ The laugh comes from Lars Kjurls, a member of the town militia.  The baron immed
 
 > "No..."
 >
-> A loud, feminine voice comes from the crowd, slicing through the square like thunder on a storm cloud  "...men and women of the Town Watch, take not one step further toward this man!"  You see Lady Wachter step forward, her eyes blazing with cold fire.  
+> A loud, familiar feminine voice comes from the crowd, slicing through the square like thunder on a storm cloud  "...men and women of the Town Watch, take not one step further toward this man!"  You see Lady Wachter step forward, the crowd parting around her powerful presence, her eyes blazing with cold fire.  
 >
 >"You dare raise a blade against him—for a laugh? A laugh? And yet you bow to a man who wraps this town in shackles of forced cheer, who hangs ribbons over rot, and dares call it salvation!"
 >
 >"You are not his dogs! You are the blood of Vallaki—born of hardship, tempered by shadow, proud and unbroken. And yet you march in lockstep for a tyrant who would burn your homes to fuel his next festival!"
 >
-> You see 
-
-_There is movement—three figures emerge from the crowd, townsfolk you've seen before but never quite noticed. They stand behind Lady Wachter, heads high, fists clenched._
-
-"How many more parades must we endure while the devil laughs from his castle and the Baron plays at being king? How many more ‘joyous proclamations’ while your neighbors disappear in the night?"
-
-_She turns, eyes sweeping over the gathered townsfolk, voice rising to a fever pitch._  
-"This is not justice. This is not joy. This is a gilded noose! So I say—_cut it!_ Cast down your false Baron and let this town breathe free air again! You’ve lived in fear long enough. Tonight, Vallaki remembers its spine!"
+> You see others, dressed in cloaks similar to that worn by Lady Wachter.  They cheer her words.  And their hands are on their weapons
+> 
+>  "How many more parades must we endure while the devil laughs from his castle and the Baron plays at being king? How many more ‘joyous proclamations’ while your neighbors disappear in the night?"
+>
+> "This is not justice. This is not joy. This is a gilded noose! So I say -  Cast down your false Baron and let this town breathe free air again! You’ve lived in fear long enough. Tonight, Vallaki remembers its spine!"
 
 _More townsfolk begin to stir—murmurs, then voices, then hands reaching for weapons not to draw, but to drop. The tide is shifting. Lady Wachter stands at the eye of the storm, her words the spark that threatens to ignite the whole rotten edifice._
 
@@ -427,11 +424,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NTMzNTk1MSwtMTIyNzY1MTYxNywxMj
-I2NTkxNzM4LDMzNzc3MTYyNCwtNTUwMDMzOTYwLC01NTM4NTg5
-NTIsMzc5NDUzMzM0LC0xNTk5MTk3Mjk0LDEyMDQ1MTI4MjAsLT
-I0Mjk4MTkwMCwtNjYxMDcxOTExLC0xMDU3NDM0NzE5LDY2OTUz
-MDAwMiw2NjQ1NDkyOTcsODkzNzUyNjY1LDEzNDU1NDU5NTgsMT
-A0ODg3OTM1NCwtMTE3NjE0MTgxNywxNjkyMjMxMTUwLC0xNDE0
-Nzc1MjI0XX0=
+eyJoaXN0b3J5IjpbLTg4MTEyMjMyLC0xMjI3NjUxNjE3LDEyMj
+Y1OTE3MzgsMzM3NzcxNjI0LC01NTAwMzM5NjAsLTU1Mzg1ODk1
+MiwzNzk0NTMzMzQsLTE1OTkxOTcyOTQsMTIwNDUxMjgyMCwtMj
+QyOTgxOTAwLC02NjEwNzE5MTEsLTEwNTc0MzQ3MTksNjY5NTMw
+MDAyLDY2NDU0OTI5Nyw4OTM3NTI2NjUsMTM0NTU0NTk1OCwxMD
+Q4ODc5MzU0LC0xMTc2MTQxODE3LDE2OTIyMzExNTAsLTE0MTQ3
+NzUyMjRdfQ==
 -->
