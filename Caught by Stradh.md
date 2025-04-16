@@ -370,7 +370,7 @@ The laugh comes from Lars Kjurls, a member of the town militia.  The baron immed
 
 > "No..."
 >
-> A loud, feminine voice comes from the crowd, causing a murmured hush to fall over the crowd.  "..
+> A loud, feminine voice comes from the crowd, causing a murmured hush to fall over the crowd.  "...members of the Town Watch - do not take one step further toward this man
 
 
 
@@ -412,11 +412,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMTQ4NDk2NCwxMjI2NTkxNzM4LDMzNz
-c3MTYyNCwtNTUwMDMzOTYwLC01NTM4NTg5NTIsMzc5NDUzMzM0
-LC0xNTk5MTk3Mjk0LDEyMDQ1MTI4MjAsLTI0Mjk4MTkwMCwtNj
-YxMDcxOTExLC0xMDU3NDM0NzE5LDY2OTUzMDAwMiw2NjQ1NDky
-OTcsODkzNzUyNjY1LDEzNDU1NDU5NTgsMTA0ODg3OTM1NCwtMT
-E3NjE0MTgxNywxNjkyMjMxMTUwLC0xNDE0Nzc1MjI0LDIwNzQx
-NDc5NzBdfQ==
+eyJoaXN0b3J5IjpbLTEyMjc2NTE2MTcsMTIyNjU5MTczOCwzMz
+c3NzE2MjQsLTU1MDAzMzk2MCwtNTUzODU4OTUyLDM3OTQ1MzMz
+NCwtMTU5OTE5NzI5NCwxMjA0NTEyODIwLC0yNDI5ODE5MDAsLT
+Y2MTA3MTkxMSwtMTA1NzQzNDcxOSw2Njk1MzAwMDIsNjY0NTQ5
+Mjk3LDg5Mzc1MjY2NSwxMzQ1NTQ1OTU4LDEwNDg4NzkzNTQsLT
+ExNzYxNDE4MTcsMTY5MjIzMTE1MCwtMTQxNDc3NTIyNCwyMDc0
+MTQ3OTcwXX0=
 -->
