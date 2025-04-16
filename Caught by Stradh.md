@@ -362,7 +362,11 @@ The party might also be inclined to investigate Lady Wachter's claims after dinn
 This can go one of two way, depending on the players interactions with Lady Wachter.  If Lady Wachter is confident of the assistance (or at least neutrality) of the party then go the way of the Laughing Guard.  Otherwise go the way of the Consort of Stradh.
 
 *The Laughing Guard*
-> Under threatening skies, a parade of unhappy children dressed as flowers and wearing forced smiles trudges through the muddy streets, leading the way for a group of sorry-looking men and women carrying a ten-foot-diameter wicker ball. The burgomaster and his smiling wife, who holds a sad bouquet of wilting flowers, follow the procession on horseback. As weary spectators watch from their stoops, the ball is borne to the town square. There, it is hoisted and hung from a fifteen-foot-high wooden scaffold, and townsfolk take turns splashing it with oil. Before the wicker sun can be set ablaze, the sky tears open in a sudden downpour. "All will be well!" cries the burgomaster as he brandishes a sputtering torch and marches defiantly through the rain toward the wicker ball, only to have his torch go out as he thrusts it into the sphere. A singular laugh erupts from the crowd, drawing the burgomaster's fiery gaze as well as gasps from the townsfolk.
+> Under threatening skies, a parade of unhappy children dressed as flowers and wearing forced smiles trudges through the muddy streets, leading the way for a group of sorry-looking men and women carrying a ten-foot-diameter wicker ball. The burgomaster and his smiling wife, who holds a sad bouquet of wilting flowers, follow the procession on horseback. As weary spectators watch from their stoops, the ball is borne to the town square. There, it is hoisted and hung from a fifteen-foot-high wooden scaffold, and townsfolk take turns splashing it with oil. Before the wicker sun can be set ablaze, the sky tears open in a sudden downpour. "All will be well!" cries the burgomaster as he brandishes a sputtering torch and marches defiantly through the rain toward the wicker ball, only to have his torch go out as he thrusts it into the sphere. 
+>
+>A singular laugh erupts from the crowd, drawing the burgomaster's fiery gaze as well as gasps from the townsfolk.
+
+The laugh comes from Lars Kjurls, a member of the town militia.  The baron immediately orders Lars arrested for "Spite" and orders the other guards to take him into custody.  
 
 
 
@@ -404,11 +408,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MTY5MzYzNCwxMjI2NTkxNzM4LDMzNz
-c3MTYyNCwtNTUwMDMzOTYwLC01NTM4NTg5NTIsMzc5NDUzMzM0
-LC0xNTk5MTk3Mjk0LDEyMDQ1MTI4MjAsLTI0Mjk4MTkwMCwtNj
-YxMDcxOTExLC0xMDU3NDM0NzE5LDY2OTUzMDAwMiw2NjQ1NDky
-OTcsODkzNzUyNjY1LDEzNDU1NDU5NTgsMTA0ODg3OTM1NCwtMT
-E3NjE0MTgxNywxNjkyMjMxMTUwLC0xNDE0Nzc1MjI0LDIwNzQx
-NDc5NzBdfQ==
+eyJoaXN0b3J5IjpbNjgyMTY0Mjg0LDEyMjY1OTE3MzgsMzM3Nz
+cxNjI0LC01NTAwMzM5NjAsLTU1Mzg1ODk1MiwzNzk0NTMzMzQs
+LTE1OTkxOTcyOTQsMTIwNDUxMjgyMCwtMjQyOTgxOTAwLC02Nj
+EwNzE5MTEsLTEwNTc0MzQ3MTksNjY5NTMwMDAyLDY2NDU0OTI5
+Nyw4OTM3NTI2NjUsMTM0NTU0NTk1OCwxMDQ4ODc5MzU0LC0xMT
+c2MTQxODE3LDE2OTIyMzExNTAsLTE0MTQ3NzUyMjQsMjA3NDE0
+Nzk3MF19
 -->
