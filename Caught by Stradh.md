@@ -370,12 +370,13 @@ The laugh comes from Lars Kjurls, a member of the town militia.  The baron immed
 
 > "No..."
 >
-> A loud, feminine voice comes from the crowd, slicing through the square like thunder on a storm cloud  "...men and women of the Town Watch, take not one step further toward this man!"  You see Lady Wachter step forward, her eyes blazing with cold fire.    
-_Lady Wachter’s voice slices through the square like thunder through a stormcloud, her eyes blazing with cold fire._  
-"You dare raise a blade against him—for a laugh? A _laugh_? And yet you bow to a man who wraps this town in shackles of forced cheer, who hangs ribbons over rot, and dares call it salvation!"
-
-_She steps forward, arms wide, cloak billowing like wings._  
-"You are not his dogs! You are the blood of Vallaki—born of hardship, tempered by shadow, proud and unbroken. And yet you march in lockstep for a tyrant who would burn your homes to fuel his next festival!"
+> A loud, feminine voice comes from the crowd, slicing through the square like thunder on a storm cloud  "...men and women of the Town Watch, take not one step further toward this man!"  You see Lady Wachter step forward, her eyes blazing with cold fire.  
+>
+>"You dare raise a blade against him—for a laugh? A laugh? And yet you bow to a man who wraps this town in shackles of forced cheer, who hangs ribbons over rot, and dares call it salvation!"
+>
+>"You are not his dogs! You are the blood of Vallaki—born of hardship, tempered by shadow, proud and unbroken. And yet you march in lockstep for a tyrant who would burn your homes to fuel his next festival!"
+>
+> You see 
 
 _There is movement—three figures emerge from the crowd, townsfolk you've seen before but never quite noticed. They stand behind Lady Wachter, heads high, fists clenched._
 
@@ -426,11 +427,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDAzNzEyMzYsLTEyMjc2NTE2MTcsMT
-IyNjU5MTczOCwzMzc3NzE2MjQsLTU1MDAzMzk2MCwtNTUzODU4
-OTUyLDM3OTQ1MzMzNCwtMTU5OTE5NzI5NCwxMjA0NTEyODIwLC
-0yNDI5ODE5MDAsLTY2MTA3MTkxMSwtMTA1NzQzNDcxOSw2Njk1
-MzAwMDIsNjY0NTQ5Mjk3LDg5Mzc1MjY2NSwxMzQ1NTQ1OTU4LD
-EwNDg4NzkzNTQsLTExNzYxNDE4MTcsMTY5MjIzMTE1MCwtMTQx
-NDc3NTIyNF19
+eyJoaXN0b3J5IjpbLTU5NTMzNTk1MSwtMTIyNzY1MTYxNywxMj
+I2NTkxNzM4LDMzNzc3MTYyNCwtNTUwMDMzOTYwLC01NTM4NTg5
+NTIsMzc5NDUzMzM0LC0xNTk5MTk3Mjk0LDEyMDQ1MTI4MjAsLT
+I0Mjk4MTkwMCwtNjYxMDcxOTExLC0xMDU3NDM0NzE5LDY2OTUz
+MDAwMiw2NjQ1NDkyOTcsODkzNzUyNjY1LDEzNDU1NDU5NTgsMT
+A0ODg3OTM1NCwtMTE3NjE0MTgxNywxNjkyMjMxMTUwLC0xNDE0
+Nzc1MjI0XX0=
 -->
