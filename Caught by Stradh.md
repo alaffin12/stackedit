@@ -359,7 +359,7 @@ The party might also be inclined to investigate Lady Wachter's claims after dinn
 
 ##### Festival of the Blazing Sun
 ###### Part I - The Parade
-
+This can go one of two way, depending on the players interactions with Lady Wachter.  
 
 
 
@@ -401,11 +401,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgzMTc2NzUsMTIyNjU5MTczOCwzMzc3Nz
-E2MjQsLTU1MDAzMzk2MCwtNTUzODU4OTUyLDM3OTQ1MzMzNCwt
-MTU5OTE5NzI5NCwxMjA0NTEyODIwLC0yNDI5ODE5MDAsLTY2MT
-A3MTkxMSwtMTA1NzQzNDcxOSw2Njk1MzAwMDIsNjY0NTQ5Mjk3
-LDg5Mzc1MjY2NSwxMzQ1NTQ1OTU4LDEwNDg4NzkzNTQsLTExNz
-YxNDE4MTcsMTY5MjIzMTE1MCwtMTQxNDc3NTIyNCwyMDc0MTQ3
-OTcwXX0=
+eyJoaXN0b3J5IjpbMTU5Njk4MjI3NCwxMjI2NTkxNzM4LDMzNz
+c3MTYyNCwtNTUwMDMzOTYwLC01NTM4NTg5NTIsMzc5NDUzMzM0
+LC0xNTk5MTk3Mjk0LDEyMDQ1MTI4MjAsLTI0Mjk4MTkwMCwtNj
+YxMDcxOTExLC0xMDU3NDM0NzE5LDY2OTUzMDAwMiw2NjQ1NDky
+OTcsODkzNzUyNjY1LDEzNDU1NDU5NTgsMTA0ODg3OTM1NCwtMT
+E3NjE0MTgxNywxNjkyMjMxMTUwLC0xNDE0Nzc1MjI0LDIwNzQx
+NDc5NzBdfQ==
 -->
