@@ -345,7 +345,8 @@ Things the Lady 'knows'...
 * The Baron is not a good man and in his heart he does not truly care for the people of Vallaki.  He is of short temper, and frail ego - burdening the people of the town with his inane laws and freak festivals to prove he is a great and benevolent ruler, while throwing any who speaks but a word of dissent into the stockade - or worse.  
 * His henchman Izek is worse - a sadist who loves torturing people.  There are enough people who disappear into the Baron's grasp - into that sadist's grasp - who never return or who return broken body and soul.  I do not know what he does, but it is terrible.
 * The baron's son Viktor holds an especially dark place in the Lady's heart.  Once upon a time Viktor and her daughter Stella were betrothed.  But something that boy did to her broke her mind - forcing Lady Wachter to send her beloved Stella to the Abbey of St. Markovia.
-* The festivals are pitiful, and the Baron knows - or should know - they are pointless.  Stradh is Wachter knows Stradh is not perfect, but he does not seek the destruction of his domain.  Lady Wachter sees the Count as something of an absentee and somewhat negligent landlord.  He cares more for his own pursuits than for the business of Vallaki, and so long as 
+* The festivals are pitiful, and the Baron knows - or should know - they are pointless.  Stradh is the sovereign overlord of Barovia and all within it - if he wished to meddle in the affairs of Vallaki he would do so, and no amount of festivals or good vibes would keep him out.  
+* Wachter knows Stradh is not perfect, but he does not seek the destruction of his domain.  Lady Wachter sees the Count as something of an absentee and somewhat negligent landlord.  He cares more for his own pursuits than for the business of Vallaki, and so long as 
 
 
 
@@ -385,11 +386,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODU2OTY2NDEsLTI0Mjk4MTkwMCwtNj
-YxMDcxOTExLC0xMDU3NDM0NzE5LDY2OTUzMDAwMiw2NjQ1NDky
-OTcsODkzNzUyNjY1LDEzNDU1NDU5NTgsMTA0ODg3OTM1NCwtMT
-E3NjE0MTgxNywxNjkyMjMxMTUwLC0xNDE0Nzc1MjI0LDIwNzQx
-NDc5NzAsNDQ3NjE0NzQ1LC0yMzQzMTgyOTUsMTM4Mjc0NjU0OC
-wtMTg2NzYzNTE0MSwtODU0NTQ4OTQzLDE4NzY1MTMwNzIsMTAy
-Mzk3NDk1NV19
+eyJoaXN0b3J5IjpbMTgzMzIzMjA4MiwtMjQyOTgxOTAwLC02Nj
+EwNzE5MTEsLTEwNTc0MzQ3MTksNjY5NTMwMDAyLDY2NDU0OTI5
+Nyw4OTM3NTI2NjUsMTM0NTU0NTk1OCwxMDQ4ODc5MzU0LC0xMT
+c2MTQxODE3LDE2OTIyMzExNTAsLTE0MTQ3NzUyMjQsMjA3NDE0
+Nzk3MCw0NDc2MTQ3NDUsLTIzNDMxODI5NSwxMzgyNzQ2NTQ4LC
+0xODY3NjM1MTQxLC04NTQ1NDg5NDMsMTg3NjUxMzA3MiwxMDIz
+OTc0OTU1XX0=
 -->
