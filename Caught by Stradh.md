@@ -366,7 +366,11 @@ This can go one of two way, depending on the players interactions with Lady Wach
 >
 >A singular laugh erupts from the crowd, drawing the burgomaster's fiery gaze as well as gasps from the townsfolk.
 
-The laugh comes from Lars Kjurls, a member of the town militia.  The baron immediately orders Lars arrested for "Spite" and orders the other guards to take him into custody.  
+The laugh comes from Lars Kjurls, a member of the town militia.  The baron immediately orders Lars arrested for "Spite" and orders the other guards to take him into custody.  However as other guardsmen approach Lars another voice intervenes...
+
+> "No..."
+>
+> A loud, feminine voice comes from the crowd, causing a murmured hush to fall over the crowd.  "..
 
 
 
@@ -408,11 +412,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgyMTY0Mjg0LDEyMjY1OTE3MzgsMzM3Nz
-cxNjI0LC01NTAwMzM5NjAsLTU1Mzg1ODk1MiwzNzk0NTMzMzQs
-LTE1OTkxOTcyOTQsMTIwNDUxMjgyMCwtMjQyOTgxOTAwLC02Nj
-EwNzE5MTEsLTEwNTc0MzQ3MTksNjY5NTMwMDAyLDY2NDU0OTI5
-Nyw4OTM3NTI2NjUsMTM0NTU0NTk1OCwxMDQ4ODc5MzU0LC0xMT
-c2MTQxODE3LDE2OTIyMzExNTAsLTE0MTQ3NzUyMjQsMjA3NDE0
-Nzk3MF19
+eyJoaXN0b3J5IjpbMTUyMTQ4NDk2NCwxMjI2NTkxNzM4LDMzNz
+c3MTYyNCwtNTUwMDMzOTYwLC01NTM4NTg5NTIsMzc5NDUzMzM0
+LC0xNTk5MTk3Mjk0LDEyMDQ1MTI4MjAsLTI0Mjk4MTkwMCwtNj
+YxMDcxOTExLC0xMDU3NDM0NzE5LDY2OTUzMDAwMiw2NjQ1NDky
+OTcsODkzNzUyNjY1LDEzNDU1NDU5NTgsMTA0ODg3OTM1NCwtMT
+E3NjE0MTgxNywxNjkyMjMxMTUwLC0xNDE0Nzc1MjI0LDIwNzQx
+NDc5NzBdfQ==
 -->
