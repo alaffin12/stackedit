@@ -349,7 +349,8 @@ Things the Lady 'knows'...
 
 If the party manage to snoop around the house for a bit and subsequently confront her with some or all of her own indiscretions she will be defensive:
 
- - **The Body of Her Deceased Husband:** "Yes, I keep my husband's body here.  I cannot mourn him properly with the Baron's foolish laws.  And I dare not bury him in secret beyond th
+ - **The Body of Her Deceased Husband:** "Yes, I keep my husband's body here.  I cannot mourn him properly with the Baron's foolish laws.  And I dare not bury him in secret beyond these walls - I will not allow his corpse to become part of the corruption of this land."
+ - **Stella Imprisoned:** "No, I did not send my daughter to the Abbey.  How could I?  Have you heard what happens to people there?  
 
 ### Tsolenka Pass
 
@@ -387,11 +388,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU2NDk4NjI5LDEyMDQ1MTI4MjAsLTI0Mj
-k4MTkwMCwtNjYxMDcxOTExLC0xMDU3NDM0NzE5LDY2OTUzMDAw
-Miw2NjQ1NDkyOTcsODkzNzUyNjY1LDEzNDU1NDU5NTgsMTA0OD
-g3OTM1NCwtMTE3NjE0MTgxNywxNjkyMjMxMTUwLC0xNDE0Nzc1
-MjI0LDIwNzQxNDc5NzAsNDQ3NjE0NzQ1LC0yMzQzMTgyOTUsMT
-M4Mjc0NjU0OCwtMTg2NzYzNTE0MSwtODU0NTQ4OTQzLDE4NzY1
-MTMwNzJdfQ==
+eyJoaXN0b3J5IjpbLTE1OTkxOTcyOTQsMTIwNDUxMjgyMCwtMj
+QyOTgxOTAwLC02NjEwNzE5MTEsLTEwNTc0MzQ3MTksNjY5NTMw
+MDAyLDY2NDU0OTI5Nyw4OTM3NTI2NjUsMTM0NTU0NTk1OCwxMD
+Q4ODc5MzU0LC0xMTc2MTQxODE3LDE2OTIyMzExNTAsLTE0MTQ3
+NzUyMjQsMjA3NDE0Nzk3MCw0NDc2MTQ3NDUsLTIzNDMxODI5NS
+wxMzgyNzQ2NTQ4LC0xODY3NjM1MTQxLC04NTQ1NDg5NDMsMTg3
+NjUxMzA3Ml19
 -->
