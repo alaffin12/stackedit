@@ -357,6 +357,8 @@ If they get too pushy she will eject them.  If they get REALLY too pushy she wil
 
 The party might also be inclined to investigate Lady Wachter's claims after dinner.  If they want to, allow them to explore the Baron's mansion (map is available, but try theatre of the mind I guess?)
 
+##### Festival of the Blazing Sun
+
 
 
 ### Tsolenka Pass
@@ -395,11 +397,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM3NzcxNjI0LC01NTAwMzM5NjAsLTU1Mz
-g1ODk1MiwzNzk0NTMzMzQsLTE1OTkxOTcyOTQsMTIwNDUxMjgy
-MCwtMjQyOTgxOTAwLC02NjEwNzE5MTEsLTEwNTc0MzQ3MTksNj
-Y5NTMwMDAyLDY2NDU0OTI5Nyw4OTM3NTI2NjUsMTM0NTU0NTk1
-OCwxMDQ4ODc5MzU0LC0xMTc2MTQxODE3LDE2OTIyMzExNTAsLT
-E0MTQ3NzUyMjQsMjA3NDE0Nzk3MCw0NDc2MTQ3NDUsLTIzNDMx
-ODI5NV19
+eyJoaXN0b3J5IjpbMTIyNjU5MTczOCwzMzc3NzE2MjQsLTU1MD
+AzMzk2MCwtNTUzODU4OTUyLDM3OTQ1MzMzNCwtMTU5OTE5NzI5
+NCwxMjA0NTEyODIwLC0yNDI5ODE5MDAsLTY2MTA3MTkxMSwtMT
+A1NzQzNDcxOSw2Njk1MzAwMDIsNjY0NTQ5Mjk3LDg5Mzc1MjY2
+NSwxMzQ1NTQ1OTU4LDEwNDg4NzkzNTQsLTExNzYxNDE4MTcsMT
+Y5MjIzMTE1MCwtMTQxNDc3NTIyNCwyMDc0MTQ3OTcwLDQ0NzYx
+NDc0NV19
 -->
