@@ -370,7 +370,21 @@ The laugh comes from Lars Kjurls, a member of the town militia.  The baron immed
 
 > "No..."
 >
-> A loud, feminine voice comes from the crowd, causing a murmured hush to fall over the crowd.  "...members of the Town Watch - do not take one step further toward this man
+> A loud, feminine voice comes from the crowd, slicing through the square like thunder on a storm cloud  "...men and women of the Town Watch, take not one step further toward this man!"  You see Lady Wachter step forward, her eyes blazing with cold fire.    
+_Lady Wachter’s voice slices through the square like thunder through a stormcloud, her eyes blazing with cold fire._  
+"You dare raise a blade against him—for a laugh? A _laugh_? And yet you bow to a man who wraps this town in shackles of forced cheer, who hangs ribbons over rot, and dares call it salvation!"
+
+_She steps forward, arms wide, cloak billowing like wings._  
+"You are not his dogs! You are the blood of Vallaki—born of hardship, tempered by shadow, proud and unbroken. And yet you march in lockstep for a tyrant who would burn your homes to fuel his next festival!"
+
+_There is movement—three figures emerge from the crowd, townsfolk you've seen before but never quite noticed. They stand behind Lady Wachter, heads high, fists clenched._
+
+"How many more parades must we endure while the devil laughs from his castle and the Baron plays at being king? How many more ‘joyous proclamations’ while your neighbors disappear in the night?"
+
+_She turns, eyes sweeping over the gathered townsfolk, voice rising to a fever pitch._  
+"This is not justice. This is not joy. This is a gilded noose! So I say—_cut it!_ Cast down your false Baron and let this town breathe free air again! You’ve lived in fear long enough. Tonight, Vallaki remembers its spine!"
+
+_More townsfolk begin to stir—murmurs, then voices, then hands reaching for weapons not to draw, but to drop. The tide is shifting. Lady Wachter stands at the eye of the storm, her words the spark that threatens to ignite the whole rotten edifice._
 
 
 
@@ -412,11 +426,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjc2NTE2MTcsMTIyNjU5MTczOCwzMz
-c3NzE2MjQsLTU1MDAzMzk2MCwtNTUzODU4OTUyLDM3OTQ1MzMz
-NCwtMTU5OTE5NzI5NCwxMjA0NTEyODIwLC0yNDI5ODE5MDAsLT
-Y2MTA3MTkxMSwtMTA1NzQzNDcxOSw2Njk1MzAwMDIsNjY0NTQ5
-Mjk3LDg5Mzc1MjY2NSwxMzQ1NTQ1OTU4LDEwNDg4NzkzNTQsLT
-ExNzYxNDE4MTcsMTY5MjIzMTE1MCwtMTQxNDc3NTIyNCwyMDc0
-MTQ3OTcwXX0=
+eyJoaXN0b3J5IjpbLTEyMDAzNzEyMzYsLTEyMjc2NTE2MTcsMT
+IyNjU5MTczOCwzMzc3NzE2MjQsLTU1MDAzMzk2MCwtNTUzODU4
+OTUyLDM3OTQ1MzMzNCwtMTU5OTE5NzI5NCwxMjA0NTEyODIwLC
+0yNDI5ODE5MDAsLTY2MTA3MTkxMSwtMTA1NzQzNDcxOSw2Njk1
+MzAwMDIsNjY0NTQ5Mjk3LDg5Mzc1MjY2NSwxMzQ1NTQ1OTU4LD
+EwNDg4NzkzNTQsLTExNzYxNDE4MTcsMTY5MjIzMTE1MCwtMTQx
+NDc3NTIyNF19
 -->
