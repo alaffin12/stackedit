@@ -359,7 +359,7 @@ The party might also be inclined to investigate Lady Wachter's claims after dinn
 
 ##### Festival of the Blazing Sun
 ###### Part I - The Parade
-This can go one of two way, depending on the players interactions with Lady Wachter.  
+This can go one of two way, depending on the players interactions with Lady Wachter.  If Lady Wachter is confident of the assistance (or at least neutrality) of the party then go the way of the Laughing Guard.  Ot
 
 
 
@@ -401,7 +401,7 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5Njk4MjI3NCwxMjI2NTkxNzM4LDMzNz
+eyJoaXN0b3J5IjpbMTMxNDUxMTcyMiwxMjI2NTkxNzM4LDMzNz
 c3MTYyNCwtNTUwMDMzOTYwLC01NTM4NTg5NTIsMzc5NDUzMzM0
 LC0xNTk5MTk3Mjk0LDEyMDQ1MTI4MjAsLTI0Mjk4MTkwMCwtNj
 YxMDcxOTExLC0xMDU3NDM0NzE5LDY2OTUzMDAwMiw2NjQ1NDky
