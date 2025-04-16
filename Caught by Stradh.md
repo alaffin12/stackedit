@@ -347,6 +347,8 @@ Things the Lady 'knows'...
 * The baron's son Viktor holds an especially dark place in the Lady's heart.  Once upon a time Viktor and her daughter Stella were betrothed.  But something that boy did to her broke her mind - forcing Lady Wachter to send her beloved Stella to the Abbey of St. Markovia.
 * The festivals are pitiful, and the Baron knows - or should know - they are pointless.  Stradh is the sovereign overlord of Barovia and all within it - if he wished to meddle in the affairs of Vallaki he would do so, and no amount of festivals or good vibes would keep him out.  The fact that he does not is evidence that Stradh is more of an absentee landlord than a direct threat to the people of Vallaki.  He has his own plans, his own pursuits - women, mostly, but there is one woman in particular he seeks.  And he can be reasoned with.  The Baron is just a stubborn, hateful fool.
 
+If the party manage to snoop around the house for a bit and subsequently confront her with some or all of her own indiscretions she w
+
 
 
 ### Tsolenka Pass
@@ -385,11 +387,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNDUxMjgyMCwtMjQyOTgxOTAwLC02Nj
-EwNzE5MTEsLTEwNTc0MzQ3MTksNjY5NTMwMDAyLDY2NDU0OTI5
-Nyw4OTM3NTI2NjUsMTM0NTU0NTk1OCwxMDQ4ODc5MzU0LC0xMT
-c2MTQxODE3LDE2OTIyMzExNTAsLTE0MTQ3NzUyMjQsMjA3NDE0
-Nzk3MCw0NDc2MTQ3NDUsLTIzNDMxODI5NSwxMzgyNzQ2NTQ4LC
-0xODY3NjM1MTQxLC04NTQ1NDg5NDMsMTg3NjUxMzA3MiwxMDIz
-OTc0OTU1XX0=
+eyJoaXN0b3J5IjpbLTEzNTEzNzgwOTYsMTIwNDUxMjgyMCwtMj
+QyOTgxOTAwLC02NjEwNzE5MTEsLTEwNTc0MzQ3MTksNjY5NTMw
+MDAyLDY2NDU0OTI5Nyw4OTM3NTI2NjUsMTM0NTU0NTk1OCwxMD
+Q4ODc5MzU0LC0xMTc2MTQxODE3LDE2OTIyMzExNTAsLTE0MTQ3
+NzUyMjQsMjA3NDE0Nzk3MCw0NDc2MTQ3NDUsLTIzNDMxODI5NS
+wxMzgyNzQ2NTQ4LC0xODY3NjM1MTQxLC04NTQ1NDg5NDMsMTg3
+NjUxMzA3Ml19
 -->
