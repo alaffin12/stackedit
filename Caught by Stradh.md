@@ -392,15 +392,18 @@ The laugh comes from Lars Kjurls, a member of the town militia.  The baron immed
 > Town guards appear from the fringe of the crowd.  Four are carrying large wicker balls.  Others lead prisoners - Lady Wachter, her two sons Nikolai and Karl, and her daughter Stella.  All are brought onto the raised dais next to the Baron.  Lady Wachter, bound and gagged, glares at the Baron - at the crowd - but behind her rage you sense something else.  Panic.  Karl and Nikolai struggle vainly against their bonds.  And the young woman - Stella - wild eyed, like a cornered animal.  Feral.
 >
 > The Baron gestures to the family as they are forced into the wicker balls.  "Behold the rot that festered in our midst - Lady Fiona Wachter, betrayer of kin, betrayer of joy, and consort of the Devil himself!"
-
-_Gasps ripple through the crowd. The Baron paces the stage with wild energy, cloak flaring behind him._  
-**"She spurned our festivals! She mocked your smiles! She schemed in the dark and whispered rebellion while the rest of you worked and worshiped and wore your joy with pride!"**
-
-_He stops, jabbing a finger toward her cage._  
-**"And what did we find in her house? What secrets behind her locked doors?"**
-
-_He leans forward, voice lowering to a scandalized hiss._  
-**"We found the body of her husband—Nikolaj Wachter—dead these three years, still _lying in her bed,_ dressed and perfumed, as though nothing had passed! A corpse! A rotted man kept in mockery of life, tended by a mad daughter and guarded by servants too terrified to speak!"**
+>
+> Gasps ripple through the crowd. The Baron paces the stage with wild energy, cloak flaring behind him.
+>
+> "She spurned our festivals! She mocked your smiles! She schemed in the dark and whispered rebellion while the rest of you worked and worshipped and wore your joy with pride!"
+>
+> He stops, jabbing a finger toward her cage.
+>
+> "And what did we find in her house? What secrets behind her locked doors?"
+> 
+> He leans forward, voice lowering to a scandalized hiss.
+>
+> "We found the body of her husband—Nikolaj Wachter—dead these three years, still lying in her bed, dressed and perfumed, as though nothing had passed! A corpse! A rotted man kept in mockery of life, tended by a mad daughter and guarded by servants too terrified to speak!"**
 
 _A murmur of horror surges through the crowd._
 
@@ -451,11 +454,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNDQ4Nzg4NSwxOTQ1Mzk0OTksLTE1Nz
-k1NzEzNjUsLTEyMjc2NTE2MTcsMTIyNjU5MTczOCwzMzc3NzE2
-MjQsLTU1MDAzMzk2MCwtNTUzODU4OTUyLDM3OTQ1MzMzNCwtMT
-U5OTE5NzI5NCwxMjA0NTEyODIwLC0yNDI5ODE5MDAsLTY2MTA3
-MTkxMSwtMTA1NzQzNDcxOSw2Njk1MzAwMDIsNjY0NTQ5Mjk3LD
-g5Mzc1MjY2NSwxMzQ1NTQ1OTU4LDEwNDg4NzkzNTQsLTExNzYx
-NDE4MTddfQ==
+eyJoaXN0b3J5IjpbOTkwMDgwNjU1LDE1MDQ0ODc4ODUsMTk0NT
+M5NDk5LC0xNTc5NTcxMzY1LC0xMjI3NjUxNjE3LDEyMjY1OTE3
+MzgsMzM3NzcxNjI0LC01NTAwMzM5NjAsLTU1Mzg1ODk1MiwzNz
+k0NTMzMzQsLTE1OTkxOTcyOTQsMTIwNDUxMjgyMCwtMjQyOTgx
+OTAwLC02NjEwNzE5MTEsLTEwNTc0MzQ3MTksNjY5NTMwMDAyLD
+Y2NDU0OTI5Nyw4OTM3NTI2NjUsMTM0NTU0NTk1OCwxMDQ4ODc5
+MzU0XX0=
 -->
