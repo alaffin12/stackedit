@@ -389,21 +389,30 @@ The laugh comes from Lars Kjurls, a member of the town militia.  The baron immed
 >
 > "People of Vallaki! Loyal hearts of our shining town! Today, we burn the rot from our midst!"
 > 
-> Town guards appear from the fringe of the crowd.  Four are carrying large wicker balls.  Others lead prisoners - Lady Wachter, her two sons Nikolai and Karl, and her daughter Stella.
+> Town guards appear from the fringe of the crowd.  Four are carrying large wicker balls.  Others lead prisoners - Lady Wachter, her two sons Nikolai and Karl, and her daughter Stella.  All are brought onto the stage, and 
 
-_He points to the cages, face twisted in a rictus grin._  
-"This woman—this _traitor_—would have seen your homes turned to ash, your children fed to wolves, and your joy swallowed by the fangs of darkness! Lady Fiona Wachter, consort of the Devil Strahd, and her brood of poisoners, sought to strangle Vallaki with lies and shadow!"
 
-**"She would not attend our Festival of the Burning Sun! She mocked your laughter, whispered poison in your ears, and dreamed of rebellion! But _we_—we who have kept the lights burning—we are not blind!"**
+_He gestures grandly to the cages._  
+**"Behold the rot that festered in our midst—Lady Fiona Wachter, betrayer of kin, betrayer of joy, and consort of the Devil himself!"**
 
-_He walks in front of the first cage, where Stella clutches the bars, wide-eyed._  
-"And what did we find in her home? A daughter hidden—_hidden!_—a blasphemous deception, thought to be under the care of holy men! No. The Devil’s web runs deep, but not deeper than _my vigilance!_"
+_Gasps ripple through the crowd. The Baron paces the stage with wild energy, cloak flaring behind him._  
+**"She spurned our festivals! She mocked your smiles! She schemed in the dark and whispered rebellion while the rest of you worked and worshiped and wore your joy with pride!"**
 
-_He turns again to the crowd, voice rising to a crescendo of conviction and mania._  
-**"Today, light triumphs over shadow! Today, we burn the weed to save the garden! And from this fire, Vallaki will shine ever brighter! So rejoice!"**
+_He stops, jabbing a finger toward her cage._  
+**"And what did we find in her house? What secrets behind her locked doors?"**
 
-**"Rejoice! For _all will be well!_"**
+_He leans forward, voice lowering to a scandalized hiss._  
+**"We found the body of her husband—Nikolaj Wachter—dead these three years, still _lying in her bed,_ dressed and perfumed, as though nothing had passed! A corpse! A rotted man kept in mockery of life, tended by a mad daughter and guarded by servants too terrified to speak!"**
 
+_A murmur of horror surges through the crowd._
+
+**"Does that sound like a woman of reason? Of virtue? Of Vallaki?"**  
+_He flings his arm wide, addressing the people with wild, glistening eyes._  
+**"No. She is the Devil’s bride, and her children his creatures. And today, by the light of our Festival, we shall _cleanse_ this evil with flame!"**
+
+**"Let it be known: in Vallaki, joy is law. And all who defy it shall _burn._"**
+
+**"REJOICE! For all… will… be… _well!_"**
 
 
 
@@ -444,11 +453,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NTM5NDk5LC0xNTc5NTcxMzY1LC0xMj
-I3NjUxNjE3LDEyMjY1OTE3MzgsMzM3NzcxNjI0LC01NTAwMzM5
-NjAsLTU1Mzg1ODk1MiwzNzk0NTMzMzQsLTE1OTkxOTcyOTQsMT
-IwNDUxMjgyMCwtMjQyOTgxOTAwLC02NjEwNzE5MTEsLTEwNTc0
-MzQ3MTksNjY5NTMwMDAyLDY2NDU0OTI5Nyw4OTM3NTI2NjUsMT
-M0NTU0NTk1OCwxMDQ4ODc5MzU0LC0xMTc2MTQxODE3LDE2OTIy
-MzExNTBdfQ==
+eyJoaXN0b3J5IjpbMzgyMTA1OTU2LDE5NDUzOTQ5OSwtMTU3OT
+U3MTM2NSwtMTIyNzY1MTYxNywxMjI2NTkxNzM4LDMzNzc3MTYy
+NCwtNTUwMDMzOTYwLC01NTM4NTg5NTIsMzc5NDUzMzM0LC0xNT
+k5MTk3Mjk0LDEyMDQ1MTI4MjAsLTI0Mjk4MTkwMCwtNjYxMDcx
+OTExLC0xMDU3NDM0NzE5LDY2OTUzMDAwMiw2NjQ1NDkyOTcsOD
+kzNzUyNjY1LDEzNDU1NDU5NTgsMTA0ODg3OTM1NCwtMTE3NjE0
+MTgxN119
 -->
