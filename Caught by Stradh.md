@@ -403,17 +403,17 @@ The laugh comes from Lars Kjurls, a member of the town militia.  The baron immed
 > 
 > He leans forward, voice lowering to a scandalized hiss.
 >
-> "We found the body of her husband—Nikolaj Wachter—dead these three years, still lying in her bed, dressed and perfumed, as though nothing had passed! A corpse! A rotted man kept in mockery of life, tended by a mad daughter and guarded by servants too terrified to speak!"**
-
-_A murmur of horror surges through the crowd._
-
-**"Does that sound like a woman of reason? Of virtue? Of Vallaki?"**  
-_He flings his arm wide, addressing the people with wild, glistening eyes._  
-**"No. She is the Devil’s bride, and her children his creatures. And today, by the light of our Festival, we shall _cleanse_ this evil with flame!"**
-
-**"Let it be known: in Vallaki, joy is law. And all who defy it shall _burn._"**
-
-**"REJOICE! For all… will… be… _well!_"**
+> "We found the body of her husband - Nikolaj Wachter - dead these three years, still lying in her bed, dressed and perfumed, as though nothing had passed! A corpse! A rotted man kept in mockery of life, tended by a mad daughter and guarded by servants too terrified to speak!"
+>
+> A murmur of horror surges through the crowd.
+>  
+>  "Does that sound like a woman of reason? Of virtue? Of Vallaki?"
+>   
+>   He flings his arm wide, addressing the people with wild, glistening eyes. 
+>    
+> "No. She is the Devil’s bride, and her children his creatures. And today, by the light of our Festival, we shall cleanse this evil with flame!  Let it be known: in Vallaki, joy is law. And all who defy it shall burn."
+>  
+> "REJOICE! For all… will… be… _well!_"**
 
 
 
@@ -454,11 +454,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkwMDgwNjU1LDE1MDQ0ODc4ODUsMTk0NT
-M5NDk5LC0xNTc5NTcxMzY1LC0xMjI3NjUxNjE3LDEyMjY1OTE3
-MzgsMzM3NzcxNjI0LC01NTAwMzM5NjAsLTU1Mzg1ODk1MiwzNz
-k0NTMzMzQsLTE1OTkxOTcyOTQsMTIwNDUxMjgyMCwtMjQyOTgx
-OTAwLC02NjEwNzE5MTEsLTEwNTc0MzQ3MTksNjY5NTMwMDAyLD
-Y2NDU0OTI5Nyw4OTM3NTI2NjUsMTM0NTU0NTk1OCwxMDQ4ODc5
-MzU0XX0=
+eyJoaXN0b3J5IjpbLTE5MDQ0ODIwMTMsMTUwNDQ4Nzg4NSwxOT
+Q1Mzk0OTksLTE1Nzk1NzEzNjUsLTEyMjc2NTE2MTcsMTIyNjU5
+MTczOCwzMzc3NzE2MjQsLTU1MDAzMzk2MCwtNTUzODU4OTUyLD
+M3OTQ1MzMzNCwtMTU5OTE5NzI5NCwxMjA0NTEyODIwLC0yNDI5
+ODE5MDAsLTY2MTA3MTkxMSwtMTA1NzQzNDcxOSw2Njk1MzAwMD
+IsNjY0NTQ5Mjk3LDg5Mzc1MjY2NSwxMzQ1NTQ1OTU4LDEwNDg4
+NzkzNTRdfQ==
 -->
