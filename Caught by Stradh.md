@@ -384,6 +384,9 @@ The laugh comes from Lars Kjurls, a member of the town militia.  The baron immed
 >
 > As the words are spoken the crowd reacts, some cheering in support of the Lady Wachter, others muttering about her impertinence.  As the Baron gestures to the guards to stop her, blades are drawn amongst the crowd too.   
 
+*The Consort of Stradh*
+> Under threatening skies, a parade of unhappy children dressed as flowers and wearing forced smiles trudges through the muddy streets, leading the way for a group of sorry-looking men and women carrying a ten-foot-diameter wicker ball. The burgomaster and his smiling wife, who holds a sad bouquet of wilting flowers, follow the procession on horseback. As weary spectators watch from their stoops, the ball is borne to the town square. There, it is hoisted and hung from a fifteen-foot-high wooden scaffold, and townsfolk take turns splashing it with oil. 
+
 
 
 
@@ -424,7 +427,7 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjc5Mzc0MiwtMTU3OTU3MTM2NSwtMT
+eyJoaXN0b3J5IjpbLTY1MjgwMDc5OSwtMTU3OTU3MTM2NSwtMT
 IyNzY1MTYxNywxMjI2NTkxNzM4LDMzNzc3MTYyNCwtNTUwMDMz
 OTYwLC01NTM4NTg5NTIsMzc5NDUzMzM0LC0xNTk5MTk3Mjk0LD
 EyMDQ1MTI4MjAsLTI0Mjk4MTkwMCwtNjYxMDcxOTExLC0xMDU3
