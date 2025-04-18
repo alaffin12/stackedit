@@ -391,7 +391,7 @@ The laugh comes from Lars Kjurls, a member of the town militia.  The baron immed
 > 
 > Town guards appear from the fringe of the crowd.  Four are carrying large wicker balls.  Others lead prisoners - Lady Wachter, her two sons Nikolai and Karl, and her daughter Stella.  All are brought onto the raised dais next to the Baron.  Lady Wachter, bound and gagged, glares at the Baron - at the crowd - but behind her rage you sense something else.  Panic.  Karl and Nikolai struggle vainly against their bonds.  And the young woman - Stella - wild eyed, like a cornered animal.  Feral.
 >
-> The Baron gestures to the family as they are forced into the wicker balls.  "Behold the rot that festered in our midst—Lady Fiona Wachter, betrayer of kin, betrayer of joy, and consort of the Devil himself!"
+> The Baron gestures to the family as they are forced into the wicker balls.  "Behold the rot that festered in our midst - Lady Fiona Wachter, betrayer of kin, betrayer of joy, and consort of the Devil himself!"
 
 _Gasps ripple through the crowd. The Baron paces the stage with wild energy, cloak flaring behind him._  
 **"She spurned our festivals! She mocked your smiles! She schemed in the dark and whispered rebellion while the rest of you worked and worshiped and wore your joy with pride!"**
@@ -451,11 +451,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI0NTgzNzkwLDE5NDUzOTQ5OSwtMTU3OT
-U3MTM2NSwtMTIyNzY1MTYxNywxMjI2NTkxNzM4LDMzNzc3MTYy
-NCwtNTUwMDMzOTYwLC01NTM4NTg5NTIsMzc5NDUzMzM0LC0xNT
-k5MTk3Mjk0LDEyMDQ1MTI4MjAsLTI0Mjk4MTkwMCwtNjYxMDcx
-OTExLC0xMDU3NDM0NzE5LDY2OTUzMDAwMiw2NjQ1NDkyOTcsOD
-kzNzUyNjY1LDEzNDU1NDU5NTgsMTA0ODg3OTM1NCwtMTE3NjE0
-MTgxN119
+eyJoaXN0b3J5IjpbMTUwNDQ4Nzg4NSwxOTQ1Mzk0OTksLTE1Nz
+k1NzEzNjUsLTEyMjc2NTE2MTcsMTIyNjU5MTczOCwzMzc3NzE2
+MjQsLTU1MDAzMzk2MCwtNTUzODU4OTUyLDM3OTQ1MzMzNCwtMT
+U5OTE5NzI5NCwxMjA0NTEyODIwLC0yNDI5ODE5MDAsLTY2MTA3
+MTkxMSwtMTA1NzQzNDcxOSw2Njk1MzAwMDIsNjY0NTQ5Mjk3LD
+g5Mzc1MjY2NSwxMzQ1NTQ1OTU4LDEwNDg4NzkzNTQsLTExNzYx
+NDE4MTddfQ==
 -->
