@@ -382,7 +382,7 @@ The laugh comes from Lars Kjurls, a member of the town militia.  The baron immed
 >
 > "This is not justice. This is not joy. This is a gilded noose! So I say - cut it! Cast down your false Baron and let this town breathe free air again! You’ve lived in fear long enough. Today, Vallaki remembers its spine!"
 >
-> As the words are spoken the crowd reacts, some cheering in support of  
+> As the words are spoken the crowd reacts, some cheering in support of the Lady Wachter, others muttering about her impertinence.  As the Baron gestures to the guards to stop her, blades are drawn amongst the crowd too.   
 
 
 
@@ -424,7 +424,7 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxODI5MjkyOSwtMTU3OTU3MTM2NSwtMT
+eyJoaXN0b3J5IjpbLTEzMjc5Mzc0MiwtMTU3OTU3MTM2NSwtMT
 IyNzY1MTYxNywxMjI2NTkxNzM4LDMzNzc3MTYyNCwtNTUwMDMz
 OTYwLC01NTM4NTg5NTIsMzc5NDUzMzM0LC0xNTk5MTk3Mjk0LD
 EyMDQ1MTI4MjAsLTI0Mjk4MTkwMCwtNjYxMDcxOTExLC0xMDU3
