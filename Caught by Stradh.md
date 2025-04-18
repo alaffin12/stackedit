@@ -413,7 +413,9 @@ The laugh comes from Lars Kjurls, a member of the town militia.  The baron immed
 >    
 > "No. She is the Devil’s bride, and her children his creatures. And today, by the light of our Festival, we shall cleanse this evil with flame!  Let it be known: in Vallaki, joy is law. And all who defy it shall burn."
 >  
-> "REJOICE! For all… will… be… _well!_"**
+> "REJOICE! For all… will… be… well!"
+>
+> With that final word, the Baron plunges his torch into 
 
 
 
@@ -454,7 +456,7 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDQ0ODIwMTMsMTUwNDQ4Nzg4NSwxOT
+eyJoaXN0b3J5IjpbLTE2MTc2NjEwMzksMTUwNDQ4Nzg4NSwxOT
 Q1Mzk0OTksLTE1Nzk1NzEzNjUsLTEyMjc2NTE2MTcsMTIyNjU5
 MTczOCwzMzc3NzE2MjQsLTU1MDAzMzk2MCwtNTUzODU4OTUyLD
 M3OTQ1MzMzNCwtMTU5OTE5NzI5NCwxMjA0NTEyODIwLC0yNDI5
