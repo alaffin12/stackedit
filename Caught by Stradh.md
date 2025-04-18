@@ -385,7 +385,8 @@ The laugh comes from Lars Kjurls, a member of the town militia.  The baron immed
 > As the words are spoken the crowd reacts, some cheering in support of the Lady Wachter, others muttering about her impertinence.  As the Baron gestures to the guards to stop her, blades are drawn amongst the crowd too.   
 
 *The Consort of Stradh*
-> Under threatening skies, a parade of unhappy children dressed as flowers and wearing forced smiles trudges through the muddy streets, leading the way for a group of sorry-looking men and women carrying a ten-foot-diameter wicker ball. The burgomaster and his smiling wife, who holds a sad bouquet of wilting flowers, follow the procession on horseback. As weary spectators watch from their stoops, the ball is borne to the town square. There, it is hoisted and hung from a fifteen-foot-high wooden scaffold, and townsfolk take turns splashing it with oil. Baron Vargas Vallakovich 
+> Under threatening skies, a parade of unhappy children dressed as flowers and wearing forced smiles trudges through the muddy streets, leading the way for a group of sorry-looking men and women carrying a ten-foot-diameter wicker ball. The burgomaster and his smiling wife, who holds a sad bouquet of wilting flowers, follow the procession on horseback. As weary spectators watch from their stoops, the ball is borne to the town square. There, it is hoisted and hung from a fifteen-foot-high wooden scaffold, and townsfolk take turns splashing it with oil. Baron Vargas Vallakovich then steps forward, plunging a torch into the heart of the great sphere, which bursts into flames immediately.  He then turns to the assembled crowd.
+
 
 
 
@@ -427,11 +428,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY3NzQ1OTU3LC0xNTc5NTcxMzY1LC0xMj
-I3NjUxNjE3LDEyMjY1OTE3MzgsMzM3NzcxNjI0LC01NTAwMzM5
-NjAsLTU1Mzg1ODk1MiwzNzk0NTMzMzQsLTE1OTkxOTcyOTQsMT
-IwNDUxMjgyMCwtMjQyOTgxOTAwLC02NjEwNzE5MTEsLTEwNTc0
-MzQ3MTksNjY5NTMwMDAyLDY2NDU0OTI5Nyw4OTM3NTI2NjUsMT
-M0NTU0NTk1OCwxMDQ4ODc5MzU0LC0xMTc2MTQxODE3LDE2OTIy
-MzExNTBdfQ==
+eyJoaXN0b3J5IjpbLTE1NTUwNjg2OTksLTE1Nzk1NzEzNjUsLT
+EyMjc2NTE2MTcsMTIyNjU5MTczOCwzMzc3NzE2MjQsLTU1MDAz
+Mzk2MCwtNTUzODU4OTUyLDM3OTQ1MzMzNCwtMTU5OTE5NzI5NC
+wxMjA0NTEyODIwLC0yNDI5ODE5MDAsLTY2MTA3MTkxMSwtMTA1
+NzQzNDcxOSw2Njk1MzAwMDIsNjY0NTQ5Mjk3LDg5Mzc1MjY2NS
+wxMzQ1NTQ1OTU4LDEwNDg4NzkzNTQsLTExNzYxNDE4MTcsMTY5
+MjIzMTE1MF19
 -->
