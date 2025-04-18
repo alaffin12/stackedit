@@ -389,7 +389,7 @@ The laugh comes from Lars Kjurls, a member of the town militia.  The baron immed
 >
 > "People of Vallaki! Loyal hearts of our shining town! Today, we burn the rot from our midst!"
 > 
-> Town guards appear from the fringe of the crowd, several bearin
+> Town guards appear from the fringe of the crowd.  Four are carrying large wicker balls.  Others lead prisoners - Lady Wachter, her two sons Nikolai and Karl, and her daughter Stella.
 
 _He points to the cages, face twisted in a rictus grin._  
 "This woman—this _traitor_—would have seen your homes turned to ash, your children fed to wolves, and your joy swallowed by the fangs of darkness! Lady Fiona Wachter, consort of the Devil Strahd, and her brood of poisoners, sought to strangle Vallaki with lies and shadow!"
@@ -444,11 +444,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NTU0MDkyMSwtMTU3OTU3MTM2NSwtMT
-IyNzY1MTYxNywxMjI2NTkxNzM4LDMzNzc3MTYyNCwtNTUwMDMz
-OTYwLC01NTM4NTg5NTIsMzc5NDUzMzM0LC0xNTk5MTk3Mjk0LD
-EyMDQ1MTI4MjAsLTI0Mjk4MTkwMCwtNjYxMDcxOTExLC0xMDU3
-NDM0NzE5LDY2OTUzMDAwMiw2NjQ1NDkyOTcsODkzNzUyNjY1LD
-EzNDU1NDU5NTgsMTA0ODg3OTM1NCwtMTE3NjE0MTgxNywxNjky
-MjMxMTUwXX0=
+eyJoaXN0b3J5IjpbMTk0NTM5NDk5LC0xNTc5NTcxMzY1LC0xMj
+I3NjUxNjE3LDEyMjY1OTE3MzgsMzM3NzcxNjI0LC01NTAwMzM5
+NjAsLTU1Mzg1ODk1MiwzNzk0NTMzMzQsLTE1OTkxOTcyOTQsMT
+IwNDUxMjgyMCwtMjQyOTgxOTAwLC02NjEwNzE5MTEsLTEwNTc0
+MzQ3MTksNjY5NTMwMDAyLDY2NDU0OTI5Nyw4OTM3NTI2NjUsMT
+M0NTU0NTk1OCwxMDQ4ODc5MzU0LC0xMTc2MTQxODE3LDE2OTIy
+MzExNTBdfQ==
 -->
