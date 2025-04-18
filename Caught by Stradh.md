@@ -386,7 +386,23 @@ The laugh comes from Lars Kjurls, a member of the town militia.  The baron immed
 
 *The Consort of Stradh*
 > Under threatening skies, a parade of unhappy children dressed as flowers and wearing forced smiles trudges through the muddy streets, leading the way for a group of sorry-looking men and women carrying a ten-foot-diameter wicker ball. The burgomaster and his smiling wife, who holds a sad bouquet of wilting flowers, follow the procession on horseback. As weary spectators watch from their stoops, the ball is borne to the town square. There, it is hoisted and hung from a fifteen-foot-high wooden scaffold, and townsfolk take turns splashing it with oil. Baron Vargas Vallakovich then steps forward, plunging a torch into the heart of the great sphere, which bursts into flames immediately.  He then turns to the assembled crowd.
+>
+> "People of Vallaki! Loyal hearts of our shining town! Today, we burn the rot from our midst!"
+> 
+> Town guards appear from the fringe of the crowd, several bearin
 
+_He points to the cages, face twisted in a rictus grin._  
+"This woman—this _traitor_—would have seen your homes turned to ash, your children fed to wolves, and your joy swallowed by the fangs of darkness! Lady Fiona Wachter, consort of the Devil Strahd, and her brood of poisoners, sought to strangle Vallaki with lies and shadow!"
+
+**"She would not attend our Festival of the Burning Sun! She mocked your laughter, whispered poison in your ears, and dreamed of rebellion! But _we_—we who have kept the lights burning—we are not blind!"**
+
+_He walks in front of the first cage, where Stella clutches the bars, wide-eyed._  
+"And what did we find in her home? A daughter hidden—_hidden!_—a blasphemous deception, thought to be under the care of holy men! No. The Devil’s web runs deep, but not deeper than _my vigilance!_"
+
+_He turns again to the crowd, voice rising to a crescendo of conviction and mania._  
+**"Today, light triumphs over shadow! Today, we burn the weed to save the garden! And from this fire, Vallaki will shine ever brighter! So rejoice!"**
+
+**"Rejoice! For _all will be well!_"**
 
 
 
@@ -428,11 +444,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTUwNjg2OTksLTE1Nzk1NzEzNjUsLT
-EyMjc2NTE2MTcsMTIyNjU5MTczOCwzMzc3NzE2MjQsLTU1MDAz
-Mzk2MCwtNTUzODU4OTUyLDM3OTQ1MzMzNCwtMTU5OTE5NzI5NC
-wxMjA0NTEyODIwLC0yNDI5ODE5MDAsLTY2MTA3MTkxMSwtMTA1
-NzQzNDcxOSw2Njk1MzAwMDIsNjY0NTQ5Mjk3LDg5Mzc1MjY2NS
-wxMzQ1NTQ1OTU4LDEwNDg4NzkzNTQsLTExNzYxNDE4MTcsMTY5
-MjIzMTE1MF19
+eyJoaXN0b3J5IjpbLTg1NTU0MDkyMSwtMTU3OTU3MTM2NSwtMT
+IyNzY1MTYxNywxMjI2NTkxNzM4LDMzNzc3MTYyNCwtNTUwMDMz
+OTYwLC01NTM4NTg5NTIsMzc5NDUzMzM0LC0xNTk5MTk3Mjk0LD
+EyMDQ1MTI4MjAsLTI0Mjk4MTkwMCwtNjYxMDcxOTExLC0xMDU3
+NDM0NzE5LDY2OTUzMDAwMiw2NjQ1NDkyOTcsODkzNzUyNjY1LD
+EzNDU1NDU5NTgsMTA0ODg3OTM1NCwtMTE3NjE0MTgxNywxNjky
+MjMxMTUwXX0=
 -->
