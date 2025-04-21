@@ -435,6 +435,7 @@ In either case, I assume the players will be moving on after finally getting the
 ### Tsolenka Pass
 
 ### Amber Temple
+#### T1. (& T2 & T3) The Gatehouse
 
 
 ---
@@ -468,11 +469,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NTUxMDEzMCwtNzgxNDkxMTMzLDE3MD
-g5NjAwODAsMTgyNDQ4NDQ4MSwxMTMxMTc4MzEyLC0xNDcyNDcz
-NTM1LDc1MTg1MDIyMywtMTQwMTAxMTkxMSwxNjI5MzQ4MTg1LD
-IxNjY4MDk3OCwtMTYxNzY2MTAzOSwxNTA0NDg3ODg1LDE5NDUz
-OTQ5OSwtMTU3OTU3MTM2NSwtMTIyNzY1MTYxNywxMjI2NTkxNz
-M4LDMzNzc3MTYyNCwtNTUwMDMzOTYwLC01NTM4NTg5NTIsMzc5
-NDUzMzM0XX0=
+eyJoaXN0b3J5IjpbLTE1OTMzMjg1OTcsMjA1NTUxMDEzMCwtNz
+gxNDkxMTMzLDE3MDg5NjAwODAsMTgyNDQ4NDQ4MSwxMTMxMTc4
+MzEyLC0xNDcyNDczNTM1LDc1MTg1MDIyMywtMTQwMTAxMTkxMS
+wxNjI5MzQ4MTg1LDIxNjY4MDk3OCwtMTYxNzY2MTAzOSwxNTA0
+NDg3ODg1LDE5NDUzOTQ5OSwtMTU3OTU3MTM2NSwtMTIyNzY1MT
+YxNywxMjI2NTkxNzM4LDMzNzc3MTYyNCwtNTUwMDMzOTYwLC01
+NTM4NTg5NTJdfQ==
 -->
