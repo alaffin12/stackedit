@@ -422,7 +422,7 @@ In the "Laughing Guard" scenario a riot is starting.  The players may choose to 
 *If the players side with Lady Wachter, or if the start is the "Laughing Guard" scenario:*
 * Vargas Vallakovich is killed.  Lady Wachter wants a public execution, but she won't take a chance on him escaping.  
 * Lydia Vallakovich is the sister of the priest at St. Andral's.  Lady Wachter is in a bind with her, as keeping her on hand would allow her to control the church.  If she can be captured alive she will be imprisoned in the Burgomaster's Mansion - her former home - to be used as leverage.
-* 
+* Lady Wachter blames Vicktor Vallakovich for her daughters condition (
 
 
 
@@ -464,7 +464,7 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMTU1MDgzNywxMTMxMTc4MzEyLC0xND
+eyJoaXN0b3J5IjpbMjE0NDEzNTk3NSwxMTMxMTc4MzEyLC0xND
 cyNDczNTM1LDc1MTg1MDIyMywtMTQwMTAxMTkxMSwxNjI5MzQ4
 MTg1LDIxNjY4MDk3OCwtMTYxNzY2MTAzOSwxNTA0NDg3ODg1LD
 E5NDUzOTQ5OSwtMTU3OTU3MTM2NSwtMTIyNzY1MTYxNywxMjI2
