@@ -417,7 +417,7 @@ The laugh comes from Lars Kjurls, a member of the town militia.  The baron immed
 >
 > With that final word, the Baron plunges his torch into the wicker prison of Stella Wachter and begins moving up the line - determined to ensure that the Lady Fiona Wachter will see all her family die before she herself is allowed to perish.
 
-Regardless o
+In the "Laughing Guard" scenario a riot is starting.  In the "Consort of Stradh" the players will bear witness to a violent, brutal execution of a family who (for the most
 
 
 
@@ -458,11 +458,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyOTM0ODE4NSwyMTY2ODA5NzgsLTE2MT
-c2NjEwMzksMTUwNDQ4Nzg4NSwxOTQ1Mzk0OTksLTE1Nzk1NzEz
-NjUsLTEyMjc2NTE2MTcsMTIyNjU5MTczOCwzMzc3NzE2MjQsLT
-U1MDAzMzk2MCwtNTUzODU4OTUyLDM3OTQ1MzMzNCwtMTU5OTE5
-NzI5NCwxMjA0NTEyODIwLC0yNDI5ODE5MDAsLTY2MTA3MTkxMS
-wtMTA1NzQzNDcxOSw2Njk1MzAwMDIsNjY0NTQ5Mjk3LDg5Mzc1
-MjY2NV19
+eyJoaXN0b3J5IjpbLTEyODIxMjk1MzQsMTYyOTM0ODE4NSwyMT
+Y2ODA5NzgsLTE2MTc2NjEwMzksMTUwNDQ4Nzg4NSwxOTQ1Mzk0
+OTksLTE1Nzk1NzEzNjUsLTEyMjc2NTE2MTcsMTIyNjU5MTczOC
+wzMzc3NzE2MjQsLTU1MDAzMzk2MCwtNTUzODU4OTUyLDM3OTQ1
+MzMzNCwtMTU5OTE5NzI5NCwxMjA0NTEyODIwLC0yNDI5ODE5MD
+AsLTY2MTA3MTkxMSwtMTA1NzQzNDcxOSw2Njk1MzAwMDIsNjY0
+NTQ5Mjk3XX0=
 -->
