@@ -419,12 +419,15 @@ The laugh comes from Lars Kjurls, a member of the town militia.  The baron immed
 
 In the "Laughing Guard" scenario a riot is starting.  The players may choose to intervene on either side, or simply avoid getting involved at all.  In the "Consort of Stradh" the players will bear witness to a violent, brutal execution of a family who (for the most part) have done nothing wrong.  Players may choose to intervene (leading to a riot) or may choose to avoid getting involved at all.  Let is all play out - the winning side depends on the players, but if the players don't get involved then it depends on the start:
 
-*If the players side with Lady Wachter, or if the start is the "Laughing Guard" scenario:*
+*If the players side with Lady Wachter, or if the start is the "Laughing Guard" scenario and they do not choose a side:*
 * Vargas Vallakovich is killed.  Lady Wachter wants a public execution, but she won't take a chance on him escaping.  
 * Lydia Vallakovich is the sister of the priest at St. Andral's.  Lady Wachter is in a bind with her, as keeping her on hand would allow her to control the church.  If she can be captured alive she will be imprisoned in the Burgomaster's Mansion - her former home - to be used as leverage.
 * Lady Wachter blames Vicktor Vallakovich for her daughter Stella's condition (in truth is was Izek who tortured her to the point of breaking her mind after she caught Viktor trying to wield powerful infernal magics similar to the the ones Lady Wachter uses, but Lady Wachter does not know or care about this).  Fortunately Viktor knows a bit of magic and manages to escape, teleporting away to be not seen again.
 * Lady Wachter would like to feed Izek Strazni to the crowds.  After she will raise him back from the dead to be her dedicated brute (although she will not let the people of Vallaki know she is behind his reanimation).
 * Riots and revolutions are never fun things.  People will die and the city will burn for more than a week afterwards.  Play this up!
+
+*If the players side with the Baron, or if the start is the "Consort of Stradh" scenario and they do not choose a side:*
+* 
 
 
 
@@ -466,11 +469,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNDQ4NDQ4MSwxMTMxMTc4MzEyLC0xND
-cyNDczNTM1LDc1MTg1MDIyMywtMTQwMTAxMTkxMSwxNjI5MzQ4
-MTg1LDIxNjY4MDk3OCwtMTYxNzY2MTAzOSwxNTA0NDg3ODg1LD
-E5NDUzOTQ5OSwtMTU3OTU3MTM2NSwtMTIyNzY1MTYxNywxMjI2
-NTkxNzM4LDMzNzc3MTYyNCwtNTUwMDMzOTYwLC01NTM4NTg5NT
-IsMzc5NDUzMzM0LC0xNTk5MTk3Mjk0LDEyMDQ1MTI4MjAsLTI0
-Mjk4MTkwMF19
+eyJoaXN0b3J5IjpbMTcwODk2MDA4MCwxODI0NDg0NDgxLDExMz
+ExNzgzMTIsLTE0NzI0NzM1MzUsNzUxODUwMjIzLC0xNDAxMDEx
+OTExLDE2MjkzNDgxODUsMjE2NjgwOTc4LC0xNjE3NjYxMDM5LD
+E1MDQ0ODc4ODUsMTk0NTM5NDk5LC0xNTc5NTcxMzY1LC0xMjI3
+NjUxNjE3LDEyMjY1OTE3MzgsMzM3NzcxNjI0LC01NTAwMzM5Nj
+AsLTU1Mzg1ODk1MiwzNzk0NTMzMzQsLTE1OTkxOTcyOTQsMTIw
+NDUxMjgyMF19
 -->
