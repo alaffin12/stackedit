@@ -433,10 +433,12 @@ In the "Laughing Guard" scenario a riot is starting.  The players may choose to 
 In either case, I assume the players will be moving on after finally getting their cold weather gear.  They might stick around to be involved, but they do have a job to do...
 
 ### Tsolenka Pass
-
-### Amber Temple
 #### T1. (& T2 & T3) The Gatehouse
 > The shelf of rock on which the mountain road clings to grows narrow.  To your left, the icy cliffs rise sharply towards dark, rolling clouds.  To your right the ground falls away into a sea of fog.  Ahead, through the wind and snow, you see a high wall of black stone lined with spikes and topped by statues of demonic, four armed, horned figures.  Set in the centre of this wall is a closed iron portcullis, behind which burns a curtain of green flame...
+> 
+### Amber Temple
+
+
 
 
 
@@ -471,11 +473,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzODUyMjA3OCwtMzM4NTIyMDc4LC00NT
-QyMjY3MjIsMjA1NTUxMDEzMCwtNzgxNDkxMTMzLDE3MDg5NjAw
-ODAsMTgyNDQ4NDQ4MSwxMTMxMTc4MzEyLC0xNDcyNDczNTM1LD
-c1MTg1MDIyMywtMTQwMTAxMTkxMSwxNjI5MzQ4MTg1LDIxNjY4
-MDk3OCwxNTA0NDg3ODg1LDE5NDUzOTQ5OSwtMTU3OTU3MTM2NS
-wtMTIyNzY1MTYxNywxMjI2NTkxNzM4LDMzNzc3MTYyNCwtNTUw
-MDMzOTYwXX0=
+eyJoaXN0b3J5IjpbMTA4NzgzNzk4MiwtMzM4NTIyMDc4LC0zMz
+g1MjIwNzgsLTQ1NDIyNjcyMiwyMDU1NTEwMTMwLC03ODE0OTEx
+MzMsMTcwODk2MDA4MCwxODI0NDg0NDgxLDExMzExNzgzMTIsLT
+E0NzI0NzM1MzUsNzUxODUwMjIzLC0xNDAxMDExOTExLDE2Mjkz
+NDgxODUsMjE2NjgwOTc4LDE1MDQ0ODc4ODUsMTk0NTM5NDk5LC
+0xNTc5NTcxMzY1LC0xMjI3NjUxNjE3LDEyMjY1OTE3MzgsMzM3
+NzcxNjI0XX0=
 -->
