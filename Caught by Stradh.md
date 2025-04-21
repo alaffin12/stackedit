@@ -422,7 +422,8 @@ In the "Laughing Guard" scenario a riot is starting.  The players may choose to 
 *If the players side with Lady Wachter, or if the start is the "Laughing Guard" scenario:*
 * Vargas Vallakovich is killed.  Lady Wachter wants a public execution, but she won't take a chance on him escaping.  
 * Lydia Vallakovich is the sister of the priest at St. Andral's.  Lady Wachter is in a bind with her, as keeping her on hand would allow her to control the church.  If she can be captured alive she will be imprisoned in the Burgomaster's Mansion - her former home - to be used as leverage.
-* Lady Wachter blames Vicktor Vallakovich for her daughter Stella's condition (in truth is was Izek who tortured her to the point of breaking her mind after she caught Viktor trying to wield powerful infernal magics similar to the the ones Lady Wachter uses, but Lady Wachter does not know or care about this).  If she catches 
+* Lady Wachter blames Vicktor Vallakovich for her daughter Stella's condition (in truth is was Izek who tortured her to the point of breaking her mind after she caught Viktor trying to wield powerful infernal magics similar to the the ones Lady Wachter uses, but Lady Wachter does not know or care about this).  Fortunately Viktor knows a bit of magic and manages to escape, teleporting away to be not seen again.
+* Lady Wachter would like to feed Izek Strazni to the crowds.  After she will
 
 
 
@@ -464,11 +465,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjQ0NDI3NTAsMTEzMTE3ODMxMiwtMT
-Q3MjQ3MzUzNSw3NTE4NTAyMjMsLTE0MDEwMTE5MTEsMTYyOTM0
-ODE4NSwyMTY2ODA5NzgsLTE2MTc2NjEwMzksMTUwNDQ4Nzg4NS
-wxOTQ1Mzk0OTksLTE1Nzk1NzEzNjUsLTEyMjc2NTE2MTcsMTIy
-NjU5MTczOCwzMzc3NzE2MjQsLTU1MDAzMzk2MCwtNTUzODU4OT
-UyLDM3OTQ1MzMzNCwtMTU5OTE5NzI5NCwxMjA0NTEyODIwLC0y
-NDI5ODE5MDBdfQ==
+eyJoaXN0b3J5IjpbMTM4NzY0NTk3NSwxMTMxMTc4MzEyLC0xND
+cyNDczNTM1LDc1MTg1MDIyMywtMTQwMTAxMTkxMSwxNjI5MzQ4
+MTg1LDIxNjY4MDk3OCwtMTYxNzY2MTAzOSwxNTA0NDg3ODg1LD
+E5NDUzOTQ5OSwtMTU3OTU3MTM2NSwtMTIyNzY1MTYxNywxMjI2
+NTkxNzM4LDMzNzc3MTYyNCwtNTUwMDMzOTYwLC01NTM4NTg5NT
+IsMzc5NDUzMzM0LC0xNTk5MTk3Mjk0LDEyMDQ1MTI4MjAsLTI0
+Mjk4MTkwMF19
 -->
