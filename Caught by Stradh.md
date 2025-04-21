@@ -427,7 +427,7 @@ In the "Laughing Guard" scenario a riot is starting.  The players may choose to 
 * Riots and revolutions are never fun things.  People will die and the city will burn for more than a week afterwards.  Play this up!
 
 *If the players side with the Baron, or if the start is the "Consort of Stradh" scenario and they do not choose a side:*
-* 
+* Lady Wachter and her family are all rounded up and executed very publicly (if they are not ex)
 
 
 
@@ -469,11 +469,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwODk2MDA4MCwxODI0NDg0NDgxLDExMz
-ExNzgzMTIsLTE0NzI0NzM1MzUsNzUxODUwMjIzLC0xNDAxMDEx
-OTExLDE2MjkzNDgxODUsMjE2NjgwOTc4LC0xNjE3NjYxMDM5LD
-E1MDQ0ODc4ODUsMTk0NTM5NDk5LC0xNTc5NTcxMzY1LC0xMjI3
-NjUxNjE3LDEyMjY1OTE3MzgsMzM3NzcxNjI0LC01NTAwMzM5Nj
-AsLTU1Mzg1ODk1MiwzNzk0NTMzMzQsLTE1OTkxOTcyOTQsMTIw
-NDUxMjgyMF19
+eyJoaXN0b3J5IjpbLTc5MTMwNzMxNywxNzA4OTYwMDgwLDE4Mj
+Q0ODQ0ODEsMTEzMTE3ODMxMiwtMTQ3MjQ3MzUzNSw3NTE4NTAy
+MjMsLTE0MDEwMTE5MTEsMTYyOTM0ODE4NSwyMTY2ODA5NzgsLT
+E2MTc2NjEwMzksMTUwNDQ4Nzg4NSwxOTQ1Mzk0OTksLTE1Nzk1
+NzEzNjUsLTEyMjc2NTE2MTcsMTIyNjU5MTczOCwzMzc3NzE2Mj
+QsLTU1MDAzMzk2MCwtNTUzODU4OTUyLDM3OTQ1MzMzNCwtMTU5
+OTE5NzI5NF19
 -->
