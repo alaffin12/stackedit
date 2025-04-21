@@ -417,7 +417,9 @@ The laugh comes from Lars Kjurls, a member of the town militia.  The baron immed
 >
 > With that final word, the Baron plunges his torch into the wicker prison of Karl Wachter and begins moving up the line - determined to ensure that the Lady Fiona Wachter will see all her family die before she herself is allowed to perish.
 
-In the "Laughing Guard" scenario a riot is starting.  The players may choose to intervene on either side, or simply avoid getting involved at all.  In the "Consort of Stradh" the players will bear witness to a violent, brutal execution of a family who (for the most part) have done nothing wrong.  Players may choose to intervene (leading to a riot) or may choose to avoid getting involved at all
+In the "Laughing Guard" scenario a riot is starting.  The players may choose to intervene on either side, or simply avoid getting involved at all.  In the "Consort of Stradh" the players will bear witness to a violent, brutal execution of a family who (for the most part) have done nothing wrong.  Players may choose to intervene (leading to a riot) or may choose to avoid getting involved at all.  Let is all play out.  Here are some thoughts:
+
+
 
 
 
@@ -458,11 +460,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDEwMTE5MTEsMTYyOTM0ODE4NSwyMT
-Y2ODA5NzgsLTE2MTc2NjEwMzksMTUwNDQ4Nzg4NSwxOTQ1Mzk0
-OTksLTE1Nzk1NzEzNjUsLTEyMjc2NTE2MTcsMTIyNjU5MTczOC
-wzMzc3NzE2MjQsLTU1MDAzMzk2MCwtNTUzODU4OTUyLDM3OTQ1
-MzMzNCwtMTU5OTE5NzI5NCwxMjA0NTEyODIwLC0yNDI5ODE5MD
-AsLTY2MTA3MTkxMSwtMTA1NzQzNDcxOSw2Njk1MzAwMDIsNjY0
-NTQ5Mjk3XX0=
+eyJoaXN0b3J5IjpbNzUxODUwMjIzLC0xNDAxMDExOTExLDE2Mj
+kzNDgxODUsMjE2NjgwOTc4LC0xNjE3NjYxMDM5LDE1MDQ0ODc4
+ODUsMTk0NTM5NDk5LC0xNTc5NTcxMzY1LC0xMjI3NjUxNjE3LD
+EyMjY1OTE3MzgsMzM3NzcxNjI0LC01NTAwMzM5NjAsLTU1Mzg1
+ODk1MiwzNzk0NTMzMzQsLTE1OTkxOTcyOTQsMTIwNDUxMjgyMC
+wtMjQyOTgxOTAwLC02NjEwNzE5MTEsLTEwNTc0MzQ3MTksNjY5
+NTMwMDAyXX0=
 -->
