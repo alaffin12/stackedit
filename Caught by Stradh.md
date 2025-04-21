@@ -419,7 +419,8 @@ The laugh comes from Lars Kjurls, a member of the town militia.  The baron immed
 
 In the "Laughing Guard" scenario a riot is starting.  The players may choose to intervene on either side, or simply avoid getting involved at all.  In the "Consort of Stradh" the players will bear witness to a violent, brutal execution of a family who (for the most part) have done nothing wrong.  Players may choose to intervene (leading to a riot) or may choose to avoid getting involved at all.  Let is all play out - the winning side depends on the players, but if the players don't get involved then it depends on the start:
 
-*If the players side with Lady Wachter, or if the start is the 
+*If the players side with Lady Wachter, or if the start is the "Laughing Guard" scenario:*
+
 
 
 
@@ -460,11 +461,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY5MTg4MTE5LDc1MTg1MDIyMywtMTQwMT
-AxMTkxMSwxNjI5MzQ4MTg1LDIxNjY4MDk3OCwtMTYxNzY2MTAz
-OSwxNTA0NDg3ODg1LDE5NDUzOTQ5OSwtMTU3OTU3MTM2NSwtMT
-IyNzY1MTYxNywxMjI2NTkxNzM4LDMzNzc3MTYyNCwtNTUwMDMz
-OTYwLC01NTM4NTg5NTIsMzc5NDUzMzM0LC0xNTk5MTk3Mjk0LD
-EyMDQ1MTI4MjAsLTI0Mjk4MTkwMCwtNjYxMDcxOTExLC0xMDU3
-NDM0NzE5XX0=
+eyJoaXN0b3J5IjpbLTE0NzI0NzM1MzUsNzUxODUwMjIzLC0xND
+AxMDExOTExLDE2MjkzNDgxODUsMjE2NjgwOTc4LC0xNjE3NjYx
+MDM5LDE1MDQ0ODc4ODUsMTk0NTM5NDk5LC0xNTc5NTcxMzY1LC
+0xMjI3NjUxNjE3LDEyMjY1OTE3MzgsMzM3NzcxNjI0LC01NTAw
+MzM5NjAsLTU1Mzg1ODk1MiwzNzk0NTMzMzQsLTE1OTkxOTcyOT
+QsMTIwNDUxMjgyMCwtMjQyOTgxOTAwLC02NjEwNzE5MTEsLTEw
+NTc0MzQ3MTldfQ==
 -->
