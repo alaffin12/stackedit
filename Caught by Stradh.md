@@ -437,7 +437,7 @@ In either case, I assume the players will be moving on after finally getting the
 ### Amber Temple
 #### T1. (& T2 & T3) The Gatehouse
 > The shelf of rock on which the mountain road clings to grows narrow.  To your left, the icy cliffs rise sharply towards dark, rolling clouds.  To your right the ground falls away into a sea of fog.  Ahead, through the wind and snow, you see a high wall of black stone lined with spikes and topped by statues of demonic, four armed, horned figures.  Set in the centre of this wall is a closed iron portcullis, behind which burns a curtain of green flame...
-
+Karl's sphere, setting it ablaze before moving onwards to Nikolai's....
 
 
 ---
@@ -471,11 +471,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzODUyMjA3OCwtNDU0MjI2NzIyLDIwNT
-U1MTAxMzAsLTc4MTQ5MTEzMywxNzA4OTYwMDgwLDE4MjQ0ODQ0
-ODEsMTEzMTE3ODMxMiwtMTQ3MjQ3MzUzNSw3NTE4NTAyMjMsLT
-E0MDEwMTE5MTEsMTYyOTM0ODE4NSwyMTY2ODA5NzgsLTE2MTc2
-NjEwMzksMTUwNDQ4Nzg4NSwxOTQ1Mzk0OTksLTE1Nzk1NzEzNj
-UsLTEyMjc2NTE2MTcsMTIyNjU5MTczOCwzMzc3NzE2MjQsLTU1
-MDAzMzk2MF19
+eyJoaXN0b3J5IjpbMjA3MDk1NzY2LC0zMzg1MjIwNzgsLTQ1ND
+IyNjcyMiwyMDU1NTEwMTMwLC03ODE0OTExMzMsMTcwODk2MDA4
+MCwxODI0NDg0NDgxLDExMzExNzgzMTIsLTE0NzI0NzM1MzUsNz
+UxODUwMjIzLC0xNDAxMDExOTExLDE2MjkzNDgxODUsMjE2Njgw
+OTc4LDE1MDQ0ODc4ODUsMTk0NTM5NDk5LC0xNTc5NTcxMzY1LC
+0xMjI3NjUxNjE3LDEyMjY1OTE3MzgsMzM3NzcxNjI0LC01NTAw
+MzM5NjBdfQ==
 -->
