@@ -428,7 +428,9 @@ In the "Laughing Guard" scenario a riot is starting.  The players may choose to 
 
 *If the players side with the Baron, or if the start is the "Consort of Stradh" scenario and they do not choose a side:*
 * Lady Wachter and her family are all rounded up and executed very publicly (if they are not executed already).
-* Believing Lady Wachter to be the heart of a conspiracy against him (which she is) the Baron will being rounding up people and executing them at random.  One of the Alastroi siblings is amongst the dead, and someone shows up to menace Urwin Martikov, before Urwin points out that his family owns the winery and if they threaten him again the taps will be cut and then the Baron will see what a revolt
+* Believing Lady Wachter to be the heart of a conspiracy against him (which she is) the Baron will being rounding up people and executing them at random.  One of the Alastroi siblings is amongst the dead, and someone shows up to menace Urwin Martikov, before Urwin points out that his family owns the winery and if they threaten him again the taps will be cut and then the Baron will see what a revolution looks like (also, ravens will be around during this, adding a level of supernatural authority to Urwin's threats).
+
+
 
 
 
@@ -470,7 +472,7 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NDYxMDQzNCwxNzA4OTYwMDgwLDE4Mj
+eyJoaXN0b3J5IjpbLTc4MTQ5MTEzMywxNzA4OTYwMDgwLDE4Mj
 Q0ODQ0ODEsMTEzMTE3ODMxMiwtMTQ3MjQ3MzUzNSw3NTE4NTAy
 MjMsLTE0MDEwMTE5MTEsMTYyOTM0ODE4NSwyMTY2ODA5NzgsLT
 E2MTc2NjEwMzksMTUwNDQ4Nzg4NSwxOTQ1Mzk0OTksLTE1Nzk1
