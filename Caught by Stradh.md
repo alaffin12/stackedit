@@ -430,11 +430,7 @@ In the "Laughing Guard" scenario a riot is starting.  The players may choose to 
 * Lady Wachter and her family are all rounded up and executed very publicly (if they are not executed already).
 * Believing Lady Wachter to be the heart of a conspiracy against him (which she is) the Baron will being rounding up people and executing them at random.  One of the Alastroi siblings is amongst the dead, and someone shows up to menace Urwin Martikov, before Urwin points out that his family owns the winery and if they threaten him again the taps will be cut and then the Baron will see what a revolution looks like (also, ravens will be around during this, adding a level of supernatural authority to Urwin's threats).
 
-
-
-
-
-
+In either case, I assume the players will be moving on after finally getting their cold weather gear.  They might stick around to be involved, but they do have a job to do...
 
 ### Tsolenka Pass
 
@@ -472,11 +468,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MTQ5MTEzMywxNzA4OTYwMDgwLDE4Mj
-Q0ODQ0ODEsMTEzMTE3ODMxMiwtMTQ3MjQ3MzUzNSw3NTE4NTAy
-MjMsLTE0MDEwMTE5MTEsMTYyOTM0ODE4NSwyMTY2ODA5NzgsLT
-E2MTc2NjEwMzksMTUwNDQ4Nzg4NSwxOTQ1Mzk0OTksLTE1Nzk1
-NzEzNjUsLTEyMjc2NTE2MTcsMTIyNjU5MTczOCwzMzc3NzE2Mj
-QsLTU1MDAzMzk2MCwtNTUzODU4OTUyLDM3OTQ1MzMzNCwtMTU5
-OTE5NzI5NF19
+eyJoaXN0b3J5IjpbMjA1NTUxMDEzMCwtNzgxNDkxMTMzLDE3MD
+g5NjAwODAsMTgyNDQ4NDQ4MSwxMTMxMTc4MzEyLC0xNDcyNDcz
+NTM1LDc1MTg1MDIyMywtMTQwMTAxMTkxMSwxNjI5MzQ4MTg1LD
+IxNjY4MDk3OCwtMTYxNzY2MTAzOSwxNTA0NDg3ODg1LDE5NDUz
+OTQ5OSwtMTU3OTU3MTM2NSwtMTIyNzY1MTYxNywxMjI2NTkxNz
+M4LDMzNzc3MTYyNCwtNTUwMDMzOTYwLC01NTM4NTg5NTIsMzc5
+NDUzMzM0XX0=
 -->
