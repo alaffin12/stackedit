@@ -436,7 +436,7 @@ In either case, I assume the players will be moving on after finally getting the
 
 ### Amber Temple
 #### T1. (& T2 & T3) The Gatehouse
-
+> The shelf of rock on which the mountain road clings to grows narrow.  To your left, the icy cliffs rise sharply towards dark, rolling clouds.  To your right the ground falls away into a sea of fog.  
 
 ---
 ## Food and Drink in Barovia
@@ -469,11 +469,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTMzMjg1OTcsMjA1NTUxMDEzMCwtNz
-gxNDkxMTMzLDE3MDg5NjAwODAsMTgyNDQ4NDQ4MSwxMTMxMTc4
-MzEyLC0xNDcyNDczNTM1LDc1MTg1MDIyMywtMTQwMTAxMTkxMS
-wxNjI5MzQ4MTg1LDIxNjY4MDk3OCwtMTYxNzY2MTAzOSwxNTA0
-NDg3ODg1LDE5NDUzOTQ5OSwtMTU3OTU3MTM2NSwtMTIyNzY1MT
-YxNywxMjI2NTkxNzM4LDMzNzc3MTYyNCwtNTUwMDMzOTYwLC01
-NTM4NTg5NTJdfQ==
+eyJoaXN0b3J5IjpbLTQ1NDIyNjcyMiwyMDU1NTEwMTMwLC03OD
+E0OTExMzMsMTcwODk2MDA4MCwxODI0NDg0NDgxLDExMzExNzgz
+MTIsLTE0NzI0NzM1MzUsNzUxODUwMjIzLC0xNDAxMDExOTExLD
+E2MjkzNDgxODUsMjE2NjgwOTc4LC0xNjE3NjYxMDM5LDE1MDQ0
+ODc4ODUsMTk0NTM5NDk5LC0xNTc5NTcxMzY1LC0xMjI3NjUxNj
+E3LDEyMjY1OTE3MzgsMzM3NzcxNjI0LC01NTAwMzM5NjAsLTU1
+Mzg1ODk1Ml19
 -->
