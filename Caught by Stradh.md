@@ -417,9 +417,9 @@ The laugh comes from Lars Kjurls, a member of the town militia.  The baron immed
 >
 > With that final word, the Baron plunges his torch into the wicker prison of Karl Wachter and begins moving up the line - determined to ensure that the Lady Fiona Wachter will see all her family die before she herself is allowed to perish.
 
-In the "Laughing Guard" scenario a riot is starting.  The players may choose to intervene on either side, or simply avoid getting involved at all.  In the "Consort of Stradh" the players will bear witness to a violent, brutal execution of a family who (for the most part) have done nothing wrong.  Players may choose to intervene (leading to a riot) or may choose to avoid getting involved at all.  Let is all play out.  Here are some thoughts:
+In the "Laughing Guard" scenario a riot is starting.  The players may choose to intervene on either side, or simply avoid getting involved at all.  In the "Consort of Stradh" the players will bear witness to a violent, brutal execution of a family who (for the most part) have done nothing wrong.  Players may choose to intervene (leading to a riot) or may choose to avoid getting involved at all.  Let is all play out - the winning side depends on the players, but if the players don't get involved then it depends on the start:
 
-
+*If the players side with Lady Wachter, or if the start is the 
 
 
 
@@ -460,11 +460,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUxODUwMjIzLC0xNDAxMDExOTExLDE2Mj
-kzNDgxODUsMjE2NjgwOTc4LC0xNjE3NjYxMDM5LDE1MDQ0ODc4
-ODUsMTk0NTM5NDk5LC0xNTc5NTcxMzY1LC0xMjI3NjUxNjE3LD
-EyMjY1OTE3MzgsMzM3NzcxNjI0LC01NTAwMzM5NjAsLTU1Mzg1
-ODk1MiwzNzk0NTMzMzQsLTE1OTkxOTcyOTQsMTIwNDUxMjgyMC
-wtMjQyOTgxOTAwLC02NjEwNzE5MTEsLTEwNTc0MzQ3MTksNjY5
-NTMwMDAyXX0=
+eyJoaXN0b3J5IjpbNzY5MTg4MTE5LDc1MTg1MDIyMywtMTQwMT
+AxMTkxMSwxNjI5MzQ4MTg1LDIxNjY4MDk3OCwtMTYxNzY2MTAz
+OSwxNTA0NDg3ODg1LDE5NDUzOTQ5OSwtMTU3OTU3MTM2NSwtMT
+IyNzY1MTYxNywxMjI2NTkxNzM4LDMzNzc3MTYyNCwtNTUwMDMz
+OTYwLC01NTM4NTg5NTIsMzc5NDUzMzM0LC0xNTk5MTk3Mjk0LD
+EyMDQ1MTI4MjAsLTI0Mjk4MTkwMCwtNjYxMDcxOTExLC0xMDU3
+NDM0NzE5XX0=
 -->
