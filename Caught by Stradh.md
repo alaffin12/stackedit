@@ -417,6 +417,7 @@ The laugh comes from Lars Kjurls, a member of the town militia.  The baron immed
 >
 > With that final word, the Baron plunges his torch into the wicker prison of Stella Wachter and begins moving up the line - determined to ensure that the Lady Fiona Wachter will see all her family die before she herself is allowed to perish.
 
+Regardless o
 
 
 
@@ -457,11 +458,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE2NjgwOTc4LC0xNjE3NjYxMDM5LDE1MD
-Q0ODc4ODUsMTk0NTM5NDk5LC0xNTc5NTcxMzY1LC0xMjI3NjUx
-NjE3LDEyMjY1OTE3MzgsMzM3NzcxNjI0LC01NTAwMzM5NjAsLT
-U1Mzg1ODk1MiwzNzk0NTMzMzQsLTE1OTkxOTcyOTQsMTIwNDUx
-MjgyMCwtMjQyOTgxOTAwLC02NjEwNzE5MTEsLTEwNTc0MzQ3MT
-ksNjY5NTMwMDAyLDY2NDU0OTI5Nyw4OTM3NTI2NjUsMTM0NTU0
-NTk1OF19
+eyJoaXN0b3J5IjpbMTYyOTM0ODE4NSwyMTY2ODA5NzgsLTE2MT
+c2NjEwMzksMTUwNDQ4Nzg4NSwxOTQ1Mzk0OTksLTE1Nzk1NzEz
+NjUsLTEyMjc2NTE2MTcsMTIyNjU5MTczOCwzMzc3NzE2MjQsLT
+U1MDAzMzk2MCwtNTUzODU4OTUyLDM3OTQ1MzMzNCwtMTU5OTE5
+NzI5NCwxMjA0NTEyODIwLC0yNDI5ODE5MDAsLTY2MTA3MTkxMS
+wtMTA1NzQzNDcxOSw2Njk1MzAwMDIsNjY0NTQ5Mjk3LDg5Mzc1
+MjY2NV19
 -->
