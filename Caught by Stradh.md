@@ -436,7 +436,11 @@ In either case, I assume the players will be moving on after finally getting the
 #### T1. (& T2 & T3) The Gatehouse
 > The shelf of rock on which the mountain road clings to grows narrow.  To your left, the icy cliffs rise sharply towards dark, rolling clouds.  To your right the ground falls away into a sea of fog.  Ahead, through the wind and snow, you see a high wall of black stone lined with spikes and topped by statues of demonic, four armed, horned figures.  Set in the centre of this wall is a closed iron portcullis, behind which burns a curtain of green flame.
 >
-> The green flames bo
+> Emerging from the flickering wall of **green flame** that dances like spectral fire across the gate of **Tsolenka Pass**, **Count Strahd von Zarovich** steps forward with the grace of a shadow and the poise of a king. The flames part for him, curling back like servants bowing before their master, casting eerie light across his pale, statuesque face. His black cloak flutters in the chill mountain wind, edges singed with ember-glow, but untouched by the flame itself.
+
+His eyes—two smoldering coals of crimson—scan the mountain pass with ancient boredom and predatory interest. Every movement he makes is deliberate, fluid, and terrifyingly calm, as though the world itself bends politely to his stride. The golden embroidery on his dark vest catches the flame’s glow, glinting like fresh blood on polished steel. A raven circles overhead, cawing once before vanishing into the clouds above.
+
+Behind him, the flames resume their chaotic dance—but he stands still, a figure of cold command framed in ghostly green light, the stormy sky rolling behind him. No living thing dares breathe too loud. Strahd has arrived.
 ### Amber Temple
 
 
@@ -474,11 +478,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MjkxOTkxNSwxMDg3ODM3OTgyLC0zMz
-g1MjIwNzgsLTMzODUyMjA3OCwtNDU0MjI2NzIyLDIwNTU1MTAx
-MzAsLTc4MTQ5MTEzMywxNzA4OTYwMDgwLDE4MjQ0ODQ0ODEsMT
-EzMTE3ODMxMiwtMTQ3MjQ3MzUzNSw3NTE4NTAyMjMsLTE0MDEw
-MTE5MTEsMTYyOTM0ODE4NSwyMTY2ODA5NzgsMTUwNDQ4Nzg4NS
-wxOTQ1Mzk0OTksLTE1Nzk1NzEzNjUsLTEyMjc2NTE2MTcsMTIy
-NjU5MTczOF19
+eyJoaXN0b3J5IjpbNzY4NDc2NzUsMTM5MjkxOTkxNSwxMDg3OD
+M3OTgyLC0zMzg1MjIwNzgsLTMzODUyMjA3OCwtNDU0MjI2NzIy
+LDIwNTU1MTAxMzAsLTc4MTQ5MTEzMywxNzA4OTYwMDgwLDE4Mj
+Q0ODQ0ODEsMTEzMTE3ODMxMiwtMTQ3MjQ3MzUzNSw3NTE4NTAy
+MjMsLTE0MDEwMTE5MTEsMTYyOTM0ODE4NSwyMTY2ODA5NzgsMT
+UwNDQ4Nzg4NSwxOTQ1Mzk0OTksLTE1Nzk1NzEzNjUsLTEyMjc2
+NTE2MTddfQ==
 -->
