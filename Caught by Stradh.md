@@ -444,7 +444,9 @@ In either case, I assume the players will be moving on after finally getting the
 >
 > "You know, you will not find what you seek in this place.  I will not pretend to know much about your purpose and your reasons, but I know you seek a way to walk free from this prison.  I have come to tell you that you will not find it here."
 >
-> "I came here, eons ago, in search of something similar.  The 
+> "I came here, eons ago, in search of something similar.  I heard whispers of shadowed secrets and forbidden knowledge.  The ancients, it was said, knew what I could not.  Do you know what I found?"
+> 
+> "Nothing.  Empty promises and the shell of
 ### Amber Temple
 
 
@@ -482,7 +484,7 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MjIyOTg2NSwtMTYyNjMwNDc0MiwxND
+eyJoaXN0b3J5IjpbLTgwMTg3NzM1OCwtMTYyNjMwNDc0MiwxND
 k3NTA5Njc4LDEzOTI5MTk5MTUsMTA4NzgzNzk4MiwtMzM4NTIy
 MDc4LC0zMzg1MjIwNzgsLTQ1NDIyNjcyMiwyMDU1NTEwMTMwLC
 03ODE0OTExMzMsMTcwODk2MDA4MCwxODI0NDg0NDgxLDExMzEx
