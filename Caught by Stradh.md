@@ -442,7 +442,7 @@ In either case, I assume the players will be moving on after finally getting the
 >
 >Behind him, the flames resume their chaotic dance—but he stands still, a figure of cold command framed in ghostly green light, the stormy sky rolling behind him. No living thing dares breathe too loud. Strahd has arrived.
 >
->
+> "You know, you will not find what you seek in this place..." Strahd says "...
 ### Amber Temple
 
 
@@ -480,11 +480,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NDE3MDU1OCwxNDk3NTA5Njc4LDEzOT
-I5MTk5MTUsMTA4NzgzNzk4MiwtMzM4NTIyMDc4LC0zMzg1MjIw
-NzgsLTQ1NDIyNjcyMiwyMDU1NTEwMTMwLC03ODE0OTExMzMsMT
-cwODk2MDA4MCwxODI0NDg0NDgxLDExMzExNzgzMTIsLTE0NzI0
-NzM1MzUsNzUxODUwMjIzLC0xNDAxMDExOTExLDE2MjkzNDgxOD
-UsMjE2NjgwOTc4LDE1MDQ0ODc4ODUsMTk0NTM5NDk5LC0xNTc5
-NTcxMzY1XX0=
+eyJoaXN0b3J5IjpbLTE2MjYzMDQ3NDIsMTQ5NzUwOTY3OCwxMz
+kyOTE5OTE1LDEwODc4Mzc5ODIsLTMzODUyMjA3OCwtMzM4NTIy
+MDc4LC00NTQyMjY3MjIsMjA1NTUxMDEzMCwtNzgxNDkxMTMzLD
+E3MDg5NjAwODAsMTgyNDQ4NDQ4MSwxMTMxMTc4MzEyLC0xNDcy
+NDczNTM1LDc1MTg1MDIyMywtMTQwMTAxMTkxMSwxNjI5MzQ4MT
+g1LDIxNjY4MDk3OCwxNTA0NDg3ODg1LDE5NDUzOTQ5OSwtMTU3
+OTU3MTM2NV19
 -->
