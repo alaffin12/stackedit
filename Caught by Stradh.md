@@ -434,8 +434,9 @@ In either case, I assume the players will be moving on after finally getting the
 
 ### Tsolenka Pass
 #### T1. (& T2 & T3) The Gatehouse
-> The shelf of rock on which the mountain road clings to grows narrow.  To your left, the icy cliffs rise sharply towards dark, rolling clouds.  To your right the ground falls away into a sea of fog.  Ahead, through the wind and snow, you see a high wall of black stone lined with spikes and topped by statues of demonic, four armed, horned figures.  Set in the centre of this wall is a closed iron portcullis, behind which burns a curtain of green flame...
-> 
+> The shelf of rock on which the mountain road clings to grows narrow.  To your left, the icy cliffs rise sharply towards dark, rolling clouds.  To your right the ground falls away into a sea of fog.  Ahead, through the wind and snow, you see a high wall of black stone lined with spikes and topped by statues of demonic, four armed, horned figures.  Set in the centre of this wall is a closed iron portcullis, behind which burns a curtain of green flame.
+>
+> The green flames bo
 ### Amber Temple
 
 
@@ -473,11 +474,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NzgzNzk4MiwtMzM4NTIyMDc4LC0zMz
-g1MjIwNzgsLTQ1NDIyNjcyMiwyMDU1NTEwMTMwLC03ODE0OTEx
-MzMsMTcwODk2MDA4MCwxODI0NDg0NDgxLDExMzExNzgzMTIsLT
-E0NzI0NzM1MzUsNzUxODUwMjIzLC0xNDAxMDExOTExLDE2Mjkz
-NDgxODUsMjE2NjgwOTc4LDE1MDQ0ODc4ODUsMTk0NTM5NDk5LC
-0xNTc5NTcxMzY1LC0xMjI3NjUxNjE3LDEyMjY1OTE3MzgsMzM3
-NzcxNjI0XX0=
+eyJoaXN0b3J5IjpbMTM5MjkxOTkxNSwxMDg3ODM3OTgyLC0zMz
+g1MjIwNzgsLTMzODUyMjA3OCwtNDU0MjI2NzIyLDIwNTU1MTAx
+MzAsLTc4MTQ5MTEzMywxNzA4OTYwMDgwLDE4MjQ0ODQ0ODEsMT
+EzMTE3ODMxMiwtMTQ3MjQ3MzUzNSw3NTE4NTAyMjMsLTE0MDEw
+MTE5MTEsMTYyOTM0ODE4NSwyMTY2ODA5NzgsMTUwNDQ4Nzg4NS
+wxOTQ1Mzk0OTksLTE1Nzk1NzEzNjUsLTEyMjc2NTE2MTcsMTIy
+NjU5MTczOF19
 -->
