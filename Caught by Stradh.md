@@ -437,8 +437,8 @@ In either case, I assume the players will be moving on after finally getting the
 > The shelf of rock on which the mountain road clings to grows narrow.  To your left, the icy cliffs rise sharply towards dark, rolling clouds.  To your right the ground falls away into a sea of fog.  Ahead, through the wind and snow, you see a high wall of black stone lined with spikes and topped by statues of demonic, four armed, horned figures.  Set in the centre of this wall is a closed iron portcullis, behind which burns a curtain of green flame.
 >
 > Emerging from the flickering wall of green flames that dances like spectral fire across the gate, a figure steps forward with the grace of a shadow and the poise of a king. The flames part for him, curling back like servants bowing before their master, casting eerie light across his pale, statuesque face. His black cloak flutters in the chill mountain wind, edges singed with ember-glow, but untouched by the flame itself.
-
-His eyes—two smoldering coals of crimson—scan the mountain pass with ancient boredom and predatory interest. Every movement he makes is deliberate, fluid, and terrifyingly calm, as though the world itself bends politely to his stride. The golden embroidery on his dark vest catches the flame’s glow, glinting like fresh blood on polished steel. A raven circles overhead, cawing once before vanishing into the clouds above.
+>
+>His eyes—two smoldering coals of crimson—scan the mountain pass with ancient boredom and predatory interest. Every movement he makes is deliberate, fluid, and terrifyingly calm, as though the world itself bends politely to his stride. The golden embroidery on his dark vest catches the flame’s glow, glinting like fresh blood on polished steel. A raven circles overhead, cawing once before vanishing into the clouds above.
 
 Behind him, the flames resume their chaotic dance—but he stands still, a figure of cold command framed in ghostly green light, the stormy sky rolling behind him. No living thing dares breathe too loud. Strahd has arrived.
 ### Amber Temple
@@ -478,11 +478,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NzUwOTY3OCwxMzkyOTE5OTE1LDEwOD
-c4Mzc5ODIsLTMzODUyMjA3OCwtMzM4NTIyMDc4LC00NTQyMjY3
-MjIsMjA1NTUxMDEzMCwtNzgxNDkxMTMzLDE3MDg5NjAwODAsMT
-gyNDQ4NDQ4MSwxMTMxMTc4MzEyLC0xNDcyNDczNTM1LDc1MTg1
-MDIyMywtMTQwMTAxMTkxMSwxNjI5MzQ4MTg1LDIxNjY4MDk3OC
-wxNTA0NDg3ODg1LDE5NDUzOTQ5OSwtMTU3OTU3MTM2NSwtMTIy
-NzY1MTYxN119
+eyJoaXN0b3J5IjpbLTI4MjAyMDk3NCwxNDk3NTA5Njc4LDEzOT
+I5MTk5MTUsMTA4NzgzNzk4MiwtMzM4NTIyMDc4LC0zMzg1MjIw
+NzgsLTQ1NDIyNjcyMiwyMDU1NTEwMTMwLC03ODE0OTExMzMsMT
+cwODk2MDA4MCwxODI0NDg0NDgxLDExMzExNzgzMTIsLTE0NzI0
+NzM1MzUsNzUxODUwMjIzLC0xNDAxMDExOTExLDE2MjkzNDgxOD
+UsMjE2NjgwOTc4LDE1MDQ0ODc4ODUsMTk0NTM5NDk5LC0xNTc5
+NTcxMzY1XX0=
 -->
