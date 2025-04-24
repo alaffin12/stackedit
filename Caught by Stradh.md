@@ -448,7 +448,7 @@ In either case, I assume the players will be moving on after finally getting the
 > 
 > "Nothing.  Empty promises and the shell of something greater."
 > >
-> "Do yourselves a favour.  Leave this path.  Come and join me in Castle Ravenloft.  You are prisoners here, it is true, but you need not make Barovia a prison.  You are not the usual sort who wander into my domain.  You are powerful.  Formidable.  Come join me.  Help me regain my Katarina.  
+> "Do yourselves a favour.  Leave this path.  Come and join me in Castle Ravenloft.  You are prisoners here, it is true, but you need not make Barovia a prison.  You are not the usual sort who wander into my domain.  You are powerful.  Formidable.  Come - join me.  Help me regain my Katarina.  That alone will break the endless cycle of this land, and free all of us!"
 
 ### Amber Temple
 
@@ -487,11 +487,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0ODUwMjEwNSwtMTYyNjMwNDc0MiwxND
-k3NTA5Njc4LDEzOTI5MTk5MTUsMTA4NzgzNzk4MiwtMzM4NTIy
-MDc4LC0zMzg1MjIwNzgsLTQ1NDIyNjcyMiwyMDU1NTEwMTMwLC
-03ODE0OTExMzMsMTcwODk2MDA4MCwxODI0NDg0NDgxLDExMzEx
-NzgzMTIsLTE0NzI0NzM1MzUsNzUxODUwMjIzLC0xNDAxMDExOT
-ExLDE2MjkzNDgxODUsMjE2NjgwOTc4LDE1MDQ0ODc4ODUsMTk0
-NTM5NDk5XX0=
+eyJoaXN0b3J5IjpbLTE2NjQ4NzA1MTYsLTE2MjYzMDQ3NDIsMT
+Q5NzUwOTY3OCwxMzkyOTE5OTE1LDEwODc4Mzc5ODIsLTMzODUy
+MjA3OCwtMzM4NTIyMDc4LC00NTQyMjY3MjIsMjA1NTUxMDEzMC
+wtNzgxNDkxMTMzLDE3MDg5NjAwODAsMTgyNDQ4NDQ4MSwxMTMx
+MTc4MzEyLC0xNDcyNDczNTM1LDc1MTg1MDIyMywtMTQwMTAxMT
+kxMSwxNjI5MzQ4MTg1LDIxNjY4MDk3OCwxNTA0NDg3ODg1LDE5
+NDUzOTQ5OV19
 -->
