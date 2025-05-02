@@ -459,7 +459,9 @@ Stradh will happily converse with his players and discuss anything and everythin
 With that the image of Stradh will fade, and players will be faced with the gate of flames. 
 
 #### T1. Gatehouse Portcullis
-The gate here is old and is rusted open here - the way is now barred with magical green flame instead of metal
+The gate here is old and is rusted open here - the way is now barred with magical green flame instead of metal.
+
+#### T2. Demon Statues
 
 ### Amber Temple
 
@@ -500,7 +502,7 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MjY5MTcyMywzMzkwNTA2NDEsMTA5Nj
+eyJoaXN0b3J5IjpbMTk0MTQwODI1NSwzMzkwNTA2NDEsMTA5Nj
 kxODM1MiwtMTcwMjYxNjk0MSwxOTY5MTYxNTkxLDEzMzIxOTEw
 NzEsLTE2NjQ4NzA1MTYsLTE2MjYzMDQ3NDIsMTQ5NzUwOTY3OC
 wxMzkyOTE5OTE1LDEwODc4Mzc5ODIsLTMzODUyMjA3OCwtMzM4
