@@ -37,6 +37,7 @@ Mordenkainen was a prolific writer, and his notes are scattered all across the M
 ###### Murder on the Zilargo Express
 The party journeys to Eberron and finds a professor in Sharn able to assist them.  Unfortunately, on their way to the Mournlands Vecna plays a card, attempting to prevent the party - or anyone - from learning the secret.
 ###### Into the Mournlands
+The party seeks out - and find the Lord of Blades, and the truth of the Day of Mourning.
 #### Scene II - Ravenloft
 ##### Level 14
 #### Scene III - Athas
@@ -54,5 +55,5 @@ The party journeys to Eberron and finds a professor in Sharn able to assist them
 #### The Final Confrontation
 ##### Level 20
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMjkzNzc0Ml19
+eyJoaXN0b3J5IjpbLTQ0NDYxMTE0MiwyMDMyOTM3NzQyXX0=
 -->
