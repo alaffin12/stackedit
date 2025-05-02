@@ -454,7 +454,7 @@ In either case, I assume the players will be moving on after finally getting the
 
 Stradh will happily converse with his players and discuss anything and everything with them.  He is genuine with his invitation, and his motives are clear - high level adventurers like the party would be useful to him.  If they attack him they will find that Stradh's form here is just an image.  And if they choose to continue to seek the Amber Temple...
 
-> "As you wish.  I am not so foolish as to try to stop the likes of you.  Neither will I help you though, and the dangers of this land - dangers which I have mostly kept from coming for you, 
+> "As you wish.  I am not so foolish as to try to stop the likes of you.  Neither will I help you though.  Not any longer.  Barovia is a dangerous land, and while I have kept the dangers at bay heretofore, I will do so no longer.   
 
 ### Amber Temple
 
@@ -495,7 +495,7 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMzg3NDcxMiwtMTcwMjYxNjk0MSwxOT
+eyJoaXN0b3J5IjpbMTA5NjkxODM1MiwtMTcwMjYxNjk0MSwxOT
 Y5MTYxNTkxLDEzMzIxOTEwNzEsLTE2NjQ4NzA1MTYsLTE2MjYz
 MDQ3NDIsMTQ5NzUwOTY3OCwxMzkyOTE5OTE1LDEwODc4Mzc5OD
 IsLTMzODUyMjA3OCwtMzM4NTIyMDc4LC00NTQyMjY3MjIsMjA1
