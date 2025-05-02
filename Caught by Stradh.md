@@ -454,7 +454,9 @@ In either case, I assume the players will be moving on after finally getting the
 
 
 
+..
 
+*Note: Although it is daylight here, all vision is capped at 60 ft due to weather conditions*
 
 ---
 ## Food and Drink in Barovia
@@ -487,11 +489,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjQ4NzA1MTYsLTE2MjYzMDQ3NDIsMT
-Q5NzUwOTY3OCwxMzkyOTE5OTE1LDEwODc4Mzc5ODIsLTMzODUy
-MjA3OCwtMzM4NTIyMDc4LC00NTQyMjY3MjIsMjA1NTUxMDEzMC
-wtNzgxNDkxMTMzLDE3MDg5NjAwODAsMTgyNDQ4NDQ4MSwxMTMx
-MTc4MzEyLC0xNDcyNDczNTM1LDc1MTg1MDIyMywtMTQwMTAxMT
-kxMSwxNjI5MzQ4MTg1LDIxNjY4MDk3OCwxNTA0NDg3ODg1LDE5
-NDUzOTQ5OV19
+eyJoaXN0b3J5IjpbMTQ0MjEwODUxMywtMTY2NDg3MDUxNiwtMT
+YyNjMwNDc0MiwxNDk3NTA5Njc4LDEzOTI5MTk5MTUsMTA4Nzgz
+Nzk4MiwtMzM4NTIyMDc4LC0zMzg1MjIwNzgsLTQ1NDIyNjcyMi
+wyMDU1NTEwMTMwLC03ODE0OTExMzMsMTcwODk2MDA4MCwxODI0
+NDg0NDgxLDExMzExNzgzMTIsLTE0NzI0NzM1MzUsNzUxODUwMj
+IzLC0xNDAxMDExOTExLDE2MjkzNDgxODUsMjE2NjgwOTc4LDE1
+MDQ0ODc4ODVdfQ==
 -->
