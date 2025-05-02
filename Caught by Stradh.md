@@ -433,6 +433,8 @@ In the "Laughing Guard" scenario a riot is starting.  The players may choose to 
 In either case, I assume the players will be moving on after finally getting their cold weather gear.  They might stick around to be involved, but they do have a job to do...
 
 ### Tsolenka Pass
+*Note: Although it is daylight here, all vision is capped at 60 ft due to weather conditions*
+
 #### T1. (& T2 & T3) The Gatehouse
 > The shelf of rock on which the mountain road clings to grows narrow.  To your left, the icy cliffs rise sharply towards dark, rolling clouds.  To your right the ground falls away into a sea of fog.  Ahead, through the wind and snow, you see a high wall of black stone lined with spikes and topped by statues of demonic, four armed, horned figures.  Set in the centre of this wall is a closed iron portcullis, behind which burns a curtain of green flame.
 >
@@ -447,8 +449,8 @@ In either case, I assume the players will be moving on after finally getting the
 > "I came here, eons ago, in search of something similar.  I heard whispers of shadowed secrets and forbidden knowledge.  The ancients, it was said, knew what I could not.  Do you know what I found?"
 > 
 > "Nothing.  Empty promises and the shell of something greater."
-> >
-> "Do yourselves a favour.  Leave this path.  Come and join me in Castle Ravenloft.  You are prisoners here, it is true, but you need not make Barovia a prison.  You are not the usual sort who wander into my domain.  You are powerful.  Formidable.  Come - join me.  Help me regain my Katarina.  That alone will break the endless cycle of this land, and free all of us!"
+> 
+> "Do yourselves a favour.  Leave this path.  Come and join me in Castle Ravenloft.  You are prisoners here, it is true, but you need not make Barovia a prison.  You are not the usual sort who wander into my domain.  You are powerful.  Formidable.  Come - join me.  Help me regain my Katarina.  That feat and that feat alone will break the endless cycle of this land, and free all of us!"
 
 ### Amber Temple
 
@@ -456,7 +458,7 @@ In either case, I assume the players will be moving on after finally getting the
 
 ..
 
-*Note: Although it is daylight here, all vision is capped at 60 ft due to weather conditions*
+
 
 ---
 ## Food and Drink in Barovia
@@ -489,7 +491,7 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MjEwODUxMywtMTY2NDg3MDUxNiwtMT
+eyJoaXN0b3J5IjpbMTMzMjE5MTA3MSwtMTY2NDg3MDUxNiwtMT
 YyNjMwNDc0MiwxNDk3NTA5Njc4LDEzOTI5MTk5MTUsMTA4Nzgz
 Nzk4MiwtMzM4NTIyMDc4LC0zMzg1MjIwNzgsLTQ1NDIyNjcyMi
 wyMDU1NTEwMTMwLC03ODE0OTExMzMsMTcwODk2MDA4MCwxODI0
