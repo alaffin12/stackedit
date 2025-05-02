@@ -462,7 +462,9 @@ With that the image of Stradh will fade, and players will be faced with the gate
 The gate here is old and is rusted open here - the way is now barred with magical green flame instead of metal.
 
 #### T2. Demon Statues
-These statues are 
+These statues are actually guardians of the gate.  If the players attack the statues, pass through (or over, or under, or around) the gate, they will become two glabrezu and attack the players.
+
+#### T3. Curtain of Green Flame
 
 ### Amber Temple
 
@@ -503,11 +505,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5Mzk5MTI3NSwzMzkwNTA2NDEsMTA5Nj
-kxODM1MiwtMTcwMjYxNjk0MSwxOTY5MTYxNTkxLDEzMzIxOTEw
-NzEsLTE2NjQ4NzA1MTYsLTE2MjYzMDQ3NDIsMTQ5NzUwOTY3OC
-wxMzkyOTE5OTE1LDEwODc4Mzc5ODIsLTMzODUyMjA3OCwtMzM4
-NTIyMDc4LC00NTQyMjY3MjIsMjA1NTUxMDEzMCwtNzgxNDkxMT
-MzLDE3MDg5NjAwODAsMTgyNDQ4NDQ4MSwxMTMxMTc4MzEyLC0x
-NDcyNDczNTM1XX0=
+eyJoaXN0b3J5IjpbLTEyMjUwOTQ0MTEsMzM5MDUwNjQxLDEwOT
+Y5MTgzNTIsLTE3MDI2MTY5NDEsMTk2OTE2MTU5MSwxMzMyMTkx
+MDcxLC0xNjY0ODcwNTE2LC0xNjI2MzA0NzQyLDE0OTc1MDk2Nz
+gsMTM5MjkxOTkxNSwxMDg3ODM3OTgyLC0zMzg1MjIwNzgsLTMz
+ODUyMjA3OCwtNDU0MjI2NzIyLDIwNTU1MTAxMzAsLTc4MTQ5MT
+EzMywxNzA4OTYwMDgwLDE4MjQ0ODQ0ODEsMTEzMTE3ODMxMiwt
+MTQ3MjQ3MzUzNV19
 -->
