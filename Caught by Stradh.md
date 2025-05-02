@@ -452,6 +452,8 @@ In either case, I assume the players will be moving on after finally getting the
 > 
 > "Do yourselves a favour.  Leave this path.  Come and join me in Castle Ravenloft.  You are prisoners here, it is true, but you need not make Barovia a prison.  You are not the usual sort who wander into my domain.  You are powerful.  Formidable.  Come - join me.  Help me regain my Katarina.  That feat and that feat alone will break the endless cycle of this land, and free all of us!"
 
+Stradh will happily converse with his players and discuss anything and everything with them.  He is genuine with his invitation, and his motives are clear - high level adventurers like the party would be useful to him
+
 ### Amber Temple
 
 
@@ -491,11 +493,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMjE5MTA3MSwtMTY2NDg3MDUxNiwtMT
-YyNjMwNDc0MiwxNDk3NTA5Njc4LDEzOTI5MTk5MTUsMTA4Nzgz
-Nzk4MiwtMzM4NTIyMDc4LC0zMzg1MjIwNzgsLTQ1NDIyNjcyMi
-wyMDU1NTEwMTMwLC03ODE0OTExMzMsMTcwODk2MDA4MCwxODI0
-NDg0NDgxLDExMzExNzgzMTIsLTE0NzI0NzM1MzUsNzUxODUwMj
-IzLC0xNDAxMDExOTExLDE2MjkzNDgxODUsMjE2NjgwOTc4LDE1
-MDQ0ODc4ODVdfQ==
+eyJoaXN0b3J5IjpbMTk2OTE2MTU5MSwxMzMyMTkxMDcxLC0xNj
+Y0ODcwNTE2LC0xNjI2MzA0NzQyLDE0OTc1MDk2NzgsMTM5Mjkx
+OTkxNSwxMDg3ODM3OTgyLC0zMzg1MjIwNzgsLTMzODUyMjA3OC
+wtNDU0MjI2NzIyLDIwNTU1MTAxMzAsLTc4MTQ5MTEzMywxNzA4
+OTYwMDgwLDE4MjQ0ODQ0ODEsMTEzMTE3ODMxMiwtMTQ3MjQ3Mz
+UzNSw3NTE4NTAyMjMsLTE0MDEwMTE5MTEsMTYyOTM0ODE4NSwy
+MTY2ODA5NzhdfQ==
 -->
