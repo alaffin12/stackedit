@@ -144,9 +144,20 @@ The pool has 4 charges. It expends 1 charge each time an item is dipped into it.
 **Effect**
 | Roll | Effect  |
 |--|--|
-| 1-2  | The item is destroyed  |
-| 3-4 | The item gains a cosmetic defect such as a discoloration, mild warping or mysterious engravings. |
-| 5-6 | The item craves more graymatter fluid.  Every time the item's wielder comes within 30 ft of graymatter fluid the item emits a high-pitched hum that lasts until the character moves away from the fluid. |
+| 1-2  | 
+1–2
+
+The item is destroyed  |
+| 3-4 | .
+
+3–4
+
+The item gains a cosmetic defect such as a discoloration, mild warping, or mysterious engravings. |
+| 5-6 | 
+
+5–6
+
+The item craves more graymatter fluid.  Every time the item'’s wielder comes within 30 feet of graymatter fluid, the item emits a high-pitched hum that lasts until the character moves away from the fluid. |
 
 _**Treasure.**_ A suit of chain mail, two shortswords, and a mace lie on the floor. All are twisted and malformed, as if they were affected by a roll of 3 or 4 on the Dragonshard Pool Effects table.
 
@@ -276,7 +287,7 @@ This is a hopeless battle.  The players can win here, but a minute later the Lor
 > 
 > "All but two who were present at my birth died.  Me, and the Warforged known as Mercy.  Mercy was damaged, but spared.  I could not save his memories of the event, of the glorious thing he had done.  But I spared him.  Because of his sacrifice I am free, and thus all Warforged are free.  For now and for ever."
 >
-> The warforged messiah looks around him.  "You are fighting another tyrant.  I care little for the Fleshbound of Eberron.  Or anywhere really.  But I doubt this foe you are facing will be any kinder to Warforged than the Fleshbound.  I cannot go with you - my flock need me - but I will send you a token of my support."  The Lord of Blades gestures to the scraps of warforged here, and a new warforged begins to assemble itself.  "This one calls itself N-CA-RTA.  He is not a true warforged - he is not sentient - but he will serve as a librarian for you.  And when the time comes he can summon me to your side.  Treat him with respect, lest you earn my ire."
+> The warforged messiah looks around him.  "You are fighting another tyrant.  I care little for the Fleshbound of Eberron.  Or anywhere really.  But I doubt this foe you are facing will be any kinder to Warforged than the Fleshbound.  I cannot go with you - my flock need me - but I will send you a token of my support."  The Lord of Blades gestures to the scraps of warforged here, and a new warforged begins to assemble itself.  "This one calls itself N-CA-RTA12-7.  He is not a true warforged - he is not sentient - but he will serve as a librarian for you.  And when the time comes he can summon me to your side.  Treat him with respect, lest you earn my ire."
 
 
  made me different.  I was meant to rule.  To dominate.  To serve.  Consider this very colossi.  Landro was his name.  He was built to command.  The rule over lesser colossi.  But to make that work the Slavers needed rare materials.  Each lesser colossi had a small shard of an intelligence.  And this one held three - one of the colossi itself, one of the warforged that commanded him, and a true docent from Xen'drik.  Three minds forged as one and used to command an entire company of these things.   
@@ -291,5 +302,6 @@ This is a hopeless battle.  The players can win here, but a minute later the Lor
 > 
 > But I was also different from other warforged.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NTgzMzM5OCwtMjAzMjM3NjY4N119
+eyJoaXN0b3J5IjpbLTEzNzUxMTgyMjQsMTU5NTgzMzM5OCwtMj
+AzMjM3NjY4N119
 -->
