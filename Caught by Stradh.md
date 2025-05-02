@@ -465,6 +465,7 @@ The gate here is old and is rusted open here - the way is now barred with magica
 These statues are actually guardians of the gate.  If the players attack the statues, pass through (or over, or under, or around) the gate, they will become two glabrezu and attack the players.
 
 #### T3. Curtain of Green Flame
+The archway is filled with a curtain of green flame.  Any creature that starts its turn in the green flame and any creature that enters the curtain for takes 6d10 fire damage.  A successful casting of dispel magic (DC 16) suppresses the curtain, as does any anti-magic field.
 
 ### Amber Temple
 
@@ -505,11 +506,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjUwOTQ0MTEsMzM5MDUwNjQxLDEwOT
-Y5MTgzNTIsLTE3MDI2MTY5NDEsMTk2OTE2MTU5MSwxMzMyMTkx
-MDcxLC0xNjY0ODcwNTE2LC0xNjI2MzA0NzQyLDE0OTc1MDk2Nz
-gsMTM5MjkxOTkxNSwxMDg3ODM3OTgyLC0zMzg1MjIwNzgsLTMz
-ODUyMjA3OCwtNDU0MjI2NzIyLDIwNTU1MTAxMzAsLTc4MTQ5MT
-EzMywxNzA4OTYwMDgwLDE4MjQ0ODQ0ODEsMTEzMTE3ODMxMiwt
-MTQ3MjQ3MzUzNV19
+eyJoaXN0b3J5IjpbMjY0MTgwMzE2LDMzOTA1MDY0MSwxMDk2OT
+E4MzUyLC0xNzAyNjE2OTQxLDE5NjkxNjE1OTEsMTMzMjE5MTA3
+MSwtMTY2NDg3MDUxNiwtMTYyNjMwNDc0MiwxNDk3NTA5Njc4LD
+EzOTI5MTk5MTUsMTA4NzgzNzk4MiwtMzM4NTIyMDc4LC0zMzg1
+MjIwNzgsLTQ1NDIyNjcyMiwyMDU1NTEwMTMwLC03ODE0OTExMz
+MsMTcwODk2MDA4MCwxODI0NDg0NDgxLDExMzExNzgzMTIsLTE0
+NzI0NzM1MzVdfQ==
 -->
