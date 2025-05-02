@@ -435,7 +435,7 @@ In either case, I assume the players will be moving on after finally getting the
 ### Tsolenka Pass
 *Note: Although it is daylight here, all vision is capped at 60 ft due to weather conditions*
 
-#### T1. (& T2 & T3) The Gatehouse
+#### Approach
 > The shelf of rock on which the mountain road clings to grows narrow.  To your left, the icy cliffs rise sharply towards dark, rolling clouds.  To your right the ground falls away into a sea of fog.  Ahead, through the wind and snow, you see a high wall of black stone lined with spikes and topped by statues of demonic, four armed, horned figures.  Set in the centre of this wall is a closed iron portcullis, behind which burns a curtain of green flame.
 >
 > Emerging from the flickering wall of green flames that dances like spectral fire across the gate, a figure steps forward with the grace of a shadow and the poise of a king. The flames part for him, curling back like servants bowing before their master, casting eerie light across his pale, statuesque face. His black cloak flutters in the chill mountain wind, edges singed with ember-glow, but untouched by the flame itself.
@@ -457,6 +457,9 @@ Stradh will happily converse with his players and discuss anything and everythin
 > "As you wish.  I am not so foolish as to try to stop the likes of you.  Neither will I help you though.  Not any longer.  Barovia is a dangerous land, and while I have kept the dangers at bay heretofore, I will do so no longer.  Consider this a warning - if you travel beyond this gate, you do so on your own.
 
 With that the image of Stradh will fade, and players will be faced with the gate of flames. 
+
+#### T1. Gatehouse Portcullis
+The gate here is old and is rusted open here - the way is now barred with magical green flame instead of metal
 
 ### Amber Temple
 
@@ -497,11 +500,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM5MDUwNjQxLDEwOTY5MTgzNTIsLTE3MD
-I2MTY5NDEsMTk2OTE2MTU5MSwxMzMyMTkxMDcxLC0xNjY0ODcw
-NTE2LC0xNjI2MzA0NzQyLDE0OTc1MDk2NzgsMTM5MjkxOTkxNS
-wxMDg3ODM3OTgyLC0zMzg1MjIwNzgsLTMzODUyMjA3OCwtNDU0
-MjI2NzIyLDIwNTU1MTAxMzAsLTc4MTQ5MTEzMywxNzA4OTYwMD
-gwLDE4MjQ0ODQ0ODEsMTEzMTE3ODMxMiwtMTQ3MjQ3MzUzNSw3
-NTE4NTAyMjNdfQ==
+eyJoaXN0b3J5IjpbMTM5MjY5MTcyMywzMzkwNTA2NDEsMTA5Nj
+kxODM1MiwtMTcwMjYxNjk0MSwxOTY5MTYxNTkxLDEzMzIxOTEw
+NzEsLTE2NjQ4NzA1MTYsLTE2MjYzMDQ3NDIsMTQ5NzUwOTY3OC
+wxMzkyOTE5OTE1LDEwODc4Mzc5ODIsLTMzODUyMjA3OCwtMzM4
+NTIyMDc4LC00NTQyMjY3MjIsMjA1NTUxMDEzMCwtNzgxNDkxMT
+MzLDE3MDg5NjAwODAsMTgyNDQ4NDQ4MSwxMTMxMTc4MzEyLC0x
+NDcyNDczNTM1XX0=
 -->
