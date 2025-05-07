@@ -128,19 +128,18 @@ Suddenly, Chandry cries out with joy and sprints toward the colossus. When the g
 
 
 ### L13: Dragonshard Pool
-[Player Art Handout: Dragonshard Pool](http://journal.roll20.net/handout/-NvXFl-86qS6MtiVWi10)  
 > The deep pool of gray liquid in the corner of this chamber glitters oddly. Around the pool, bones and battered armaments litter the cave floor.
 
 Pulverized dragonshards—special gemstones native to Khorvaire—mixed with the graymatter fluid here, creating a pool with strange magical properties.
 
-_**Enchanted Pool.**_ A _[Detect Magic](https://app.roll20.net/compendium/dnd5e/Spells:Detect Magic)_ spell reveals an aura of enchantment magic emanating from the pool. Drinking from it exposes a creature to graymatter fluid (see the “Graymatter Fluid” section earlier in this chapter). When a nonmagical item is dipped into the pool, roll on the Dragonshard Pool Effects table to determine what happens to the item. An item can be affected by the pool only once; subsequent exposures have no effect.
+_**Enchanted Pool.**_ A  detect magic spell reveals an aura of enchantment magic emanating from the pool. Drinking from it exposes a creature to graymatter fluid (see the “Graymatter Fluid” section earlier in this chapter). When a nonmagical item is dipped into the pool, roll on the Dragonshard Pool Effects table to determine what happens to the item. An item can be affected by the pool only once; subsequent exposures have no effect.
 
 The pool has 4 charges. It expends 1 charge each time an item is dipped into it. The pool regains all expended charges daily at dawn.
 
 ##### **[Dragonshard Pool Effects](https://app.roll20.net/editor/`#Dragonshard-Pool-Effects)**
 
 **Effect**
-| Roll 1 | Effect  |
+| Roll (1d6) | Effect  |
 |--|--|
 | 1-2  | The item is destroyed  |
 | 3-4 | The item gains a cosmetic defect such as a discoloration, mild warping, or mysterious engravings. |
@@ -289,6 +288,6 @@ This is a hopeless battle.  The players can win here, but a minute later the Lor
 > 
 > But I was also different from other warforged.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjQxMTUzMjgsLTEzNzUxMTgyMjQsMT
-U5NTgzMzM5OCwtMjAzMjM3NjY4N119
+eyJoaXN0b3J5IjpbMTAxMTA0NjMyMywtMTM3NTExODIyNCwxNT
+k1ODMzMzk4LC0yMDMyMzc2Njg3XX0=
 -->
