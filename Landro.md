@@ -276,9 +276,15 @@ This is a hopeless battle.  The players can win here, but a minute later the Lor
 > The warforged messiah looks around him.  "You are fighting another tyrant.  I care little for the Fleshbound of Eberron.  Or anywhere really.  But I doubt this foe you are facing will be any kinder to Warforged than the Fleshbound.  I cannot go with you - my flock need me - but I will send you a token of my support."  The Lord of Blades gestures to the scraps of warforged here, and a new warforged begins to assemble itself.  "This one calls itself N-CA-RTA12-7.  He is not a true warforged - he is not sentient - but he will serve as a librarian for you.  And when the time comes he can summon me to your side.  Treat him with respect, lest you earn my ire."
 
 # Note to Future Self
-Need to add treasure to this part
+Need to add treasure to this part as included treasure is garbage (at this point everyone will have a crossbow).  In the treasure tables roll the following:
+
+| Table | Amount |
+| -- | -- |
+| A (Common) | 1 |
+| B (
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTcwMzg2OTUsLTg1OTYwOTI4MywxMT
-M3Mjk5NDY5LDEyMzg2NTg1NDksMTAxMTA0NjMyMywtMTM3NTEx
-ODIyNCwxNTk1ODMzMzk4LC0yMDMyMzc2Njg3XX0=
+eyJoaXN0b3J5IjpbLTE5ODMxNzAyMzQsLTExMTcwMzg2OTUsLT
+g1OTYwOTI4MywxMTM3Mjk5NDY5LDEyMzg2NTg1NDksMTAxMTA0
+NjMyMywtMTM3NTExODIyNCwxNTk1ODMzMzk4LC0yMDMyMzc2Nj
+g3XX0=
 -->
