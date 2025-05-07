@@ -488,8 +488,16 @@ The roof here is 40 ft above the Tsolenka Pass and 540 ft above the mist shroude
 After the players leave the guard tower but before they reach the bridge introduce them to Sangzor.
 
 #### T7. Western Arch
-> The snowy pass come to a gorge spanned by a stone bridge.  At each end of the bridge is a thirty foot tall, thirty foot wide stone arch.  Atop each are two statues of armored knights on horseback with lances, charging towards one another.  The wind bits and howls like wolves running down the gorge.
+> The snowy pass come to a gorge spanned by a stone bridge.  At each end of the bridge is a thirty foot tall, thirty foot wide stone arch.  Atop each are two statues of armored knights on horseback with lances, charging towards one another.  The wind bites and howls like wolves running down the gorge.
 
+#### T8. Stone Bridge
+> The low walls that enclose the stone bridge have fallen away in a couple places, but the bridge itself appears intact.
+
+
+
+
+#### T9. Eastern Arch
+> One of the statues atop this arch has crumbled, l
 
 ### Amber Temple
 
@@ -530,11 +538,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2ODIyNjE5NCwtODY4MTQwNDk5LDI2ND
-E4MDMxNiwzMzkwNTA2NDEsMTA5NjkxODM1MiwtMTcwMjYxNjk0
-MSwxOTY5MTYxNTkxLDEzMzIxOTEwNzEsLTE2NjQ4NzA1MTYsLT
-E2MjYzMDQ3NDIsMTQ5NzUwOTY3OCwxMzkyOTE5OTE1LDEwODc4
-Mzc5ODIsLTMzODUyMjA3OCwtMzM4NTIyMDc4LC00NTQyMjY3Mj
-IsMjA1NTUxMDEzMCwtNzgxNDkxMTMzLDE3MDg5NjAwODAsMTgy
-NDQ4NDQ4MV19
+eyJoaXN0b3J5IjpbLTIwMjg5NzA5MzksLTg2ODE0MDQ5OSwyNj
+QxODAzMTYsMzM5MDUwNjQxLDEwOTY5MTgzNTIsLTE3MDI2MTY5
+NDEsMTk2OTE2MTU5MSwxMzMyMTkxMDcxLC0xNjY0ODcwNTE2LC
+0xNjI2MzA0NzQyLDE0OTc1MDk2NzgsMTM5MjkxOTkxNSwxMDg3
+ODM3OTgyLC0zMzg1MjIwNzgsLTMzODUyMjA3OCwtNDU0MjI2Nz
+IyLDIwNTU1MTAxMzAsLTc4MTQ5MTEzMywxNzA4OTYwMDgwLDE4
+MjQ0ODQ0ODFdfQ==
 -->
