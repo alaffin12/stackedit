@@ -171,7 +171,7 @@ This 30-foot-tall chamber is choked with debris and is difficult terrain.
 
 As long as Landro’s magical barrier is active, the view port’s crystal is immune to damage. The ceiling is 30 feet high.
 
-_**Broken**_ _**Control Helmet.**_ The silver helmet once created a magical link between its wearer and the graymatter engine. A creature that puts its ear to the helmet hears a faint, metallic clanking. A creature that dons the helmet must make a DC 13 Constitution saving throw. On a failed save, the creature has the incapacitated condition for 1 minute. On a successful save, the creature experiences a vision of what happened to Landro on the Day of Mourning (use the read-aloud text of the vision in area L10). The helmet loses this effect if removed from this room.
+_**Broken Control Helmet.**_ The silver helmet once created a magical link between its wearer and the graymatter engine. A creature that puts its ear to the helmet hears a faint, metallic clanking. A creature that dons the helmet must make a DC 13 Constitution saving throw. On a failed save, the creature has the incapacitated condition for 1 minute. On a successful save, the creature experiences a vision of what happened to Landro on the Day of Mourning (use the read-aloud text of the vision in area L10). The helmet loses this effect if removed from this room.
 
 ### L18: Collapsed Antigravity Well
 
@@ -288,6 +288,6 @@ This is a hopeless battle.  The players can win here, but a minute later the Lor
 > 
 > But I was also different from other warforged.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMTA0NjMyMywtMTM3NTExODIyNCwxNT
-k1ODMzMzk4LC0yMDMyMzc2Njg3XX0=
+eyJoaXN0b3J5IjpbMTIzODY1ODU0OSwxMDExMDQ2MzIzLC0xMz
+c1MTE4MjI0LDE1OTU4MzMzOTgsLTIwMzIzNzY2ODddfQ==
 -->
