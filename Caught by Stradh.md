@@ -487,7 +487,7 @@ The roof here is 40 ft above the Tsolenka Pass and 540 ft above the mist shroude
 #### Nameless Area
 After the players leave the guard tower but before they reach the bridge the following occurs...
 
-> As you move along the narrow path here you begin to hear a rumbling in the mountains to your left.  It gets closer and close - you become aware that whatever is coming must be massive.  And then you see it - this massive beast rumbling through the mists, it's feet causing the earth to rumble with every step
+> As you move along the narrow path here you begin to hear a rumbling in the mountains to your left.  It gets closer and close - you become aware that whatever is coming must be massive.  And then you see it - this massive beast rumbling through the mists, it's feet causing the earth to rumble with every step.  Brown shaggy hair, blood red eyes and crimson stained tusks bear down upon you. 
 
 #### T7. Western Arch
 > The snowy pass come to a gorge spanned by a stone bridge.  At each end of the bridge is a thirty foot tall, thirty foot wide stone arch.  Atop each are two statues of armored knights on horseback with lances, charging towards one another.  The wind bites and howls like wolves running down the gorge.
@@ -539,11 +539,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY3Mzc2NjY3LC0xMjYzOTQ1MzkxLC0xMj
-YxMjQ1MTAzLC04NjgxNDA0OTksMjY0MTgwMzE2LDMzOTA1MDY0
-MSwxMDk2OTE4MzUyLC0xNzAyNjE2OTQxLDE5NjkxNjE1OTEsMT
-MzMjE5MTA3MSwtMTY2NDg3MDUxNiwtMTYyNjMwNDc0MiwxNDk3
-NTA5Njc4LDEzOTI5MTk5MTUsMTA4NzgzNzk4MiwtMzM4NTIyMD
-c4LC0zMzg1MjIwNzgsLTQ1NDIyNjcyMiwyMDU1NTEwMTMwLC03
-ODE0OTExMzNdfQ==
+eyJoaXN0b3J5IjpbLTU3MzE5OTc0NCwtMTI2Mzk0NTM5MSwtMT
+I2MTI0NTEwMywtODY4MTQwNDk5LDI2NDE4MDMxNiwzMzkwNTA2
+NDEsMTA5NjkxODM1MiwtMTcwMjYxNjk0MSwxOTY5MTYxNTkxLD
+EzMzIxOTEwNzEsLTE2NjQ4NzA1MTYsLTE2MjYzMDQ3NDIsMTQ5
+NzUwOTY3OCwxMzkyOTE5OTE1LDEwODc4Mzc5ODIsLTMzODUyMj
+A3OCwtMzM4NTIyMDc4LC00NTQyMjY3MjIsMjA1NTUxMDEzMCwt
+NzgxNDkxMTMzXX0=
 -->
