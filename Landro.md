@@ -280,14 +280,14 @@ Need to add treasure to this part as included treasure is garbage (at this point
 
 | Table | Amount | Table | Amount |
 | -- | -- | -- | -- | 
-| A (Minor Common) | 1 | F (Major Uncommon) | 0
-| B (Minor Uncommon) | 1 | G (Major Rare
-| C (Minor Rare) | 2 |
-| D (Minor V. Rare | 1 |
-| E (Minor, Legendary | 0 |
+| A (Minor Common) | 1 | F (Major Uncommon) | 0 |
+| B (Minor Uncommon) | 1 | G (Major Rare) | 0 | 
+| C (Minor Rare) | 2 | H (Major V. Rare | 1 |
+| D (Minor V. Rare | 1 | I (Major Legendary | 0 |
+| E (Minor, Legendary | 0 | | |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NzgxNTIzNiwtMTExNzAzODY5NSwtOD
-U5NjA5MjgzLDExMzcyOTk0NjksMTIzODY1ODU0OSwxMDExMDQ2
-MzIzLC0xMzc1MTE4MjI0LDE1OTU4MzMzOTgsLTIwMzIzNzY2OD
-ddfQ==
+eyJoaXN0b3J5IjpbLTE0MTQ2MTAyMzgsLTExMTcwMzg2OTUsLT
+g1OTYwOTI4MywxMTM3Mjk5NDY5LDEyMzg2NTg1NDksMTAxMTA0
+NjMyMywtMTM3NTExODIyNCwxNTk1ODMzMzk4LC0yMDMyMzc2Nj
+g3XX0=
 -->
