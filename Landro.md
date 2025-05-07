@@ -278,13 +278,16 @@ This is a hopeless battle.  The players can win here, but a minute later the Lor
 # Note to Future Self
 Need to add treasure to this part as included treasure is garbage (at this point everyone will have a crossbow).  In the treasure tables roll the following:
 
-| Table | Amount |
-| -- | -- |
-| A (Common) | 1 |
-| B (
+| Table | Amount | Table | Amount |
+| -- | -- | -- | -- | 
+| A (Minor Common) | 1 | F (Major Uncommon) | 0
+| B (Minor Uncommon) | 1 | G (Major Rare
+| C (Minor Rare) | 2 |
+| D (Minor V. Rare | 1 |
+| E (Minor, Legendary | 0 |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODMxNzAyMzQsLTExMTcwMzg2OTUsLT
-g1OTYwOTI4MywxMTM3Mjk5NDY5LDEyMzg2NTg1NDksMTAxMTA0
-NjMyMywtMTM3NTExODIyNCwxNTk1ODMzMzk4LC0yMDMyMzc2Nj
-g3XX0=
+eyJoaXN0b3J5IjpbMTQ3NzgxNTIzNiwtMTExNzAzODY5NSwtOD
+U5NjA5MjgzLDExMzcyOTk0NjksMTIzODY1ODU0OSwxMDExMDQ2
+MzIzLC0xMzc1MTE4MjI0LDE1OTU4MzMzOTgsLTIwMzIzNzY2OD
+ddfQ==
 -->
