@@ -139,25 +139,12 @@ The pool has 4 charges. It expends 1 charge each time an item is dipped into it.
 
 ##### **[Dragonshard Pool Effects](https://app.roll20.net/editor/`#Dragonshard-Pool-Effects)**
 
-**[d6](https://app.roll20.net/editor/`/gr 1d6)**
-
 **Effect**
-| Roll | Effect  |
+| Roll 1 | Effect  |
 |--|--|
-| 1-2  | 
-1–2
-
-The item is destroyed  |
-| 3-4 | .
-
-3–4
-
-The item gains a cosmetic defect such as a discoloration, mild warping, or mysterious engravings. |
-| 5-6 | 
-
-5–6
-
-The item craves more graymatter fluid.  Every time the item'’s wielder comes within 30 feet of graymatter fluid, the item emits a high-pitched hum that lasts until the character moves away from the fluid. |
+| 1-2  | The item is destroyed  |
+| 3-4 | The item gains a cosmetic defect such as a discoloration, mild warping, or mysterious engravings. |
+| 5-6 | The item craves more graymatter fluid.  Every time the item'’s wielder comes within 30 feet of graymatter fluid, the item emits a high-pitched hum that lasts until the character moves away from the fluid. |
 
 _**Treasure.**_ A suit of chain mail, two shortswords, and a mace lie on the floor. All are twisted and malformed, as if they were affected by a roll of 3 or 4 on the Dragonshard Pool Effects table.
 
@@ -302,6 +289,6 @@ This is a hopeless battle.  The players can win here, but a minute later the Lor
 > 
 > But I was also different from other warforged.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzUxMTgyMjQsMTU5NTgzMzM5OCwtMj
-AzMjM3NjY4N119
+eyJoaXN0b3J5IjpbLTE3MjQxMTUzMjgsLTEzNzUxMTgyMjQsMT
+U5NTgzMzM5OCwtMjAzMjM3NjY4N119
 -->
