@@ -484,8 +484,11 @@ The ladder leads up to T6
 
 The roof here is 40 ft above the Tsolenka Pass and 540 ft above the mist shrouded valley below.  A squeaky wooden trapdoor in the floor leads to T5 below.  The skeletons are the remains of the five guards who last held this post long ago.  If characters search the remains they will find nothing useful - just bits of tattered cloth, rotted and broken longbows and rusty weapons and mail but they will disturb the souls of the dead, summoning the feuereis (who start in ice form) - the frozen souls of the former guards of this place.
 
+#### Nameless Area
+After the players leave the guard tower but before they reach the bridge introduce them to Sangzor.
+
 #### T7. Western Arch
-> The snowy pass come to a gorge spanned by a stone bridge.  At each end of the bridge is a thirty foot tall, thirty foot wide stone ar
+> The snowy pass come to a gorge spanned by a stone bridge.  At each end of the bridge is a thirty foot tall, thirty foot wide stone arch.  Atop each are two statues of armored knights on horseback with lances, charging towards one another.  The wind bits and howls like wolves running down the gorge.
 
 
 ### Amber Temple
@@ -527,7 +530,7 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MTQyNTgxMCwtODY4MTQwNDk5LDI2ND
+eyJoaXN0b3J5IjpbLTQ2ODIyNjE5NCwtODY4MTQwNDk5LDI2ND
 E4MDMxNiwzMzkwNTA2NDEsMTA5NjkxODM1MiwtMTcwMjYxNjk0
 MSwxOTY5MTYxNTkxLDEzMzIxOTEwNzEsLTE2NjQ4NzA1MTYsLT
 E2MjYzMDQ3NDIsMTQ5NzUwOTY3OCwxMzkyOTE5OTE1LDEwODc4
