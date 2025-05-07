@@ -480,7 +480,7 @@ The stairs climb to T5.
 The ladder leads up to T6
 
 #### Guard Tower, Rooftop
->Ten foot tall, gold plated statues stand atop the battlements, facing outward.  Each one depicts a human knight, holding a lance.  The cold wind stirs th
+>Ten foot tall, gold plated statues stand atop the battlements, facing outward.  Each one depicts a human knight, holding a lance.  The cold wind stirs the snow, under which you count five human skeletons clad in rusty chain mail.
 
 
 ### Amber Temple
@@ -522,7 +522,7 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMzUwNzA4NiwtODY4MTQwNDk5LDI2ND
+eyJoaXN0b3J5IjpbMTM4MjI3Nzg0OCwtODY4MTQwNDk5LDI2ND
 E4MDMxNiwzMzkwNTA2NDEsMTA5NjkxODM1MiwtMTcwMjYxNjk0
 MSwxOTY5MTYxNTkxLDEzMzIxOTEwNzEsLTE2NjQ4NzA1MTYsLT
 E2MjYzMDQ3NDIsMTQ5NzUwOTY3OCwxMzkyOTE5OTE1LDEwODc4
