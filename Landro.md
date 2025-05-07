@@ -259,7 +259,7 @@ This is a hopeless battle.  The players can win here, but a minute later the Lor
 
 > "Yes, I know what happened on that day.  I happened on that day."
 >
-> "I am not like others of my kind.  The regard me as a god or a messiah and that is closer to the truth then most would guess.  The first name I was given - given by the arcanists of Cyre - was Sovereign.  For that is what I was meant to be."
+> "I am not like others of my kind.  The warforged regard me as a god or a messiah and that is closer to the truth then most would guess.  The first name I was given - given by the arcanists of Cyre - was Sovereign.  For that is what I was meant to be."
 >
 > "The arcanists of Cyre discovered an ancient artifact - the Annulus of Kor'Ravar - beneath Metrol.  It was a terrible weapon of war, built by the giants of Xen'drik, to dominate and control their Quori foes.  The Cyran mages saw the potential to twist it to their own devices.  To create a new god.  Me."
 >
@@ -288,7 +288,7 @@ This is a hopeless battle.  The players can win here, but a minute later the Lor
 > 
 > But I was also different from other warforged.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNzI4Njg2NiwxMjM4NjU4NTQ5LDEwMT
+eyJoaXN0b3J5IjpbMTEzNzI5OTQ2OSwxMjM4NjU4NTQ5LDEwMT
 EwNDYzMjMsLTEzNzUxMTgyMjQsMTU5NTgzMzM5OCwtMjAzMjM3
 NjY4N119
 -->
