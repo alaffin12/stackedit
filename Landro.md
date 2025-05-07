@@ -274,8 +274,11 @@ This is a hopeless battle.  The players can win here, but a minute later the Lor
 > "All but two who were present at my birth died.  Me, and the Warforged known as Mercy.  Mercy was damaged, but spared.  I could not save his memories of the event, of the glorious thing he had done.  But I spared him.  Because of his sacrifice I am free, and thus all Warforged are free.  For now and for ever."
 >
 > The warforged messiah looks around him.  "You are fighting another tyrant.  I care little for the Fleshbound of Eberron.  Or anywhere really.  But I doubt this foe you are facing will be any kinder to Warforged than the Fleshbound.  I cannot go with you - my flock need me - but I will send you a token of my support."  The Lord of Blades gestures to the scraps of warforged here, and a new warforged begins to assemble itself.  "This one calls itself N-CA-RTA12-7.  He is not a true warforged - he is not sentient - but he will serve as a librarian for you.  And when the time comes he can summon me to your side.  Treat him with respect, lest you earn my ire."
+
+# Note to Future Self
+Need to add treasure to this part
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1OTYwOTI4MywxMTM3Mjk5NDY5LDEyMz
-g2NTg1NDksMTAxMTA0NjMyMywtMTM3NTExODIyNCwxNTk1ODMz
-Mzk4LC0yMDMyMzc2Njg3XX0=
+eyJoaXN0b3J5IjpbLTExMTcwMzg2OTUsLTg1OTYwOTI4MywxMT
+M3Mjk5NDY5LDEyMzg2NTg1NDksMTAxMTA0NjMyMywtMTM3NTEx
+ODIyNCwxNTk1ODMzMzk4LC0yMDMyMzc2Njg3XX0=
 -->
