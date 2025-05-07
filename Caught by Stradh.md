@@ -485,7 +485,9 @@ The ladder leads up to T6
 The roof here is 40 ft above the Tsolenka Pass and 540 ft above the mist shrouded valley below.  A squeaky wooden trapdoor in the floor leads to T5 below.  The skeletons are the remains of the five guards who last held this post long ago.  If characters search the remains they will find nothing useful - just bits of tattered cloth, rotted and broken longbows and rusty weapons and mail but they will disturb the souls of the dead, summoning the feuereis (who start in ice form) - the frozen souls of the former guards of this place.
 
 #### Nameless Area
-After the players leave the guard tower but before they reach the bridge introduce them to Sangzor.
+After the players leave the guard tower but before they reach the bridge the following occurs...
+
+> As you move allon
 
 #### T7. Western Arch
 > The snowy pass come to a gorge spanned by a stone bridge.  At each end of the bridge is a thirty foot tall, thirty foot wide stone arch.  Atop each are two statues of armored knights on horseback with lances, charging towards one another.  The wind bites and howls like wolves running down the gorge.
@@ -537,11 +539,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjEyNDUxMDMsLTg2ODE0MDQ5OSwyNj
-QxODAzMTYsMzM5MDUwNjQxLDEwOTY5MTgzNTIsLTE3MDI2MTY5
-NDEsMTk2OTE2MTU5MSwxMzMyMTkxMDcxLC0xNjY0ODcwNTE2LC
-0xNjI2MzA0NzQyLDE0OTc1MDk2NzgsMTM5MjkxOTkxNSwxMDg3
-ODM3OTgyLC0zMzg1MjIwNzgsLTMzODUyMjA3OCwtNDU0MjI2Nz
-IyLDIwNTU1MTAxMzAsLTc4MTQ5MTEzMywxNzA4OTYwMDgwLDE4
-MjQ0ODQ0ODFdfQ==
+eyJoaXN0b3J5IjpbLTE3MzMwNjk1NjAsLTEyNjEyNDUxMDMsLT
+g2ODE0MDQ5OSwyNjQxODAzMTYsMzM5MDUwNjQxLDEwOTY5MTgz
+NTIsLTE3MDI2MTY5NDEsMTk2OTE2MTU5MSwxMzMyMTkxMDcxLC
+0xNjY0ODcwNTE2LC0xNjI2MzA0NzQyLDE0OTc1MDk2NzgsMTM5
+MjkxOTkxNSwxMDg3ODM3OTgyLC0zMzg1MjIwNzgsLTMzODUyMj
+A3OCwtNDU0MjI2NzIyLDIwNTU1MTAxMzAsLTc4MTQ5MTEzMywx
+NzA4OTYwMDgwXX0=
 -->
