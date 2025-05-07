@@ -487,7 +487,12 @@ The roof here is 40 ft above the Tsolenka Pass and 540 ft above the mist shroude
 #### Nameless Area
 After the players leave the guard tower but before they reach the bridge the following occurs...
 
-> As you move along the narrow path here you begin to hear a rumbling in the mountains to your left.  It gets closer and close - you become aware that whatever is coming must be massive.  And then you see it - this massive beast rumbling through the mists, it's feet causing the earth to rumble with every step.  Brown shaggy hair, blood red eyes and crimson stained tusks bear down upon you. 
+> As you move along the narrow path here you begin to hear a rumbling in the mountains to your left.  It gets closer and close - you become aware that whatever is coming must be massive.  And then you see it - this massive beast rumbling through the mists, it's feet causing the earth to rumble with every step.  Brown shaggy hair, blood red eyes and crimson stained tusks bear down upon you.
+
+This is Sangzor, the Blood Horn.  And he is looking to kill some party members.
+
+Sangzor is a Mammoth with the following changes:
+He is resistant to Bludgeoning, Piercing and Slashing from non-magical attacks
 
 #### T7. Western Arch
 > The snowy pass come to a gorge spanned by a stone bridge.  At each end of the bridge is a thirty foot tall, thirty foot wide stone arch.  Atop each are two statues of armored knights on horseback with lances, charging towards one another.  The wind bites and howls like wolves running down the gorge.
@@ -539,7 +544,7 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MzE5OTc0NCwtMTI2Mzk0NTM5MSwtMT
+eyJoaXN0b3J5IjpbLTU2NjQzNzE1MywtMTI2Mzk0NTM5MSwtMT
 I2MTI0NTEwMywtODY4MTQwNDk5LDI2NDE4MDMxNiwzMzkwNTA2
 NDEsMTA5NjkxODM1MiwtMTcwMjYxNjk0MSwxOTY5MTYxNTkxLD
 EzMzIxOTEwNzEsLTE2NjQ4NzA1MTYsLTE2MjYzMDQ3NDIsMTQ5
