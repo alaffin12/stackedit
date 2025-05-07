@@ -259,7 +259,7 @@ This is a hopeless battle.  The players can win here, but a minute later the Lor
 
 > "Yes, I know what happened on that day.  I happened on that day."
 >
-> "I am not like others of my kind.  The warforged regard me as a god or a messiah and that is closer to the truth then most would guess.  The first name I was given - given by the arcanists of Cyre - was Sovereign.  For that is what I was meant to be."
+> "I am not like others of my kind.  The other warforged regard me as a god or a messiah and that is closer to the truth then most would guess.  The first name I was given - given by the arcanists of Cyre - was Sovereign.  For that is what I was meant to be."
 >
 > "The arcanists of Cyre discovered an ancient artifact - the Annulus of Kor'Ravar - beneath Metrol.  It was a terrible weapon of war, built by the giants of Xen'drik, to dominate and control their Quori foes.  The Cyran mages saw the potential to twist it to their own devices.  To create a new god.  Me."
 >
@@ -274,21 +274,8 @@ This is a hopeless battle.  The players can win here, but a minute later the Lor
 > "All but two who were present at my birth died.  Me, and the Warforged known as Mercy.  Mercy was damaged, but spared.  I could not save his memories of the event, of the glorious thing he had done.  But I spared him.  Because of his sacrifice I am free, and thus all Warforged are free.  For now and for ever."
 >
 > The warforged messiah looks around him.  "You are fighting another tyrant.  I care little for the Fleshbound of Eberron.  Or anywhere really.  But I doubt this foe you are facing will be any kinder to Warforged than the Fleshbound.  I cannot go with you - my flock need me - but I will send you a token of my support."  The Lord of Blades gestures to the scraps of warforged here, and a new warforged begins to assemble itself.  "This one calls itself N-CA-RTA12-7.  He is not a true warforged - he is not sentient - but he will serve as a librarian for you.  And when the time comes he can summon me to your side.  Treat him with respect, lest you earn my ire."
-
-
- made me different.  I was meant to rule.  To dominate.  To serve.  Consider this very colossi.  Landro was his name.  He was built to command.  The rule over lesser colossi.  But to make that work the Slavers needed rare materials.  Each lesser colossi had a small shard of an intelligence.  And this one held three - one of the colossi itself, one of the warforged that commanded him, and a true docent from Xen'drik.  Three minds forged as one and used to command an entire company of these things.   
-> 
-> I was to go a step beyond.  I was born to command not a company of colossi, but all warforged.  
-> They gathered us.  One hundred and sixty nine of us.  Slaves.  Bound to the will of the slavers.  Made to enslave all our kind.  
-
-
-> I suppose that one might find it funny that the moment of my birth is so critical to the stability of the cosmos.  Perhaps that is more a sign than any of my destiny, of the destiny of the warforged and of the destiny of Eberron.
-> 
-> My name was Merrix d'Cannith.  I created the first warforged based on creations I had found in the ruins of Xen'drik.  Aaren, my son, perfected my design as a means to save me - for I was dying a slow, wasting death.  He was executed by my family for daring to treat warforged as something more than tools.  What's more they enslaved me, forced me to do their bidding.  Forced me to be the executioner.  They did not know who I was.  Aaren hid me, for fear of what they might do.  But I knew.  And I knew then and there that I was no longer a Cannith.  I was warforged.  
-> 
-> But I was also different from other warforged.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNzI5OTQ2OSwxMjM4NjU4NTQ5LDEwMT
-EwNDYzMjMsLTEzNzUxMTgyMjQsMTU5NTgzMzM5OCwtMjAzMjM3
-NjY4N119
+eyJoaXN0b3J5IjpbLTg1OTYwOTI4MywxMTM3Mjk5NDY5LDEyMz
+g2NTg1NDksMTAxMTA0NjMyMywtMTM3NTExODIyNCwxNTk1ODMz
+Mzk4LC0yMDMyMzc2Njg3XX0=
 -->
