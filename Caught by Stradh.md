@@ -487,7 +487,7 @@ The roof here is 40 ft above the Tsolenka Pass and 540 ft above the mist shroude
 #### Nameless Area
 After the players leave the guard tower but before they reach the bridge the following occurs...
 
-> As you move along the narrow path here you begin to hear a rumbling in the mountains to your left.  It gets closer and close - you become aware that whatever is coming must be massive.  And then you see it - this massive beast rumbling through th
+> As you move along the narrow path here you begin to hear a rumbling in the mountains to your left.  It gets closer and close - you become aware that whatever is coming must be massive.  And then you see it - this massive beast rumbling through the mists, it's feet causing the earth to rumble with every step
 
 #### T7. Western Arch
 > The snowy pass come to a gorge spanned by a stone bridge.  At each end of the bridge is a thirty foot tall, thirty foot wide stone arch.  Atop each are two statues of armored knights on horseback with lances, charging towards one another.  The wind bites and howls like wolves running down the gorge.
@@ -539,11 +539,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjM5NDUzOTEsLTEyNjEyNDUxMDMsLT
-g2ODE0MDQ5OSwyNjQxODAzMTYsMzM5MDUwNjQxLDEwOTY5MTgz
-NTIsLTE3MDI2MTY5NDEsMTk2OTE2MTU5MSwxMzMyMTkxMDcxLC
-0xNjY0ODcwNTE2LC0xNjI2MzA0NzQyLDE0OTc1MDk2NzgsMTM5
-MjkxOTkxNSwxMDg3ODM3OTgyLC0zMzg1MjIwNzgsLTMzODUyMj
-A3OCwtNDU0MjI2NzIyLDIwNTU1MTAxMzAsLTc4MTQ5MTEzMywx
-NzA4OTYwMDgwXX0=
+eyJoaXN0b3J5IjpbOTY3Mzc2NjY3LC0xMjYzOTQ1MzkxLC0xMj
+YxMjQ1MTAzLC04NjgxNDA0OTksMjY0MTgwMzE2LDMzOTA1MDY0
+MSwxMDk2OTE4MzUyLC0xNzAyNjE2OTQxLDE5NjkxNjE1OTEsMT
+MzMjE5MTA3MSwtMTY2NDg3MDUxNiwtMTYyNjMwNDc0MiwxNDk3
+NTA5Njc4LDEzOTI5MTk5MTUsMTA4NzgzNzk4MiwtMzM4NTIyMD
+c4LC0zMzg1MjIwNzgsLTQ1NDIyNjcyMiwyMDU1NTEwMTMwLC03
+ODE0OTExMzNdfQ==
 -->
