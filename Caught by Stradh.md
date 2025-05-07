@@ -493,11 +493,10 @@ After the players leave the guard tower but before they reach the bridge introdu
 #### T8. Stone Bridge
 > The low walls that enclose the stone bridge have fallen away in a couple places, but the bridge itself appears intact.
 
-
-
+Introduce the players to whatever you put here as they cross the bridge
 
 #### T9. Eastern Arch
-> One of the statues atop this arch has crumbled, l
+> One of the statues atop this arch has crumbled, leaving only the horse's hindquarters intact.  
 
 ### Amber Temple
 
@@ -538,7 +537,7 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjg5NzA5MzksLTg2ODE0MDQ5OSwyNj
+eyJoaXN0b3J5IjpbLTEyNjEyNDUxMDMsLTg2ODE0MDQ5OSwyNj
 QxODAzMTYsMzM5MDUwNjQxLDEwOTY5MTgzNTIsLTE3MDI2MTY5
 NDEsMTk2OTE2MTU5MSwxMzMyMTkxMDcxLC0xNjY0ODcwNTE2LC
 0xNjI2MzA0NzQyLDE0OTc1MDk2NzgsMTM5MjkxOTkxNSwxMDg3
