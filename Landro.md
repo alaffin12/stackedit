@@ -249,7 +249,7 @@ In this 15-foot-tall room, which is effectively Landro’s mouth, **[Glaive](htt
 >
 >"The Lord of Blades.  It is.."  You can see he is beside himself, nearly giddy with academic curiosity, the dangers you have faced coming here gone from his mind. "...questions..." he mutters "...so many questions."
 >
-> His question is answered in less than a heartbeat.  In the blink of an eye the Lord of Blades is on him, and one of his monstrous blades is buried deep within the gut of the professor.  "Curious..." he says. his voice cold and emotionless "...why would six meatbags travel through the wastes of Cyre to die here on my blades."  He doesn't wait for an answer - instead he begins to advance on you.
+> His questions are answered in less than a heartbeat.  In the blink of an eye the Lord of Blades is on him, and one of his monstrous blades is buried deep within the gut of the professor.  "Curious..." he says. his voice cold and emotionless "...why would six meatbags travel through the wastes of Cyre to die here on my blades."  He doesn't wait for an answer - instead he begins to advance on you.
 
 This is a hopeless battle.  The players can win here, but a minute later the Lord of Blades will awake in a new body and start fighting again.  The players need to talk to him and convince him or their purpose and that they are not necessarily his enemy.  Some thoughts:
 
@@ -288,6 +288,7 @@ This is a hopeless battle.  The players can win here, but a minute later the Lor
 > 
 > But I was also different from other warforged.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzODY1ODU0OSwxMDExMDQ2MzIzLC0xMz
-c1MTE4MjI0LDE1OTU4MzMzOTgsLTIwMzIzNzY2ODddfQ==
+eyJoaXN0b3J5IjpbMTgxNzI4Njg2NiwxMjM4NjU4NTQ5LDEwMT
+EwNDYzMjMsLTEzNzUxMTgyMjQsMTU5NTgzMzM5OCwtMjAzMjM3
+NjY4N119
 -->
