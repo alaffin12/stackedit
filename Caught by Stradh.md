@@ -496,6 +496,7 @@ He is resistant to Bludgeoning, Piercing and Slashing from non-magical attacks.
 He is immune to Cold Damage
 
 
+
 #### T7. Western Arch
 > The snowy pass come to a gorge spanned by a stone bridge.  At each end of the bridge is a thirty foot tall, thirty foot wide stone arch.  Atop each are two statues of armored knights on horseback with lances, charging towards one another.  The wind bites and howls like wolves running down the gorge.
 
@@ -546,11 +547,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NjY2OTQ3MywtMTI2Mzk0NTM5MSwtMT
-I2MTI0NTEwMywtODY4MTQwNDk5LDI2NDE4MDMxNiwzMzkwNTA2
-NDEsMTA5NjkxODM1MiwtMTcwMjYxNjk0MSwxOTY5MTYxNTkxLD
-EzMzIxOTEwNzEsLTE2NjQ4NzA1MTYsLTE2MjYzMDQ3NDIsMTQ5
-NzUwOTY3OCwxMzkyOTE5OTE1LDEwODc4Mzc5ODIsLTMzODUyMj
-A3OCwtMzM4NTIyMDc4LC00NTQyMjY3MjIsMjA1NTUxMDEzMCwt
-NzgxNDkxMTMzXX0=
+eyJoaXN0b3J5IjpbLTQxNDk2NzgxLDExNjY2Njk0NzMsLTEyNj
+M5NDUzOTEsLTEyNjEyNDUxMDMsLTg2ODE0MDQ5OSwyNjQxODAz
+MTYsMzM5MDUwNjQxLDEwOTY5MTgzNTIsLTE3MDI2MTY5NDEsMT
+k2OTE2MTU5MSwxMzMyMTkxMDcxLC0xNjY0ODcwNTE2LC0xNjI2
+MzA0NzQyLDE0OTc1MDk2NzgsMTM5MjkxOTkxNSwxMDg3ODM3OT
+gyLC0zMzg1MjIwNzgsLTMzODUyMjA3OCwtNDU0MjI2NzIyLDIw
+NTU1MTAxMzBdfQ==
 -->
