@@ -486,14 +486,11 @@ Eating one of Morgantha's pies has one of the following effects:
 
 However they are addictive.  The morning after you eat one roll a DC 10+2*(Total Number of Pies Eaten Lifetime) Constitution Save.  If they fail they become first level addicts.  Addicts have debuffs added to their character that make them weaker.  They can remedy this by eating a pie (from which they gain no other benefits - however eating subsequent pies does give them one of the benefits) or they can suffer through the addiction.  If they consume even a single pie during the day they run the risk of getting further addicted (make a new save the following morning).  If they go 24 hours without eating a pie the next morning they can make a save to drop down one level on the addiction chart.  *LPC stands for lifetime pie consumption - how many pies they have eaten total.  Track this!*
 
-| Level | Impact | Con Save to Get Better | Con Save to Getting Worse |
+| Level | Impact | Con Save Better | Con Save Worse |
 | -- | -- | -- | -- |
-| First | +1 Exhaustion |  10+2(LPC) | 12+2(LPC) | 
-*First Level Addict*: First level addict have a general -1 to all attack rolls and skill checks.  They can remedy this by eating a pie (but gain no other benefits from the pie except alleviating this).  If they go 24 hours without eating a pie, they lose this status.  Otherwise if they eat a pie during the day the next morning they must make a DC 12+2*(Total Number of Pies Eaten Lifetime) Constitution Save or progress to a second level addict.
-
-*Second Level Addict*: Second level addicts have a level of exhaustion that can only be removed by eating a pie.  If they go 24 hours without eating a pie they drop to a First Level Addict.  Otherwise, if they eat a pie during the day they must make a DC 14+2*(Total Number of Pies Eaten Lifetime) Constitution saving throw or progress to a third level addict.
-
-*Third Level Addict*: Third level addicts have two levels of exhaustion that can only be removed by eating a pie.  If they go 24 hours without eating a pie they may make a DC 15+2*(Total Number of Pies Eaten Lifetime) Constitution saving throw to drop to a second level addict. 
+| First | +1 Exhaustion |  10+2x(LPC) | 12+2x(LPC) | 
+| Second | +2 Exhaustion | 12+2x(LPC) | 14+2x(LPC) |
+| Third | +3 Exhaustion | 14+2x(LPC) | -- |
 
 ### Drink in Barovia
 Almost all alcohol in Barovia is wine or wine-based, and almost all wine is made by the Martikov family (some is brought in by Vistani traders).  A description of the Martikov family wines is below:
@@ -509,11 +506,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDQ0NDkxMzUsMjY0MTgwMzE2LDMzOT
-A1MDY0MSwxMDk2OTE4MzUyLC0xNzAyNjE2OTQxLDE5NjkxNjE1
-OTEsMTMzMjE5MTA3MSwtMTY2NDg3MDUxNiwtMTYyNjMwNDc0Mi
-wxNDk3NTA5Njc4LDEzOTI5MTk5MTUsMTA4NzgzNzk4MiwtMzM4
-NTIyMDc4LC0zMzg1MjIwNzgsLTQ1NDIyNjcyMiwyMDU1NTEwMT
-MwLC03ODE0OTExMzMsMTcwODk2MDA4MCwxODI0NDg0NDgxLDEx
-MzExNzgzMTJdfQ==
+eyJoaXN0b3J5IjpbLTg2ODE0MDQ5OSwyNjQxODAzMTYsMzM5MD
+UwNjQxLDEwOTY5MTgzNTIsLTE3MDI2MTY5NDEsMTk2OTE2MTU5
+MSwxMzMyMTkxMDcxLC0xNjY0ODcwNTE2LC0xNjI2MzA0NzQyLD
+E0OTc1MDk2NzgsMTM5MjkxOTkxNSwxMDg3ODM3OTgyLC0zMzg1
+MjIwNzgsLTMzODUyMjA3OCwtNDU0MjI2NzIyLDIwNTU1MTAxMz
+AsLTc4MTQ5MTEzMywxNzA4OTYwMDgwLDE4MjQ0ODQ0ODEsMTEz
+MTE3ODMxMl19
 -->
