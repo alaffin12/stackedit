@@ -467,6 +467,9 @@ These statues are actually guardians of the gate.  If the players attack the sta
 #### T3. Curtain of Green Flame
 The archway is filled with a curtain of green flame.  Any creature that starts its turn in the green flame and any creature that enters the curtain for takes 6d10 fire damage.  A successful casting of dispel magic (DC 16) suppresses the curtain, as does any anti-magic field.
 
+#### T4. Guard Tower, Bottom Floor
+The door to this area is made of iron bound wood and has been barred from the inside.  
+
 ### Amber Temple
 
 
@@ -506,11 +509,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2ODE0MDQ5OSwyNjQxODAzMTYsMzM5MD
-UwNjQxLDEwOTY5MTgzNTIsLTE3MDI2MTY5NDEsMTk2OTE2MTU5
-MSwxMzMyMTkxMDcxLC0xNjY0ODcwNTE2LC0xNjI2MzA0NzQyLD
-E0OTc1MDk2NzgsMTM5MjkxOTkxNSwxMDg3ODM3OTgyLC0zMzg1
-MjIwNzgsLTMzODUyMjA3OCwtNDU0MjI2NzIyLDIwNTU1MTAxMz
-AsLTc4MTQ5MTEzMywxNzA4OTYwMDgwLDE4MjQ0ODQ0ODEsMTEz
-MTE3ODMxMl19
+eyJoaXN0b3J5IjpbMTkxMzI5OTM3NiwtODY4MTQwNDk5LDI2ND
+E4MDMxNiwzMzkwNTA2NDEsMTA5NjkxODM1MiwtMTcwMjYxNjk0
+MSwxOTY5MTYxNTkxLDEzMzIxOTEwNzEsLTE2NjQ4NzA1MTYsLT
+E2MjYzMDQ3NDIsMTQ5NzUwOTY3OCwxMzkyOTE5OTE1LDEwODc4
+Mzc5ODIsLTMzODUyMjA3OCwtMzM4NTIyMDc4LC00NTQyMjY3Mj
+IsMjA1NTUxMDEzMCwtNzgxNDkxMTMzLDE3MDg5NjAwODAsMTgy
+NDQ4NDQ4MV19
 -->
