@@ -477,6 +477,11 @@ The stairs climb to T5.
 #### T5.  Guard Tower, Upper Floor
 > The upper level of this tower is an icebox, with windows set into almost every wall, letting the wind howl through mercilessly.  A rusted iron ladder bolted to the floor and ceiling leads up to a wooden trapdoor.  Mounted above the cold stone hearth is a dire wolf's head - the wind coming down the chimney howls in the stead of it's now stolen voice.
 
+The ladder leads up to T6
+
+#### Guard Tower, Rooftop
+>Ten foot tall, gold plated statues stand atop the battlements, facing outward.  Each one depicts a human knight, holding a lance.  The cold wind stirs th
+
 
 ### Amber Temple
 
@@ -517,7 +522,7 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NzE1MDY4NSwtODY4MTQwNDk5LDI2ND
+eyJoaXN0b3J5IjpbLTcyMzUwNzA4NiwtODY4MTQwNDk5LDI2ND
 E4MDMxNiwzMzkwNTA2NDEsMTA5NjkxODM1MiwtMTcwMjYxNjk0
 MSwxOTY5MTYxNTkxLDEzMzIxOTEwNzEsLTE2NjQ4NzA1MTYsLT
 E2MjYzMDQ3NDIsMTQ5NzUwOTY3OCwxMzkyOTE5OTE1LDEwODc4
