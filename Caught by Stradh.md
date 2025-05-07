@@ -479,7 +479,7 @@ The stairs climb to T5.
 
 The ladder leads up to T6
 
-#### Guard Tower, Rooftop
+#### T6. Guard Tower, Rooftop
 >Ten foot tall, gold plated statues stand atop the battlements, facing outward.  Each one depicts a human knight, holding a lance.  The cold wind stirs the snow, under which you count five human skeletons clad in rusty chain mail.
 
 The roof here is 40 ft above the Tsolenka Pass and 540 ft above the mist shrouded valley below.  A squeaky wooden trapdoor in the floor leads to T5 below.  The skeletons are the remains of the five guards who last held this post long ago.  If characters search the remains they will find nothing useful - just bits of tattered cloth, rotted and broken longbows and rusty weapons and mail but they will disturb the souls of the dead, summoning the feuereis (who start in ice form) - the frozen souls of the former guards of this place.
@@ -524,11 +524,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjg2ODA5MywtODY4MTQwNDk5LDI2ND
-E4MDMxNiwzMzkwNTA2NDEsMTA5NjkxODM1MiwtMTcwMjYxNjk0
-MSwxOTY5MTYxNTkxLDEzMzIxOTEwNzEsLTE2NjQ4NzA1MTYsLT
-E2MjYzMDQ3NDIsMTQ5NzUwOTY3OCwxMzkyOTE5OTE1LDEwODc4
-Mzc5ODIsLTMzODUyMjA3OCwtMzM4NTIyMDc4LC00NTQyMjY3Mj
-IsMjA1NTUxMDEzMCwtNzgxNDkxMTMzLDE3MDg5NjAwODAsMTgy
-NDQ4NDQ4MV19
+eyJoaXN0b3J5IjpbMjg5NDU2ODc5LC04NjgxNDA0OTksMjY0MT
+gwMzE2LDMzOTA1MDY0MSwxMDk2OTE4MzUyLC0xNzAyNjE2OTQx
+LDE5NjkxNjE1OTEsMTMzMjE5MTA3MSwtMTY2NDg3MDUxNiwtMT
+YyNjMwNDc0MiwxNDk3NTA5Njc4LDEzOTI5MTk5MTUsMTA4Nzgz
+Nzk4MiwtMzM4NTIyMDc4LC0zMzg1MjIwNzgsLTQ1NDIyNjcyMi
+wyMDU1NTEwMTMwLC03ODE0OTExMzMsMTcwODk2MDA4MCwxODI0
+NDg0NDgxXX0=
 -->
