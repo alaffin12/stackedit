@@ -504,7 +504,7 @@ Any creature that is attacked by him during his turn cannot make an attack of op
 #### T8. Stone Bridge
 > The low walls that enclose the stone bridge have fallen away in a couple places, but the bridge itself appears intact.
 
-If Sangzor does a lot of damage to the party then skip this encounter.  Otherwise.
+If Sangzor does a lot of damage to the party then skip this encounter.  Otherwise....
 
 #### T9. Eastern Arch
 > One of the statues atop this arch has crumbled, leaving only the horse's hindquarters intact.  
@@ -548,7 +548,7 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NTYxMDgxMiwxNzM2NjA4NDg2LDExNj
+eyJoaXN0b3J5IjpbLTgxOTUzNTQ2MCwxNzM2NjA4NDg2LDExNj
 Y2Njk0NzMsLTEyNjM5NDUzOTEsLTEyNjEyNDUxMDMsLTg2ODE0
 MDQ5OSwyNjQxODAzMTYsMzM5MDUwNjQxLDEwOTY5MTgzNTIsLT
 E3MDI2MTY5NDEsMTk2OTE2MTU5MSwxMzMyMTkxMDcxLC0xNjY0
