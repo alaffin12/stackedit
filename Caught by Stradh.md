@@ -499,7 +499,7 @@ On a successful gore attack the target must make a DC 18 Strength saving throw o
 Any creature that is attacked by him during his turn cannot make an attack of opportunity against him until the end of his turn.
 
 #### T7. Western Arch
-> The snowy pass come to a gorge spanned by a stone bridge.  At each end of the bridge is a thirty foot tall, thirty foot wide stone arch.  Atop each are two statues of armored knights on horseback with lances, charging towards one another.  The wind bites and howls like wolves running down the gorge.
+> The snowy pass come to a gorge spanned by a stone bridge.  At each end of the bridge is a thirty foot tall, thirty foot wide stone arch.  Atop each are two statues of armoured knights on horseback with lances, charging towards one another.  The wind bites and howls like wolves running down the gorge.
 
 #### T8. Stone Bridge
 > The low walls that enclose the stone bridge have fallen away in a couple places, but the bridge itself appears intact.
@@ -548,11 +548,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTkyMTcxMDMsMTE2NjY2OTQ3MywtMT
-I2Mzk0NTM5MSwtMTI2MTI0NTEwMywtODY4MTQwNDk5LDI2NDE4
-MDMxNiwzMzkwNTA2NDEsMTA5NjkxODM1MiwtMTcwMjYxNjk0MS
-wxOTY5MTYxNTkxLDEzMzIxOTEwNzEsLTE2NjQ4NzA1MTYsLTE2
-MjYzMDQ3NDIsMTQ5NzUwOTY3OCwxMzkyOTE5OTE1LDEwODc4Mz
-c5ODIsLTMzODUyMjA3OCwtMzM4NTIyMDc4LC00NTQyMjY3MjIs
-MjA1NTUxMDEzMF19
+eyJoaXN0b3J5IjpbMTczNjYwODQ4NiwxMTY2NjY5NDczLC0xMj
+YzOTQ1MzkxLC0xMjYxMjQ1MTAzLC04NjgxNDA0OTksMjY0MTgw
+MzE2LDMzOTA1MDY0MSwxMDk2OTE4MzUyLC0xNzAyNjE2OTQxLD
+E5NjkxNjE1OTEsMTMzMjE5MTA3MSwtMTY2NDg3MDUxNiwtMTYy
+NjMwNDc0MiwxNDk3NTA5Njc4LDEzOTI5MTk5MTUsMTA4NzgzNz
+k4MiwtMzM4NTIyMDc4LC0zMzg1MjIwNzgsLTQ1NDIyNjcyMiwy
+MDU1NTEwMTMwXX0=
 -->
