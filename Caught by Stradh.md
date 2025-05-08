@@ -494,7 +494,7 @@ This is Sangzor, the Blood Horn.  And he is looking to kill some party members.
 Sangzor is a Mammoth with the following changes:
 He is resistant to Bludgeoning, Piercing and Slashing from non-magical attacks.
 He is immune to Cold Damage
-Sangzor 
+Sangzor makes two attacks per turn.
 On a successful gore attack the target must make a DC 18 Strength saving throw or be shoved (either knocking it prone or moving it five feet away).
 Any creature that is attacked by him during his turn cannot make an attack of opportunity against him until the end of his turn.
 
@@ -551,11 +551,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMzM4NjQzOCwxMTY2NjY5NDczLC0xMj
-YzOTQ1MzkxLC0xMjYxMjQ1MTAzLC04NjgxNDA0OTksMjY0MTgw
-MzE2LDMzOTA1MDY0MSwxMDk2OTE4MzUyLC0xNzAyNjE2OTQxLD
-E5NjkxNjE1OTEsMTMzMjE5MTA3MSwtMTY2NDg3MDUxNiwtMTYy
-NjMwNDc0MiwxNDk3NTA5Njc4LDEzOTI5MTk5MTUsMTA4NzgzNz
-k4MiwtMzM4NTIyMDc4LC0zMzg1MjIwNzgsLTQ1NDIyNjcyMiwy
-MDU1NTEwMTMwXX0=
+eyJoaXN0b3J5IjpbNjE5NzQ4MzMyLDExNjY2Njk0NzMsLTEyNj
+M5NDUzOTEsLTEyNjEyNDUxMDMsLTg2ODE0MDQ5OSwyNjQxODAz
+MTYsMzM5MDUwNjQxLDEwOTY5MTgzNTIsLTE3MDI2MTY5NDEsMT
+k2OTE2MTU5MSwxMzMyMTkxMDcxLC0xNjY0ODcwNTE2LC0xNjI2
+MzA0NzQyLDE0OTc1MDk2NzgsMTM5MjkxOTkxNSwxMDg3ODM3OT
+gyLC0zMzg1MjIwNzgsLTMzODUyMjA3OCwtNDU0MjI2NzIyLDIw
+NTU1MTAxMzBdfQ==
 -->
