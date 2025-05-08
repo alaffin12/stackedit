@@ -508,7 +508,7 @@ If Sangzor does a lot of damage to the party then skip this encounter.  Otherwis
 
 > As you get about halfway across the bridge you hear a guttural, angry shriek out into the mists, and the soft, leathery beating of wings upon the winds....
 
-A young red shadow dragon 
+A young red shadow dragon begins to attack the party on the bridge.  He will do flybys, using his 
 
 #### T9. Eastern Arch
 > One of the statues atop this arch has crumbled, leaving only the horse's hindquarters intact.  
@@ -552,7 +552,7 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTQ1NzQyNjUsMTczNjYwODQ4NiwxMT
+eyJoaXN0b3J5IjpbLTExMjU0NzkwNzUsMTczNjYwODQ4NiwxMT
 Y2NjY5NDczLC0xMjYzOTQ1MzkxLC0xMjYxMjQ1MTAzLC04Njgx
 NDA0OTksMjY0MTgwMzE2LDMzOTA1MDY0MSwxMDk2OTE4MzUyLC
 0xNzAyNjE2OTQxLDE5NjkxNjE1OTEsMTMzMjE5MTA3MSwtMTY2
