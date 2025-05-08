@@ -506,6 +506,10 @@ Any creature that is attacked by him during his turn cannot make an attack of op
 
 If Sangzor does a lot of damage to the party then skip this encounter.  Otherwise....
 
+> As you get about halfway across the bridge you hear a guttural, angry shriek out into the mists, and the soft, leathery beating of wings upon the winds....
+
+A young red shadow dragon 
+
 #### T9. Eastern Arch
 > One of the statues atop this arch has crumbled, leaving only the horse's hindquarters intact.  
 
@@ -548,11 +552,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxOTUzNTQ2MCwxNzM2NjA4NDg2LDExNj
-Y2Njk0NzMsLTEyNjM5NDUzOTEsLTEyNjEyNDUxMDMsLTg2ODE0
-MDQ5OSwyNjQxODAzMTYsMzM5MDUwNjQxLDEwOTY5MTgzNTIsLT
-E3MDI2MTY5NDEsMTk2OTE2MTU5MSwxMzMyMTkxMDcxLC0xNjY0
-ODcwNTE2LC0xNjI2MzA0NzQyLDE0OTc1MDk2NzgsMTM5MjkxOT
-kxNSwxMDg3ODM3OTgyLC0zMzg1MjIwNzgsLTMzODUyMjA3OCwt
-NDU0MjI2NzIyXX0=
+eyJoaXN0b3J5IjpbLTE5NTQ1NzQyNjUsMTczNjYwODQ4NiwxMT
+Y2NjY5NDczLC0xMjYzOTQ1MzkxLC0xMjYxMjQ1MTAzLC04Njgx
+NDA0OTksMjY0MTgwMzE2LDMzOTA1MDY0MSwxMDk2OTE4MzUyLC
+0xNzAyNjE2OTQxLDE5NjkxNjE1OTEsMTMzMjE5MTA3MSwtMTY2
+NDg3MDUxNiwtMTYyNjMwNDc0MiwxNDk3NTA5Njc4LDEzOTI5MT
+k5MTUsMTA4NzgzNzk4MiwtMzM4NTIyMDc4LC0zMzg1MjIwNzgs
+LTQ1NDIyNjcyMl19
 -->
