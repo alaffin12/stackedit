@@ -489,7 +489,7 @@ After the players leave the guard tower but before they reach the bridge the fol
 
 > As you move along the narrow path here you begin to hear a rumbling in the mountains to your left.  It gets closer and close - you become aware that whatever is coming must be massive.  And then you see it - this massive beast rumbling through the mists, it's feet causing the earth to rumble with every step.  Brown shaggy hair, blood red eyes and crimson stained tusks bear down upon you.
 
-This is Sangzor, the Blood Horn.  And he is looking to kill some party members.
+This is Sangzor, the Blood Horn, who defends this mountain pass.  He does not like outsiders on this road, and will do anything to shove them to their deaths in the valley below.
 
 Sangzor is a Mammoth with the following changes:
 He is resistant to Bludgeoning, Piercing and Slashing from non-magical attacks.
@@ -548,11 +548,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NzUzNjYzMCwxMTY2NjY5NDczLC0xMj
-YzOTQ1MzkxLC0xMjYxMjQ1MTAzLC04NjgxNDA0OTksMjY0MTgw
-MzE2LDMzOTA1MDY0MSwxMDk2OTE4MzUyLC0xNzAyNjE2OTQxLD
-E5NjkxNjE1OTEsMTMzMjE5MTA3MSwtMTY2NDg3MDUxNiwtMTYy
-NjMwNDc0MiwxNDk3NTA5Njc4LDEzOTI5MTk5MTUsMTA4NzgzNz
-k4MiwtMzM4NTIyMDc4LC0zMzg1MjIwNzgsLTQ1NDIyNjcyMiwy
-MDU1NTEwMTMwXX0=
+eyJoaXN0b3J5IjpbLTEzOTkyMTcxMDMsMTE2NjY2OTQ3MywtMT
+I2Mzk0NTM5MSwtMTI2MTI0NTEwMywtODY4MTQwNDk5LDI2NDE4
+MDMxNiwzMzkwNTA2NDEsMTA5NjkxODM1MiwtMTcwMjYxNjk0MS
+wxOTY5MTYxNTkxLDEzMzIxOTEwNzEsLTE2NjQ4NzA1MTYsLTE2
+MjYzMDQ3NDIsMTQ5NzUwOTY3OCwxMzkyOTE5OTE1LDEwODc4Mz
+c5ODIsLTMzODUyMjA3OCwtMzM4NTIyMDc4LC00NTQyMjY3MjIs
+MjA1NTUxMDEzMF19
 -->
