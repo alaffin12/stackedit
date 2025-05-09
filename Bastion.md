@@ -95,7 +95,8 @@ Upkeep: 38 gp/wk
 Upkeep: 20 gp/wk
 Upgrades: Garden
 *Harvest Herbs.* Creates a potion of greater healing, which will be waiting at the bastion to be picked up when the party next returns.  Costs 30 gp.
-*Harvest Poison.* Creates two vials of antitoxin, or a vial of either midnight tears, pale tincture, torpor or truth ser which will be waiting at the bastion to be picked up when the party next returns.  Costs 30 gp.
+*Harvest Poison.* Creates two vials of antitoxin, or a vial of either midnight tears, pale tincture, torpor or truth serum which will be waiting at the bastion to be picked up when the party next returns.  Costs 30 gp.
+*Harvest Magical Fruit.* Creates a potion that duplicates the effect of lesser restoration.
 *Harvest Food.* Creates a small food stand on the side of the road where your harvest is sold.  Offsets the cost of upkeep.  Earns 20 gp.
 
 ----
@@ -111,7 +112,7 @@ https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.ht
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNDg4MzUwMCwtMjAzMjE3NDY2Nyw2ND
+eyJoaXN0b3J5IjpbMjAxOTkwNzAzMiwtMjAzMjE3NDY2Nyw2ND
 gwOTQ1OTIsMTM2MTUyNTEwMiwtMTQ2NDA2ODc2MiwtMTYxNTM3
 MzcwMiwtMTcxMjA3MTUzMiwtMTg4NDk2NDAyNiw2ODMzNTY5Nj
 QsMTY0NzE5NTE3NF19
