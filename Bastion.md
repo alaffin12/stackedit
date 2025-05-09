@@ -108,6 +108,10 @@ Upkeep: 20 gp/wk
 *Peer into the Planes.* You may cast the spell contact other plane once this week.  Costs 20 gp.
 *Planar Petition.* Roll a dice of your choice.  On an even there is no benefit.  On an odd number the players gets one of the following charms: charm of darkvision, charm of heroism or charm of vitality.  The charm lasts for a week.  Costs 30 gp.
 
+**Sacristy**
+Upkeep: 26 gp/week
+Upg
+
 ----
 
 
@@ -121,8 +125,9 @@ https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.ht
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzU2OTA2MzEsMjAxOTkwNzAzMiwtMj
-AzMjE3NDY2Nyw2NDgwOTQ1OTIsMTM2MTUyNTEwMiwtMTQ2NDA2
-ODc2MiwtMTYxNTM3MzcwMiwtMTcxMjA3MTUzMiwtMTg4NDk2ND
-AyNiw2ODMzNTY5NjQsMTY0NzE5NTE3NF19
+eyJoaXN0b3J5IjpbLTk3Mjc4NTUwMywtMjA3NTY5MDYzMSwyMD
+E5OTA3MDMyLC0yMDMyMTc0NjY3LDY0ODA5NDU5MiwxMzYxNTI1
+MTAyLC0xNDY0MDY4NzYyLC0xNjE1MzczNzAyLC0xNzEyMDcxNT
+MyLC0xODg0OTY0MDI2LDY4MzM1Njk2NCwxNjQ3MTk1MTc0XX0=
+
 -->
