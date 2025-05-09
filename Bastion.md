@@ -58,7 +58,10 @@ Upkeep: 20 gp/wk
 Upkeep: 20 gp/wk
 *Bless Water.* Creates a vial of holy water, which will be waiting at the bastion to be picked up when the party next returns.  Costs 5 gp.
 *Empower the Divine.* A divine spell-casters receives a +1 bonus to spell save DCs and spell attack rolls for the next week.  Costs 10 gp.
-*Clerical Services.* Sell clerical services to the community.  Offsets the cost of upkeep.  Earns 20 gp
+*Clerical Services.* Sell clerical services to the community.  Offsets the cost of upkeep.  Earns 20 gp.
+
+**Smithy**
+Upkeep: 20 gp/wk
 
 
 
@@ -67,7 +70,7 @@ https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.ht
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2ODMxNjI4NCwtMTQ2NDA2ODc2MiwtMT
+eyJoaXN0b3J5IjpbMjA5MDgyNDk0NiwtMTQ2NDA2ODc2MiwtMT
 YxNTM3MzcwMiwtMTcxMjA3MTUzMiwtMTg4NDk2NDAyNiw2ODMz
 NTY5NjQsMTY0NzE5NTE3NF19
 -->
