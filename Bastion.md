@@ -1,7 +1,9 @@
 # Bastion Rules
 ## Base Rules
 Every session represents "one week" of bastion time (we explain it away as time flows differently on different planes).  
-Each week players will have the option to activate different benefits of 
+Each week players will have the option to activate different benefits of different facilities (which could result in bonuses changing mid-battle - might have to be looked into).  
+
+Each facility has an upkeep cost associated with it that is paid whether or not it is used during a week.  It may have further costs for different benefits.  
 
 Mordenkainen's Bastion in Sigil starts with with following:
 * Mundane Facilities (Bedrooms, Kitchen, Living Space etc.)
@@ -13,5 +15,5 @@ https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.ht
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYzNDU5MTczLDE2NDcxOTUxNzRdfQ==
+eyJoaXN0b3J5IjpbLTg2ODA3MjAzNiwxNjQ3MTk1MTc0XX0=
 -->
