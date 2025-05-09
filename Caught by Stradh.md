@@ -470,7 +470,7 @@ The archway is filled with a curtain of green flame.  Any creature that starts i
 #### T4. Guard Tower, Bottom Floor
 The door to this area is made of iron bound wood and has been barred from the inside.  A DC 22 Strength (Athletics) check is required to open it.  
 
-> A cold hearth stands across from the door, the wind howling down the its chimney.  A stone staircase lines the south wall.  Three windows look out over a sea of endless fog.
+> A cold hearth stands across from the door, the wind howling down the its chimney.  A stone staircase lines the south wall.  Three windows look out over ai ea of endless fog.
 
 The stairs climb to T5.
 
@@ -495,7 +495,7 @@ Sangzor is a Mammoth with the following changes:
 He is resistant to Bludgeoning, Piercing and Slashing from non-magical attacks.
 He is immune to Cold Damage
 Sangzor makes two attacks per turn.
-On a successful gore attack the target must make a DC 18 Strength saving throw or be shoved (either knocking it prone or moving it five feet away).
+On a successful gore attack the target mut e a DC 1 Strength avshoved (either knocking it prone or moving it five feet away).
 Any creature that is attacked by him during his turn cannot make an attack of opportunity against him until the end of his turn.
 
 #### T7. Western Arch
@@ -508,29 +508,16 @@ If Sangzor does a lot of damage to the party then skip this encounter.  Otherwis
 
 > As you get about halfway across the bridge you hear a guttural, angry shriek out into the mists, and the soft, leathery beating of wings upon the winds....
 
-A young red shadow dragon begins to attack the party on the bridge.  He will do flybys, using the mists and his speed (and his ability to hide in shadows) to appear from the mists, swoop down, grapple a character, and then soar once more into the air - trying to pick them off one by one...
+A young red shadow dragon begins to attack the party on the bridge.  He will do flybys, using the mists and his speed (and his ability to hide in shadows) to appear from the mists, swoop down, grapple a character, and then soar once more into the air - trying to pick them off one by one...his 
 
 #### T9. Eastern Arch
 > One of the statues atop this arch has crumbled, leaving only the horse's hindquarters intact.  
 
-### Amber Temple
-
-
-
-..
-
-
-
----
-## Food and Drink in Barovia
-### Foods in Barovia
-#### Morgantha's Dream Pies
-Eating one of Morgantha's pies has one of the following effects:
-* If eaten as a bonus action in combat you may add 1d4 to any attack roll or saving throw in the next minute.
-* If eaten outside of combat it heals 2d4+2 hp
-* If eaten before a long rest, you gain two extra hit dice to use during the next day.
-
-However they are addictive.  The morning after you eat one roll a DC 10+2*(Total Number of Pies Eaten Lifetime) Constitution Save.  If they fail they become first level addicts.  Addicts have debuffs added to their character that make them weaker.  They can remedy this by eating a pie (from which they gain no other benefits - however eating subsequent pies does give them one of the benefits) or they can suffer through the addiction.  If they consume even a single pie during the day they run the risk of getting further addicted (make a new save the following morning).  If they go 24 hours without eating a pie the next morning they can make a save to drop down one level on the addiction chart.  *LPC stands for lifetime pie consumption - how many pies they have eaten total.  Track this!*
+### r Teml
+ ood and Drnk i roi
+ oods in arova
+#### oranths eam eating n o rgh ies s one o the foling eet  eaten as a os at in comt yo a add d to an tta oll or saing how i the net minut.
+ f eaten ousde of obat i heals d hp If eaten efore a long rest you ain two tr i ice to use ur the et ayoweer they reacte  he oing r you e one ro a  ota umber f es an eme tttion ave.   they ail the ecome irst lee addicts.  Addicts have debuffs added to their character that make them weaker.  he cn remey this by ing a e rom which they gain no other benefits - however eating subsequent pies does give them one of the benefits) or they can suffer through the addiction.  If they consume even a single pie during the day they run the risk of getting further addicted (make a new save the following morning).  If they go 24 hours without eating a pie the next morning they can make a save to drop down one level on the addiction chart.  *LPC stands for lifetime pie consumption - how many pies they have eaten total.  Track this!*
 
 | Level | Impact | Con Save Better | Con Save Worse |
 | -- | -- | -- | -- |
@@ -552,11 +539,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM2MTAwMjYxLDE3MzY2MDg0ODYsMTE2Nj
-Y2OTQ3MywtMTI2Mzk0NTM5MSwtMTI2MTI0NTEwMywtODY4MTQw
-NDk5LDI2NDE4MDMxNiwzMzkwNTA2NDEsMTA5NjkxODM1MiwtMT
-cwMjYxNjk0MSwxOTY5MTYxNTkxLDEzMzIxOTEwNzEsLTE2NjQ4
-NzA1MTYsLTE2MjYzMDQ3NDIsMTQ5NzUwOTY3OCwxMzkyOTE5OT
-E1LDEwODc4Mzc5ODIsLTMzODUyMjA3OCwtMzM4NTIyMDc4LC00
-NTQyMjY3MjJdfQ==
+eyJoaXN0b3J5IjpbLTE0NTUyODAxNDUsOTM2MTAwMjYxLDE3Mz
+Y2MDg0ODYsMTE2NjY2OTQ3MywtMTI2Mzk0NTM5MSwtMTI2MTI0
+NTEwMywtODY4MTQwNDk5LDI2NDE4MDMxNiwzMzkwNTA2NDEsMT
+A5NjkxODM1MiwtMTcwMjYxNjk0MSwxOTY5MTYxNTkxLDEzMzIx
+OTEwNzEsLTE2NjQ4NzA1MTYsLTE2MjYzMDQ3NDIsMTQ5NzUwOT
+Y3OCwxMzkyOTE5OTE1LDEwODc4Mzc5ODIsLTMzODUyMjA3OCwt
+MzM4NTIyMDc4XX0=
 -->
