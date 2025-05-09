@@ -50,6 +50,9 @@ Upkeep: 20 gp/wk
 
 **Sanctuary**
 Upkeep: 20 gp/wk
+*Empower Druidic Focus.* A druid receives a +1 bonus to spell save DC's and attack rolls for the next week.  
+*Speak With Animals.*
+*Druidic Services.*
 
 
 
@@ -58,7 +61,7 @@ https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.ht
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzUwMjI1MzEsLTE0NjQwNjg3NjIsLT
+eyJoaXN0b3J5IjpbLTE4NTUwMzYxODMsLTE0NjQwNjg3NjIsLT
 E2MTUzNzM3MDIsLTE3MTIwNzE1MzIsLTE4ODQ5NjQwMjYsNjgz
 MzU2OTY0LDE2NDcxOTUxNzRdfQ==
 -->
