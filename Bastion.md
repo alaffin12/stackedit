@@ -85,6 +85,9 @@ Upgrades: Smithy
 *Fortify Armor.* Prepares the smith so that when you next return to the bastion you may prepare one suit of armor.  This armor will now hold a charge, which when expended with convert any critical his into a normal hit.  Up to three charges can be held per piece of armor (one piece of armor per customer).  Costs 250 gp.
 *Craft Item.* Crafts a mundane item, Which is sold for 15 x 1d10 gp.
 
+**Great Hall**
+
+
 
 
 
@@ -95,8 +98,8 @@ https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.ht
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0ODY2MTg0Nyw2NDgwOTQ1OTIsMTM2MT
-UyNTEwMiwtMTQ2NDA2ODc2MiwtMTYxNTM3MzcwMiwtMTcxMjA3
-MTUzMiwtMTg4NDk2NDAyNiw2ODMzNTY5NjQsMTY0NzE5NTE3NF
-19
+eyJoaXN0b3J5IjpbLTIwMzIxNzQ2NjcsNjQ4MDk0NTkyLDEzNj
+E1MjUxMDIsLTE0NjQwNjg3NjIsLTE2MTUzNzM3MDIsLTE3MTIw
+NzE1MzIsLTE4ODQ5NjQwMjYsNjgzMzU2OTY0LDE2NDcxOTUxNz
+RdfQ==
 -->
