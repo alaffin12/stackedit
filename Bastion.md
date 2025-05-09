@@ -18,13 +18,14 @@ Mordenkainen's Bastion in Sigil starts with with following:
 #### Basic Facilities (500 gp/3 wks to construct)
 **Arcane Study**
 Upkeep: 20 gp/wk
-*Empower Arcane Focus.* An arcane spell-caster 
+*Empower Arcane Focus.* An arcane spell-caster receives a +1 bonus to spell save DCs and attack rolls for the next week.
+
 
 
 https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.html
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODQ5NjQwMjYsNjgzMzU2OTY0LDE2ND
-cxOTUxNzRdfQ==
+eyJoaXN0b3J5IjpbMTA1ODk2NzkyMCwtMTg4NDk2NDAyNiw2OD
+MzNTY5NjQsMTY0NzE5NTE3NF19
 -->
