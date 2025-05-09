@@ -99,6 +99,10 @@ Upgrades: Garden
 *Harvest Magical Fruit.* Creates a potion that duplicates the effect of lesser restoration.
 *Harvest Food.* Creates a small food stand on the side of the road where your harvest is sold.  Offsets the cost of upkeep.  Earns 20 gp.
 
+**Meditation Chamber**
+Upkeep: 0 gp/wk
+
+
 ----
 
 
@@ -112,8 +116,8 @@ https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.ht
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxOTkwNzAzMiwtMjAzMjE3NDY2Nyw2ND
-gwOTQ1OTIsMTM2MTUyNTEwMiwtMTQ2NDA2ODc2MiwtMTYxNTM3
-MzcwMiwtMTcxMjA3MTUzMiwtMTg4NDk2NDAyNiw2ODMzNTY5Nj
-QsMTY0NzE5NTE3NF19
+eyJoaXN0b3J5IjpbOTk0NzIyMzIyLDIwMTk5MDcwMzIsLTIwMz
+IxNzQ2NjcsNjQ4MDk0NTkyLDEzNjE1MjUxMDIsLTE0NjQwNjg3
+NjIsLTE2MTUzNzM3MDIsLTE3MTIwNzE1MzIsLTE4ODQ5NjQwMj
+YsNjgzMzU2OTY0LDE2NDcxOTUxNzRdfQ==
 -->
