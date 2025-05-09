@@ -5,9 +5,9 @@ Each week players will have the option to activate different benefits of differe
 
 Each facility has an upkeep cost associated with it that is paid whether or not it is used during a week.  It may have further costs for different benefits.  
 
-Facilities can be changed and upgraded as needed (although they will require downtime to do this).
+Facilities can be changed and upgraded as needed (although they will require money and downtime to do this).
 
-During an attack on the bastion roll the appropriate dice for the attack.  For ever "1" rolled a facility (at random) is disabled for the week.
+During an attack on the bastion roll the appropriate dice for the attack.  For every "1" rolled a facility (at random) is disabled for the week.
 
 One benefit per facility per week.  
 
@@ -21,5 +21,5 @@ https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.ht
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyOTMxODg4LDE2NDcxOTUxNzRdfQ==
+eyJoaXN0b3J5IjpbNjgzMzU2OTY0LDE2NDcxOTUxNzRdfQ==
 -->
