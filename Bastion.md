@@ -31,7 +31,7 @@ Upkeep: 20 gp/wk
 Upkeep: 2 gp/wk
 *Harvest Herbs.* Creates a potion of healing, which will be waiting at the bastion to be picked up when the party next returns.  Costs 10 gp.
 *Harvest Poison.* Creates a vial of basic poison and a vial of antitoxin, which will be waiting at the bastion to be picked up when the party next returns.  Costs 10 gp.
-*Harvest Food.* Creates a fall food stand on the side of the road where your harvest is sold.  Offsets the cost of upkeep.  Earns 2 gp.
+*Harvest Food.* Creates a small food stand on the side of the road where your harvest is sold.  Offsets the cost of upkeep.  Earns 2 gp.
 
 **Laboratory**
 Upkeep: 20 gp/wk
@@ -94,9 +94,9 @@ Upkeep: 38 gp/wk
 **Greenhouse**
 Upkeep: 20 gp/wk
 Upgrades: Garden
-*Harvest Herbs.* Creates a potion of healing, which will be waiting at the bastion to be picked up when the party next returns.  Costs 30 gp.
-*Harvest Poison.* Creates a vial of basic poison and a vial of antitoxin, which will be waiting at the bastion to be picked up when the party next returns.  Costs 10 gp.
-*Harvest Food.* Creates a fall food stand on the side of the road where your harvest is sold.  Offsets the cost of upkeep.  Earns 2 gp.
+*Harvest Herbs.* Creates a potion of greater healing, which will be waiting at the bastion to be picked up when the party next returns.  Costs 30 gp.
+*Harvest Poison.* Creates two vials of antitoxin, or a vial of either midnight tears, pale tincture, torpor or truth ser which will be waiting at the bastion to be picked up when the party next returns.  Costs 30 gp.
+*Harvest Food.* Creates a small food stand on the side of the road where your harvest is sold.  Offsets the cost of upkeep.  Earns 20 gp.
 
 ----
 
@@ -111,8 +111,8 @@ https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.ht
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjI5NzIxNTQsLTIwMzIxNzQ2NjcsNj
-Q4MDk0NTkyLDEzNjE1MjUxMDIsLTE0NjQwNjg3NjIsLTE2MTUz
-NzM3MDIsLTE3MTIwNzE1MzIsLTE4ODQ5NjQwMjYsNjgzMzU2OT
-Y0LDE2NDcxOTUxNzRdfQ==
+eyJoaXN0b3J5IjpbLTgxNDg4MzUwMCwtMjAzMjE3NDY2Nyw2ND
+gwOTQ1OTIsMTM2MTUyNTEwMiwtMTQ2NDA2ODc2MiwtMTYxNTM3
+MzcwMiwtMTcxMjA3MTUzMiwtMTg4NDk2NDAyNiw2ODMzNTY5Nj
+QsMTY0NzE5NTE3NF19
 -->
