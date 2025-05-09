@@ -36,7 +36,7 @@ Upkeep: 2 gp/wk
 **Laboratory**
 Upkeep: 20 gp/wk
 *Brew Chemicals.* Creates a vial of acid or alchemist's fire, which will be waiting at the bastion to be picked up when the party next returns.  Cost 10 gp.
-*Brew Potion.* Brew a magical potion.  Cost depends on rarity - common, 1 gp; uncommon, 60 gp; rare, 750 gp; very rare,   7900 gp; legendary, 39900 gp.
+*Brew Potion.* Brew a common or uncommon magical potion.  Cost depends on rarity - common, 1 gp; uncommon, 60 gp.
 
 **Library**
 Upkeep: 20 gp/wk
@@ -72,6 +72,9 @@ Upkeep: 0 gp/wk
 *Hero of Destiny.* Choose one of the following spells: clairvoyance, death ward, find traps, locate creature, magic weapon, remove curse or speak with dead..  You may cast it once for free during the week.
 
 #### Advanced Facilities (1000 gp/6 wks to construct)
+**Alchemist's Laboratory**
+Upkeep: 20 gp/wk
+Upgrades: Laboratory
 
 **Forge**
 Upkeep: 20 gp/wk
@@ -83,14 +86,14 @@ Upgrades: Smithy
 
 
 
-
+Cost depends on rarity - common, 1 gp; uncommon, 60 gp; rare, 750 gp; very rare,   7900 gp; legendary, 39900 gp.
 
 
 https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.html
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NTM5NjIwOSw2NDgwOTQ1OTIsMTM2MT
+eyJoaXN0b3J5IjpbMTkxOTE4NDIyOCw2NDgwOTQ1OTIsMTM2MT
 UyNTEwMiwtMTQ2NDA2ODc2MiwtMTYxNTM3MzcwMiwtMTcxMjA3
 MTUzMiwtMTg4NDk2NDAyNiw2ODMzNTY5NjQsMTY0NzE5NTE3NF
 19
