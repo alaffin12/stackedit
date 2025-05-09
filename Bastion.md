@@ -1,6 +1,6 @@
 # Bastion Rules
 ## Base Rules
-
+Every session represents "one week" of bastion time (we explain it away 
 
 
 Mordenkainen's Bastion in Sigil starts with with following:
@@ -13,5 +13,5 @@ Mordenkainen's Bastion in Sigil starts with with following:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NzYxNDkyMV19
+eyJoaXN0b3J5IjpbMzQ0NjI2MDU5XX0=
 -->
