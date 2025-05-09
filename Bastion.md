@@ -62,8 +62,8 @@ Upkeep: 20 gp/wk
 
 **Smithy**
 Upkeep: 20 gp/wk
-*Sharpen Weapon.* Prepares the smithy so that when next you return you may prepare one of your weapons.  This weapon will now hold a charge, which will convert any normal hit into a critical hit.  Up to three charges can be held per weapon.  Costs 250 gp.  
-*Forti
+*Sharpen Weapon.* Prepares the smithy so that when next you return you may prepare one of your weapons.  This weapon will now hold a charge, which when expended will convert any normal hit into a critical hit.  Up to three charges can be held per weapon (one weapon per customer).  Costs 250 gp.  
+*Fortify Armor.* Prepares the smith so that when you next return you may prepare one suit of armor.  This armor will now hold a charge, which when expended with convert any critical his into a normal hit.  Up to three charges can be held per weapon
 
 
 
@@ -72,7 +72,7 @@ https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.ht
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTY4NDgyNDAsLTE0NjQwNjg3NjIsLT
+eyJoaXN0b3J5IjpbLTEzMTE0ODYzMjQsLTE0NjQwNjg3NjIsLT
 E2MTUzNzM3MDIsLTE3MTIwNzE1MzIsLTE4ODQ5NjQwMjYsNjgz
 MzU2OTY0LDE2NDcxOTUxNzRdfQ==
 -->
