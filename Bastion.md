@@ -87,7 +87,11 @@ Upgrades: Smithy
 
 **Great Hall**
 Upkeep: 38 gp/wk
-*Note: The great hall can effect more than one PC. 
+*Note: The great hall can effect more than one PC per week (see notes).  It does not remove the one active effect per player per week limitation*
+*Banquet.* Each player who chooses this has resistance to poison damage and does not gain exhaustion for the next week.
+
+
+----
 
 
 
@@ -100,8 +104,8 @@ https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.ht
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNDQ2Njg3NSwtMjAzMjE3NDY2Nyw2ND
-gwOTQ1OTIsMTM2MTUyNTEwMiwtMTQ2NDA2ODc2MiwtMTYxNTM3
-MzcwMiwtMTcxMjA3MTUzMiwtMTg4NDk2NDAyNiw2ODMzNTY5Nj
-QsMTY0NzE5NTE3NF19
+eyJoaXN0b3J5IjpbLTExNDQzODg0NTksLTIwMzIxNzQ2NjcsNj
+Q4MDk0NTkyLDEzNjE1MjUxMDIsLTE0NjQwNjg3NjIsLTE2MTUz
+NzM3MDIsLTE3MTIwNzE1MzIsLTE4ODQ5NjQwMjYsNjgzMzU2OT
+Y0LDE2NDcxOTUxNzRdfQ==
 -->
