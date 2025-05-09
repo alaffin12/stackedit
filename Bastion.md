@@ -100,7 +100,9 @@ Upgrades: Garden
 *Harvest Food.* Creates a small food stand on the side of the road where your harvest is sold.  Offsets the cost of upkeep.  Earns 20 gp.
 
 **Meditation Chamber**
-Upkeep: 0 gp/wk
+Upkeep: 20 gp/wk
+*Meditation.* Make a Wisdom check.  If you roll higher than 15 choose an attribute, otherwise roll a d6 and determine at random.  You have advantage on that saving throw this week.
+
 
 
 ----
@@ -116,8 +118,8 @@ https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.ht
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk0NzIyMzIyLDIwMTk5MDcwMzIsLTIwMz
-IxNzQ2NjcsNjQ4MDk0NTkyLDEzNjE1MjUxMDIsLTE0NjQwNjg3
-NjIsLTE2MTUzNzM3MDIsLTE3MTIwNzE1MzIsLTE4ODQ5NjQwMj
-YsNjgzMzU2OTY0LDE2NDcxOTUxNzRdfQ==
+eyJoaXN0b3J5IjpbLTEyMTk1MTk5NTcsMjAxOTkwNzAzMiwtMj
+AzMjE3NDY2Nyw2NDgwOTQ1OTIsMTM2MTUyNTEwMiwtMTQ2NDA2
+ODc2MiwtMTYxNTM3MzcwMiwtMTcxMjA3MTUzMiwtMTg4NDk2ND
+AyNiw2ODMzNTY5NjQsMTY0NzE5NTE3NF19
 -->
