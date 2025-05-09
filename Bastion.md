@@ -71,7 +71,13 @@ Upkeep: 0 gp/wk
 *Relive Past Glory.* You spend time remembering past adventures.  Gain inspiration each time you complete a long rest during the next week.
 *Hero of Destiny.* Choose one of the following spells: clairvoyance, death ward, find traps, locate creature, magic weapon, remove curse or speak with dead..  You may cast it once for free during the week.
 
-
+#### Advanced Facilities
+**Forge**
+Upkeep: 20 gp/wk
+Upgrades: Smithy
+*Sharpen Weapon.* Prepares the smithy so that when next you return to the bastion you may prepare one of your weapons.  This weapon will now hold a charge, which when expended will convert any normal hit into a critical hit.  Up to three charges can be held per weapon (one weapon per customer).  Costs 250 gp.  
+*Fortify Armor.* Prepares the smith so that when you next return to the bastion you may prepare one suit of armor.  This armor will now hold a charge, which when expended with convert any critical his into a normal hit.  Up to three charges can be held per piece of armor (one piece of armor per customer).  Costs 250 gp.
+*Craft Item.* Crafts a mundane item, Which is sold for 15 x 1d6 gp.
 
 
 
@@ -81,7 +87,8 @@ https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.ht
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ4MDk0NTkyLDEzNjE1MjUxMDIsLTE0Nj
-QwNjg3NjIsLTE2MTUzNzM3MDIsLTE3MTIwNzE1MzIsLTE4ODQ5
-NjQwMjYsNjgzMzU2OTY0LDE2NDcxOTUxNzRdfQ==
+eyJoaXN0b3J5IjpbLTE5NjMxNjkxNzEsNjQ4MDk0NTkyLDEzNj
+E1MjUxMDIsLTE0NjQwNjg3NjIsLTE2MTUzNzM3MDIsLTE3MTIw
+NzE1MzIsLTE4ODQ5NjQwMjYsNjgzMzU2OTY0LDE2NDcxOTUxNz
+RdfQ==
 -->
