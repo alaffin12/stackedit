@@ -66,6 +66,9 @@ Upkeep: 20 gp/wk
 *Fortify Armor.* Prepares the smith so that when you next return to the bastion you may prepare one suit of armor.  This armor will now hold a charge, which when expended with convert any critical his into a normal hit.  Up to three charges can be held per piece of armor (one piece of armor per customer).  Costs 250 gp.
 *Craft Item.* Crafts a mundane item, Which is sold for 15 x 1d6 gp.
 
+**Trophy Room.**
+Upkeep: 0 gp/wk
+*Relive Past Glory.
 
 
 
@@ -77,7 +80,7 @@ https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.ht
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAxNTM5OTYwLC0xNDY0MDY4NzYyLC0xNj
-E1MzczNzAyLC0xNzEyMDcxNTMyLC0xODg0OTY0MDI2LDY4MzM1
-Njk2NCwxNjQ3MTk1MTc0XX0=
+eyJoaXN0b3J5IjpbLTEyNDg4ODQ2ODUsLTE0NjQwNjg3NjIsLT
+E2MTUzNzM3MDIsLTE3MTIwNzE1MzIsLTE4ODQ5NjQwMjYsNjgz
+MzU2OTY0LDE2NDcxOTUxNzRdfQ==
 -->
