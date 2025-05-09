@@ -31,13 +31,15 @@ Upkeep: 20 gp/wk
 Upkeep: 2 gp/wk
 *Harvest Herbs.* Creates a potion of healing, which will be waiting at the bastion to be picked up when the party next returns.  Costs 10 gp.
 *Harvest Poison.* Creates a vial of basic poison and a vial of antitoxin, which will be waiting at the bastion to be picked up when the party next returns.  Costs 10 gp.
-*Harvest Food.* Creates a fall foo
+*Harvest Food.* Creates a fall food stand on the side of the road where your harvest is sold.  Offsets the cost of upkeep.  Earns 2 gp.
+
+
 
 
 https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.html
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MjI4MjYxMSwtMTg4NDk2NDAyNiw2OD
-MzNTY5NjQsMTY0NzE5NTE3NF19
+eyJoaXN0b3J5IjpbLTE3MTIwNzE1MzIsLTE4ODQ5NjQwMjYsNj
+gzMzU2OTY0LDE2NDcxOTUxNzRdfQ==
 -->
