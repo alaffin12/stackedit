@@ -24,18 +24,19 @@ Base Upkeep: 20 gp/wk
 
 **Clinic**
 Upkeep: 20 gp/wk
-*Empower Healer.* Focuses divine energy across the cosmos.  Beneficiary is able to cast cure light wounds once per long rest and has advantage on all Medicine checks.  Costs 10 gp.
+*Empower Healer.* Focuses divine energy across the cosmos.  Beneficiary is able to cast light wounds once per long rest and has advantage on all Medicine checks.  Costs 10 gp.
 *Healing Services* Sell healing services to the community.  Offsets the cost of upkeep.  Earns 20 gp.
 
 **Garden**
 Upkeep: 2 gp/wk
-*Harvest Herbs.* Creates a potion of healing, which will be 
+*Harvest Herbs.* Creates a potion of healing, which will be waiting at the bastion to be picked up when the party next returns.  Costs 10 gp.
+*Harvest Poison.* Creates a vial of basic poison and a vial of antitoxin, which will be waiting at the bastion to be p
 
 
 https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.html
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjE2OTcxNzAsLTE4ODQ5NjQwMjYsNj
+eyJoaXN0b3J5IjpbLTE3NTc3ODU5MDAsLTE4ODQ5NjQwMjYsNj
 gzMzU2OTY0LDE2NDcxOTUxNzRdfQ==
 -->
