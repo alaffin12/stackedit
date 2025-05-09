@@ -40,12 +40,14 @@ Upkeep: 20 gp/wk
 
 **Library**
 Upkeep: 20 gp/wk
-*Topical Study.* A PC gains advantage on Arcana, History, Nature or Religion checks for the next week.
+*Topical Study.* A PC gains advantage on Arcana, History, Nature or Religion checks for the next week.  Costs 5 gp.
 *Research Secrets.* Roll 1d8.  On an 8 you learn the next secret you are searching for.
 
 **Pub**
 Upkeep: 20 gp/week
 *Liquid Courage*. For the next seven days a player has advantage on saving throws versus being charmed or frightened.
+*Beer, Beer, Beer.* Open the doors to the pub.  You earn 1d10x10 gp for the week.
+
 
 
 
@@ -53,7 +55,7 @@ https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.ht
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjMyNzIwMDksLTE0NjQwNjg3NjIsLT
-E2MTUzNzM3MDIsLTE3MTIwNzE1MzIsLTE4ODQ5NjQwMjYsNjgz
-MzU2OTY0LDE2NDcxOTUxNzRdfQ==
+eyJoaXN0b3J5IjpbMTg0MjI5NzczMSwtMTQ2NDA2ODc2MiwtMT
+YxNTM3MzcwMiwtMTcxMjA3MTUzMiwtMTg4NDk2NDAyNiw2ODMz
+NTY5NjQsMTY0NzE5NTE3NF19
 -->
