@@ -75,6 +75,8 @@ Upkeep: 0 gp/wk
 **Alchemist's Laboratory**
 Upkeep: 20 gp/wk
 Upgrades: Laboratory
+*Brew Chemicals.* Creates two vials of acid or alchemist's fire, which will be waiting at the bastion to be picked up when the party next returns.  Cost 10 gp.
+*Brew Potion.* Brew a common, uncommon or rare magical potion.  Cost depends on rarity - common, 1 gp; uncommon, 60 gp; rare, 750 gp.
 
 **Forge**
 Upkeep: 20 gp/wk
@@ -93,7 +95,7 @@ https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.ht
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxOTE4NDIyOCw2NDgwOTQ1OTIsMTM2MT
+eyJoaXN0b3J5IjpbMTU0ODY2MTg0Nyw2NDgwOTQ1OTIsMTM2MT
 UyNTEwMiwtMTQ2NDA2ODc2MiwtMTYxNTM3MzcwMiwtMTcxMjA3
 MTUzMiwtMTg4NDk2NDAyNiw2ODMzNTY5NjQsMTY0NzE5NTE3NF
 19
