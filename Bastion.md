@@ -62,7 +62,7 @@ Upkeep: 20 gp/wk
 
 **Smithy**
 Upkeep: 20 gp/wk
-*Sharpen Weapon.* Prepares a ser
+*Sharpen Weapon.* Prepares the smithy so that when next you return you may prepare one of your weapons.  This weapon will now hold a charge 
 
 
 
@@ -71,7 +71,7 @@ https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.ht
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjA3MjMwMzgsLTE0NjQwNjg3NjIsLT
-E2MTUzNzM3MDIsLTE3MTIwNzE1MzIsLTE4ODQ5NjQwMjYsNjgz
-MzU2OTY0LDE2NDcxOTUxNzRdfQ==
+eyJoaXN0b3J5IjpbNTEwNDA2NTMxLC0xNDY0MDY4NzYyLC0xNj
+E1MzczNzAyLC0xNzEyMDcxNTMyLC0xODg0OTY0MDI2LDY4MzM1
+Njk2NCwxNjQ3MTk1MTc0XX0=
 -->
