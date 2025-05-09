@@ -43,6 +43,9 @@ Upkeep: 20 gp/wk
 *Topical Study.* A PC gains advantage on Arcana, History, Nature or Religion checks for the next week.
 *Research Secrets.* Roll 1d8.  On an 8 you learn the next secret you are searching for.
 
+**Pub**
+Upkeep: 20 gp/week
+*Liquid Courage*. For the next seven days a player has advantage on saving throws versus being charmed or frightened.
 
 
 
@@ -50,7 +53,7 @@ https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.ht
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NzY1MjQwLC0xNDY0MDY4NzYyLC0xNj
-E1MzczNzAyLC0xNzEyMDcxNTMyLC0xODg0OTY0MDI2LDY4MzM1
-Njk2NCwxNjQ3MTk1MTc0XX0=
+eyJoaXN0b3J5IjpbLTEzNjMyNzIwMDksLTE0NjQwNjg3NjIsLT
+E2MTUzNzM3MDIsLTE3MTIwNzE1MzIsLTE4ODQ5NjQwMjYsNjgz
+MzU2OTY0LDE2NDcxOTUxNzRdfQ==
 -->
