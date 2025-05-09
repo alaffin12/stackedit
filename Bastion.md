@@ -5,7 +5,9 @@ Each week players will have the option to activate different benefits of differe
 
 Each facility has an upkeep cost associated with it that is paid whether or not it is used during a week.  It may have further costs for different benefits.  
 
-During an attack on the bastion 
+Facilities can be changed and upgraded as needed (although they will require downtime to do this).
+
+During an attack on the bastion roll the appropriate dice.  
 
 Mordenkainen's Bastion in Sigil starts with with following:
 * Mundane Facilities (Bedrooms, Kitchen, Living Space etc.)
@@ -17,5 +19,5 @@ https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.ht
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM0MjY4NDUyLDE2NDcxOTUxNzRdfQ==
+eyJoaXN0b3J5IjpbLTY5NDM0Mzk3OSwxNjQ3MTk1MTc0XX0=
 -->
