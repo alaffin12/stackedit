@@ -91,6 +91,10 @@ Upkeep: 38 gp/wk
 *Banquet.* Each player who chooses this has resistance to poison damage and does not gain exhaustion for the next week.  Costs 5 gp/person
 *Great Feast.* Each player who chooses this gains the benefit of the heroes' feast spell for the next week.  Costs 250 gp/person.
 
+**Greenhouse**
+Upkeep: 20 gp/wk
+Upgrade
+
 
 ----
 
@@ -105,8 +109,8 @@ https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.ht
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NzQ3OTY1MCwtMjAzMjE3NDY2Nyw2ND
-gwOTQ1OTIsMTM2MTUyNTEwMiwtMTQ2NDA2ODc2MiwtMTYxNTM3
-MzcwMiwtMTcxMjA3MTUzMiwtMTg4NDk2NDAyNiw2ODMzNTY5Nj
-QsMTY0NzE5NTE3NF19
+eyJoaXN0b3J5IjpbLTE4NTg3NDk3MDksLTIwMzIxNzQ2NjcsNj
+Q4MDk0NTkyLDEzNjE1MjUxMDIsLTE0NjQwNjg3NjIsLTE2MTUz
+NzM3MDIsLTE3MTIwNzE1MzIsLTE4ODQ5NjQwMjYsNjgzMzU2OT
+Y0LDE2NDcxOTUxNzRdfQ==
 -->
