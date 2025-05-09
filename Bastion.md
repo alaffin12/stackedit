@@ -2,6 +2,7 @@
 ## Base Rules
 
 
+
 Mordenkainen's Bastion in Sigil starts with with following:
 * Mundane Facilities (Bedrooms, Kitchen, Living Space etc.)
 * Mordenkainen's Orrey of the Multiverse
@@ -12,5 +13,5 @@ Mordenkainen's Bastion in Sigil starts with with following:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDgzMjQ1N119
+eyJoaXN0b3J5IjpbMTg1NzYxNDkyMV19
 -->
