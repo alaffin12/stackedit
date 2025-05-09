@@ -40,14 +40,15 @@ Upkeep: 20 gp/wk
 
 **Library**
 Upkeep: 20 gp/wk
- 
+*Topical Study.* A PC gains advantage on Arcana, History, Nature or Religion checks for the next week.
+*Research Secrets.* Roll 1d6.  On a 6 you learn the next secret 
 
 
 https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.html
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMjU5ODQ3MywtMTQ2NDA2ODc2MiwtMT
+eyJoaXN0b3J5IjpbMTE5NjAwMDM4NiwtMTQ2NDA2ODc2MiwtMT
 YxNTM3MzcwMiwtMTcxMjA3MTUzMiwtMTg4NDk2NDAyNiw2ODMz
 NTY5NjQsMTY0NzE5NTE3NF19
 -->
