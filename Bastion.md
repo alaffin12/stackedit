@@ -105,7 +105,8 @@ Upkeep: 20 gp/wk
 
 **Observator**
 Upkeep: 20 gp/wk
-*Peer into the Planes.* You may cast the spell contact other plane once th
+*Peer into the Planes.* You may cast the spell contact other plane once this week.
+*Planar Petition
 
 ----
 
@@ -120,7 +121,7 @@ https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.ht
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MjEyMzczOSwyMDE5OTA3MDMyLC0yMD
+eyJoaXN0b3J5IjpbMTc5MTQ5NDk2NSwyMDE5OTA3MDMyLC0yMD
 MyMTc0NjY3LDY0ODA5NDU5MiwxMzYxNTI1MTAyLC0xNDY0MDY4
 NzYyLC0xNjE1MzczNzAyLC0xNzEyMDcxNTMyLC0xODg0OTY0MD
 I2LDY4MzM1Njk2NCwxNjQ3MTk1MTc0XX0=
