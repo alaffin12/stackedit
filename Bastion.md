@@ -5,6 +5,8 @@ Each week players will have the option to activate different benefits of differe
 
 Each facility has an upkeep cost associated with it that is paid whether or not it is used during a week.  It may have further costs for different benefits.  
 
+During an attack on the bastion 
+
 Mordenkainen's Bastion in Sigil starts with with following:
 * Mundane Facilities (Bedrooms, Kitchen, Living Space etc.)
 * Mordenkainen's Orrey of the Multiverse
@@ -15,5 +17,5 @@ https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.ht
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2ODA3MjAzNiwxNjQ3MTk1MTc0XX0=
+eyJoaXN0b3J5IjpbNzM0MjY4NDUyLDE2NDcxOTUxNzRdfQ==
 -->
