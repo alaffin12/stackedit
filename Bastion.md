@@ -17,8 +17,7 @@ Mordenkainen's Bastion in Sigil starts with with following:
 ### Facilities
 #### Basic Facilities (500 gp/3 wks to construct)
 **Arcane Study**
-Upkeep: 20 gp/wk
-| Benefit | Descrip
+Base Upkeep: 20 gp/wk 
 *Empower Arcane Focus.* An arcane spell-caster receives a +1 bonus to spell save DCs and attack rolls for the next week.
 *Spell Research.* Creates a random scroll, which will be waiting at the bastion to be picked up when the party next returns.  Costs 10 x 2.6^Spell Level per scroll.
 *Magical Services.* Sell magical services to the community.  Offsets the cost of upkeep.  Earns 20 gp
@@ -26,13 +25,13 @@ Upkeep: 20 gp/wk
 **Clinic**
 Upkeep: 20 gp/wk
 *Empower Healer.* Focuses divine energy across the cosmos.  Beneficiary is able to cast cure light wounds once per long rest and has advantage on all Medicine checks.  Costs 10 gp.
-*Healing Services* 
+*Healing Services* Sell healing services to the community.  Offsets the cost of upkeep.  Earns 20 gp.
 
 
 https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.html
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjc2NTE0NTIsLTE4ODQ5NjQwMjYsNj
-gzMzU2OTY0LDE2NDcxOTUxNzRdfQ==
+eyJoaXN0b3J5IjpbMTg5NzE2OTUwMiwtMTg4NDk2NDAyNiw2OD
+MzNTY5NjQsMTY0NzE5NTE3NF19
 -->
