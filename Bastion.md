@@ -69,7 +69,8 @@ Upkeep: 20 gp/wk
 **Trophy Room.**
 Upkeep: 0 gp/wk
 *Relive Past Glory.* You spend time remembering past adventures.  Gain inspiration each time you complete a long rest during the next week.
-*Hero of Destiny.* You may cast one of the following spells once for f
+*Hero of Destiny.* Choose one of the following spells: clairvoyance, death ward, find traps, locate creature, magic weapon, remove curse or speak with dead..  You may cast it once for free during the week.
+
 
 
 
@@ -81,7 +82,7 @@ https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.ht
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MzQ3MDY0NCwtMTQ2NDA2ODc2MiwtMT
+eyJoaXN0b3J5IjpbMTM2MTUyNTEwMiwtMTQ2NDA2ODc2MiwtMT
 YxNTM3MzcwMiwtMTcxMjA3MTUzMiwtMTg4NDk2NDAyNiw2ODMz
 NTY5NjQsMTY0NzE5NTE3NF19
 -->
