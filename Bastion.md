@@ -86,6 +86,8 @@ Upgrades: Smithy
 *Craft Item.* Crafts a mundane item, Which is sold for 15 x 1d10 gp.
 
 **Great Hall**
+Upkeep: 38 gp/wk
+*Note: The great hall can effect more than one PC. 
 
 
 
@@ -98,8 +100,8 @@ https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.ht
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzIxNzQ2NjcsNjQ4MDk0NTkyLDEzNj
-E1MjUxMDIsLTE0NjQwNjg3NjIsLTE2MTUzNzM3MDIsLTE3MTIw
-NzE1MzIsLTE4ODQ5NjQwMjYsNjgzMzU2OTY0LDE2NDcxOTUxNz
-RdfQ==
+eyJoaXN0b3J5IjpbMTIxNDQ2Njg3NSwtMjAzMjE3NDY2Nyw2ND
+gwOTQ1OTIsMTM2MTUyNTEwMiwtMTQ2NDA2ODc2MiwtMTYxNTM3
+MzcwMiwtMTcxMjA3MTUzMiwtMTg4NDk2NDAyNiw2ODMzNTY5Nj
+QsMTY0NzE5NTE3NF19
 -->
