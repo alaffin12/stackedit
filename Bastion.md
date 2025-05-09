@@ -103,7 +103,9 @@ Upgrades: Garden
 Upkeep: 20 gp/wk
 *Meditation.* Make a Wisdom check.  If you roll higher than 15 choose an attribute, otherwise roll a d6 and determine at random.  You have advantage on that saving throw this week.
 
-
+**Observator**
+Upkeep: 20 gp/wk
+*Peer into the Planes.* You may cast the spell contact other plane once th
 
 ----
 
@@ -118,8 +120,8 @@ https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.ht
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTk1MTk5NTcsMjAxOTkwNzAzMiwtMj
-AzMjE3NDY2Nyw2NDgwOTQ1OTIsMTM2MTUyNTEwMiwtMTQ2NDA2
-ODc2MiwtMTYxNTM3MzcwMiwtMTcxMjA3MTUzMiwtMTg4NDk2ND
-AyNiw2ODMzNTY5NjQsMTY0NzE5NTE3NF19
+eyJoaXN0b3J5IjpbLTU3MjEyMzczOSwyMDE5OTA3MDMyLC0yMD
+MyMTc0NjY3LDY0ODA5NDU5MiwxMzYxNTI1MTAyLC0xNDY0MDY4
+NzYyLC0xNjE1MzczNzAyLC0xNzEyMDcxNTMyLC0xODg0OTY0MD
+I2LDY4MzM1Njk2NCwxNjQ3MTk1MTc0XX0=
 -->
