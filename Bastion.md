@@ -36,14 +36,14 @@ Upkeep: 2 gp/wk
 **Laboratory**
 Upkeep: 20 gp/wk
 *Brew Chemicals.* Creates a vial of acid or alchemist's fire, which will be waiting at the bastion to be picked up when the party next returns.  Cost 10 gp.
-*Brew Potion.* Brew a magical potion.  Cost
+*Brew Potion.* Brew a magical potion.  Cost depends on rarity - common, no extra cost; uncommon 
 
 
 https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.html
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzA0ODE1NDUsLTE2MTUzNzM3MDIsLT
-E3MTIwNzE1MzIsLTE4ODQ5NjQwMjYsNjgzMzU2OTY0LDE2NDcx
-OTUxNzRdfQ==
+eyJoaXN0b3J5IjpbMzE4ODY1OTcsLTE2MTUzNzM3MDIsLTE3MT
+IwNzE1MzIsLTE4ODQ5NjQwMjYsNjgzMzU2OTY0LDE2NDcxOTUx
+NzRdfQ==
 -->
