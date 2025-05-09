@@ -9,7 +9,7 @@ Facilities can be changed and upgraded as needed (although they will require mon
 
 During an attack on the bastion roll the appropriate dice for the attack.  For every "1" rolled a facility (at random) is disabled for the week.
 
-One benefit per facility per week.  
+Each facility can be used to produce a maximum of one benefit per week.  Each person can receive the maximum of one 'active' benefit per week ('active' in this context meaning bonuses to their character - if a facility is used to produce a good or   
 
 Mordenkainen's Bastion in Sigil starts with with following:
 * Mundane Facilities (Bedrooms, Kitchen, Living Space etc.)
@@ -21,5 +21,6 @@ https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.ht
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgzMzU2OTY0LDE2NDcxOTUxNzRdfQ==
+eyJoaXN0b3J5IjpbMTIzMTY0NDQ5MSw2ODMzNTY5NjQsMTY0Nz
+E5NTE3NF19
 -->
