@@ -62,6 +62,7 @@ Upkeep: 20 gp/wk
 
 **Smithy**
 Upkeep: 20 gp/wk
+*Sharpen Weapon.* Prepares a ser
 
 
 
@@ -70,7 +71,7 @@ https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.ht
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MDgyNDk0NiwtMTQ2NDA2ODc2MiwtMT
-YxNTM3MzcwMiwtMTcxMjA3MTUzMiwtMTg4NDk2NDAyNiw2ODMz
-NTY5NjQsMTY0NzE5NTE3NF19
+eyJoaXN0b3J5IjpbLTE1NjA3MjMwMzgsLTE0NjQwNjg3NjIsLT
+E2MTUzNzM3MDIsLTE3MTIwNzE1MzIsLTE4ODQ5NjQwMjYsNjgz
+MzU2OTY0LDE2NDcxOTUxNzRdfQ==
 -->
