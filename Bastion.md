@@ -50,13 +50,14 @@ Upkeep: 20 gp/wk
 
 **Sanctuary**
 Upkeep: 20 gp/wk
-*Empower Druidic Focus.* A druid receives a +1 bonus to spell save DC's and attack rolls for the next week.  Costs 10 gp.
+*Empower Druidic Focus.* A druid receives a +1 bonus to spell save DCs and spell attack rolls for the next week.  Costs 10 gp.
 *Speak With Animals.* A player gains the ability to cast 'speak with animals' once per long rest for the next week.  Costs 10 gp.
 *Druidic Services.* Sell druidic services to the community.  Offsets the cost of upkeep.  Earns 20 gp.
 
 **Shrine**
 Upkeep: 20 gp/wk
-*Bless Water* 
+*Bless Water.* Creates a vial of holy water, which will be waiting at the bastion to be picked up when the party next returns.  Costs 10 gp.
+*Empower the Divine.* A divine spell-casters receives a +1 bonus to spell save DCs a spell
 
 
 
@@ -65,7 +66,7 @@ https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.ht
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NTE4MjQ1NywtMTQ2NDA2ODc2MiwtMT
-YxNTM3MzcwMiwtMTcxMjA3MTUzMiwtMTg4NDk2NDAyNiw2ODMz
-NTY5NjQsMTY0NzE5NTE3NF19
+eyJoaXN0b3J5IjpbLTE2Njg5MzkyMTEsLTE0NjQwNjg3NjIsLT
+E2MTUzNzM3MDIsLTE3MTIwNzE1MzIsLTE4ODQ5NjQwMjYsNjgz
+MzU2OTY0LDE2NDcxOTUxNzRdfQ==
 -->
