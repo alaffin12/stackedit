@@ -19,13 +19,18 @@ Mordenkainen's Bastion in Sigil starts with with following:
 **Arcane Study**
 Upkeep: 20 gp/wk
 *Empower Arcane Focus.* An arcane spell-caster receives a +1 bonus to spell save DCs and attack rolls for the next week.
-*Spell Research.* Creates a random scroll, which will be waiting at the sc
+*Spell Research.* Creates a random scroll, which will be waiting at the bastion to be picked up when the party next returns.
+*Magical Services.* Offsets the 
+
+**Clinic**
+Upkeep: 20 gp/wk
+
 
 
 https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.html
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4ODY4ODYxNiwtMTg4NDk2NDAyNiw2OD
-MzNTY5NjQsMTY0NzE5NTE3NF19
+eyJoaXN0b3J5IjpbLTEzNzQ4OTIzMTMsLTE4ODQ5NjQwMjYsNj
+gzMzU2OTY0LDE2NDcxOTUxNzRdfQ==
 -->
