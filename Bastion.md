@@ -33,13 +33,15 @@ Upkeep: 2 gp/wk
 *Harvest Poison.* Creates a vial of basic poison and a vial of antitoxin, which will be waiting at the bastion to be picked up when the party next returns.  Costs 10 gp.
 *Harvest Food.* Creates a fall food stand on the side of the road where your harvest is sold.  Offsets the cost of upkeep.  Earns 2 gp.
 
-
+**Laboratory**
+Upkeep: 20 gp/wk
+*Brew Chemicals.* Creates a vial of acid or alc
 
 
 https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.html
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTIwNzE1MzIsLTE4ODQ5NjQwMjYsNj
-gzMzU2OTY0LDE2NDcxOTUxNzRdfQ==
+eyJoaXN0b3J5IjpbLTI1MjIzMzM3NywtMTcxMjA3MTUzMiwtMT
+g4NDk2NDAyNiw2ODMzNTY5NjQsMTY0NzE5NTE3NF19
 -->
