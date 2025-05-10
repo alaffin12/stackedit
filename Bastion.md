@@ -137,8 +137,8 @@ Upkeep: 26 gp/wk
 
 **Training Space**
 Upkeep: 26 gp/wk
-*Skill Training.* You gain proficiency in Acrobatics, Athletics, Performance, Sleight of Hand, or Stealth for the next week.
-*Combat Training.*
+*Skill Training.* You gain proficiency in Acrobatics, Athletics, Performance, Sleight of Hand, or Stealth for the next week.  Costs 50 gp.
+*Combat Training.* Make a Strength (Athletics) check.  If you roll less 10, nothing happens.  If you roll more than 10 but less than 20 you gain two d8's that you can add to any attack or damage roll in the next week.  
 
 
 ----
@@ -154,10 +154,10 @@ https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.ht
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NzY5NzI4MSwtOTA1MzczMzAxLC0xOT
-c1NTE0ODgxLC0xMTEwNDYxNTA5LC0xNzA2NjIyMjcxLDEzODU3
-ODA4MzMsLTIwNzU2OTA2MzEsMjAxOTkwNzAzMiwtMjAzMjE3ND
-Y2Nyw2NDgwOTQ1OTIsMTM2MTUyNTEwMiwtMTQ2NDA2ODc2Miwt
-MTYxNTM3MzcwMiwtMTcxMjA3MTUzMiwtMTg4NDk2NDAyNiw2OD
-MzNTY5NjQsMTY0NzE5NTE3NF19
+eyJoaXN0b3J5IjpbODgyMTc1MTg1LC05MDUzNzMzMDEsLTE5Nz
+U1MTQ4ODEsLTExMTA0NjE1MDksLTE3MDY2MjIyNzEsMTM4NTc4
+MDgzMywtMjA3NTY5MDYzMSwyMDE5OTA3MDMyLC0yMDMyMTc0Nj
+Y3LDY0ODA5NDU5MiwxMzYxNTI1MTAyLC0xNDY0MDY4NzYyLC0x
+NjE1MzczNzAyLC0xNzEyMDcxNTMyLC0xODg0OTY0MDI2LDY4Mz
+M1Njk2NCwxNjQ3MTk1MTc0XX0=
 -->
