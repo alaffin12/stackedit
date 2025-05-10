@@ -116,6 +116,13 @@ Upgrades: Shrine
 *Sacred Relic.* A divine spell caster's holy symbol becomes imbued with the magical powers of one of the following magic items for the next week: pearly of power, periapt of wound closure, ring of water walking, sending stones, staff of the adder, staff of the python, wand of magic detection.  Costs 200 gp.
 *Clerical Services.* Sell clerical services to the community.  Offsets the cost of upkeep.  Earns 20 gp.
 
+**Tavern**
+Upkeep: 26 gp/wk
+Upgrades: Pub
+*Liquid Courage*. For the next seven days a player has advantage on saving throws versus being charmed or frightened.  Costs 10 gp.
+*Beer, Beer, Beer.* Open the doors to the pub.  You earn 1d10x10 gp for the week.
+*Gamble.* 
+
 ----
 
 
@@ -129,9 +136,9 @@ https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.ht
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NTc4MDgzMywtMjA3NTY5MDYzMSwyMD
-E5OTA3MDMyLC0yMDMyMTc0NjY3LDY0ODA5NDU5MiwxMzYxNTI1
-MTAyLC0xNDY0MDY4NzYyLC0xNjE1MzczNzAyLC0xNzEyMDcxNT
-MyLC0xODg0OTY0MDI2LDY4MzM1Njk2NCwxNjQ3MTk1MTc0XX0=
-
+eyJoaXN0b3J5IjpbLTE3MDY2MjIyNzEsMTM4NTc4MDgzMywtMj
+A3NTY5MDYzMSwyMDE5OTA3MDMyLC0yMDMyMTc0NjY3LDY0ODA5
+NDU5MiwxMzYxNTI1MTAyLC0xNDY0MDY4NzYyLC0xNjE1MzczNz
+AyLC0xNzEyMDcxNTMyLC0xODg0OTY0MDI2LDY4MzM1Njk2NCwx
+NjQ3MTk1MTc0XX0=
 -->
