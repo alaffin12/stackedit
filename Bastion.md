@@ -138,13 +138,13 @@ Upkeep: 26 gp/wk
 **Training Space**
 Upkeep: 26 gp/wk
 *Skill Training.* You gain proficiency in Acrobatics, Athletics, Performance, Sleight of Hand, or Stealth for the next week.  Costs 50 gp.
-*Combat Training.* Make a Strength (Athletics) check.  If you roll less 10, nothing happens.  If you roll more than 10 but less than 20 you gain two d8s that you can add to any attack or damage roll in the next week.  If you roll more than 20 you gain four d8s to add to any attack or damage roll in the next week.  Costs 50 gp.
+*Combat Training.* Make a Strength (Athletics) check.  If you roll less 10, nothing happens.  If you roll 10 or more but less than 20 you gain two d8s that you can add to any attack or damage roll in the next week.  If you roll more than 20 you gain four d8s to add to any attack or damage roll in the next week.  Costs 50 gp.
 
 #### Grand Facilities (3000 gp/12 wks to construct)
 **Archive**
 Upkeep: 20 gp/wk
 *Topical Study.* A PC gains advantage on Arcana, History, Nature or Religion checks for the next week.  Costs 5 gp.
-*Research.* Make an Intelligence (Investigate) check.  If you roll less than 10 nothing happens.  If you 
+*Research.* Make an Intelligence (Investigate) check.  If you roll less than 10 nothing happens.  If you 10 or greater by less than 15, gain a lore point.  If you roll 15 or greater but less than 20 gain two lore points.  If you roll 20 or greater gain three lore poin 
 *Research Secrets.* Roll 1d8.  On an 8 you learn the next secret you are searching for.
 
 ----
@@ -160,7 +160,7 @@ https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.ht
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDcyNjE4MCwyMDk4NTc2NDkzLC05MD
+eyJoaXN0b3J5IjpbMTgzNzQ1OTUxOSwyMDk4NTc2NDkzLC05MD
 UzNzMzMDEsLTE5NzU1MTQ4ODEsLTExMTA0NjE1MDksLTE3MDY2
 MjIyNzEsMTM4NTc4MDgzMywtMjA3NTY5MDYzMSwyMDE5OTA3MD
 MyLC0yMDMyMTc0NjY3LDY0ODA5NDU5MiwxMzYxNTI1MTAyLC0x
