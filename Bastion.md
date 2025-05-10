@@ -148,12 +148,7 @@ Upgrades: Library
 *Research Topics.* Make an Intelligence (Investigate) check.  If you roll less than 10 nothing happens.  If you 10 or greater by less than 15, gain a lore point.  If you roll 15 or greater but less than 20 gain two lore points.  If you roll 20 or greater gain three lore points.  You may have no more than three lore points at any time.  You may expend a lore point at any time to succeed on any intelligence based skill check.  Costs 50 gp. 
 *Research Secrets.* Roll 1d8.  On an 8 you learn the next secret you are searching for.
 
-**Master Forge**
-Upkeep: 20 gp/wk
-Upgrades: Smithy
-*Sharpen Weapon.* Prepares the smithy so that when next you return to the bastion you may prepare one of your weapons.  This weapon will now hold a charge, which when expended will convert any normal hit into a critical hit.  Up to three charges can be held per weapon (one weapon per customer).  Costs 250 gp.  
-*Fortify Armor.* Prepares the smith so that when you next return to the bastion you may prepare one suit of armor.  This armor will now hold a charge, which when expended with convert any critical his into a normal hit.  Up to three charges can be held per piece of armor (one piece of armor per customer).  Costs 250 gp.
-*Craft Item.* Crafts a mundane item, Which is sold for 15 x 1d10 gp.
+
 
 ----
 
@@ -168,11 +163,11 @@ https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.ht
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNzQ3NDQwMywtNjMxNTQxNTY4LDIwOT
-g1NzY0OTMsLTkwNTM3MzMwMSwtMTk3NTUxNDg4MSwtMTExMDQ2
-MTUwOSwtMTcwNjYyMjI3MSwxMzg1NzgwODMzLC0yMDc1NjkwNj
-MxLDIwMTk5MDcwMzIsLTIwMzIxNzQ2NjcsNjQ4MDk0NTkyLDEz
-NjE1MjUxMDIsLTE0NjQwNjg3NjIsLTE2MTUzNzM3MDIsLTE3MT
-IwNzE1MzIsLTE4ODQ5NjQwMjYsNjgzMzU2OTY0LDE2NDcxOTUx
-NzRdfQ==
+eyJoaXN0b3J5IjpbNDE5OTExOTAwLC02MzE1NDE1NjgsMjA5OD
+U3NjQ5MywtOTA1MzczMzAxLC0xOTc1NTE0ODgxLC0xMTEwNDYx
+NTA5LC0xNzA2NjIyMjcxLDEzODU3ODA4MzMsLTIwNzU2OTA2Mz
+EsMjAxOTkwNzAzMiwtMjAzMjE3NDY2Nyw2NDgwOTQ1OTIsMTM2
+MTUyNTEwMiwtMTQ2NDA2ODc2MiwtMTYxNTM3MzcwMiwtMTcxMj
+A3MTUzMiwtMTg4NDk2NDAyNiw2ODMzNTY5NjQsMTY0NzE5NTE3
+NF19
 -->
