@@ -151,8 +151,9 @@ Upgrades: Library
 **Chapel**
 Upkeep: 66 gp/week
 Upgrades: Sacristy
-*Bless Water.* Creates two vial of holy water, which will be waiting at the bastion to be picked up when the party next returns.  Costs 5 gp.
-*Empower the Divine.* A divine spell caster receives a +1 bonus to spell save DCs and spell attack rolls for the next week.  Costs 10 gp.
+*Bless Water.* Creates two vials of holy water, which will be waiting at the bastion to be picked up when the party next returns.  Costs 5 gp.
+*Empower the Divine.* A divine spell caster receives a +1 or 
++2  bonus to spell save DCs and spell attack rolls for the next week.  Costs 10 gp for +1 or 100 gp for +2.
 *Sacred Relic.* A divine spell caster's holy symbol becomes imbued with the magical powers of one of the following magic items for the next week: pearl of power, periapt of wound closure, ring of water walking, sending stones, staff of the adder, staff of the python, wand of magic detection.  Costs 200 gp.
 *Clerical Services.* Sell clerical services to the community.  Offsets the cost of upkeep.  Earns 20 gp.
 
@@ -172,11 +173,11 @@ https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.ht
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg2ODQzMDQ4LC02MzE1NDE1NjgsMjA5OD
-U3NjQ5MywtOTA1MzczMzAxLC0xOTc1NTE0ODgxLC0xMTEwNDYx
-NTA5LC0xNzA2NjIyMjcxLDEzODU3ODA4MzMsLTIwNzU2OTA2Mz
-EsMjAxOTkwNzAzMiwtMjAzMjE3NDY2Nyw2NDgwOTQ1OTIsMTM2
-MTUyNTEwMiwtMTQ2NDA2ODc2MiwtMTYxNTM3MzcwMiwtMTcxMj
-A3MTUzMiwtMTg4NDk2NDAyNiw2ODMzNTY5NjQsMTY0NzE5NTE3
-NF19
+eyJoaXN0b3J5IjpbLTIwMzA2MzAyNzMsLTYzMTU0MTU2OCwyMD
+k4NTc2NDkzLC05MDUzNzMzMDEsLTE5NzU1MTQ4ODEsLTExMTA0
+NjE1MDksLTE3MDY2MjIyNzEsMTM4NTc4MDgzMywtMjA3NTY5MD
+YzMSwyMDE5OTA3MDMyLC0yMDMyMTc0NjY3LDY0ODA5NDU5Miwx
+MzYxNTI1MTAyLC0xNDY0MDY4NzYyLC0xNjE1MzczNzAyLC0xNz
+EyMDcxNTMyLC0xODg0OTY0MDI2LDY4MzM1Njk2NCwxNjQ3MTk1
+MTc0XX0=
 -->
