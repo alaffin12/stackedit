@@ -130,11 +130,12 @@ Upgrades: Pub
 | 26-50 | 3d8 (13.5) | | 96-00 | 10d20 (105) |
 
 **Theatre**
-Upkeep: 26 gp
+Upkeep: 26 gp/wk
 *Perform.* Make a Charisma (Performance) check.  On a roll of 10 or higher get one bardic inspiration die (d10) to give to your allies during the week.  On a roll of 20 or higher get 2 bardic inspiration dice.  Costs 30 gp.
 *Host a Show.* Open a show to offset the cost of the theatre.  Earn 1d10 x 10 gp from the box office.
 
-
+**Training Space**
+Upkeep: 26 gp/wk
 
 
 ----
@@ -150,9 +151,9 @@ https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.ht
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNjEwNTE2NiwtMTcwNjYyMjI3MSwxMz
-g1NzgwODMzLC0yMDc1NjkwNjMxLDIwMTk5MDcwMzIsLTIwMzIx
-NzQ2NjcsNjQ4MDk0NTkyLDEzNjE1MjUxMDIsLTE0NjQwNjg3Nj
-IsLTE2MTUzNzM3MDIsLTE3MTIwNzE1MzIsLTE4ODQ5NjQwMjYs
-NjgzMzU2OTY0LDE2NDcxOTUxNzRdfQ==
+eyJoaXN0b3J5IjpbLTExMTA0NjE1MDksLTE3MDY2MjIyNzEsMT
+M4NTc4MDgzMywtMjA3NTY5MDYzMSwyMDE5OTA3MDMyLC0yMDMy
+MTc0NjY3LDY0ODA5NDU5MiwxMzYxNTI1MTAyLC0xNDY0MDY4Nz
+YyLC0xNjE1MzczNzAyLC0xNzEyMDcxNTMyLC0xODg0OTY0MDI2
+LDY4MzM1Njk2NCwxNjQ3MTk1MTc0XX0=
 -->
