@@ -123,6 +123,10 @@ Upgrades: Pub
 *Beer, Beer, Beer.* Open the doors to the pub.  You earn 1d10x10 gp for the week.
 *Gamble.* Bet it all on red.  Or black.  Whatever.  Put down at least 100 gp.  Roll 1d100 and see how much you win back.
 
+| Range  | Result |
+| -- | -- |
+| 01-10 | 1d4 x ({Bet}
+
 ----
 
 
@@ -136,9 +140,9 @@ https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.ht
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MDM4MTYzLC0xNzA2NjIyMjcxLDEzOD
-U3ODA4MzMsLTIwNzU2OTA2MzEsMjAxOTkwNzAzMiwtMjAzMjE3
-NDY2Nyw2NDgwOTQ1OTIsMTM2MTUyNTEwMiwtMTQ2NDA2ODc2Mi
-wtMTYxNTM3MzcwMiwtMTcxMjA3MTUzMiwtMTg4NDk2NDAyNiw2
-ODMzNTY5NjQsMTY0NzE5NTE3NF19
+eyJoaXN0b3J5IjpbLTEwOTgwMzIxNjAsLTE3MDY2MjIyNzEsMT
+M4NTc4MDgzMywtMjA3NTY5MDYzMSwyMDE5OTA3MDMyLC0yMDMy
+MTc0NjY3LDY0ODA5NDU5MiwxMzYxNTI1MTAyLC0xNDY0MDY4Nz
+YyLC0xNjE1MzczNzAyLC0xNzEyMDcxNTMyLC0xODg0OTY0MDI2
+LDY4MzM1Njk2NCwxNjQ3MTk1MTc0XX0=
 -->
