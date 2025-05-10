@@ -495,7 +495,7 @@ Sangzor is a Mammoth with the following changes:
 He is resistant to Bludgeoning, Piercing and Slashing from non-magical attacks.
 He is immune to Cold Damage
 Sangzor makes two attacks per turn.
-On a successful gore attack the target mut e a DC 1 Strength avshoved (either knocking it prone or moving it five feet away).
+On a successful gore attack the target must make a DC 18 Strength avshoved (either knocking it prone or moving it five feet away).
 Any creature that is attacked by him during his turn cannot make an attack of opportunity against him until the end of his turn.
 
 #### T7. Western Arch
@@ -539,11 +539,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTUyODAxNDUsOTM2MTAwMjYxLDE3Mz
-Y2MDg0ODYsMTE2NjY2OTQ3MywtMTI2Mzk0NTM5MSwtMTI2MTI0
-NTEwMywtODY4MTQwNDk5LDI2NDE4MDMxNiwzMzkwNTA2NDEsMT
-A5NjkxODM1MiwtMTcwMjYxNjk0MSwxOTY5MTYxNTkxLDEzMzIx
-OTEwNzEsLTE2NjQ4NzA1MTYsLTE2MjYzMDQ3NDIsMTQ5NzUwOT
-Y3OCwxMzkyOTE5OTE1LDEwODc4Mzc5ODIsLTMzODUyMjA3OCwt
-MzM4NTIyMDc4XX0=
+eyJoaXN0b3J5IjpbNTk4MTgzOSw5MzYxMDAyNjEsMTczNjYwOD
+Q4NiwxMTY2NjY5NDczLC0xMjYzOTQ1MzkxLC0xMjYxMjQ1MTAz
+LC04NjgxNDA0OTksMjY0MTgwMzE2LDMzOTA1MDY0MSwxMDk2OT
+E4MzUyLC0xNzAyNjE2OTQxLDE5NjkxNjE1OTEsMTMzMjE5MTA3
+MSwtMTY2NDg3MDUxNiwtMTYyNjMwNDc0MiwxNDk3NTA5Njc4LD
+EzOTI5MTk5MTUsMTA4NzgzNzk4MiwtMzM4NTIyMDc4LC0zMzg1
+MjIwNzhdfQ==
 -->
