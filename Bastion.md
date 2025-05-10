@@ -148,6 +148,15 @@ Upgrades: Library
 *Research Topics.* Make an Intelligence (Investigate) check.  If you roll less than 10 nothing happens.  If you 10 or greater by less than 15, gain a lore point.  If you roll 15 or greater but less than 20 gain two lore points.  If you roll 20 or greater gain three lore points.  You may have no more than three lore points at any time.  You may expend a lore point at any time to succeed on any intelligence based skill check.  Costs 50 gp. 
 *Research Secrets.* Roll 1d8.  On an 8 you learn the next secret you are searching for.
 
+**Chapel**
+Upkeep: 66 gp/week
+Upgrades: Sacristy
+*Bless Water.* Creates two vial of holy water, which will be waiting at the bastion to be picked up when the party next returns.  Costs 5 gp.
+*Empower the Divine.* A divine spell caster receives a +1 bonus to spell save DCs and spell attack rolls for the next week.  Costs 10 gp.
+*Sacred Relic.* A divine spell caster's holy symbol becomes imbued with the magical powers of one of the following magic items for the next week: pearl of power, periapt of wound closure, ring of water walking, sending stones, staff of the adder, staff of the python, wand of magic detection.  Costs 200 gp.
+*Clerical Services.* Sell clerical services to the community.  Offsets the cost of upkeep.  Earns 20 gp.
+
+
 
 
 ----
@@ -163,7 +172,7 @@ https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.ht
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE5OTExOTAwLC02MzE1NDE1NjgsMjA5OD
+eyJoaXN0b3J5IjpbNzg2ODQzMDQ4LC02MzE1NDE1NjgsMjA5OD
 U3NjQ5MywtOTA1MzczMzAxLC0xOTc1NTE0ODgxLC0xMTEwNDYx
 NTA5LC0xNzA2NjIyMjcxLDEzODU3ODA4MzMsLTIwNzU2OTA2Mz
 EsMjAxOTkwNzAzMiwtMjAzMjE3NDY2Nyw2NDgwOTQ1OTIsMTM2
