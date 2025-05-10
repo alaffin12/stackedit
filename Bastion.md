@@ -125,10 +125,10 @@ Upgrades: Pub
 
 | Range  | Result  | | Range | Result |
 | -- | -- | -- | -- | -- |
-| 01-10 | 1d4 (2.5) | | 51-75 | 4d10 (22) |
-| 11-25 | 2d6 (7) | | 76-95 | 5d12 (32.5) |
-| 26-50 | 3d8 (13.5) | | 96-00 | 10d20 (105) |
-
+| 01-10 | 1d4 (2.5) | | 76-95 | 5d12 (32.5) 
+| 11-25 | 2d6 (7) | | 96-99 | 10d20 (105) |
+| 26-50 | 3d8 (13.5) | | 00 | 200 |
+| 51-75 | 4d10 (22) | | |
 **Theatre**
 Upkeep: 26 gp/wk
 *Perform.* Make a Charisma (Performance) check.  On a roll of 10 or higher get one bardic inspiration die (d10) to give to your allies during the week.  On a roll of 20 or higher get 2 bardic inspiration dice.  Costs 30 gp.
@@ -151,9 +151,10 @@ https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.ht
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzU1MTQ4ODEsLTExMTA0NjE1MDksLT
-E3MDY2MjIyNzEsMTM4NTc4MDgzMywtMjA3NTY5MDYzMSwyMDE5
-OTA3MDMyLC0yMDMyMTc0NjY3LDY0ODA5NDU5MiwxMzYxNTI1MT
-AyLC0xNDY0MDY4NzYyLC0xNjE1MzczNzAyLC0xNzEyMDcxNTMy
-LC0xODg0OTY0MDI2LDY4MzM1Njk2NCwxNjQ3MTk1MTc0XX0=
+eyJoaXN0b3J5IjpbLTkwNTM3MzMwMSwtMTk3NTUxNDg4MSwtMT
+ExMDQ2MTUwOSwtMTcwNjYyMjI3MSwxMzg1NzgwODMzLC0yMDc1
+NjkwNjMxLDIwMTk5MDcwMzIsLTIwMzIxNzQ2NjcsNjQ4MDk0NT
+kyLDEzNjE1MjUxMDIsLTE0NjQwNjg3NjIsLTE2MTUzNzM3MDIs
+LTE3MTIwNzE1MzIsLTE4ODQ5NjQwMjYsNjgzMzU2OTY0LDE2ND
+cxOTUxNzRdfQ==
 -->
