@@ -125,9 +125,12 @@ Upgrades: Pub
 
 | Range  | Result  |
 | -- | -- |
-| 01-10 | 1d4 |
-| 11-25 | 2d6 |
-|
+| 01-10 | 1d4 (5) |
+| 11-25 | 2d6 (7) |
+| 26-50 | 3d8 |
+| | 4d10 |
+| | 5d12 |
+| | 10d20
 
 ----
 
@@ -142,7 +145,7 @@ https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.ht
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNTk3MTc5NCwtMTcwNjYyMjI3MSwxMz
+eyJoaXN0b3J5IjpbLTMzNDk0ODU2OSwtMTcwNjYyMjI3MSwxMz
 g1NzgwODMzLC0yMDc1NjkwNjMxLDIwMTk5MDcwMzIsLTIwMzIx
 NzQ2NjcsNjQ4MDk0NTkyLDEzNjE1MjUxMDIsLTE0NjQwNjg3Nj
 IsLTE2MTUzNzM3MDIsLTE3MTIwNzE1MzIsLTE4ODQ5NjQwMjYs
