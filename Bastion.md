@@ -141,11 +141,6 @@ Upkeep: 26 gp/wk
 *Combat Training.* Make a Strength (Athletics) check.  If you roll less 10, nothing happens.  If you roll 10 or more but less than 20 you gain two d8s that you can add to any attack or damage roll in the next week.  If you roll more than 20 you gain four d8s to add to any attack or damage roll in the next week.  Costs 50 gp.
 
 #### Grand Facilities (3000 gp/12 wks to construct)
-**Scholomance**
-Base Upkeep: 20 gp/wk 
-*Empower Arcane Focus.* An arcane spell-caster receives a +1 bonus to spell save DCs and attack rolls for the next week.  Costs 10 gp.
-*Spell Research.* Creates a random scroll, which will be waiting at the bastion to be picked up when the party next returns.  Costs 8 x 2.6^Spell Level per scroll.
-*Magical Services.* Sell magical services to the community.  Offsets the cost of upkeep.  Earns 20 gp
 **Archive**
 Upkeep: 20 gp/wk
 Upgrades: Library
@@ -171,6 +166,12 @@ Upgrades: Sanctuary
 *Reincarnate.* As per the spell, save that it does not require contact with the dead humanoid or some part of the dead humanoid - rather it requires a deep knowledge of the dead humanoid (PCs have this connection with other PCs).  Costs 1000 gp.
 *Druidic Services.* Sell druidic services to the community.  Offsets the cost of upkeep.  Earns 20 gp.
 
+**Scholomance**
+Base Upkeep: 66 gp/wk
+Upgrades: Arcane Study 
+*Empower Arcane Focus.* An arcane spell-caster receives a +1 or +2 bonus to spell save DCs and attack rolls for the next week.  Costs 10 gp for +1 and 100 gp for +2.
+*Spell Research.* Creates a random scroll, which will be waiting at the bastion to be picked up when the party next returns.  Costs 8 x 2.6^Spell Level per scroll.
+*Magical Services.* Sell magical services to the community.  Offsets the cost of upkeep.  Earns 20 gp
 
 
 
@@ -187,11 +188,11 @@ https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.ht
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2Mjc2MDE3OSwtNjMxNTQxNTY4LDIwOT
-g1NzY0OTMsLTkwNTM3MzMwMSwtMTk3NTUxNDg4MSwtMTExMDQ2
-MTUwOSwtMTcwNjYyMjI3MSwxMzg1NzgwODMzLC0yMDc1NjkwNj
-MxLDIwMTk5MDcwMzIsLTIwMzIxNzQ2NjcsNjQ4MDk0NTkyLDEz
-NjE1MjUxMDIsLTE0NjQwNjg3NjIsLTE2MTUzNzM3MDIsLTE3MT
-IwNzE1MzIsLTE4ODQ5NjQwMjYsNjgzMzU2OTY0LDE2NDcxOTUx
-NzRdfQ==
+eyJoaXN0b3J5IjpbLTEzNTgyODY5NTEsLTYzMTU0MTU2OCwyMD
+k4NTc2NDkzLC05MDUzNzMzMDEsLTE5NzU1MTQ4ODEsLTExMTA0
+NjE1MDksLTE3MDY2MjIyNzEsMTM4NTc4MDgzMywtMjA3NTY5MD
+YzMSwyMDE5OTA3MDMyLC0yMDMyMTc0NjY3LDY0ODA5NDU5Miwx
+MzYxNTI1MTAyLC0xNDY0MDY4NzYyLC0xNjE1MzczNzAyLC0xNz
+EyMDcxNTMyLC0xODg0OTY0MDI2LDY4MzM1Njk2NCwxNjQ3MTk1
+MTc0XX0=
 -->
