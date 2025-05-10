@@ -123,14 +123,11 @@ Upgrades: Pub
 *Beer, Beer, Beer.* Open the doors to the pub.  You earn 1d10x10 gp for the week.
 *Gamble.* Bet it all on red.  Or black.  Whatever.  Put down at least 100 gp.  Roll 1d100, then roll the 'result'.  Multiply that number by 10% of the initial bet.
 
-| Range  | Result  | Range | Result |
-| -- | -- | -- | -- |
-| 01-10 | 1d4 (5) | 51-75 | |
-| 11-25 | 2d6 (7) | 76-95|
-| 26-50 | 3d8 (13.5) |
-| 51-75 | 4d10 (22) |
-| 76-95 | 5d12 (32.5) |
-| 96-00 | 10d20 (105) |
+| Range  | Result  | | Range | Result |
+| -- | -- | -- | -- | -- |
+| 01-10 | 1d4 (5) | | 51-75 | 4d10 (22) |
+| 11-25 | 2d6 (7) | | 76-95 | 5d12 (32.5) |
+| 26-50 | 3d8 (13.5) | | 96-00 | 10d20 (105) |
 
 ----
 
@@ -145,7 +142,7 @@ https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.ht
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5OTk4ODQ5MCwtMTcwNjYyMjI3MSwxMz
+eyJoaXN0b3J5IjpbLTgzMDIxODg5MywtMTcwNjYyMjI3MSwxMz
 g1NzgwODMzLC0yMDc1NjkwNjMxLDIwMTk5MDcwMzIsLTIwMzIx
 NzQ2NjcsNjQ4MDk0NTkyLDEzNjE1MjUxMDIsLTE0NjQwNjg3Nj
 IsLTE2MTUzNzM3MDIsLTE3MTIwNzE1MzIsLTE4ODQ5NjQwMjYs
