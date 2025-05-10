@@ -121,12 +121,13 @@ Upkeep: 26 gp/wk
 Upgrades: Pub
 *Liquid Courage*. For the next seven days a player has advantage on saving throws versus being charmed or frightened.  Costs 10 gp.
 *Beer, Beer, Beer.* Open the doors to the pub.  You earn 1d10x10 gp for the week.
-*Gamble.* Bet it all on red.  Or black.  Whatever.  Put down at least 100 gp.  Roll 1d100 and see how much you win back.
+*Gamble.* Bet it all on red.  Or black.  Whatever.  Put down at least 100 gp.  Roll 1d100, then roll the 'result'.  Multiply that number by 10% of the initial bet.
 
-| Range  | Result (multiply by 10% of the bet) |
+| Range  | Result  |
 | -- | -- |
 | 01-10 | 1d4 |
 | 11-25 | 2d6 |
+|
 
 ----
 
@@ -141,9 +142,9 @@ https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.ht
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM4NTAwMjE0LC0xNzA2NjIyMjcxLDEzOD
-U3ODA4MzMsLTIwNzU2OTA2MzEsMjAxOTkwNzAzMiwtMjAzMjE3
-NDY2Nyw2NDgwOTQ1OTIsMTM2MTUyNTEwMiwtMTQ2NDA2ODc2Mi
-wtMTYxNTM3MzcwMiwtMTcxMjA3MTUzMiwtMTg4NDk2NDAyNiw2
-ODMzNTY5NjQsMTY0NzE5NTE3NF19
+eyJoaXN0b3J5IjpbLTIxNTk3MTc5NCwtMTcwNjYyMjI3MSwxMz
+g1NzgwODMzLC0yMDc1NjkwNjMxLDIwMTk5MDcwMzIsLTIwMzIx
+NzQ2NjcsNjQ4MDk0NTkyLDEzNjE1MjUxMDIsLTE0NjQwNjg3Nj
+IsLTE2MTUzNzM3MDIsLTE3MTIwNzE1MzIsLTE4ODQ5NjQwMjYs
+NjgzMzU2OTY0LDE2NDcxOTUxNzRdfQ==
 -->
