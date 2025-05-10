@@ -512,11 +512,23 @@ A young red shadow dragon begins to attack the party on the bridge.  He will do 
 #### T9. Eastern Arch
 > One of the statues atop this arch has crumbled, leaving only the horse's hindquarters intact.  
 
-### r Teml
- ood and Drnk i roi
- oods in arova
-#### oranths eam eating n o rgh ies s one o the foling eet  eaten as a os at in comt yo a add d to an tta oll or saing how i the net minut.
- f eaten ousde of obat i heals d hp If eaten efore a long rest you ain two tr i ice to use ur the et ayoweer they reacte  he oing r you e one ro a  ota umber f es an eme tttion ave.   they ail the ecome irst lee addicts.  Addicts have debuffs added to their character that make them weaker.  he cn remey this by ing a e rom which they gain no other benefits - however eating subsequent pies does give them one of the benefits) or they can suffer through the addiction.  If they consume even a single pie during the day they run the risk of getting further addicted (make a new save the following morning).  If they go 24 hours without eating a pie the next morning they can make a save to drop down one level on the addiction chart.  *LPC stands for lifetime pie consumption - how many pies they have eaten total.  Track this!*
+
+## Food and Drink in Barovia
+### Foods in Barovia
+#### Morgantha's Dream Pies
+Eating one of Morgantha's pies has one of the following effects:
+* If eaten as a bonus action in combat you may add 1d4 to any attack roll or saving throw in the next minute.
+* If eaten outside of combat it heals 2d4+2 hp
+* If eaten before a long rest, you gain two extra hit dice to use during the next day.
+
+However they are addictive.  The morning after you eat one roll a DC 10+2*(Total Number of Pies Eaten Lifetime) Constitution Save.  If they fail they become first level addicts.  Addicts have debuffs added to their character that make them weaker.  They can remedy this by eating a pie (from which they gain no other benefits - however eating subsequent pies does give them one of the benefits) or they can suffer through the addiction.  If they consume even a single pie during the day they run the risk of getting further addicted (make a new save the following morning).  If they go 24 hours without eating a pie the next morning they can make a save to drop down one level on the addiction chart.  *LPC stands for lifetime pie consumption - how many pies they have eaten total.  Track this!*
+
+| Level | Impact | Con Save Better | Con Save Worse |
+| -- | -- | -- | -- |
+| First | +1 Exhaustion |  10+2x(LPC) | 12+2x(LPC) | 
+| Second | +2 Exhaustion | 12+2x(LPC) | 14+2x(LPC) |
+| Third | +3 Exhaustion | 14+2x(LPC) | -- |
+
 
 | Level | Impact | Con Save Better | Con Save Worse |
 | -- | -- | -- | -- |
@@ -538,11 +550,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NDA0NjQwLDU5ODE4MzksOTM2MTAwMj
-YxLDE3MzY2MDg0ODYsMTE2NjY2OTQ3MywtMTI2Mzk0NTM5MSwt
-MTI2MTI0NTEwMywtODY4MTQwNDk5LDI2NDE4MDMxNiwzMzkwNT
-A2NDEsMTA5NjkxODM1MiwtMTcwMjYxNjk0MSwxOTY5MTYxNTkx
-LDEzMzIxOTEwNzEsLTE2NjQ4NzA1MTYsLTE2MjYzMDQ3NDIsMT
-Q5NzUwOTY3OCwxMzkyOTE5OTE1LDEwODc4Mzc5ODIsLTMzODUy
-MjA3OF19
+eyJoaXN0b3J5IjpbLTMyODgxMDE3NSwtNjk0MDQ2NDAsNTk4MT
+gzOSw5MzYxMDAyNjEsMTczNjYwODQ4NiwxMTY2NjY5NDczLC0x
+MjYzOTQ1MzkxLC0xMjYxMjQ1MTAzLC04NjgxNDA0OTksMjY0MT
+gwMzE2LDMzOTA1MDY0MSwxMDk2OTE4MzUyLC0xNzAyNjE2OTQx
+LDE5NjkxNjE1OTEsMTMzMjE5MTA3MSwtMTY2NDg3MDUxNiwtMT
+YyNjMwNDc0MiwxNDk3NTA5Njc4LDEzOTI5MTk5MTUsMTA4Nzgz
+Nzk4Ml19
 -->
