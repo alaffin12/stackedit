@@ -127,10 +127,10 @@ Upgrades: Pub
 | -- | -- |
 | 01-10 | 1d4 (5) |
 | 11-25 | 2d6 (7) |
-| 26-50 | 3d8 |
-| | 4d10 |
-| | 5d12 |
-| | 10d20
+| 26-50 | 3d8 (13.5) |
+| | 4d10 (22) |
+| | 5d12 (32.5) |
+| | 10d20 (105) |
 
 ----
 
@@ -145,9 +145,9 @@ https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.ht
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNDk0ODU2OSwtMTcwNjYyMjI3MSwxMz
-g1NzgwODMzLC0yMDc1NjkwNjMxLDIwMTk5MDcwMzIsLTIwMzIx
-NzQ2NjcsNjQ4MDk0NTkyLDEzNjE1MjUxMDIsLTE0NjQwNjg3Nj
-IsLTE2MTUzNzM3MDIsLTE3MTIwNzE1MzIsLTE4ODQ5NjQwMjYs
-NjgzMzU2OTY0LDE2NDcxOTUxNzRdfQ==
+eyJoaXN0b3J5IjpbLTE2MDE1MTMzOTAsLTE3MDY2MjIyNzEsMT
+M4NTc4MDgzMywtMjA3NTY5MDYzMSwyMDE5OTA3MDMyLC0yMDMy
+MTc0NjY3LDY0ODA5NDU5MiwxMzYxNTI1MTAyLC0xNDY0MDY4Nz
+YyLC0xNjE1MzczNzAyLC0xNzEyMDcxNTMyLC0xODg0OTY0MDI2
+LDY4MzM1Njk2NCwxNjQ3MTk1MTc0XX0=
 -->
