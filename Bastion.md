@@ -155,7 +155,7 @@ Upgrades: Sacristy
 *Empower the Divine.* A divine spell caster receives a +1 or 
 +2  bonus to spell save DCs and spell attack rolls for the next week.  Costs 10 gp for +1 or 100 gp for +2.
 *Sacred Relic.* A divine spell caster's holy symbol becomes imbued with the magical powers of one of the following magic items for the next week: pearl of power, periapt of wound closure, ring of water walking, sending stones, staff of the adder, staff of the python, wand of magic detection.  Costs 200 gp.
-*Reincarnate.* As per the spell, save that it does not require contact with the dead humanoid or some part of the dead humanoid - rather it requires a deep knowledge of the dead humanoid (PCs have this connection with other PCs).  Costs 1000 gp.
+*Resurrection.* As per the spell, save that it does not require contact with the dead humanoid or some part of the dead humanoid - rather it requires a deep knowledge of the dead humanoid (PCs have this connection with other PCs).  Costs 1000 gp.
 *Clerical Services.* Sell clerical services to the community.  Offsets the cost of upkeep.  Earns 20 gp.
 
 **Sanctum**
@@ -163,7 +163,7 @@ Upkeep: 66 gp/wk
 Upgrades: Sanctuary
 *Empower Druidic Focus.* A druid receives a +1 or +2 bonus to spell save DCs and spell attack rolls for the next week.  Costs 10 gp for +1 or 100 gp for +2.
 *Speak With Animals.* A player gains the ability to cast 'speak with animals' once per long rest for the next week.  Costs 10 gp.
-*Reincarnate.* As per the spell, save that it does not require contact with the dead humanoid or some part of the dead humanoid - rather it requires a deep knowledge of the dead humanoid (PCs have this connection with other PCs).  Costs 1000 gp.
+*Resurrection.* As per the spell, save that it does not require contact with the dead humanoid or some part of the dead humanoid - rather it requires a deep knowledge of the dead humanoid (PCs have this connection with other PCs).  Costs 1000 gp.
 *Druidic Services.* Sell druidic services to the community.  Offsets the cost of upkeep.  Earns 20 gp.
 
 **Scholomance**
@@ -171,6 +171,7 @@ Base Upkeep: 66 gp/wk
 Upgrades: Arcane Study 
 *Empower Arcane Focus.* An arcane spell-caster receives a +1 or +2 bonus to spell save DCs and attack rolls for the next week.  Costs 10 gp for +1 and 100 gp for +2.
 *Spell Research.* Creates a random scroll, which will be waiting at the bastion to be picked up when the party next returns.  Costs 8 x 2.6^Spell Level per scroll.
+*Reincarnate.* As per the spell, save that it does not require contact with the dead humanoid or some part of the dead humanoid - rather it requires a deep knowledge of the dead humanoid (PCs have this connection with other PCs).  Costs 1000 gp.
 *Magical Services.* Sell magical services to the community.  Offsets the cost of upkeep.  Earns 20 gp
 
 
@@ -188,11 +189,11 @@ https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.ht
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTgyODY5NTEsLTYzMTU0MTU2OCwyMD
-k4NTc2NDkzLC05MDUzNzMzMDEsLTE5NzU1MTQ4ODEsLTExMTA0
-NjE1MDksLTE3MDY2MjIyNzEsMTM4NTc4MDgzMywtMjA3NTY5MD
-YzMSwyMDE5OTA3MDMyLC0yMDMyMTc0NjY3LDY0ODA5NDU5Miwx
-MzYxNTI1MTAyLC0xNDY0MDY4NzYyLC0xNjE1MzczNzAyLC0xNz
-EyMDcxNTMyLC0xODg0OTY0MDI2LDY4MzM1Njk2NCwxNjQ3MTk1
-MTc0XX0=
+eyJoaXN0b3J5IjpbLTE3MDUzODIyNjksLTEzNTgyODY5NTEsLT
+YzMTU0MTU2OCwyMDk4NTc2NDkzLC05MDUzNzMzMDEsLTE5NzU1
+MTQ4ODEsLTExMTA0NjE1MDksLTE3MDY2MjIyNzEsMTM4NTc4MD
+gzMywtMjA3NTY5MDYzMSwyMDE5OTA3MDMyLC0yMDMyMTc0NjY3
+LDY0ODA5NDU5MiwxMzYxNTI1MTAyLC0xNDY0MDY4NzYyLC0xNj
+E1MzczNzAyLC0xNzEyMDcxNTMyLC0xODg0OTY0MDI2LDY4MzM1
+Njk2NCwxNjQ3MTk1MTc0XX0=
 -->
