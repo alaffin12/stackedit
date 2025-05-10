@@ -113,7 +113,7 @@ Upkeep: 26 gp/week
 Upgrades: Shrine
 *Bless Water.* Creates a vial of holy water, which will be waiting at the bastion to be picked up when the party next returns.  Costs 5 gp.
 *Empower the Divine.* A divine spell caster receives a +1 bonus to spell save DCs and spell attack rolls for the next week.  Costs 10 gp.
-*Sacred Relic.* A divine spell caster's holy symbol becomes imbued with the magical powers of one of the following magic items for the next week: pearly of power, periapt of wound closure, ring of water walking, sending stones, staff of the adder, staff of the python, wand of magic detection.  Costs 200 gp.
+*Sacred Relic.* A divine spell caster's holy symbol becomes imbued with the magical powers of one of the following magic items for the next week: pearl of power, periapt of wound closure, ring of water walking, sending stones, staff of the adder, staff of the python, wand of magic detection.  Costs 200 gp.
 *Clerical Services.* Sell clerical services to the community.  Offsets the cost of upkeep.  Earns 20 gp.
 
 **Tavern**
@@ -131,7 +131,7 @@ Upgrades: Pub
 
 **Theatre**
 Upkeep: 26 gp
-*Perform.* 
+*Perform.* Make a Charisma (Performance C
 
 
 ----
@@ -147,9 +147,9 @@ https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.ht
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTExNDQ2MzIsLTE3MDY2MjIyNzEsMT
-M4NTc4MDgzMywtMjA3NTY5MDYzMSwyMDE5OTA3MDMyLC0yMDMy
-MTc0NjY3LDY0ODA5NDU5MiwxMzYxNTI1MTAyLC0xNDY0MDY4Nz
-YyLC0xNjE1MzczNzAyLC0xNzEyMDcxNTMyLC0xODg0OTY0MDI2
-LDY4MzM1Njk2NCwxNjQ3MTk1MTc0XX0=
+eyJoaXN0b3J5IjpbLTgzNjAwMjUsLTE3MDY2MjIyNzEsMTM4NT
+c4MDgzMywtMjA3NTY5MDYzMSwyMDE5OTA3MDMyLC0yMDMyMTc0
+NjY3LDY0ODA5NDU5MiwxMzYxNTI1MTAyLC0xNDY0MDY4NzYyLC
+0xNjE1MzczNzAyLC0xNzEyMDcxNTMyLC0xODg0OTY0MDI2LDY4
+MzM1Njk2NCwxNjQ3MTk1MTc0XX0=
 -->
