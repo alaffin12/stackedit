@@ -145,7 +145,7 @@ Upkeep: 26 gp/wk
 Upkeep: 20 gp/wk
 Upgrades: Library
 *Topical Study.* A PC gains advantage on Arcana, History, Nature or Religion checks for the next week.  Costs 5 gp.
-*Research.* Make an Intelligence (Investigate) check.  If you roll less than 10 nothing happens.  If you 10 or greater by less than 15, gain a lore point.  If you roll 15 or greater but less than 20 gain two lore points.  If you roll 20 or greater gain three lore points.  You may have no more than three lore points at any time.  You may expend a lore point at any time to succeed on any intelligence based skill check.  Costs 50 gp. 
+*Research Topics.* Make an Intelligence (Investigate) check.  If you roll less than 10 nothing happens.  If you 10 or greater by less than 15, gain a lore point.  If you roll 15 or greater but less than 20 gain two lore points.  If you roll 20 or greater gain three lore points.  You may have no more than three lore points at any time.  You may expend a lore point at any time to succeed on any intelligence based skill check.  Costs 50 gp. 
 *Research Secrets.* Roll 1d8.  On an 8 you learn the next secret you are searching for.
 
 ----
@@ -161,10 +161,11 @@ https://pretzel-lectern.blogspot.com/2023/11/better-5e-bastion-facility-boons.ht
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMTU0MTU2OCwyMDk4NTc2NDkzLC05MD
-UzNzMzMDEsLTE5NzU1MTQ4ODEsLTExMTA0NjE1MDksLTE3MDY2
-MjIyNzEsMTM4NTc4MDgzMywtMjA3NTY5MDYzMSwyMDE5OTA3MD
-MyLC0yMDMyMTc0NjY3LDY0ODA5NDU5MiwxMzYxNTI1MTAyLC0x
-NDY0MDY4NzYyLC0xNjE1MzczNzAyLC0xNzEyMDcxNTMyLC0xOD
-g0OTY0MDI2LDY4MzM1Njk2NCwxNjQ3MTk1MTc0XX0=
+eyJoaXN0b3J5IjpbMTc2Nzg1ODMwNCwtNjMxNTQxNTY4LDIwOT
+g1NzY0OTMsLTkwNTM3MzMwMSwtMTk3NTUxNDg4MSwtMTExMDQ2
+MTUwOSwtMTcwNjYyMjI3MSwxMzg1NzgwODMzLC0yMDc1NjkwNj
+MxLDIwMTk5MDcwMzIsLTIwMzIxNzQ2NjcsNjQ4MDk0NTkyLDEz
+NjE1MjUxMDIsLTE0NjQwNjg3NjIsLTE2MTUzNzM3MDIsLTE3MT
+IwNzE1MzIsLTE4ODQ5NjQwMjYsNjgzMzU2OTY0LDE2NDcxOTUx
+NzRdfQ==
 -->
