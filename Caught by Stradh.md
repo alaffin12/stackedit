@@ -495,8 +495,7 @@ Sangzor is a Mammoth with the following changes:
 He is resistant to Bludgeoning, Piercing and Slashing from non-magical attacks.
 He is immune to Cold Damage
 Sangzor makes two attacks per turn.
-On a successful gore attack the target must make a DC 18 Strength avshoved (either knocking it prone or moving it five feet away).
-Any creature that is attacked by him during his turn cannot make an attack of opportunity against him until the end of his turn.
+On a successful gore attack the target must make a DC 18 Strength saving throw to avoid being shoved (either knocking it prone or moving it five feet away).
 
 #### T7. Western Arch
 > The snowy pass come to a gorge spanned by a stone bridge.  At each end of the bridge is a thirty foot tall, thirty foot wide stone arch.  Atop each are two statues of armoured knights on horseback with lances, charging towards one another.  The wind bites and howls like wolves running down the gorge.
@@ -539,11 +538,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk4MTgzOSw5MzYxMDAyNjEsMTczNjYwOD
-Q4NiwxMTY2NjY5NDczLC0xMjYzOTQ1MzkxLC0xMjYxMjQ1MTAz
-LC04NjgxNDA0OTksMjY0MTgwMzE2LDMzOTA1MDY0MSwxMDk2OT
-E4MzUyLC0xNzAyNjE2OTQxLDE5NjkxNjE1OTEsMTMzMjE5MTA3
-MSwtMTY2NDg3MDUxNiwtMTYyNjMwNDc0MiwxNDk3NTA5Njc4LD
-EzOTI5MTk5MTUsMTA4NzgzNzk4MiwtMzM4NTIyMDc4LC0zMzg1
-MjIwNzhdfQ==
+eyJoaXN0b3J5IjpbLTY5NDA0NjQwLDU5ODE4MzksOTM2MTAwMj
+YxLDE3MzY2MDg0ODYsMTE2NjY2OTQ3MywtMTI2Mzk0NTM5MSwt
+MTI2MTI0NTEwMywtODY4MTQwNDk5LDI2NDE4MDMxNiwzMzkwNT
+A2NDEsMTA5NjkxODM1MiwtMTcwMjYxNjk0MSwxOTY5MTYxNTkx
+LDEzMzIxOTEwNzEsLTE2NjQ4NzA1MTYsLTE2MjYzMDQ3NDIsMT
+Q5NzUwOTY3OCwxMzkyOTE5OTE1LDEwODc4Mzc5ODIsLTMzODUy
+MjA3OF19
 -->
