@@ -482,7 +482,7 @@ The ladder leads up to T6
 #### T6. Guard Tower, Rooftop
 >Ten foot tall, gold plated statues stand atop the battlements, facing outward.  Each one depicts a human knight, holding a lance.  The cold wind stirs the snow, under which you count five human skeletons clad in rusty chain mail.
 
-The roof here is 40 ft above the Tsolenka Pass and 540 ft above the mist shrouded valley below.  A squeaky wooden trapdoor in the floor leads to T5 below.  The skeletons are the remains of the five guards who last held this post long ago.  If characters search the remains they will find nothing useful - just bits of tattered cloth, rotted and broken longbows and rusty weapons and mail but they will disturb the souls of the dead, summoning the feuereis (who start in ice form) - the frozen souls of the former guards of this place.
+The roof here is 40 ft above the Tsolenka Pass and 50 ft above the mist shrouded valley below.  A squeaky wooden trapdoor in the floor leads to T5 below.  The skeletons are the remains of the five guards who last held this post long ago.  If characters search the remains they will find nothing useful - just bits of tattered cloth, rotted and broken longbows and rusty weapons and mail but they will disturb the souls of the dead, summoning the feuereis (who start in ice form) - the frozen souls of the former guards of this place.
 
 #### Nameless Area
 After the players leave the guard tower but before they reach the bridge the following occurs...
@@ -542,7 +542,7 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1ODE5NjIyNCw3NjI0OTQxNTgsLTMyOD
+eyJoaXN0b3J5IjpbMTg0MDYwMDI1OCw3NjI0OTQxNTgsLTMyOD
 gxMDE3NSwtNjk0MDQ2NDAsNTk4MTgzOSw5MzYxMDAyNjEsMTcz
 NjYwODQ4NiwxMTY2NjY5NDczLC0xMjYzOTQ1MzkxLC0xMjYxMj
 Q1MTAzLC04NjgxNDA0OTksMjY0MTgwMzE2LDMzOTA1MDY0MSwx
