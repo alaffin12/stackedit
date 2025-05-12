@@ -489,14 +489,6 @@ After the players leave the guard tower but before they reach the bridge the fol
 
 > As you move along the narrow path here you begin to hear a rumbling in the mountains to your left.  It gets closer and close - you become aware that whatever is coming must be massive.  And then you see it - this massive beast rumbling through the mists, it's feet causing the earth to rumble with every step.  Brown shaggy hair, blood red eyes and crimson stained tusks bear down upon you.
 
-This is Sangzor, the Blood Horn, who defends this mountain pass.  He does not like outsiders on this road, and will do anything to shove them to their deaths in the valley below.
-
-Sangzor is a Mammoth with the following changes:
-He is resistant to Bludgeoning, Piercing and Slashing from non-magical attacks.
-He is immune to Cold Damage
-Sangzor makes two attacks per turn.
-On a successful gore attack the target must make a DC 18 Strength saving throw to avoid being shoved (either knocking it prone or moving it five feet away).
-
 #### T7. Western Arch
 > The snowy pass come to a gorge spanned by a stone bridge.  At each end of the bridge is a thirty foot tall, thirty foot wide stone arch.  Atop each are two statues of armoured knights on horseback with lances, charging towards one another.  The wind bites and howls like wolves running down the gorge.
 
@@ -550,11 +542,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwODkyMTY3MSwtMzI4ODEwMTc1LC02OT
-QwNDY0MCw1OTgxODM5LDkzNjEwMDI2MSwxNzM2NjA4NDg2LDEx
-NjY2Njk0NzMsLTEyNjM5NDUzOTEsLTEyNjEyNDUxMDMsLTg2OD
-E0MDQ5OSwyNjQxODAzMTYsMzM5MDUwNjQxLDEwOTY5MTgzNTIs
-LTE3MDI2MTY5NDEsMTk2OTE2MTU5MSwxMzMyMTkxMDcxLC0xNj
-Y0ODcwNTE2LC0xNjI2MzA0NzQyLDE0OTc1MDk2NzgsMTM5Mjkx
-OTkxNV19
+eyJoaXN0b3J5IjpbNzYyNDk0MTU4LC0zMjg4MTAxNzUsLTY5ND
+A0NjQwLDU5ODE4MzksOTM2MTAwMjYxLDE3MzY2MDg0ODYsMTE2
+NjY2OTQ3MywtMTI2Mzk0NTM5MSwtMTI2MTI0NTEwMywtODY4MT
+QwNDk5LDI2NDE4MDMxNiwzMzkwNTA2NDEsMTA5NjkxODM1Miwt
+MTcwMjYxNjk0MSwxOTY5MTYxNTkxLDEzMzIxOTEwNzEsLTE2Nj
+Q4NzA1MTYsLTE2MjYzMDQ3NDIsMTQ5NzUwOTY3OCwxMzkyOTE5
+OTE1XX0=
 -->
