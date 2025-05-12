@@ -423,7 +423,7 @@ In the "Laughing Guard" scenario a riot is starting.  The players may choose to 
 * Vargas Vallakovich is killed.  Lady Wachter wants a public execution, but she won't take a chance on him escaping.  
 * Lydia Vallakovich is the sister of the priest at St. Andral's.  Lady Wachter is in a bind with her, as keeping her on hand would allow her to control the church.  If she can be captured alive she will be imprisoned in the Burgomaster's Mansion - her former home - to be used as leverage.
 * Lady Wachter blames Vicktor Vallakovich for her daughter Stella's condition (in truth is was Izek who tortured her to the point of breaking her mind after she caught Viktor trying to wield powerful infernal magics similar to the the ones Lady Wachter uses, but Lady Wachter does not know or care about this).  Fortunately Viktor knows a bit of magic and manages to escape, teleporting away to be not seen again.
-* Lady Wachter would like to feed Izek Strazni to the crowds.  After she will raise him back from the dead to be her dedicated brute (although she will not let the people of Vallaki know she is behind his reanimation).
+* Lady Wachter would like to feed Izek Strazni to the crows.  After she will raise him back from the dead to be her dedicated brute (although she will not let the people of Vallaki know she is behind his reanimation).
 * Riots and revolutions are never fun things.  People will die and the city will burn for more than a week afterwards.  Play this up!
 
 *If the players side with the Baron, or if the start is the "Consort of Stradh" scenario and they do not choose a side:*
@@ -550,11 +550,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyODgxMDE3NSwtNjk0MDQ2NDAsNTk4MT
-gzOSw5MzYxMDAyNjEsMTczNjYwODQ4NiwxMTY2NjY5NDczLC0x
-MjYzOTQ1MzkxLC0xMjYxMjQ1MTAzLC04NjgxNDA0OTksMjY0MT
-gwMzE2LDMzOTA1MDY0MSwxMDk2OTE4MzUyLC0xNzAyNjE2OTQx
-LDE5NjkxNjE1OTEsMTMzMjE5MTA3MSwtMTY2NDg3MDUxNiwtMT
-YyNjMwNDc0MiwxNDk3NTA5Njc4LDEzOTI5MTk5MTUsMTA4Nzgz
-Nzk4Ml19
+eyJoaXN0b3J5IjpbLTcwODkyMTY3MSwtMzI4ODEwMTc1LC02OT
+QwNDY0MCw1OTgxODM5LDkzNjEwMDI2MSwxNzM2NjA4NDg2LDEx
+NjY2Njk0NzMsLTEyNjM5NDUzOTEsLTEyNjEyNDUxMDMsLTg2OD
+E0MDQ5OSwyNjQxODAzMTYsMzM5MDUwNjQxLDEwOTY5MTgzNTIs
+LTE3MDI2MTY5NDEsMTk2OTE2MTU5MSwxMzMyMTkxMDcxLC0xNj
+Y0ODcwNTE2LC0xNjI2MzA0NzQyLDE0OTc1MDk2NzgsMTM5Mjkx
+OTkxNV19
 -->
