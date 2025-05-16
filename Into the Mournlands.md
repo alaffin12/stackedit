@@ -117,7 +117,7 @@ The colossi are mostly unremarkable, save for how massive they are.  Each one is
 | 00-09 | Blades Ambush |
 | 10-39 | Blades Attack |
 | 40-49 | Blades Present |
-| 50-59 | Pilgrims Present
+| 50-59 | Pilgrims Present |
 | 60-99 | Nothing... |
 
 For any dealing with the blades, roll up a raiding party on the following table:
@@ -178,5 +178,5 @@ Mercy has the following information, which might be useful to the party:
 If the party convinces Mercy to help them and they agree to steal an active docent for them Mercy will personally lead the party back to the camp (taking 1d4 hours, but with Mercy's guidance they can move after dark).  He will implore the party not to kill anyone - just retrieve the docent and flee.  He will be waiting for them in the mists to lead them safely back to Ialos when they are done.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMTY4MDA0NF19
+eyJoaXN0b3J5IjpbLTc1MDQ0MjYzMiwtOTAxNjgwMDQ0XX0=
 -->
