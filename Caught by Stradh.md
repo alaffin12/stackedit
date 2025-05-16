@@ -520,7 +520,7 @@ A young red shadow dragon begins to attack the party on the bridge.  He will do 
 #### What's Really Going On Here
 The Amber Temple in Barovia is not the true Amber Temple.  Rather it is an echo of the true one, where something of immense power - it would not be wrong to call it the heart of the Demiplanes of Dread - but no true physical form has bled through and left an imprint on a real, physical place.
 
-Like the Dread Lords who serve them, the Dark Powers are equal part jailer and prisoner and the Amber Temple - the true Amber Temple - is the prison that binds them.  
+Like the Dread Lords who serve them, the Dark Powers are equal part jailer and prisoner and the Amber Temple - the true Amber Temple - is the prison that 
 
 ## Food and Drink in Barovia
 ### Foods in Barovia
@@ -552,11 +552,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTIzMzU5NjAsLTIxMTU4NDA0NDYsLT
-E0MzAyMDE0NjEsOTU3NTA2NTEsMTk2NjA5MDkzNyw2NzAwNzI5
-NDUsLTE5NTExMjUwMiwxNzAzMDgzNTQ3LDE4MTAzOTEzMzUsLT
-g1NzQ3NzQ1OCwxODQwNjAwMjU4LDc2MjQ5NDE1OCwtMzI4ODEw
-MTc1LC02OTQwNDY0MCw1OTgxODM5LDkzNjEwMDI2MSwxNzM2Nj
-A4NDg2LDExNjY2Njk0NzMsLTEyNjM5NDUzOTEsLTEyNjEyNDUx
-MDNdfQ==
+eyJoaXN0b3J5IjpbMjk5NzU1NDI4LC0yMTE1ODQwNDQ2LC0xND
+MwMjAxNDYxLDk1NzUwNjUxLDE5NjYwOTA5MzcsNjcwMDcyOTQ1
+LC0xOTUxMTI1MDIsMTcwMzA4MzU0NywxODEwMzkxMzM1LC04NT
+c0Nzc0NTgsMTg0MDYwMDI1OCw3NjI0OTQxNTgsLTMyODgxMDE3
+NSwtNjk0MDQ2NDAsNTk4MTgzOSw5MzYxMDAyNjEsMTczNjYwOD
+Q4NiwxMTY2NjY5NDczLC0xMjYzOTQ1MzkxLC0xMjYxMjQ1MTAz
+XX0=
 -->
