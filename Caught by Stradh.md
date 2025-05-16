@@ -505,6 +505,18 @@ A young red shadow dragon begins to attack the party on the bridge.  He will do 
 > One of the statues atop this arch has crumbled, leaving only the horse's hindquarters intact.  
 
 ### The Amber Temple
+> As you wind your way through the snow-choked mountain path, the cold intensifies - not just in temperature, but in presence. The wind here doesn't whistle or howl; it whispers, low and guttural, threading through the stones like the breath of something ancient.
+>
+> And then you see it.
+>
+> Carved directly into the mountainside, a black shape looms from the cliff face: the Amber Temple. A staircase of cracked stone leads down into a wide courtyard before its entrance—yet the structure beyond seems wrong against the pale white snow. Where the sun strikes the mountains, the temple drinks in the light and offers nothing back. Its massive amber columns, once gilded by age and grandeur, now seem to bleed shadow. Not even the reflected gleam of snow touches its surface.
+> 
+> For those with darkvision, the shadows still cling—thicker than they should be, heavier_ somehow, as if the darkness itself resents being seen. Edges blur. Shapes shift at the corners of your vision. The great bronze doors ahead are shut tight, flanked by still guardian statues half-buried in drifting snow, their eyes dark hollows that seem to follow your approach.
+
+The very air near the temple feels different—_denser_, like the atmosphere just before a storm, or a breath held far too long. Something waits inside.
+
+And it knows you're coming.
+
 
 ## Food and Drink in Barovia
 ### Foods in Barovia
@@ -536,11 +548,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTExMjUwMiwxNzAzMDgzNTQ3LDE4MT
-AzOTEzMzUsLTg1NzQ3NzQ1OCwxODQwNjAwMjU4LDc2MjQ5NDE1
-OCwtMzI4ODEwMTc1LC02OTQwNDY0MCw1OTgxODM5LDkzNjEwMD
-I2MSwxNzM2NjA4NDg2LDExNjY2Njk0NzMsLTEyNjM5NDUzOTEs
-LTEyNjEyNDUxMDMsLTg2ODE0MDQ5OSwyNjQxODAzMTYsMzM5MD
-UwNjQxLDEwOTY5MTgzNTIsLTE3MDI2MTY5NDEsMTk2OTE2MTU5
+eyJoaXN0b3J5IjpbMTQxODc2MTEyNiwtMTk1MTEyNTAyLDE3MD
+MwODM1NDcsMTgxMDM5MTMzNSwtODU3NDc3NDU4LDE4NDA2MDAy
+NTgsNzYyNDk0MTU4LC0zMjg4MTAxNzUsLTY5NDA0NjQwLDU5OD
+E4MzksOTM2MTAwMjYxLDE3MzY2MDg0ODYsMTE2NjY2OTQ3Mywt
+MTI2Mzk0NTM5MSwtMTI2MTI0NTEwMywtODY4MTQwNDk5LDI2ND
+E4MDMxNiwzMzkwNTA2NDEsMTA5NjkxODM1MiwtMTcwMjYxNjk0
 MV19
 -->
