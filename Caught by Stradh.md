@@ -433,7 +433,7 @@ In the "Laughing Guard" scenario a riot is starting.  The players may choose to 
 In either case, I assume the players will be moving on after finally getting their cold weather gear.  They might stick around to be involved, but they do have a job to do...
 
 ### Tsolenka Pass
-*Note: Although it is daylight here, all vision is capped at 60 ft due to weather conditions*
+*Note: Although it is daylight here, it is dim light and all vision is capped at 60 ft due to weather conditions*
 
 #### Approach
 > The shelf of rock on which the mountain road clings to grows narrow.  To your left, the icy cliffs rise sharply towards dark, rolling clouds.  To your right the ground falls away into a sea of fog.  Ahead, through the wind and snow, you see a high wall of black stone lined with spikes and topped by statues of demonic, four armed, horned figures.  Set in the centre of this wall is a closed iron portcullis, behind which burns a curtain of green flame.
@@ -536,11 +536,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMDM5MTMzNSwtODU3NDc3NDU4LDE4ND
-A2MDAyNTgsNzYyNDk0MTU4LC0zMjg4MTAxNzUsLTY5NDA0NjQw
-LDU5ODE4MzksOTM2MTAwMjYxLDE3MzY2MDg0ODYsMTE2NjY2OT
-Q3MywtMTI2Mzk0NTM5MSwtMTI2MTI0NTEwMywtODY4MTQwNDk5
-LDI2NDE4MDMxNiwzMzkwNTA2NDEsMTA5NjkxODM1MiwtMTcwMj
-YxNjk0MSwxOTY5MTYxNTkxLDEzMzIxOTEwNzEsLTE2NjQ4NzA1
-MTZdfQ==
+eyJoaXN0b3J5IjpbMTcwMzA4MzU0NywxODEwMzkxMzM1LC04NT
+c0Nzc0NTgsMTg0MDYwMDI1OCw3NjI0OTQxNTgsLTMyODgxMDE3
+NSwtNjk0MDQ2NDAsNTk4MTgzOSw5MzYxMDAyNjEsMTczNjYwOD
+Q4NiwxMTY2NjY5NDczLC0xMjYzOTQ1MzkxLC0xMjYxMjQ1MTAz
+LC04NjgxNDA0OTksMjY0MTgwMzE2LDMzOTA1MDY0MSwxMDk2OT
+E4MzUyLC0xNzAyNjE2OTQxLDE5NjkxNjE1OTEsMTMzMjE5MTA3
+MV19
 -->
