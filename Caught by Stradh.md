@@ -518,7 +518,7 @@ A young red shadow dragon begins to attack the party on the bridge.  He will do 
 >And it knows you're coming.
 
 #### What's Really Going On Here
-The Amber Temple in Barovia is not the true Amber Temple.  
+The Amber Temple in Barovia is not the true Amber Temple.  Rather it is an echo of the true one, where something of immense power has bled through into Barovia.
 
 ## Food and Drink in Barovia
 ### Foods in Barovia
@@ -550,11 +550,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MDMyOTcxNywtMTQzMDIwMTQ2MSw5NT
-c1MDY1MSwxOTY2MDkwOTM3LDY3MDA3Mjk0NSwtMTk1MTEyNTAy
-LDE3MDMwODM1NDcsMTgxMDM5MTMzNSwtODU3NDc3NDU4LDE4ND
-A2MDAyNTgsNzYyNDk0MTU4LC0zMjg4MTAxNzUsLTY5NDA0NjQw
-LDU5ODE4MzksOTM2MTAwMjYxLDE3MzY2MDg0ODYsMTE2NjY2OT
-Q3MywtMTI2Mzk0NTM5MSwtMTI2MTI0NTEwMywtODY4MTQwNDk5
-XX0=
+eyJoaXN0b3J5IjpbNDIyNDA2ODUxLC0xNDMwMjAxNDYxLDk1Nz
+UwNjUxLDE5NjYwOTA5MzcsNjcwMDcyOTQ1LC0xOTUxMTI1MDIs
+MTcwMzA4MzU0NywxODEwMzkxMzM1LC04NTc0Nzc0NTgsMTg0MD
+YwMDI1OCw3NjI0OTQxNTgsLTMyODgxMDE3NSwtNjk0MDQ2NDAs
+NTk4MTgzOSw5MzYxMDAyNjEsMTczNjYwODQ4NiwxMTY2NjY5ND
+czLC0xMjYzOTQ1MzkxLC0xMjYxMjQ1MTAzLC04NjgxNDA0OTld
+fQ==
 -->
