@@ -521,13 +521,6 @@ However they are addictive.  The morning after you eat one roll a DC 10+2*(Total
 | Second | +2 Exhaustion | 12+2x(LPC) | 14+2x(LPC) |
 | Third | +3 Exhaustion | 14+2x(LPC) | -- |
 
-
-| Level | Impact | Con Save Better | Con Save Worse |
-| -- | -- | -- | -- |
-| First | +1 Exhaustion |  10+2x(LPC) | 12+2x(LPC) | 
-| Second | +2 Exhaustion | 12+2x(LPC) | 14+2x(LPC) |
-| Third | +3 Exhaustion | 14+2x(LPC) | -- |
-
 ### Drink in Barovia
 Almost all alcohol in Barovia is wine or wine-based, and almost all wine is made by the Martikov family (some is brought in by Vistani traders).  A description of the Martikov family wines is below:
 
@@ -542,11 +535,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MDYwMDI1OCw3NjI0OTQxNTgsLTMyOD
-gxMDE3NSwtNjk0MDQ2NDAsNTk4MTgzOSw5MzYxMDAyNjEsMTcz
-NjYwODQ4NiwxMTY2NjY5NDczLC0xMjYzOTQ1MzkxLC0xMjYxMj
-Q1MTAzLC04NjgxNDA0OTksMjY0MTgwMzE2LDMzOTA1MDY0MSwx
-MDk2OTE4MzUyLC0xNzAyNjE2OTQxLDE5NjkxNjE1OTEsMTMzMj
-E5MTA3MSwtMTY2NDg3MDUxNiwtMTYyNjMwNDc0MiwxNDk3NTA5
-Njc4XX0=
+eyJoaXN0b3J5IjpbLTg1NzQ3NzQ1OCwxODQwNjAwMjU4LDc2Mj
+Q5NDE1OCwtMzI4ODEwMTc1LC02OTQwNDY0MCw1OTgxODM5LDkz
+NjEwMDI2MSwxNzM2NjA4NDg2LDExNjY2Njk0NzMsLTEyNjM5ND
+UzOTEsLTEyNjEyNDUxMDMsLTg2ODE0MDQ5OSwyNjQxODAzMTYs
+MzM5MDUwNjQxLDEwOTY5MTgzNTIsLTE3MDI2MTY5NDEsMTk2OT
+E2MTU5MSwxMzMyMTkxMDcxLC0xNjY0ODcwNTE2LC0xNjI2MzA0
+NzQyXX0=
 -->
