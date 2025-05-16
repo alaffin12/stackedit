@@ -522,8 +522,6 @@ The Amber Temple in Barovia is not the true Amber Temple.  Rather it is an echo 
 
 Like the Dread Lords who serve them, the Dark Powers are equal part jailer and prisoner and the Amber Temple - the true Amber Temple - is the prison that binds them.  
 
-Once upon a time, before he ascended to god hood, Vecna gained knowledge of the Dark Powers and the Amber Temple.  
-
 ## Food and Drink in Barovia
 ### Foods in Barovia
 #### Morgantha's Dream Pies
@@ -554,7 +552,7 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTg0MDE5ODAsLTIxMTU4NDA0NDYsLT
+eyJoaXN0b3J5IjpbLTE0NTIzMzU5NjAsLTIxMTU4NDA0NDYsLT
 E0MzAyMDE0NjEsOTU3NTA2NTEsMTk2NjA5MDkzNyw2NzAwNzI5
 NDUsLTE5NTExMjUwMiwxNzAzMDgzNTQ3LDE4MTAzOTEzMzUsLT
 g1NzQ3NzQ1OCwxODQwNjAwMjU4LDc2MjQ5NDE1OCwtMzI4ODEw
