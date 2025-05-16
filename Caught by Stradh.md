@@ -517,8 +517,8 @@ A young red shadow dragon begins to attack the party on the bridge.  He will do 
 >
 >And it knows you're coming.
 
-#### General Outline
-What's really going on 
+#### What's Really Going On Here
+
 
 ## Food and Drink in Barovia
 ### Foods in Barovia
@@ -550,11 +550,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NDIxMDA0MywxOTY2MDkwOTM3LDY3MD
-A3Mjk0NSwtMTk1MTEyNTAyLDE3MDMwODM1NDcsMTgxMDM5MTMz
-NSwtODU3NDc3NDU4LDE4NDA2MDAyNTgsNzYyNDk0MTU4LC0zMj
-g4MTAxNzUsLTY5NDA0NjQwLDU5ODE4MzksOTM2MTAwMjYxLDE3
-MzY2MDg0ODYsMTE2NjY2OTQ3MywtMTI2Mzk0NTM5MSwtMTI2MT
-I0NTEwMywtODY4MTQwNDk5LDI2NDE4MDMxNiwzMzkwNTA2NDFd
-fQ==
+eyJoaXN0b3J5IjpbOTU3NTA2NTEsMTk2NjA5MDkzNyw2NzAwNz
+I5NDUsLTE5NTExMjUwMiwxNzAzMDgzNTQ3LDE4MTAzOTEzMzUs
+LTg1NzQ3NzQ1OCwxODQwNjAwMjU4LDc2MjQ5NDE1OCwtMzI4OD
+EwMTc1LC02OTQwNDY0MCw1OTgxODM5LDkzNjEwMDI2MSwxNzM2
+NjA4NDg2LDExNjY2Njk0NzMsLTEyNjM5NDUzOTEsLTEyNjEyND
+UxMDMsLTg2ODE0MDQ5OSwyNjQxODAzMTYsMzM5MDUwNjQxXX0=
+
 -->
