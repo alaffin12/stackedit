@@ -504,7 +504,7 @@ A young red shadow dragon begins to attack the party on the bridge.  He will do 
 #### T9. Eastern Arch
 > One of the statues atop this arch has crumbled, leaving only the horse's hindquarters intact.  
 
-### Amber Temple
+### The Amber Temple
 
 ## Food and Drink in Barovia
 ### Foods in Barovia
@@ -536,11 +536,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMzA4MzU0NywxODEwMzkxMzM1LC04NT
-c0Nzc0NTgsMTg0MDYwMDI1OCw3NjI0OTQxNTgsLTMyODgxMDE3
-NSwtNjk0MDQ2NDAsNTk4MTgzOSw5MzYxMDAyNjEsMTczNjYwOD
-Q4NiwxMTY2NjY5NDczLC0xMjYzOTQ1MzkxLC0xMjYxMjQ1MTAz
-LC04NjgxNDA0OTksMjY0MTgwMzE2LDMzOTA1MDY0MSwxMDk2OT
-E4MzUyLC0xNzAyNjE2OTQxLDE5NjkxNjE1OTEsMTMzMjE5MTA3
+eyJoaXN0b3J5IjpbLTE5NTExMjUwMiwxNzAzMDgzNTQ3LDE4MT
+AzOTEzMzUsLTg1NzQ3NzQ1OCwxODQwNjAwMjU4LDc2MjQ5NDE1
+OCwtMzI4ODEwMTc1LC02OTQwNDY0MCw1OTgxODM5LDkzNjEwMD
+I2MSwxNzM2NjA4NDg2LDExNjY2Njk0NzMsLTEyNjM5NDUzOTEs
+LTEyNjEyNDUxMDMsLTg2ODE0MDQ5OSwyNjQxODAzMTYsMzM5MD
+UwNjQxLDEwOTY5MTgzNTIsLTE3MDI2MTY5NDEsMTk2OTE2MTU5
 MV19
 -->
