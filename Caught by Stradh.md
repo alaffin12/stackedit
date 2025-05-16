@@ -518,7 +518,7 @@ A young red shadow dragon begins to attack the party on the bridge.  He will do 
 >And it knows you're coming.
 
 #### General Outline
-The Amber Temple was dedicated in the 
+What's really going on 
 
 ## Food and Drink in Barovia
 ### Foods in Barovia
@@ -550,11 +550,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDYxMzY2NDYsMTk2NjA5MDkzNyw2Nz
-AwNzI5NDUsLTE5NTExMjUwMiwxNzAzMDgzNTQ3LDE4MTAzOTEz
-MzUsLTg1NzQ3NzQ1OCwxODQwNjAwMjU4LDc2MjQ5NDE1OCwtMz
-I4ODEwMTc1LC02OTQwNDY0MCw1OTgxODM5LDkzNjEwMDI2MSwx
-NzM2NjA4NDg2LDExNjY2Njk0NzMsLTEyNjM5NDUzOTEsLTEyNj
-EyNDUxMDMsLTg2ODE0MDQ5OSwyNjQxODAzMTYsMzM5MDUwNjQx
-XX0=
+eyJoaXN0b3J5IjpbMTg0NDIxMDA0MywxOTY2MDkwOTM3LDY3MD
+A3Mjk0NSwtMTk1MTEyNTAyLDE3MDMwODM1NDcsMTgxMDM5MTMz
+NSwtODU3NDc3NDU4LDE4NDA2MDAyNTgsNzYyNDk0MTU4LC0zMj
+g4MTAxNzUsLTY5NDA0NjQwLDU5ODE4MzksOTM2MTAwMjYxLDE3
+MzY2MDg0ODYsMTE2NjY2OTQ3MywtMTI2Mzk0NTM5MSwtMTI2MT
+I0NTEwMywtODY4MTQwNDk5LDI2NDE4MDMxNiwzMzkwNTA2NDFd
+fQ==
 -->
