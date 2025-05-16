@@ -518,6 +518,7 @@ A young red shadow dragon begins to attack the party on the bridge.  He will do 
 >And it knows you're coming.
 
 
+
 ## Food and Drink in Barovia
 ### Foods in Barovia
 #### Morgantha's Dream Pies
@@ -548,11 +549,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcwMDcyOTQ1LC0xOTUxMTI1MDIsMTcwMz
-A4MzU0NywxODEwMzkxMzM1LC04NTc0Nzc0NTgsMTg0MDYwMDI1
-OCw3NjI0OTQxNTgsLTMyODgxMDE3NSwtNjk0MDQ2NDAsNTk4MT
-gzOSw5MzYxMDAyNjEsMTczNjYwODQ4NiwxMTY2NjY5NDczLC0x
-MjYzOTQ1MzkxLC0xMjYxMjQ1MTAzLC04NjgxNDA0OTksMjY0MT
-gwMzE2LDMzOTA1MDY0MSwxMDk2OTE4MzUyLC0xNzAyNjE2OTQx
-XX0=
+eyJoaXN0b3J5IjpbLTk3MTYxNjA2MSw2NzAwNzI5NDUsLTE5NT
+ExMjUwMiwxNzAzMDgzNTQ3LDE4MTAzOTEzMzUsLTg1NzQ3NzQ1
+OCwxODQwNjAwMjU4LDc2MjQ5NDE1OCwtMzI4ODEwMTc1LC02OT
+QwNDY0MCw1OTgxODM5LDkzNjEwMDI2MSwxNzM2NjA4NDg2LDEx
+NjY2Njk0NzMsLTEyNjM5NDUzOTEsLTEyNjEyNDUxMDMsLTg2OD
+E0MDQ5OSwyNjQxODAzMTYsMzM5MDUwNjQxLDEwOTY5MTgzNTJd
+fQ==
 -->
