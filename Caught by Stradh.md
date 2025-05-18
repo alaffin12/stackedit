@@ -518,7 +518,7 @@ A young red shadow dragon begins to attack the party on the bridge.  He will do 
 >And it knows you're coming.
 
 #### What's Really Going On Here
-The Amber Temple in Barovia is the physical manifestation of the metaphysical concept - the essence of the Demiplanes of Dread themselves.  In truth there is an equivalent of the Amber Temple in every one of the domains of Ravenloft - one for every Dread Lord, built 
+The Amber Temple in Barovia is the physical manifestation of the metaphysical concept - the essence of the Demiplanes of Dread themselves.  In truth there is an equivalent of the Amber Temple in every one of the domains of Ravenloft - one for every Dread Lord, built upon a foundation of the fears, regrets, obsessions and the nature of their prison made manifest.  
 
 ## Food and Drink in Barovia
 ### Foods in Barovia
@@ -550,11 +550,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU0MDY5NTgyLDU1NzA1MTI2MiwtMjE3Mj
-YxOTUzLC0xNDUyMzM1OTYwLC0yMTE1ODQwNDQ2LC0xNDMwMjAx
-NDYxLDk1NzUwNjUxLDE5NjYwOTA5MzcsNjcwMDcyOTQ1LC0xOT
-UxMTI1MDIsMTcwMzA4MzU0NywxODEwMzkxMzM1LC04NTc0Nzc0
-NTgsMTg0MDYwMDI1OCw3NjI0OTQxNTgsLTMyODgxMDE3NSwtNj
-k0MDQ2NDAsNTk4MTgzOSw5MzYxMDAyNjEsMTczNjYwODQ4Nl19
+eyJoaXN0b3J5IjpbNjk4NDg3NzY0LDU1NDA2OTU4Miw1NTcwNT
+EyNjIsLTIxNzI2MTk1MywtMTQ1MjMzNTk2MCwtMjExNTg0MDQ0
+NiwtMTQzMDIwMTQ2MSw5NTc1MDY1MSwxOTY2MDkwOTM3LDY3MD
+A3Mjk0NSwtMTk1MTEyNTAyLDE3MDMwODM1NDcsMTgxMDM5MTMz
+NSwtODU3NDc3NDU4LDE4NDA2MDAyNTgsNzYyNDk0MTU4LC0zMj
+g4MTAxNzUsLTY5NDA0NjQwLDU5ODE4MzksOTM2MTAwMjYxXX0=
 
 -->
