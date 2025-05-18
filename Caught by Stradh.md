@@ -527,7 +527,7 @@ A young red shadow dragon begins to attack the party on the bridge.  He will do 
 **The Path From Here:** The party will have to do the following to move on from here:
 * Discover the nature of the Temple, the nature of the Dark Powers so that they can use it to secure the cosmos against Vecna's ritual (if the players fail this Kas can be used to provide this information).  They may also realize that Vecna has liberated one of the Dark Powers, but that is mostly flavour text.
 * Convince at least one of the Vestiges in the Amber Temple (shards of the Dark Powers) that they should be let go.  Bonus points if they convince the Dark Powers to let them free Kas to go with them.  
-* Strike a bargain (no matter how convincing the party, they will have to strike a bargain to gain the assistance of the Dark Powers.
+* Strike a bargain (no matter how convincing the party, they will have to strike a bargain to gain the assistance of the Dark Powers).
 
 ## Food and Drink in Barovia
 ### Foods in Barovia
@@ -559,11 +559,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MjcyMTY1MCwtMzg5NjEzNjEsMTcxOT
-YzNjE5LDY5ODQ4Nzc2NCw1NTQwNjk1ODIsNTU3MDUxMjYyLC0y
-MTcyNjE5NTMsLTE0NTIzMzU5NjAsLTIxMTU4NDA0NDYsLTE0Mz
-AyMDE0NjEsOTU3NTA2NTEsMTk2NjA5MDkzNyw2NzAwNzI5NDUs
-LTE5NTExMjUwMiwxNzAzMDgzNTQ3LDE4MTAzOTEzMzUsLTg1Nz
-Q3NzQ1OCwxODQwNjAwMjU4LDc2MjQ5NDE1OCwtMzI4ODEwMTc1
-XX0=
+eyJoaXN0b3J5IjpbNTE3ODU2NTQ5LC0zODk2MTM2MSwxNzE5Nj
+M2MTksNjk4NDg3NzY0LDU1NDA2OTU4Miw1NTcwNTEyNjIsLTIx
+NzI2MTk1MywtMTQ1MjMzNTk2MCwtMjExNTg0MDQ0NiwtMTQzMD
+IwMTQ2MSw5NTc1MDY1MSwxOTY2MDkwOTM3LDY3MDA3Mjk0NSwt
+MTk1MTEyNTAyLDE3MDMwODM1NDcsMTgxMDM5MTMzNSwtODU3ND
+c3NDU4LDE4NDA2MDAyNTgsNzYyNDk0MTU4LC0zMjg4MTAxNzVd
+fQ==
 -->
