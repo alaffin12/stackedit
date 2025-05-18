@@ -522,7 +522,9 @@ A young red shadow dragon begins to attack the party on the bridge.  He will do 
 
 **Nature of the Dark Powers:** The Dark Powers are not gods - not truly.  They are ideas with so much metaphysical weight that they manifest their existence as a nominal power.  Unlike other beings in the cosmos they cannot be killed or destroyed - only bound and imprisoned, held apart so that they do not run wild across the cosmos.
 
-**Why a Temple to Vecna:** The Amber Temple appears to be dedicated to Vecna.  This is both true and not true.  It reflects the impact Vecna has had on the metaphysical Amber Temple.  In ages past Vecna discovered the true Amber Temple.  Always hungry for power, Vecna laboured and unbound one of the Dark Powers imprisoned there - the Serpent - and struck a bargain with it.
+**Why a Temple to Vecna:** The Amber Temple appears to be dedicated to Vecna.  This is both true and not true.  It reflects the impact Vecna has had on the metaphysical Amber Temple.  In ages past Vecna discovered the true Amber Temple.  Always hungry for power, Vecna laboured and unbound one of the Dark Powers imprisoned there - the Serpent - and struck a bargain with it.  The Serpent and Vecna are one, and their powers are the same.  
+
+**The Path From Here:** 
 
 ## Food and Drink in Barovia
 ### Foods in Barovia
@@ -554,11 +556,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMTIyMjg4NCwtMzg5NjEzNjEsMTcxOT
-YzNjE5LDY5ODQ4Nzc2NCw1NTQwNjk1ODIsNTU3MDUxMjYyLC0y
-MTcyNjE5NTMsLTE0NTIzMzU5NjAsLTIxMTU4NDA0NDYsLTE0Mz
-AyMDE0NjEsOTU3NTA2NTEsMTk2NjA5MDkzNyw2NzAwNzI5NDUs
-LTE5NTExMjUwMiwxNzAzMDgzNTQ3LDE4MTAzOTEzMzUsLTg1Nz
-Q3NzQ1OCwxODQwNjAwMjU4LDc2MjQ5NDE1OCwtMzI4ODEwMTc1
-XX0=
+eyJoaXN0b3J5IjpbMTE5NzA3OTQyLC0zODk2MTM2MSwxNzE5Nj
+M2MTksNjk4NDg3NzY0LDU1NDA2OTU4Miw1NTcwNTEyNjIsLTIx
+NzI2MTk1MywtMTQ1MjMzNTk2MCwtMjExNTg0MDQ0NiwtMTQzMD
+IwMTQ2MSw5NTc1MDY1MSwxOTY2MDkwOTM3LDY3MDA3Mjk0NSwt
+MTk1MTEyNTAyLDE3MDMwODM1NDcsMTgxMDM5MTMzNSwtODU3ND
+c3NDU4LDE4NDA2MDAyNTgsNzYyNDk0MTU4LC0zMjg4MTAxNzVd
+fQ==
 -->
