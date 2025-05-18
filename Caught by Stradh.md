@@ -522,7 +522,7 @@ The Amber Temple in Barovia is the physical manifestation of the metaphysical co
 
 The Dark Powers are not gods - not truly.  They are ideas with so much metaphysical weight that they manifest their existence as a nominal power.  Unlike other beings in the cosmos they cannot be killed or destroyed - only bound and imprisoned, held apart so that they do not run wild across the cosmos.
 
-
+Vecna 
 
 ## Food and Drink in Barovia
 ### Foods in Barovia
@@ -554,11 +554,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYzOTMzNzM2LDY5ODQ4Nzc2NCw1NTQwNj
-k1ODIsNTU3MDUxMjYyLC0yMTcyNjE5NTMsLTE0NTIzMzU5NjAs
-LTIxMTU4NDA0NDYsLTE0MzAyMDE0NjEsOTU3NTA2NTEsMTk2Nj
-A5MDkzNyw2NzAwNzI5NDUsLTE5NTExMjUwMiwxNzAzMDgzNTQ3
-LDE4MTAzOTEzMzUsLTg1NzQ3NzQ1OCwxODQwNjAwMjU4LDc2Mj
-Q5NDE1OCwtMzI4ODEwMTc1LC02OTQwNDY0MCw1OTgxODM5XX0=
-
+eyJoaXN0b3J5IjpbLTE3MDczMTI3MDMsNjk4NDg3NzY0LDU1ND
+A2OTU4Miw1NTcwNTEyNjIsLTIxNzI2MTk1MywtMTQ1MjMzNTk2
+MCwtMjExNTg0MDQ0NiwtMTQzMDIwMTQ2MSw5NTc1MDY1MSwxOT
+Y2MDkwOTM3LDY3MDA3Mjk0NSwtMTk1MTEyNTAyLDE3MDMwODM1
+NDcsMTgxMDM5MTMzNSwtODU3NDc3NDU4LDE4NDA2MDAyNTgsNz
+YyNDk0MTU4LC0zMjg4MTAxNzUsLTY5NDA0NjQwLDU5ODE4Mzld
+fQ==
 -->
