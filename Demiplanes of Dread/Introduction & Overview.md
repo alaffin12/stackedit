@@ -25,7 +25,6 @@ Presumably they'll return to the Orrey and try and make their way to Tovag.  How
 > The void fades, and you wake up around the embers of a campfire as dawn is approaching.  But something inside of you feels off... the dawn is dull, grey.  Swallowed by clouds.  And you are somewhere you did not expect to be...
 
 ## Outline
-##### Notes of Barovia
 One of the Demiplanes of Dread, Barovia is subject to the following rules:
 * Supernatural mists surround Barovia and keep its prisoners imprisoned.  Anyone trying to leave Barovia gets lost in the mists and winds up back where they started - no exceptions (Strahd does frequently allow the Vistani to leave - but that is only by his parole, something he will not offer the players).
 *  Strahd, being a vampire, is not terribly interested in having the sun shining in his realm.  As such, heavy cloud almost always obscures the sun, bathing the world in dim light that does not impact creatures who are affected by the sun.  Vampires still tend to be nocturnal though (easier hunting) and magic that causes sunlight does function as normal.
@@ -38,7 +37,7 @@ Additionally, some magic functions differently:
 * Basically - there's no quick and easy escapes from the Domains of Dread.  If there was some of the characters imprisoned there (which once included Vecna) would easily escape. 
 * Any magic that allows communications with entities on other planes is usable, with the proviso that Strahd can always (and does always) listen in on such communication, or if he wishes, he can redirect the call to himself and respond as if he were the entity being contacted.
 
-### The Story as Planned
+## The Story as Planned
 There is no intention for the players to play out the 'Curse of Strahd' as (a) the party are high enough level to trivialize most of the encounters and (b) the party are already in another adventure.  
 
 Rather, upon awakening in the Svalich Woods and heading west (heading east brings them to the Gates of Barovia and the mists that keep prisoners in their cell) the party should know enough to make for the Amber Temple, to learn of their jailers (something they need to do to save the cosmos) and maybe find a means of escape.
@@ -79,5 +78,5 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgwODc4MDY1XX0=
+eyJoaXN0b3J5IjpbMTI0MzU2NzIyOV19
 -->
