@@ -518,11 +518,11 @@ A young red shadow dragon begins to attack the party on the bridge.  He will do 
 >And it knows you're coming.
 
 #### What's Really Going On Here
-The Amber Temple in Barovia is the physical manifestation of the metaphysical concept - the essence of the Demiplanes of Dread themselves.  In truth there is an equivalent of the Amber Temple in every one of the domains of Ravenloft - one for every Dread Lord, built upon a foundation of the fears, regrets, obsessions and the nature of their prison made manifest.  
+**Nature of the Amber Temple:** The Amber Temple in Barovia is the physical manifestation of the metaphysical concept - the essence of the Demiplanes of Dread themselves.  In truth there is an equivalent of the Amber Temple in every one of the domains of Ravenloft - one for every Dread Lord, built upon a foundation of the fears, regrets, obsessions and the nature of their prison made manifest.  
 
-The Dark Powers are not gods - not truly.  They are ideas with so much metaphysical weight that they manifest their existence as a nominal power.  Unlike other beings in the cosmos they cannot be killed or destroyed - only bound and imprisoned, held apart so that they do not run wild across the cosmos.
+**Nature of the Dark Powers:** The Dark Powers are not gods - not truly.  They are ideas with so much metaphysical weight that they manifest their existence as a nominal power.  Unlike other beings in the cosmos they cannot be killed or destroyed - only bound and imprisoned, held apart so that they do not run wild across the cosmos.
 
-Vecna 
+Vecna discovered the Amber Temple - the true Amber Temple - in ages past.  In his quest for power he liberated one of the beings imprisoned within   
 
 ## Food and Drink in Barovia
 ### Foods in Barovia
@@ -554,7 +554,7 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDczMTI3MDMsNjk4NDg3NzY0LDU1ND
+eyJoaXN0b3J5IjpbLTE4Nzg3ODUxNTEsNjk4NDg3NzY0LDU1ND
 A2OTU4Miw1NTcwNTEyNjIsLTIxNzI2MTk1MywtMTQ1MjMzNTk2
 MCwtMjExNTg0MDQ0NiwtMTQzMDIwMTQ2MSw5NTc1MDY1MSwxOT
 Y2MDkwOTM3LDY3MDA3Mjk0NSwtMTk1MTEyNTAyLDE3MDMwODM1
