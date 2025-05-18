@@ -522,7 +522,7 @@ A young red shadow dragon begins to attack the party on the bridge.  He will do 
 
 **Nature of the Dark Powers:** The Dark Powers are not gods - not truly.  They are ideas with so much metaphysical weight that they manifest their existence as a nominal power.  Unlike other beings in the cosmos they cannot be killed or destroyed - only bound and imprisoned, held apart so that they do not run wild across the cosmos.
 
-**Why a Temple to Vecna:** The Amber Temple appears to be dedicated to Vecna.  This is both true and not true.  It reflects the impact Vecna has had on the metaphysical Amber Temple.
+**Why a Temple to Vecna:** The Amber Temple appears to be dedicated to Vecna.  This is both true and not true.  It reflects the impact Vecna has had on the metaphysical Amber Temple.  In ages past Vecna discovered the true Amber Temple.  Always hungry for power, Vecna laboured and unbound one of the Dark Powers imprisoned there - the Serpent - and struck a bargain with it.
 
 ## Food and Drink in Barovia
 ### Foods in Barovia
@@ -554,11 +554,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4OTYxMzYxLDE3MTk2MzYxOSw2OTg0OD
-c3NjQsNTU0MDY5NTgyLDU1NzA1MTI2MiwtMjE3MjYxOTUzLC0x
-NDUyMzM1OTYwLC0yMTE1ODQwNDQ2LC0xNDMwMjAxNDYxLDk1Nz
-UwNjUxLDE5NjYwOTA5MzcsNjcwMDcyOTQ1LC0xOTUxMTI1MDIs
-MTcwMzA4MzU0NywxODEwMzkxMzM1LC04NTc0Nzc0NTgsMTg0MD
-YwMDI1OCw3NjI0OTQxNTgsLTMyODgxMDE3NSwtNjk0MDQ2NDBd
-fQ==
+eyJoaXN0b3J5IjpbMTcwMTIyMjg4NCwtMzg5NjEzNjEsMTcxOT
+YzNjE5LDY5ODQ4Nzc2NCw1NTQwNjk1ODIsNTU3MDUxMjYyLC0y
+MTcyNjE5NTMsLTE0NTIzMzU5NjAsLTIxMTU4NDA0NDYsLTE0Mz
+AyMDE0NjEsOTU3NTA2NTEsMTk2NjA5MDkzNyw2NzAwNzI5NDUs
+LTE5NTExMjUwMiwxNzAzMDgzNTQ3LDE4MTAzOTEzMzUsLTg1Nz
+Q3NzQ1OCwxODQwNjAwMjU4LDc2MjQ5NDE1OCwtMzI4ODEwMTc1
+XX0=
 -->
