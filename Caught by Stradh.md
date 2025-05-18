@@ -8,7 +8,7 @@ Fortunately the automata that are part of Mordenkainen's Bastion have been hard 
 >  
 >  An interesting demiplane that seems to be co-terminus with every realm I have encountered in all the cosmos.  That seems interesting, but it does not seem stable enough - after all, the Orrey of the Planes allows me to travel to any realm I choose.  In some ways it too touches all other realms.  And I am hardly a master of planar travel.
 >  
->  But there is something there I think.  Not the demiplane itself.  But the forces that style themselves its rulers.  I had the misfortune to be trapped in one not long ago.  One overseen by a petty tyrant named Stradh who styled himself some kind of god-king.  But I came to learn he was no god.  In a temple in that realm there was knowledge of things greater than Stradh.  Creatures that were keeping that monster a prisoner even as they granted him dominion over Barovia.  The so-called 'Dark Powers'.  
+>  But there is something there I think.  Not the demiplane itself.  But the forces that style themselves its rulers.  I had the misfortune to be trapped in one not long ago.  One overseen by a petty tyrant named Strahd who styled himself some kind of god-king.  But I came to learn he was no god.  In a temple in that realm there was knowledge of things greater than Stradh.  Creatures that were keeping that monster a prisoner even as they granted him dominion over Barovia.  The so-called 'Dark Powers'.  
 >  
 >  I wish I had learned more then, but my mind was focused on my own escape. With the assistance of an odious dwarf who thought himself a holy man, but was clearly a sorcerer of some sort, a tabaxi and the reborn focus of Stradh's 'affection' we defeated Stradh - for a time at least. I do not relish the idea of going back there.  I could easily be trapped again.  
 >  
@@ -527,7 +527,7 @@ A young red shadow dragon begins to attack the party on the bridge.  He will do 
 **The Path From Here:** The party will have to do the following to move on from here:
 * Discover the nature of the Temple, the nature of the Dark Powers so that they can use it to secure the cosmos against Vecna's ritual (if the players fail this Kas can be used to provide this information).  They may also realize that Vecna has liberated one of the Dark Powers, but that is mostly flavour text.
 * Convince at least one of the Vestiges in the Amber Temple (shards of the Dark Powers) that they should be let go.  Bonus points if they convince the Dark Powers to let them free Kas to go with them.  
-* Strike a bargain (no matter how convincing the party, they will have to strike a bargain to gain the assistance of the Dark Powers).
+* Strike a bargain (no matter how convincing the party is, they will have to strike a bargain to gain the assistance of the Dark Powers).
 
 ## Food and Drink in Barovia
 ### Foods in Barovia
@@ -559,11 +559,11 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE3ODU2NTQ5LC0zODk2MTM2MSwxNzE5Nj
-M2MTksNjk4NDg3NzY0LDU1NDA2OTU4Miw1NTcwNTEyNjIsLTIx
-NzI2MTk1MywtMTQ1MjMzNTk2MCwtMjExNTg0MDQ0NiwtMTQzMD
-IwMTQ2MSw5NTc1MDY1MSwxOTY2MDkwOTM3LDY3MDA3Mjk0NSwt
-MTk1MTEyNTAyLDE3MDMwODM1NDcsMTgxMDM5MTMzNSwtODU3ND
-c3NDU4LDE4NDA2MDAyNTgsNzYyNDk0MTU4LC0zMjg4MTAxNzVd
-fQ==
+eyJoaXN0b3J5IjpbLTEwNTQ3Mjk5ODcsNTE3ODU2NTQ5LC0zOD
+k2MTM2MSwxNzE5NjM2MTksNjk4NDg3NzY0LDU1NDA2OTU4Miw1
+NTcwNTEyNjIsLTIxNzI2MTk1MywtMTQ1MjMzNTk2MCwtMjExNT
+g0MDQ0NiwtMTQzMDIwMTQ2MSw5NTc1MDY1MSwxOTY2MDkwOTM3
+LDY3MDA3Mjk0NSwtMTk1MTEyNTAyLDE3MDMwODM1NDcsMTgxMD
+M5MTMzNSwtODU3NDc3NDU4LDE4NDA2MDAyNTgsNzYyNDk0MTU4
+XX0=
 -->
