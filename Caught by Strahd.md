@@ -1,4 +1,5 @@
-# Caught by Stradh
+
+# Caught by Strahd
 ## Setup
 At the conclusion of their adventure into the Mournlands the party will have had the opportunity to gain one of the secrets needed to stabilize the cosmos.  Of course that was the easy one - the one Mordenkainen outlined in his thesis about the Tome of True Balance.
 
@@ -8,9 +9,9 @@ Fortunately the automata that are part of Mordenkainen's Bastion have been hard 
 >  
 >  An interesting demiplane that seems to be co-terminus with every realm I have encountered in all the cosmos.  That seems interesting, but it does not seem stable enough - after all, the Orrey of the Planes allows me to travel to any realm I choose.  In some ways it too touches all other realms.  And I am hardly a master of planar travel.
 >  
->  But there is something there I think.  Not the demiplane itself.  But the forces that style themselves its rulers.  I had the misfortune to be trapped in one not long ago.  One overseen by a petty tyrant named Strahd who styled himself some kind of god-king.  But I came to learn he was no god.  In a temple in that realm there was knowledge of things greater than Stradh.  Creatures that were keeping that monster a prisoner even as they granted him dominion over Barovia.  The so-called 'Dark Powers'.  
+>  But there is something there I think.  Not the demiplane itself.  But the forces that style themselves its rulers.  I had the misfortune to be trapped in one not long ago.  One overseen by a petty tyrant named Strahd who styled himself some kind of god-king.  But I came to learn he was no god.  In a temple in that realm there was knowledge of things greater than Strahd.  Creatures that were keeping that monster a prisoner even as they granted him dominion over Barovia.  The so-called 'Dark Powers'.  
 >  
->  I wish I had learned more then, but my mind was focused on my own escape. With the assistance of an odious dwarf who thought himself a holy man, but was clearly a sorcerer of some sort, a tabaxi and the reborn focus of Stradh's 'affection' we defeated Stradh - for a time at least. I do not relish the idea of going back there.  I could easily be trapped again.  
+>  I wish I had learned more then, but my mind was focused on my own escape. With the assistance of an odious dwarf who thought himself a holy man, but was clearly a sorcerer of some sort, a tabaxi and the reborn focus of Strahd's 'affection' we defeated Strahd - for a time at least. I do not relish the idea of going back there.  I could easily be trapped again.  
 >  
 >  But perhaps I do not need to.  The Domains of Dread hold many prisoners who think themselves petty tyrants.  And there is one amongst them who hates Vecna above all else.  Kas the Betrayer.  Perhaps I should should make for Tovag, and find myself an ally - even if I will have to be on my guard with him.
 
@@ -27,19 +28,19 @@ Presumably they'll return to the Orrey and try and make their way to Tovag.  How
 ## Barovia
 ##### Notes of Barovia
 One of the Demiplanes of Dread, Barovia is subject to the following rules:
-* Supernatural mists surround Barovia and keep its prisoners imprisoned.  Anyone trying to leave Barovia gets lost in the mists and winds up back where they started - no exceptions (Stradh does frequently allow the Vistani to leave - but that is only by his parole, something he will not offer the players).
-*  Stradh, being a vampire, is not terribly interested in having the sun shining in his realm.  As such, heavy cloud almost always obscures the sun, bathing the world in dim light that does not impact creatures who are affected by the sun.  Vampires still tend to be nocturnal though (easier hunting) and magic that causes sunlight does function as normal.
+* Supernatural mists surround Barovia and keep its prisoners imprisoned.  Anyone trying to leave Barovia gets lost in the mists and winds up back where they started - no exceptions (Strahd does frequently allow the Vistani to leave - but that is only by his parole, something he will not offer the players).
+*  Strahd, being a vampire, is not terribly interested in having the sun shining in his realm.  As such, heavy cloud almost always obscures the sun, bathing the world in dim light that does not impact creatures who are affected by the sun.  Vampires still tend to be nocturnal though (easier hunting) and magic that causes sunlight does function as normal.
 * Vistani is another name for Tabaxi in Barovia
 
 Additionally, some magic functions differently:
-* Any spell that would allow someone to escape the domain simply fails (after all, what good is a jail that can be escape with a plane shift).  This includes spells like banishment.  Simply put - what is in Barovia stays in Barovia unless Stradh or the Dark Powers get involved.
+* Any spell that would allow someone to escape the domain simply fails (after all, what good is a jail that can be escape with a plane shift).  This includes spells like banishment.  Simply put - what is in Barovia stays in Barovia unless Strahd or the Dark Powers get involved.
 * Summoning spells fail for similar reasons, although spells that call familiars or companions do function - they simply call on local spirits and energies (as opposed to summoning a fire elemental from the elemental planes or a planetar from Celestia).
 * Spells that utilize extra-dimensional spaces do function, but effects that would tear a hole in reality (putting a portable hole in a bag of holding for example) cause the same catastrophic effects, but do not create a hole in reality leading to the astral plane)
 * Basically - there's no quick and easy escapes from the Domains of Dread.  If there was some of the characters imprisoned there (which once included Vecna) would easily escape. 
-* Any magic that allows communications with entities on other planes is usable, with the proviso that Stradh can always (and does always) listen in on such communication, or if he wishes, he can redirect the call to himself and respond as if he were the entity being contacted.
+* Any magic that allows communications with entities on other planes is usable, with the proviso that Strahd can always (and does always) listen in on such communication, or if he wishes, he can redirect the call to himself and respond as if he were the entity being contacted.
 
 ### The Story as Planned
-There is no intention for the players to play out the 'Curse of Stradh' as (a) the party are high enough level to trivialize most of the encounters and (b) the party are already in another adventure.  
+There is no intention for the players to play out the 'Curse of Strahd' as (a) the party are high enough level to trivialize most of the encounters and (b) the party are already in another adventure.  
 
 Rather, upon awakening in the Svalich Woods and heading west (heading east brings them to the Gates of Barovia and the mists that keep prisoners in their cell) the party should know enough to make for the Amber Temple, to learn of their jailers (something they need to do to save the cosmos) and maybe find a means of escape.
 
@@ -70,7 +71,7 @@ Morgantha is evil and works with her mother and daughter at the Old Bonegrinder 
 * The only inn in town is the "Blood on the Vine" public house.  Calling it an inn is a stretch - it doesn't have rooms, just a common room with a hearth.  However it is warm, dry and safe at night.  
 * The Blood on the Vine is owned by three Vistani women.  Morgantha doesn't know much about the women or about the Vistani in general
 * The is a semi-permanent Vistani camp nearby as well, near the Tser Pool.  It's about four hours if you follow the road, on the other side of the Ivalis River.
-* Stradh is a powerful ruler - the party should avoid crossing him if possible.
+* Strahd is a powerful ruler - the party should avoid crossing him if possible.
 * Morgantha's pies are made by her and her mother.  They usually have potato and turnip filling, along with meat if they can get some from the hunters.  Wolf meat is most common (and is what she has today) owing to how common it is in Barovia.
 * If asked why they are so expensive (a gold each) Morgantha will explain that her, her daughter and her mother use a little bit of the old magic - something that has been passed down from mother to daughter through her family for a long time.  Anyone who eats one will have on the sweetest dreams that night.  Sadly, such things have to be done right to get the magic to work - and doing things right costs gold in Barovia.  "It's not like I can use the cheap cast offs the hunters give away cheap, or rotten old potatoes."
 
@@ -103,7 +104,7 @@ Bildrath Cantemir works a general store here.  It sells basic adventuring gear (
  
 **Ismark Kolyanovich** sits in the bar, nursing a glass of Purple Grapesmash #3.  Today is the anniversary of his mother and father's death and it looms over him - putting him in a bad mood.  Of a regal, aristocratic bearing, Ismark will briefly fill in some of the blanks to his allies.
 
-> "My father was burgomaster, my mother his beautiful bride.  They were happy, for a time.  But this place twists all that is good, and their love - that was good.  My mother - her name was Ireena - was said to resemble Katarina, Stradh's first love.  A love that was lost to him.  Stradh came for her.  He did not care for her wedding vows or for her maternal bonds.  He wished to possess her.  And he made his move.  My father - he was not a great warrior.  I am ten times the swordsman he was in his heyday - and he was not in his heyday by that time.  Stradh slew him first.  Then my mother fell upon my father's blade to spare her from the indignity of being Stradh's bride.  And so tonight I drink.  To remember them, and to forget what killed them."
+> "My father was burgomaster, my mother his beautiful bride.  They were happy, for a time.  But this place twists all that is good, and their love - that was good.  My mother - her name was Ireena - was said to resemble Katarina, Strahd's first love.  A love that was lost to him.  Strahd came for her.  He did not care for her wedding vows or for her maternal bonds.  He wished to possess her.  And he made his move.  My father - he was not a great warrior.  I am ten times the swordsman he was in his heyday - and he was not in his heyday by that time.  Strahd slew him first.  Then my mother fell upon my father's blade to spare her from the indignity of being Strahd's bride.  And so tonight I drink.  To remember them, and to forget what killed them."
 
 Ismark is probably the friendliest face the party is going to see for awhile, and while he is not able to point them directly to the Amber Temple (if they ask) he does know that there is supposed to be some kind of repository of knowledge near Mount Ghakis.
 
@@ -169,7 +170,7 @@ Doru has only been fed sparingly by his father since he was imprisoned, and he c
 ##### E5g. Undercroft
 > The church’s undercroft has rough-hewn walls and a floor made of damp clay and earth. Rotting wooden pillars strain under the weight of the wooden ceiling. Candlelight from the chapel above slips though the cracks, allowing you to glimpse a gaunt shape in the far corner.
 
-The shape is Doru, Donavich's son and a Vampire Warrior sent by Stradh to torment Donavich.  Doru is hungry, having only be fed sparingly by his father (ostensibly to keep him weak).  He will try to sneak out, rather than directly confront that party, but he will not hesitate to try and take a meal from them either.
+The shape is Doru, Donavich's son and a Vampire Warrior sent by Strahd to torment Donavich.  Doru is hungry, having only be fed sparingly by his father (ostensibly to keep him weak).  He will try to sneak out, rather than directly confront that party, but he will not hesitate to try and take a meal from them either.
   
 #### E6. Cemetery
 > A fence of wrought iron with a rusty gate encloses a rectangular plot of land behind the dilapidated church. Tightly packed gravestones shrouded by fog bear the names of souls long passed. All seems quiet.
@@ -184,17 +185,17 @@ During daytime, the cemetery is a still and peaceful place. Every night at midni
 > The upbeat strains of an accordion clash with the singing of several brightly clad Vistani - tabaxi - around a bonfire. A footpath continues beyond this encampment, meandering north between the river and the forest’s edge.
 
 There is little for the players to do here, but if they sit by the campfire they will opportunities to talk to the Vistani and find out about the world they are trapped in.  The Vistani know the following:
-* Stradh is a powerful ruler, a god-king of sorts.  However he draws his power from someone or something else.  
-* Vistani are not free, per se, but they have some liberty owing to some ancient agreement between the Vistani and Stradh when he was a mortal.  The Vistani are allowed to travel to and from Barovia, although they can never leave it behind forever.  
+* Strahd is a powerful ruler, a god-king of sorts.  However he draws his power from someone or something else.  
+* Vistani are not free, per se, but they have some liberty owing to some ancient agreement between the Vistani and Strahd when he was a mortal.  The Vistani are allowed to travel to and from Barovia, although they can never leave it behind forever.  
 * The people of Barovia hate the Vistani for this freedom.  That is why Vistani mostly keep to themselves and stay out of the towns.
 * There is a repository of ancient knowledge away to the south, near the snowy and shadowed peak of the Father of Storms, which Barovians call Mount Ghakis.  It is a forbidden place for the Vistani, but One of Life might know more.
 
 If the players seek the Fortune Teller/Vistani Elder One of Life she will peer into their future:
-* The party are, like the Vistani, not true prisoners of Ravenloft and the Dark Powers.  They are not part of it's endless cycle of forgotten hopes and shattered dreams.  Stradh keeps them here though, which is not much different
-* The knowledge the party seeks is forbidden to the Vistani, part of their pact with Stradh.  It lies away to the south, in a place that is older than Stradh.  He went there one time - that is how he became ruler of the land, how he became imprisoned here.  The Vistani do not know more of what they might find there, but the path is straight - along the Svalich Road to Raven River, then south into the Tsolenka Pass.  Then climb the mountain road, to the Father of Storms, and to the knowledge they seek.
+* The party are, like the Vistani, not true prisoners of Ravenloft and the Dark Powers.  They are not part of it's endless cycle of forgotten hopes and shattered dreams.  Strahd keeps them here though, which is not much different
+* The knowledge the party seeks is forbidden to the Vistani, part of their pact with Strahd.  It lies away to the south, in a place that is older than Strahd.  He went there one time - that is how he became ruler of the land, how he became imprisoned here.  The Vistani do not know more of what they might find there, but the path is straight - along the Svalich Road to Raven River, then south into the Tsolenka Pass.  Then climb the mountain road, to the Father of Storms, and to the knowledge they seek.
 * One of Life will then offer to read the fortunes of the party.  Make up something for the party based on their histories and their path (Athas, Krynn, Oerth, Hell, Final Battles).  Then...
 
-> As One of Life surveys the tarot a fearful look crosses her face.  "No... no this cannot be.  This is Stradh's domain!  It is... it is him!"
+> As One of Life surveys the tarot a fearful look crosses her face.  "No... no this cannot be.  This is Strahd's domain!  It is... it is him!"
 
 One of Life will panic, and if they party steps outside they will find the encampment under attack by servants of Vecna - 1 x Necromancer, 1 x Flind, 2 x Ogre Zombies, 4 x Gnoll Pack Lord.  Add others (low level gnolls and zombies) to deal with the Vistani, who are clearly not capable of fighting off this attack.  The party may try and save the Vistani, they may flee - let them make choices.  The aftermath will be bloody, however...
 
@@ -244,7 +245,7 @@ The bed is not used for sleeping, but the hags store their treasure here.  The p
 Characters searching this space find nothing more than a few old, abandoned bird's nests.
 
 #### The Megaliths
-The megaliths here were raised by the ancient peoples of Barovia, in in honour of the Three Ladies.  Each moss-covered stone bears a crude carving, representing a figure from the mythos - one is engraved with a raven, another with a spider and a third with a wolf.  The fourth has chaotic, unintelligible sigils etched into it.  Ravens circle overhead, and on the ground in the middle is a small pile of children's teeth - which the hags are using to weaken the natural order of Barovia for Stradh.   
+The megaliths here were raised by the ancient peoples of Barovia, in in honour of the Three Ladies.  Each moss-covered stone bears a crude carving, representing a figure from the mythos - one is engraved with a raven, another with a spider and a third with a wolf.  The fourth has chaotic, unintelligible sigils etched into it.  Ravens circle overhead, and on the ground in the middle is a small pile of children's teeth - which the hags are using to weaken the natural order of Barovia for Strahd.   
 
 Anyone with a passing familiarity with Barovian culture and history can make a DC 15 Intelligence (History or Religion) check to identify that three of the stones represent the Seeker (Raven), the Weaver (Spider) and the Huntress (Wolf) and that the fourth represent the Shadow - a forced opposed to the ladies.  
 
@@ -345,7 +346,7 @@ Things the Lady 'knows'...
 * The Baron is not a good man and in his heart he does not truly care for the people of Vallaki.  He is of short temper, and frail ego - burdening the people of the town with his inane laws and freak festivals to prove he is a great and benevolent ruler, while throwing any who speaks but a word of dissent into the stockade - or worse.  
 * His henchman Izek is worse - a sadist who loves torturing people.  There are enough people who disappear into the Baron's grasp - into that sadist's grasp - who never return or who return broken body and soul.  I do not know what he does, but it is terrible.
 * The baron's son Viktor holds an especially dark place in the Lady's heart.  Once upon a time Viktor and her daughter Stella were betrothed.  But something that boy did to her broke her mind - forcing Lady Wachter to send her beloved Stella to the Abbey of St. Markovia.
-* The festivals are pitiful, and the Baron knows - or should know - they are pointless.  Stradh is the sovereign overlord of Barovia and all within it - if he wished to meddle in the affairs of Vallaki he would do so, and no amount of festivals or good vibes would keep him out.  The fact that he does not is evidence that Stradh is more of an absentee landlord than a direct threat to the people of Vallaki.  He has his own plans, his own pursuits - women, mostly, but there is one woman in particular he seeks.  And he can be reasoned with.  The Baron is just a stubborn, hateful fool.
+* The festivals are pitiful, and the Baron knows - or should know - they are pointless.  Strahd is the sovereign overlord of Barovia and all within it - if he wished to meddle in the affairs of Vallaki he would do so, and no amount of festivals or good vibes would keep him out.  The fact that he does not is evidence that Strahd is more of an absentee landlord than a direct threat to the people of Vallaki.  He has his own plans, his own pursuits - women, mostly, but there is one woman in particular he seeks.  And he can be reasoned with.  The Baron is just a stubborn, hateful fool.
 
 If the party manage to snoop around the house for a bit and subsequently confront her with some or all of her own indiscretions she will be defensive:
 
@@ -359,7 +360,7 @@ The party might also be inclined to investigate Lady Wachter's claims after dinn
 
 ##### Festival of the Blazing Sun
 ###### Part I - The Parade
-This can go one of two way, depending on the players interactions with Lady Wachter.  If Lady Wachter is confident of the assistance (or at least neutrality) of the party then go the way of the Laughing Guard.  Otherwise go the way of the Consort of Stradh.
+This can go one of two way, depending on the players interactions with Lady Wachter.  If Lady Wachter is confident of the assistance (or at least neutrality) of the party then go the way of the Laughing Guard.  Otherwise go the way of the Consort of Strahd.
 
 *The Laughing Guard*
 > Under threatening skies, a parade of unhappy children dressed as flowers and wearing forced smiles trudges through the muddy streets, leading the way for a group of sorry-looking men and women carrying a ten-foot-diameter wicker ball. The burgomaster and his smiling wife, who holds a sad bouquet of wilting flowers, follow the procession on horseback. As weary spectators watch from their stoops, the ball is borne to the town square. There, it is hoisted and hung from a fifteen-foot-high wooden scaffold, and townsfolk take turns splashing it with oil. Before the wicker sun can be set ablaze, the sky tears open in a sudden downpour. "All will be well!" cries the burgomaster as he brandishes a sputtering torch and marches defiantly through the rain toward the wicker ball, only to have his torch go out as he thrusts it into the sphere. 
@@ -384,7 +385,7 @@ The laugh comes from Lars Kjurls, a member of the town militia.  The baron immed
 >
 > As the words are spoken the crowd reacts, some cheering in support of the Lady Wachter, others muttering about her impertinence.  As the Baron gestures to the guards to stop her, blades are drawn amongst the crowd too.   
 
-*The Consort of Stradh*
+*The Consort of Strahd*
 > Under threatening skies, a parade of unhappy children dressed as flowers and wearing forced smiles trudges through the muddy streets, leading the way for a group of sorry-looking men and women carrying a ten-foot-diameter wicker ball. The burgomaster and his smiling wife, who holds a sad bouquet of wilting flowers, follow the procession on horseback. As weary spectators watch from their stoops, the ball is borne to the town square. There, it is hoisted and hung from a fifteen-foot-high wooden scaffold, and townsfolk take turns splashing it with oil. Baron Vargas Vallakovich then steps forward, plunging a torch into the heart of the great sphere, which bursts into flames immediately.  He then turns to the assembled crowd.
 >
 > "People of Vallaki! Loyal hearts of our shining town! Today, we burn the rot from our midst!"
@@ -417,7 +418,7 @@ The laugh comes from Lars Kjurls, a member of the town militia.  The baron immed
 >
 > With that final word, the Baron plunges his torch into the wicker prison of Karl Wachter and begins moving up the line - determined to ensure that the Lady Fiona Wachter will see all her family die before she herself is allowed to perish.
 
-In the "Laughing Guard" scenario a riot is starting.  The players may choose to intervene on either side, or simply avoid getting involved at all.  In the "Consort of Stradh" the players will bear witness to a violent, brutal execution of a family who (for the most part) have done nothing wrong.  Players may choose to intervene (leading to a riot) or may choose to avoid getting involved at all.  Let is all play out - the winning side depends on the players, but if the players don't get involved then it depends on the start:
+In the "Laughing Guard" scenario a riot is starting.  The players may choose to intervene on either side, or simply avoid getting involved at all.  In the "Consort of Strahd" the players will bear witness to a violent, brutal execution of a family who (for the most part) have done nothing wrong.  Players may choose to intervene (leading to a riot) or may choose to avoid getting involved at all.  Let is all play out - the winning side depends on the players, but if the players don't get involved then it depends on the start:
 
 *If the players side with Lady Wachter, or if the start is the "Laughing Guard" scenario and they do not choose a side:*
 * Vargas Vallakovich is killed.  Lady Wachter wants a public execution, but she won't take a chance on him escaping.  
@@ -426,7 +427,7 @@ In the "Laughing Guard" scenario a riot is starting.  The players may choose to 
 * Lady Wachter would like to feed Izek Strazni to the crows.  After she will raise him back from the dead to be her dedicated brute (although she will not let the people of Vallaki know she is behind his reanimation).
 * Riots and revolutions are never fun things.  People will die and the city will burn for more than a week afterwards.  Play this up!
 
-*If the players side with the Baron, or if the start is the "Consort of Stradh" scenario and they do not choose a side:*
+*If the players side with the Baron, or if the start is the "Consort of Strahd" scenario and they do not choose a side:*
 * Lady Wachter and her family are all rounded up and executed very publicly (if they are not executed already).
 * Believing Lady Wachter to be the heart of a conspiracy against him (which she is) the Baron will being rounding up people and executing them at random.  One of the Alastroi siblings is amongst the dead, and someone shows up to menace Urwin Martikov, before Urwin points out that his family owns the winery and if they threaten him again the taps will be cut and then the Baron will see what a revolution looks like (also, ravens will be around during this, adding a level of supernatural authority to Urwin's threats).
 
@@ -440,7 +441,7 @@ In either case, I assume the players will be moving on after finally getting the
 >
 > Emerging from the flickering wall of green flames that dances like spectral fire across the gate, a figure steps forward with the grace of a shadow and the poise of a king. The flames part for him, curling back like servants bowing before their master, casting eerie light across his pale, statuesque face. His black cloak flutters in the chill mountain wind, edges singed with ember-glow, but untouched by the flame itself.
 >
->His eyes—two smoldering coals of crimson—scan the mountain pass with ancient boredom and predatory interest. Every movement he makes is deliberate, fluid, and terrifyingly calm, as though the world itself bends politely to his stride. The golden embroidery on his dark vest catches the flame’s glow, glinting like fresh blood on polished steel. You know this figure - both from his appearance when you were pulled into this cursed land, and by his reputation here in Barovia - this is Count Stradh von Zarovich, Lord of Barovia.
+>His eyes—two smoldering coals of crimson—scan the mountain pass with ancient boredom and predatory interest. Every movement he makes is deliberate, fluid, and terrifyingly calm, as though the world itself bends politely to his stride. The golden embroidery on his dark vest catches the flame’s glow, glinting like fresh blood on polished steel. You know this figure - both from his appearance when you were pulled into this cursed land, and by his reputation here in Barovia - this is Count Strahd von Zarovich, Lord of Barovia.
 >
 >Behind him, the flames resume their chaotic dance—but he stands still, a figure of cold command framed in ghostly green light, the stormy sky rolling behind him. No living thing dares breathe too loud. Strahd has arrived.
 >
@@ -452,11 +453,11 @@ In either case, I assume the players will be moving on after finally getting the
 > 
 > "Do yourselves a favour.  Leave this path.  Come and join me in Castle Ravenloft.  You are prisoners here, it is true, but you need not make Barovia a prison.  You are not the usual sort who wander into my domain.  You are powerful.  Formidable.  Come - join me.  Help me regain my Katarina.  That feat and that feat alone will break the endless cycle of this land, and free all of us!"
 
-Stradh will happily converse with his players and discuss anything and everything with them.  He is genuine with his invitation, and his motives are clear - high level adventurers like the party would be useful to him.  If they attack him they will find that Stradh's form here is just an image.  And if they choose to continue to seek the Amber Temple...
+Strahd will happily converse with his players and discuss anything and everything with them.  He is genuine with his invitation, and his motives are clear - high level adventurers like the party would be useful to him.  If they attack him they will find that Strahd's form here is just an image.  And if they choose to continue to seek the Amber Temple...
 
 > "As you wish.  I am not so foolish as to try to stop the likes of you.  Neither will I help you though.  Not any longer.  Barovia is a dangerous land, and while I have kept the dangers at bay heretofore, I will do so no longer.  Consider this a warning - if you travel beyond this gate, you do so on your own.
 
-With that the image of Stradh will fade, and players will be faced with the gate of flames. 
+With that the image of Strahd will fade, and players will be faced with the gate of flames. 
 
 #### T1. Gatehouse Portcullis
 The gate here is old and is rusted open here - the way is now barred with magical green flame instead of metal.
@@ -559,5 +560,5 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTQ3Mjk5ODddfQ==
+eyJoaXN0b3J5IjpbMTU3ODE2NTAxOV19
 -->
