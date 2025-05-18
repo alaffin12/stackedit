@@ -1,6 +1,5 @@
 
 # Caught by Strahd
-## Setup
 At the conclusion of their adventure into the Mournlands the party will have had the opportunity to gain one of the secrets needed to stabilize the cosmos.  Of course that was the easy one - the one Mordenkainen outlined in his thesis about the Tome of True Balance.
 
 Fortunately the automata that are part of Mordenkainen's Bastion have been hard at work cataloguing data while the party is away (N-C4R-T4).  They have found another snippet of Mordenkainen's writings which leads them to the next step...
@@ -25,7 +24,7 @@ Presumably they'll return to the Orrey and try and make their way to Tovag.  How
 >
 > The void fades, and you wake up around the embers of a campfire as dawn is approaching.  But something inside of you feels off... the dawn is dull, grey.  Swallowed by clouds.  And you are somewhere you did not expect to be...
 
-## Barovia
+## Outline
 ##### Notes of Barovia
 One of the Demiplanes of Dread, Barovia is subject to the following rules:
 * Supernatural mists surround Barovia and keep its prisoners imprisoned.  Anyone trying to leave Barovia gets lost in the mists and winds up back where they started - no exceptions (Strahd does frequently allow the Vistani to leave - but that is only by his parole, something he will not offer the players).
@@ -46,20 +45,9 @@ Rather, upon awakening in the Svalich Woods and heading west (heading east bring
 
 The focus is going to be placed upon the locations in Barovia the players are likely to visit in the pursuit of this goal.  If they go off script you may have to improvise, but the ideal path will take the party through the following:
 
-Barovia -> Tser Pool Encampment -> Old Bonegrinder -> Vallaki -
+Barovia -> Tser Pool Encampment -> Old Bonegrinder -> Vallaki -> Tsolenka Pass -> The Amber Temple 
 
-
-
-
-
-
-
-
-
-
-
-
-
+It is worth noting that any of these except the Tsolenka Pass and the Amber Temple can be skipped.
 
 ## Food and Drink in Barovia
 ### Foods in Barovia
@@ -91,5 +79,5 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjk4NjU4MjZdfQ==
+eyJoaXN0b3J5IjpbNDgwODc4MDY1XX0=
 -->
