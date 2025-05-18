@@ -520,7 +520,7 @@ A young red shadow dragon begins to attack the party on the bridge.  He will do 
 #### What's Really Going On Here
 The Amber Temple in Barovia is the physical manifestation of the metaphysical concept - the essence of the Demiplanes of Dread themselves.  In truth there is an equivalent of the Amber Temple in every one of the domains of Ravenloft - one for every Dread Lord, built upon a foundation of the fears, regrets, obsessions and the nature of their prison made manifest.  
 
-The Dark Powers are not gods - not truly.  They are ideas with so much metaphysical weight that they manifest their existence as a nominal power.  Unlike other beings in the cosmos they  
+The Dark Powers are not gods - not truly.  They are ideas with so much metaphysical weight that they manifest their existence as a nominal power.  Unlike other beings in the cosmos they cannot be killed  
 
 ## Food and Drink in Barovia
 ### Foods in Barovia
@@ -552,7 +552,7 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkwNDM2MjQ4LDY5ODQ4Nzc2NCw1NTQwNj
+eyJoaXN0b3J5IjpbNjYyMzQ2MTUzLDY5ODQ4Nzc2NCw1NTQwNj
 k1ODIsNTU3MDUxMjYyLC0yMTcyNjE5NTMsLTE0NTIzMzU5NjAs
 LTIxMTU4NDA0NDYsLTE0MzAyMDE0NjEsOTU3NTA2NTEsMTk2Nj
 A5MDkzNyw2NzAwNzI5NDUsLTE5NTExMjUwMiwxNzAzMDgzNTQ3
