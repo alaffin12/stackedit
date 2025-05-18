@@ -524,7 +524,8 @@ A young red shadow dragon begins to attack the party on the bridge.  He will do 
 
 **Why a Temple to Vecna:** The Amber Temple appears to be dedicated to Vecna.  This is both true and not true.  It reflects the impact Vecna has had on the metaphysical Amber Temple.  In ages past Vecna discovered the true Amber Temple.  Always hungry for power, Vecna laboured and unbound one of the Dark Powers imprisoned there - the Serpent - and struck a bargain with it.  The Serpent and Vecna are one, and their powers are the same.  
 
-**The Path From Here:** 
+**The Path From Here:** The party will have to do the following to move on from here:
+* Discover the nature of the Temple, the nature of the Dark Powers so that they can use it to secure the cosmos against Vecna's ritual (if the players fai
 
 ## Food and Drink in Barovia
 ### Foods in Barovia
@@ -556,7 +557,7 @@ Winterstomp is a white varietal from the Martikov winery.  They are mainly used 
 
 https://www.reddit.com/r/CurseofStrahd/comments/i9wop0/barovian_cuisine_where_barovians_get_their_food/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NzA3OTQyLC0zODk2MTM2MSwxNzE5Nj
+eyJoaXN0b3J5IjpbLTU0NDc3MjYxLC0zODk2MTM2MSwxNzE5Nj
 M2MTksNjk4NDg3NzY0LDU1NDA2OTU4Miw1NTcwNTEyNjIsLTIx
 NzI2MTk1MywtMTQ1MjMzNTk2MCwtMjExNTg0MDQ0NiwtMTQzMD
 IwMTQ2MSw5NTc1MDY1MSwxOTY2MDkwOTM3LDY3MDA3Mjk0NSwt
