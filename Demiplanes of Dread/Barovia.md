@@ -1,7 +1,136 @@
 
+### The Village of Barovia (Area E)
+The first place the players encounter as they head west is the village from which the land gets its name...
 
+> A dense, unnatural mist clings to the crooked, rutted road as it winds into the heart of Barovia, a village suffocated by gloom. Sagging, decrepit houses lean toward the muddy streets, their shutters rattling in the cold wind like whispered warnings. The air is thick with damp rot, the scent of mildew and despair mingling with the faint iron tang of something fouler. The dim sunlight in this place barely punches through the broken windows, illuminating gaunt faces that vanish at the slightest movement. A church bell tolls weakly in the distance, its sound lost in the oppressive silence that blankets the village—a silence broken only by the occasional sob of an unseen mourner.
+
+#### Unnamed Locations
+If players visit an location that is not otherwise noted as being significant on the map they encounter on of the following inside the house: 
+
+| d20 | Occupants |
+| - | - |
+| 1-3 | Empty |
+| 4-8 | Rats! |
+| 9-16 | Barovian Villagers |
+| 17-20 | 4+2*1d4 Ghosts |
+
+#### Entering Town
+As the players enter town they meet Morgantha, a blood hag disguised as a kindly old woman, exiting a house...
+
+> You hear a door open and as your head snaps around to see the source of the noise you see a kindly looking old woman dressed in rags stepping out from inside.  She says something unheard to an occupant inside the house, turns and deposits a coin in a box she wears on her hip.  She moves to a nearby cart, looking over at you and smiling.  "Hm?  You're not from around here are you?  Could I interest you in one of my delicious hand pies?"
+
+Morgantha is evil and works with her mother and daughter at the Old Bonegrinder windmill, stealing the souls of children to make her special pies.  However the pies do have useful magical properties (detailed below) and the party does not know Morgantha is evil yet.  Also as she is portraying a kindly (if somewhat shabby) old lady she will help the players with the following information:
+
+* The only inn in town is the "Blood on the Vine" public house.  Calling it an inn is a stretch - it doesn't have rooms, just a common room with a hearth.  However it is warm, dry and safe at night.  
+* The Blood on the Vine is owned by three Vistani women.  Morgantha doesn't know much about the women or about the Vistani in general
+* The is a semi-permanent Vistani camp nearby as well, near the Tser Pool.  It's about four hours if you follow the road, on the other side of the Ivalis River.
+* Strahd is a powerful ruler - the party should avoid crossing him if possible.
+* Morgantha's pies are made by her and her mother.  They usually have potato and turnip filling, along with meat if they can get some from the hunters.  Wolf meat is most common (and is what she has today) owing to how common it is in Barovia.
+* If asked why they are so expensive (a gold each) Morgantha will explain that her, her daughter and her mother use a little bit of the old magic - something that has been passed down from mother to daughter through her family for a long time.  Anyone who eats one will have on the sweetest dreams that night.  Sadly, such things have to be done right to get the magic to work - and doing things right costs gold in Barovia.  "It's not like I can use the cheap cast offs the hunters give away cheap, or rotten old potatoes."
+
+#### E1. Bildrath's Mercantile
+>The sparse light from this building spills out from behind drawn heavy curtains. A sign over the door, creaking on its hinges, reads “Bildrath’s Mercantile.”
+
+Bildrath Cantemir works a general store here.  It sells basic adventuring gear (everything from the PHB labelled adventuring gear that costs less than 25 gp) for exorbitant prives (10x the list price).  Bildrath is self serving and is not interested in haggling - "All prices are best and final.  No haggling - you want, you pay!"  His nephew, Parpol "Parriwhimple" Cantemir (who is a large, strong but ultimately dumb young man) also works at the shop.
+
+#### E2. Blood on the Vine Tavern
+>A single shaft of light thrusts illumination into the main square, its brightness looking like a solid pillar in the heavy fog. Above the gaping doorway, a sign hangs precariously askew, proclaiming this to be the Blood on the Vine tavern.
+
+**Menu**
+| Item | Price |
+|--|--|
+| *Breakfast* |  |
+| Potato Bread (Tough, nearly inedible bread) | 2 cp |
+| Barley Porridge (Watery porridge) | 3 cp |
+| *Lunch/Dinner* | |
+| Potato Bread (Tough, nearly inedible bread) | 2 cp |
+| Cabbage Soup (Watery soup of potato and cabbage, with a few bits of chopped bacon. | 3 cp |
+| Wolf Soup (Tastes strongly of garlic and vinegar, with some carrots and bits of stringy wolf meat) | 3 sp |
+| Blood Sausage (Made of wolf's blood.  Tough and stringy, but filling) | 5 sp |
+| *Drink* | |
+| Purple Grapesmash #3 - Glass | 3 cp |  
+| Purple Grapesmash #3 - Bottle | 20 cp |
+
+
+##### NPCs
+**Arik Lorensk**, or just Arik the Barkeep, is a small and pudgy little man who tends the bar of the tavern.  Mindlessly he cleans the glasses, one after another, starting over when he finishes the first.  He doesn't do much conversing, but if spoke to he will answer in a dull and hollow voice, basically taking drink orders before moving on to something else.
+ 
+**Ismark Kolyanovich** sits in the bar, nursing a glass of Purple Grapesmash #3.  Today is the anniversary of his mother and father's death and it looms over him - putting him in a bad mood.  Of a regal, aristocratic bearing, Ismark will briefly fill in some of the blanks to his allies.
+
+> "My father was burgomaster, my mother his beautiful bride.  They were happy, for a time.  But this place twists all that is good, and their love - that was good.  My mother - her name was Ireena - was said to resemble Katarina, Strahd's first love.  A love that was lost to him.  Strahd came for her.  He did not care for her wedding vows or for her maternal bonds.  He wished to possess her.  And he made his move.  My father - he was not a great warrior.  I am ten times the swordsman he was in his heyday - and he was not in his heyday by that time.  Strahd slew him first.  Then my mother fell upon my father's blade to spare her from the indignity of being Strahd's bride.  And so tonight I drink.  To remember them, and to forget what killed them."
+
+Ismark is probably the friendliest face the party is going to see for awhile, and while he is not able to point them directly to the Amber Temple (if they ask) he does know that there is supposed to be some kind of repository of knowledge near Mount Ghakis.
+
+**Queen of the Soil, Pure Forge and Pearl of the Forest Stream** are the three Vistani (tabaxi) proprietors of the Blood of the Vine Tavern.  The usually sit at a table by the door and keep an eye on things, making sure people pay their tabs and whatnot.  They are gossipy Mean Girl types, and pass judgment on all who enter.  If they see a Vistani (tabaxi) they will muse, wondering if the old fools had changed their mind, or decided they too were tired of living in horse manure.  Each has a small scar beneath their eye - a symbol of their status in the Vistani community.  They are considered *mortu* and have been exiled (and marked) for the crime of arranging the rape of one of their own kind two years ago.
+
+#### E3. Mad Mary and Gertuda
+Mad Mary, a crazy old woman, lives here with her daughter Gertuda.  Gertuda is kept inside by her mother, who is (understandably) paranoid about everything.
+
+#### E4. Burgomaster's Mansion
+> A weary-looking mansion squats behind a rusting iron fence. The iron gates are twisted and torn. The right gate lies cast aside, while the left swings lazily in the wind. The stuttering squeal and clang of the gate repeats with mindless precision. Weeds choke the grounds and press with menace upon the house itself.
+
+Ismark's home.  Nothing of interest here, save pictures of Ismark's mother and father.
+
+#### E5. The Church
+> Atop a slight rise, against the roots of the pillar stone that supports Castle Ravenloft, stands a gray, sagging edifice of stone and wood. This church has obviously weathered the assaults of evil for centuries on end and is worn and weary. A bell tower rises toward the back, and flickering light shines through holes in the shingled roof. The rafters strain feebly against their load.
+
+If the characters approach the church doors, add:  
+
+> The heavy wooden doors of the church are covered with claw marks and scarred by fire.
+
+The village priest, Donavich, lives here. Other Barov­ians shun the church for reasons that will quickly become obvious.  The following areas correspond to labels on the map of the church.
+
+##### E5a. Hall
+> The doors open to reveal a ten-foot-wide, twenty-foot-long hall leading to a brightly lit chapel. The hall is unlit and reeks of mildew. Four doors, two on each side of the hall, lead to adjacent chambers.  
+>   
+> You can see that the chapel is strewn with debris, and you hear a soft voice from within reciting a prayer. Suddenly, the prayer is blotted out by an inhuman scream that rises up from beneath the wooden floor.
+  
+The scream comes from the church’s undercroft (area E5g). The soft voice uttering the prayer belongs to Donavich, the priest (see area E5f).  
+  
+##### E5b. Doru’s Bedroom
+> This dirty, lightless room contains a wooden bed with a straw-filled mattress. Mounted above the bed’s headboard is a wooden holy symbol.
+  
+This room once belonged to Doru, Donavich’s son, who is trapped in the undercroft (area E5g). It hasn’t been used in more than a year and contains nothing of value.  
+
+##### E5c. Donavich’s Bedroom
+> This dirty room contains a wooden bed with a straw-filled mattress, next to which rests a small table with an oil lamp burning brightly on it. Mounted above the bed’s headboard is a wooden sun-shaped holy symbol.
+
+This is Donavich’s room and contains nothing of value.  
+
+##### E5d. Trapdoor
+> Time and neglect have punched holes in the ceiling of this moldy room, which contains a few broken roof shingles amid puddles of water. In one corner, set into the floor, is a heavy wooden trapdoor held shut with a chain and a padlock.  It is engraved - although engraved is perhaps not the right word, given the rough nature of the engraving - with all manner of sigils and symbols, prayers and mantras A young man’s screams of anguish can be heard through the door.
+
+Donavich keeps his son Doru in the undercroft, unable to kill him but well aware of the monster Doru has become.  As the years have gone by Donavich has fed his son sparingly with his own blood, and has redoubled the wards and sigils on the trap door in the hopes of keeping his son down there.
+  
+##### E5e. Office
+> An old desk and chair stand against the south wall, a wooden holy symbol mounted above them—a sunburst. A ten-foot-long iron rod attached to the north wall stands bare, suggesting a tapestry once hung there. Against the far wall stands a wooden cabinet with four tall doors.
+  
+An empty wooden poor box rests on the seat of the chair. The desk drawers contain a few sheets of blank parchment, along with a couple of quill pens and dried-up jars of ink.  
+  
+For its size, the wooden cabinet contains very little. Inside are a tinderbox, a few wooden boxes full of candles, and two well-used books: *Hymns to the Dawn*, a volume of prayers and chants dedicated to the worship of the Morninglord, and *The Blade of Truth: The Uses of Logic in the War Against Diabolist Heresies, as Fought by the Ulmist Inquisition*, a strange book that mixes logic exercises with lurid descriptions of fiend-worshiping cults.  Among the writings in that book there are several pages dedicated to the "Repository of Knowledge" located on Mount Ghakis.
+
+##### E5f. Chapel
+> The chapel is a shambles, with overturned and broken pews littering the dusty floor. Dozens of candles mounted in candlesticks and candelabras light every dusty corner in a fervent attempt to rid the chapel of shadows. At the far end of the church sits a claw-scarred altar, behind which kneels a priest in soiled vestments. Next to him hangs a long, thick rope that stretches up into the bell tower.
+  
+If the characters have not already entered the undercroft, add:  
+
+> From beneath the chapel floor, you hear a young man’s voice cry out, “Father! I’m starving!”
+  
+Donavich has been praying throughout the night.  As he has every night for more than a year. His voice is hoarse and weak. He is, in a word, insane. A little more than a year ago, his twenty-year-old son Doru and several other villagers stormed Castle Ravenloft in a futile revolt.  There were few enough survivors, but those that returned confirmed that Doru had died.  And yet less than a week later he returned home.  Donavich is crazy, but he is not stupid.  He knows what his son is.  A monster.  But he cannot bring himself to kill his son.  Donavich was able to trap his son in the church’s undercroft, where he remains to this day.  
+  
+Doru has only been fed sparingly by his father since he was imprisoned, and he cries out at all hours. Meanwhile, Donavich prays day and night, hoping that the gods will tell him how to save Doru without destroying him. If the characters seem intent on slaying Doru, Donavich does his best to stop them. If Doru dies, Donavich falls to the floor and weeps inconsolably, overcome with despair.  
+
+##### E5g. Undercroft
+> The church’s undercroft has rough-hewn walls and a floor made of damp clay and earth. Rotting wooden pillars strain under the weight of the wooden ceiling. Candlelight from the chapel above slips though the cracks, allowing you to glimpse a gaunt shape in the far corner.
+
+The shape is Doru, Donavich's son and a Vampire Warrior sent by Strahd to torment Donavich.  Doru is hungry, having only be fed sparingly by his father (ostensibly to keep him weak).  He will try to sneak out, rather than directly confront that party, but he will not hesitate to try and take a meal from them either.
+  
+#### E6. Cemetery
+> A fence of wrought iron with a rusty gate encloses a rectangular plot of land behind the dilapidated church. Tightly packed gravestones shrouded by fog bear the names of souls long passed. All seems quiet.
+  
+During daytime, the cemetery is a still and peaceful place. Every night at midnight, however, a ghostly procession takes place (probably don't do this - it's stupid)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTYxOTI2MzE1MSw3MzA5OTgxMTZdfQ==
 -->
