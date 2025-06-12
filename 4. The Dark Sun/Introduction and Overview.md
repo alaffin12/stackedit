@@ -2,7 +2,9 @@ When the part returns from Barovia the sanctum will have the next destination fo
 
 > My mind turns curiously time and again to Athas, the Land of the Dark Sun.
 >  
-> I have not ventured often to Athas.  It is a grim place, one that has fallen out of balance with itself.  And magic - my weapon and ally
+> I have not ventured often to Athas.  It is a grim place, one that has fallen out of balance with itself.  And magic - my weapon and ally - is problematic there.  So I do not often venture to those lands.  
+> 
+> But in my search for the foundational secrets of the comos my mind turns again and aga
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NjgwMTQzMF19
+eyJoaXN0b3J5IjpbMzkzODk5NjAzLDIwNDY4MDE0MzBdfQ==
 -->
