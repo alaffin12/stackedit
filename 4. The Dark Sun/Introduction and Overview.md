@@ -6,7 +6,8 @@ When the part returns from Barovia the sanctum will have the next destination fo
 > 
 > But in my search for the foundational secrets of the cosmos my mind turns again and again to Athas.  A stubborn world, holding on against its own collapse.  But why is it collapsing?  One might point to the defiling magic wielded by its sorcerer-kings, or the scorching heat of its dying sun.  They might even point to Raajat Warbringer, a figure from their distant history who chained the world.  But those answers are short, limited.  Yes - defiling magic is behind the dying planet and perhaps even its dying sun.  Yes - Raajat introduced defiling magic to the world.  But why has magic failed in Athas?  What happened to it?  I suspect the answer lies back in the depths of its history - back in what the locals call the Blue Age some fourteen thousand years prior.  But where to look and how to find it?  I do not know this answer...
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MzYyMjU0NSwtMzM3MDk5MjA3LC0xMz
-IwMTE1NzY3LDIwNDY4MDE0MzBdfQ==
+eyJoaXN0b3J5IjpbMTg2NTcwOTE4MywxNDgzNjIyNTQ1LC0zMz
+cwOTkyMDcsLTEzMjAxMTU3NjcsMjA0NjgwMTQzMF19
 -->
