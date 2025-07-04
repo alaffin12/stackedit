@@ -15,6 +15,9 @@ Everyone starts with a boon:
 
 * **Mourning Blast.** Once per long rest, as an action, you can unleash a blast of distorted psychic force. All creatures of your choice in a 20-foot-radius sphere centered on you must make an Intelligence saving throw (DC = 8 + your proficiency + your Intelligence modifier) or take 6d10 psychic damage and be blinded until the end of their next turn. On a success, they take half damage and are not blinded.  Constructs and creatures with no Intelligence score are immune. Creatures native to the Mournland have advantage.
 
+### Mazirak Clanbane
+*Working for the Prince of Nessus has its advantages.  
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzM4Nzg1MTVdfQ==
+eyJoaXN0b3J5IjpbNTk2NDg3OTMxLC0xNjczODc4NTE1XX0=
 -->
