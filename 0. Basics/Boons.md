@@ -18,7 +18,9 @@ Everyone starts with a boon:
 ### Mazirak Clanbane
 *Working for the Prince of Nessus has its advantages.  Others have learned the Bladesong from lesser masters, but your baritone rumble was honed in the infernal choir.  When your foes miss you, they learn to regret it...*
 
+* **Hellfire Counter.** Once per short rest, when a creature within 5 feet of you misses you with a melee attack, you can use your reaction to unleash a hellfire-infused counterattack.  The attacker takes 3d6 fire damage, and must succeed on a Dexterity saving throw (DC = 8 + your Intelligence modifier + your proficiency bonus) or be blinded by searing infernal light until the end of their next turn.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNzYxOTIxNCw1OTY0ODc5MzEsLTE2Nz
+eyJoaXN0b3J5IjpbMTE4NzYyMjI2MCw1OTY0ODc5MzEsLTE2Nz
 M4Nzg1MTVdfQ==
 -->
