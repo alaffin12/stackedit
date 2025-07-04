@@ -16,9 +16,9 @@ Everyone starts with a boon:
 * **Mourning Blast.** Once per long rest, as an action, you can unleash a blast of distorted psychic force. All creatures of your choice in a 20-foot-radius sphere centered on you must make an Intelligence saving throw (DC = 8 + your proficiency + your Intelligence modifier) or take 6d10 psychic damage and be blinded until the end of their next turn. On a success, they take half damage and are not blinded.  Constructs and creatures with no Intelligence score are immune. Creatures native to the Mournland have advantage.
 
 ### Mazirak Clanbane
-*Working for the Prince of Nessus has its advantages.  Others have learned the Bladesong from lesser masters, but your Baritone 
+*Working for the Prince of Nessus has its advantages.  Others have learned the Bladesong from lesser masters, but your baritone rumble was honed in the infernal choir.  When your foes miss you, they learn to regret it...*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTkyNjU4ODQsNTk2NDg3OTMxLC0xNj
-czODc4NTE1XX0=
+eyJoaXN0b3J5IjpbMTAyNzYxOTIxNCw1OTY0ODc5MzEsLTE2Nz
+M4Nzg1MTVdfQ==
 -->
