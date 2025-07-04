@@ -1,7 +1,7 @@
 Everyone starts with a boon:
 
 Nakos the Returned:
-*Work
+*Working with Zyblina is... not hte easiest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NDYxOTcyMF19
+eyJoaXN0b3J5IjpbMjEwNjI5MDQxM119
 -->
