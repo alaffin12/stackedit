@@ -11,8 +11,8 @@ Everyone starts with a boon:
 * **Undead Fortitude.** If damage reduces you to 0 hit points, you must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, you drop to 1 hit point instead.
 
 ### *Leslie (Name Unknown)*
-*You are a survivor of Cyre, but it scarred you.  You have learned to cope with the loss of your homeland, your people, your family.  But there are times when it feels like it will overwhelm you
+*You are a survivor of Cyre, but it scarred you.  You have learned to cope with the loss of your homeland, your people, your family.  But there are times when it feels like it will drown you in a sea of depression.  You have learned to take that pain, that hole in your soul, and turn it into raw psionic energy - the same stuff as your blades, but far more powerful and far less controlled.  When you let yourself feel that pain - when you touch that black void - the psionic energy flows through you, and o
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUxNDE0OTk1XX0=
+eyJoaXN0b3J5IjpbLTEzMDIzMzM5MDJdfQ==
 -->
