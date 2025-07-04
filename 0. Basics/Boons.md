@@ -10,7 +10,9 @@ Everyone starts with a boon:
 * **Wings.**  You have giant fairy wings on your back.  You can fly at half-your movement (walking) speed if you are wearing no armor or light armor.  Otherwise the wings are mostly ornamental.
 * **Undead Fortitude.** If damage reduces you to 0 hit points, you must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, you drop to 1 hit point instead.
 
-### *Leslie (Name Unknown*
+### *Leslie (Name Unknown)*
+*You are a survivor of Cyre, but it scarred you.  You have learned to cope with the loss of your homeland, your people, your family.  But there are times when it feels like it will overwhelm you
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NjA4Mzc3MV19
+eyJoaXN0b3J5IjpbNjUxNDE0OTk1XX0=
 -->
