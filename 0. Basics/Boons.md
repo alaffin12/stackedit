@@ -26,8 +26,10 @@ Everyone starts with a boon:
 * **Burning Grace.** Once per long rest you may enter a state of Burning Grace for one minute as a bonus action.  While in this state, when you use any ability that restores hit points (i.e. *cast cure wounds, use healing light*) you may add your Charisma modifier to the healing (if you already add your charisma modifier to the healing you may add it a second time).  Additionally, when you heal an ally you may choose one enemy within 10 ft. of that ally - that enemy take radiant damage equal to the healing done (no save, once per turn).  Finally, allies you heal during this state gain advantage on their next saving throw before the end of their next turn.
 
 ### Riric Slickfingers
-*The battle you survived with Iymrith changed you.  Serissa gave you a shard of divinity to help defeat Iymrith, and although you and your allies later used that 
+*The battle you survived with Iymrith changed you.  Serissa gave you a shard of divinity to help defeat Iymrith, and although you and your allies later used that power to resurrect Serissa and Hekaton some of it stayed with you - making you a more dangerous foe.*
+
+* **Mantle of the Stronmaus.** Once per long rest 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MTE2MTM4LC0zOTgzMTI5NjIsMTE4Nz
-YyMjI2MCw1OTY0ODc5MzEsLTE2NzM4Nzg1MTVdfQ==
+eyJoaXN0b3J5IjpbLTEyODY4MzM1MDksLTM5ODMxMjk2MiwxMT
+g3NjIyMjYwLDU5NjQ4NzkzMSwtMTY3Mzg3ODUxNV19
 -->
