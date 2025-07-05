@@ -23,8 +23,8 @@ Everyone starts with a boon:
 ### *Jane (Name Unknown)*
 *You no longer server the divine through ritual.  The woman of the cloth that you once were - the woman that stumbled across the field of battle and learned the true price of war - is long gone, as are the trappings of holiness.  You still serve a higher power, but you do it on your own terms.  Your healing is not soft - it sears wounds like fire cutting through shadow.  When you choose to heal, your enemies feel it.*
 
-* **Burning Grace.** Once per long rest you may enter a state of Burning Grace for one minute as a bonus action.  While in this state, when you use any ability that restores hit points *(i.e. 
+* **Burning Grace.** Once per long rest you may enter a state of Burning Grace for one minute as a bonus action.  While in this state, when you use any ability that restores hit points (i.e. *cast cure wounds, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNDc4OTQzNywxMTg3NjIyMjYwLDU5Nj
+eyJoaXN0b3J5IjpbMTQ1OTkwMjc2MSwxMTg3NjIyMjYwLDU5Nj
 Q4NzkzMSwtMTY3Mzg3ODUxNV19
 -->
