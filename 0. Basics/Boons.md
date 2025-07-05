@@ -31,9 +31,11 @@ Everyone starts with a boon:
 * **Mantle of the Stronmaus.** Once per long rest you may call upon the divinity of Stronmaus.  For one minute you wear a mantle of the storm itself.  Your movement speed increases by 10 ft and when you succeed on a melee attack you may add an additional 1d6 thunder damage to the attack and the target cannot take reactions until the start of its next turn.  Additionally, while wearing the mantle if you are struck my a melee attack you may, as a reaction, deal 2d8 lightning damage to the attacker, and the attacker must make a strength save against a DC of 8 + DEX+ Proficiency or be pushed back 10 ft.
 
 ### Oh the Fragrent
-*In the battle in the desert, in the battle against a nascent dragon god ancient titans - the sons of Annam - wielded you as their blade.  As you fell from the sky something awoke in you - a connection to the Titans who were wielding you.    
+*In the battle in the desert, in the battle against a nascent dragon god ancient titans - the sons of Annam - wielded you as their blade.  As you fell from the sky something awoke in you - a connection to the Titans who were wielding you.  And now, when death seems close at hand, you can call on that power once more...*
+
+* **Titan's Fury.** Once per long rest, when you would normally be reduced to 0 HP you instead drop to 1 HP and invoke the Titan's Fury  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2Mzc1MTYzNiwtMTAwNTkwMTQ0OSwtMz
+eyJoaXN0b3J5IjpbMTA2NjczOTQzMCwtMTAwNTkwMTQ0OSwtMz
 k4MzEyOTYyLDExODc2MjIyNjAsNTk2NDg3OTMxLC0xNjczODc4
 NTE1XX0=
 -->
