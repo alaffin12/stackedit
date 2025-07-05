@@ -23,7 +23,8 @@ Everyone starts with a boon:
 ### *Jane (Name Unknown)*
 *You no longer server the divine through ritual.  The woman of the cloth that you once were - the woman that stumbled across the field of battle and learned the true price of war - is long gone, as are the trappings of holiness.  You still serve a higher power, but you do it on your own terms.  Your healing is not soft - it sears wounds like fire cutting through shadow.  When you choose to heal, your enemies feel it.*
 
+* **Burning Grace.** Once per  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTIxNTM5NjYsMTE4NzYyMjI2MCw1OT
-Y0ODc5MzEsLTE2NzM4Nzg1MTVdfQ==
+eyJoaXN0b3J5IjpbLTgwMzM3NTQwOSwxMTg3NjIyMjYwLDU5Nj
+Q4NzkzMSwtMTY3Mzg3ODUxNV19
 -->
