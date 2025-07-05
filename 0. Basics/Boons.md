@@ -21,8 +21,9 @@ Everyone starts with a boon:
 * **Hellfire Counter.** Once per short rest, when a creature within 5 feet of you misses you with a melee attack, you can use your reaction to unleash a hellfire-infused counterattack.  The attacker takes 3d6 fire damage, and must succeed on a Dexterity saving throw (DC = 8 + your Intelligence modifier + your proficiency bonus) or be blinded by searing infernal light until the end of their next turn.
 
 ### *Jane (Name Unknown)*
-*You no longer server the divine through ritual.  The woman of the cloth that you once were - the woman that stumbled across the field of battle and learned the true price of war - is long gone, as are the trappings of the spirit
+*You no longer server the divine through ritual.  The woman of the cloth that you once were - the woman that stumbled across the field of battle and learned the true price of war - is long gone, as are the trappings of holiness.  You still serve a higher power, but you do it on your own terms.  Your healing is not soft - it sears wounds like fire cutting through shadow.  When you choose to heal, your enemies feel it.*
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMzQ5ODQzMCwxMTg3NjIyMjYwLDU5Nj
-Q4NzkzMSwtMTY3Mzg3ODUxNV19
+eyJoaXN0b3J5IjpbLTE4OTIxNTM5NjYsMTE4NzYyMjI2MCw1OT
+Y0ODc5MzEsLTE2NzM4Nzg1MTVdfQ==
 -->
