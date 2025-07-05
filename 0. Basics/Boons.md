@@ -11,7 +11,7 @@ Everyone starts with a boon:
 * **Undead Fortitude.** If damage reduces you to 0 hit points, you must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, you drop to 1 hit point instead.
 
 ### *Leslie (Name Unknown)*
-*You are a survivor of Cyre, but it scarred you.  You have learned to cope with the loss of your homeland, your people, your family.  But there are times when it feels like it will drown you in a sea of depression.  You have learned to take that pain, that hole in your soul, and turn it into raw psionic energy - the same stuff as your blades, but far more powerful and far less controlled.  When you let yourself feel that pain - when you touch that black void - the psionic energy flows through you, and other get to experience a fraction of your suffering.*
+*You are a survivor of Cyre, but it scarred you.  You have learned to cope with the loss of your homeland, your people, your family.  But there are times when it feels like it will drown you in a sea of depression.  You have learned to take that pain, that hole in your soul, and turn it into raw psionic energy - the same stuff as your blades, but far more powerful and far less controlled.  When you let yourself feel that pain - when you touch that black void - the psionic energy flows through you, and others get to experience a fraction of your suffering.*
 
 * **Mourning Blast.** Once per long rest, as an action, you can unleash a blast of distorted psychic force. All creatures of your choice in a 20-foot-radius sphere centered on you must make an Intelligence saving throw (DC = 8 + your proficiency + your Intelligence modifier) or take 6d10 psychic damage and be blinded until the end of their next turn. On a success, they take half damage and are not blinded.  Constructs and creatures with no Intelligence score are immune. Creatures native to the Mournland have advantage.
 
@@ -21,6 +21,6 @@ Everyone starts with a boon:
 * **Hellfire Counter.** Once per short rest, when a creature within 5 feet of you misses you with a melee attack, you can use your reaction to unleash a hellfire-infused counterattack.  The attacker takes 3d6 fire damage, and must succeed on a Dexterity saving throw (DC = 8 + your Intelligence modifier + your proficiency bonus) or be blinded by searing infernal light until the end of their next turn.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NzYyMjI2MCw1OTY0ODc5MzEsLTE2Nz
-M4Nzg1MTVdfQ==
+eyJoaXN0b3J5IjpbMTk0ODM1MTQxNywxMTg3NjIyMjYwLDU5Nj
+Q4NzkzMSwtMTY3Mzg3ODUxNV19
 -->
