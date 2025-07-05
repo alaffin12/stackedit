@@ -23,8 +23,8 @@ Everyone starts with a boon:
 ### *Jane (Name Unknown)*
 *You no longer server the divine through ritual.  The woman of the cloth that you once were - the woman that stumbled across the field of battle and learned the true price of war - is long gone, as are the trappings of holiness.  You still serve a higher power, but you do it on your own terms.  Your healing is not soft - it sears wounds like fire cutting through shadow.  When you choose to heal, your enemies feel it.*
 
-* **Burning Grace.** Once per long rest you may enter a state of Burning Grace for one minute as a bonus action.  While in this state, when you use any ability that restores hit points (i.e. *cast cure wounds, use healing light*) you may add your Charisma modifier to the healing (if you already add your charisma modifier to the healing you may add it a second time).  
+* **Burning Grace.** Once per long rest you may enter a state of Burning Grace for one minute as a bonus action.  While in this state, when you use any ability that restores hit points (i.e. *cast cure wounds, use healing light*) you may add your Charisma modifier to the healing (if you already add your charisma modifier to the healing you may add it a second time).  Additionally, when you heal an ally you may choose one enemy within 10 ft. of that ally - that enemy take radiant damage equal to the healing done (no save, once per turn).  Finally, allies you heal during this state 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MTQ3OTMyLDExODc2MjIyNjAsNTk2ND
+eyJoaXN0b3J5IjpbNTMwNTMxNDU2LDExODc2MjIyNjAsNTk2ND
 g3OTMxLC0xNjczODc4NTE1XX0=
 -->
