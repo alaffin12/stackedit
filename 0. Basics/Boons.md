@@ -28,8 +28,8 @@ Everyone starts with a boon:
 ### Riric Slickfingers
 *The battle you survived with Iymrith changed you.  Serissa gave you a shard of divinity to help defeat Iymrith, and although you and your allies later used that power to resurrect Serissa and Hekaton some of it stayed with you - making you a more dangerous foe.*
 
-* **Mantle of the Stronmaus.** Once per long rest you may call upon the divinity of Stronmaus.  Wh 
+* **Mantle of the Stronmaus.** Once per long rest you may call upon the divinity of Stronmaus.  For one minute you wear a mantle of the storm itself.  Your movement speed increases by 10 ft and when you succeed on a melee attack you may add an additional 1d6 thunder damage to the attack and the target cannot take reactions until the s.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMzkzMzczNCwtMzk4MzEyOTYyLDExOD
+eyJoaXN0b3J5IjpbLTU4NTgxNjg0OCwtMzk4MzEyOTYyLDExOD
 c2MjIyNjAsNTk2NDg3OTMxLC0xNjczODc4NTE1XX0=
 -->
