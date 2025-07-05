@@ -33,9 +33,9 @@ Everyone starts with a boon:
 ### Oh the Fragrent
 *In the battle in the desert, in the battle against a nascent dragon god ancient titans - the sons of Annam - wielded you as their blade.  As you fell from the sky something awoke in you - a connection to the Titans who were wielding you.  And now, when death seems close at hand, you can call on that power once more...*
 
-* **Titan's Fury.** Once per long rest, when you would normally be reduced to 0 HP you instead drop to 1 HP and invoke the Titan's Fury  
+* **Titan's Fury.** Once per long rest, when you would normally be reduced to 0 HP you instead drop to 1 HP and invoke the Titan's Fury.  For the next minute you are automatically raging - this rage does not count against your daily use limits (although if you were raging when you would have dropped to 0 HP you do not receive that rage back as a refund.  Beyond your normal rage abilities you also gain resistance to all damage e  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NjczOTQzMCwtMTAwNTkwMTQ0OSwtMz
+eyJoaXN0b3J5IjpbLTg4MzM3NjcwMCwtMTAwNTkwMTQ0OSwtMz
 k4MzEyOTYyLDExODc2MjIyNjAsNTk2NDg3OTMxLC0xNjczODc4
 NTE1XX0=
 -->
