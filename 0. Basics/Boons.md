@@ -20,7 +20,9 @@ Everyone starts with a boon:
 
 * **Hellfire Counter.** Once per short rest, when a creature within 5 feet of you misses you with a melee attack, you can use your reaction to unleash a hellfire-infused counterattack.  The attacker takes 3d6 fire damage, and must succeed on a Dexterity saving throw (DC = 8 + your Intelligence modifier + your proficiency bonus) or be blinded by searing infernal light until the end of their next turn.
 
+### *Jane (Name Unknown)*
+*The gods set a path for you.  A good path, it is
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0ODM1MTQxNywxMTg3NjIyMjYwLDU5Nj
+eyJoaXN0b3J5IjpbMTc5NzYxMzIxMiwxMTg3NjIyMjYwLDU5Nj
 Q4NzkzMSwtMTY3Mzg3ODUxNV19
 -->
