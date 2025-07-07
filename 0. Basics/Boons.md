@@ -33,9 +33,9 @@ Everyone starts with a boon:
 ### Oh the Fragrent
 *In the battle in the desert, in the battle against a nascent dragon god ancient titans - the sons of Annam - wielded you as their blade.  As you fell from the sky something awoke in you - a connection to the Titans who were wielding you.  And now, when death seems close at hand, you can call on that power once more...*
 
-* **Titan's Fury.** Once per long rest, when you would normally be reduced to 0 HP you instead drop to 1 HP and invoke the Titan's Fury.  For the next minute you are automatically raging - this rage does not count against your daily use limits (although if you were raging when you would have dropped to 0 HP you do not receive that rage back as a refund) and you do not stop raging unless you choose to.  Beyond your normal rage abilities you also gain resistance to all damage except psychic and force, your jumping distance is tripled and you are completely immune to fall damage.  You may use a bonus action to roar, forcing all hostile creatures within 10 ft of you to make a Wisdom saving throw (DC 8 + CON + Proficiency) or be frightened of you until the end of their next turn.
+* **Titan's Fury.** Once per long rest, when you would normally be reduced to 0 HP you instead drop to 1 HP and invoke the Titan's Fury.  For the next minute you are automatically raging - this rage does not count against your daily use limits (although if you were raging when you would have dropped to 0 HP you do not receive that rage back as a refund) and you do not stop raging unless you choose to.  Beyond your normal rage abilities you also gain resistance to all damage except psychic and force, your jumping distance is tripled and you are completely immune to fall damage.  You may use a bonus action to roar, forcing all hostile creatures within 10 ft of you to make a Wisdom saving throw (DC 8 + CON + Proficiency) or be frightened of you until the end of your next turn.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzIxMzM5NjUsLTE0MTkzOTAxMDgsLT
-EwMDU5MDE0NDksLTM5ODMxMjk2MiwxMTg3NjIyMjYwLDU5NjQ4
-NzkzMSwtMTY3Mzg3ODUxNV19
+eyJoaXN0b3J5IjpbLTIxNDQyMTkxMzAsLTEzMzIxMzM5NjUsLT
+E0MTkzOTAxMDgsLTEwMDU5MDE0NDksLTM5ODMxMjk2MiwxMTg3
+NjIyMjYwLDU5NjQ4NzkzMSwtMTY3Mzg3ODUxNV19
 -->
