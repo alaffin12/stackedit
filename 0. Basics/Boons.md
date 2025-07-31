@@ -13,7 +13,7 @@ Everyone starts with a boon:
 ### *Leslie (Name Unknown)*
 *You are a survivor of Cyre, but it scarred you.  You have learned to cope with the loss of your homeland, your people, your family.  But there are times when it feels like it will drown you in a sea of depression.  You have learned to take that pain, that hole in your soul, and turn it into raw psionic energy - the same stuff as your blades, but far more powerful and far less controlled.  When you let yourself feel that pain - when you touch that black void - the psionic energy flows through you, and others get to experience a fraction of your suffering.*
 
-* **Mourning Blast.** Once per long rest, as an action, you can unleash a blast of distorted psychic force. All creatures of your choice in a 20-foot-radius sphere centered on you must make an Intelligence saving throw (DC = 8 + your proficiency + your Intelligence modifier) or take 6d10 psychic damage and be blinded until the end of their next turn. On a success, they take half damage and are not blinded.  Constructs and creatures with no Intelligence score are immune. Creatures native to the Mournland have advantage.
+* **Mourning Blast.** Once per long rest, as an action, you can unleash a blast of distorted psychic force. All creatures of your choice in a 20-foot-radius sphere centered on you must make an Intelligence saving throw (DC = 8 + your proficiency + your Intelligence modifier) or take 6d10 psychic damage and be blinded until the end of their next turn. On a success, they take half damage and are not blinded.  Constructs and creatures with no Intelligence score are immune. Creatures native to the Mournland have advantage on their .
 
 ### Mazirak Clanbane
 *Working for the Prince of Nessus has its advantages.  Others have learned the Bladesong from lesser masters, but your baritone rumble was honed in the infernal choir.  When your foes miss you, they learn to regret it...*
@@ -35,7 +35,8 @@ Everyone starts with a boon:
 
 * **Titan's Fury.** Once per long rest, when you would normally be reduced to 0 HP you instead drop to 1 HP and invoke the Titan's Fury.  For the next minute you are automatically raging - this rage does not count against your daily use limits (although if you were raging when you would have dropped to 0 HP you do not receive that rage back as a refund) and you do not stop raging unless you choose to.  Beyond your normal rage abilities you also gain resistance to all damage except psychic and force, your jumping distance is tripled and you are completely immune to fall damage.  You may use a bonus action to roar, forcing all hostile creatures within 10 ft of you to make a Wisdom saving throw (DC 8 + CON + Proficiency) or be frightened of you until the end of your next turn.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDQyMTkxMzAsLTEzMzIxMzM5NjUsLT
-E0MTkzOTAxMDgsLTEwMDU5MDE0NDksLTM5ODMxMjk2MiwxMTg3
-NjIyMjYwLDU5NjQ4NzkzMSwtMTY3Mzg3ODUxNV19
+eyJoaXN0b3J5IjpbLTExMzE0MzQ0ODMsLTIxNDQyMTkxMzAsLT
+EzMzIxMzM5NjUsLTE0MTkzOTAxMDgsLTEwMDU5MDE0NDksLTM5
+ODMxMjk2MiwxMTg3NjIyMjYwLDU5NjQ4NzkzMSwtMTY3Mzg3OD
+UxNV19
 -->
