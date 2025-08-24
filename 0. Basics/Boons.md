@@ -33,10 +33,10 @@ Everyone starts with a boon:
 ### Oh the Fragrent
 *In the battle in the desert, in the battle against a nascent dragon god ancient titans - the sons of Annam - wielded you as their blade.  As you fell from the sky something awoke in you - a connection to the Titans who were wielding you.  And now, when death seems close at hand, you can call on that power once more...*
 
-* **Titan's Fury.** Once per long rest, when you would normally be reduced to 0 HP you instead drop to 1 HP and invoke the Titan's Fury.  For the next minute you are automatically raging - this rage does not count against your daily use limits (although if you were raging when you would have dropped to 0 HP you do not receive that rage back as a refund) and you do not stop raging unless you choose to.  Beyond your normal rage abilities you also gain resistance to all damage except psychic and force, your jumping distance is tripled and you are completely immune to fall damage.  You may use a bonus action to roar, forcing all hostile creatures within 10 ft of you to make a Wisdom saving throw (DC 8 + CON + Proficiency) or be frightened of you until the end of your next turn.
+* **Titan's Fury.** Once per long rest, when you would normally be reduced to 0 HP you instead drop to 1 HP and invoke the Titan's Fury.  For the next minute you are automatically raging - this rage does not count against your daily use limits (although if you were raging when you would have dropped to 0 HP you do not receive that rage back as a refund) and you do not stop raging unless you choose to.  Beyond your normal rage abilities you also gain resistance to all damage except psychic and force, your jumping distance is tripled and you are completely immune to fall damage.  You may use a bonus action to roar, forcing all hostile creatures within 10 ft of you to make a Wisdom saving throw (DC 8 + CON + Proficiency) or b.  If they fail then they are frightened of you until the end of your next turn.  When the Titan's Fury ends you gain 1 level of exhaustion.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYwMTI4MzU3LC0yMTQ0MjE5MTMwLC0xMz
-MyMTMzOTY1LC0xNDE5MzkwMTA4LC0xMDA1OTAxNDQ5LC0zOTgz
-MTI5NjIsMTE4NzYyMjI2MCw1OTY0ODc5MzEsLTE2NzM4Nzg1MT
-VdfQ==
+eyJoaXN0b3J5IjpbMTM2MTExNTkzLDY2MDEyODM1NywtMjE0ND
+IxOTEzMCwtMTMzMjEzMzk2NSwtMTAwNTkwMTQ0OSwtMzk4MzEy
+OTYyLDExODc2MjIyNjAsNTk2NDg3OTMxLC0xNjczODc4NTE1XX
+0=
 -->
