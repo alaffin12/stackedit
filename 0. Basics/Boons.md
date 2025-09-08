@@ -3,7 +3,7 @@ Everyone starts with a boon:
 ### Nakos the Returned
 *Working with Zyblina is... not the easiest task for you.  Her nature is mercurial, and she takes great delight in annoying you, sending you on trivial tasks and making you do work that is well beneath both your skill set and your status as Knight of the Witchlight Court.  And then there's the fae politics.  It's trouble."*
 
-*As a kind of a jab at you Zyblina has given you wings.  Not draconic wings, or even feathered wings like your former companion Squash.  She has given you a great big pair of frail-looking, stained-glass-like butterfly wings.  Or 'Fairy Wings' as she call them.  Even though you not she does not have such wings.  They are practically useless - you can't fly while wearing anything resembling armour.  And because your form is not exactly built for flight you move rather slowly and clumsily.  But you can fly, you suppose...*
+*As a kind of a jab at you Zyblina has given you wings.  Not draconic wings, or even feathered wings like your former companion Squash.  She has given you a great big pair of frail-looking, stained-glass-like butterfly wings.  Or 'Fairy Wings' as she call them.  Even though you note she does not have such wings.  They are practically useless - you can't fly while wearing anything resembling armour.  And because your form is not exactly built for flight you move rather slowly and clumsily.  But you can fly, you suppose...*
 
 *You have also noticed that you are... more than what you once were.  Or less.  Since you were reanimated by fairy magic you are not exactly undead.  But you have some things in common with the undead nonetheless.  You are harder to kill, able to keep pushing forward while others would have stopped.*
 
@@ -35,8 +35,8 @@ Everyone starts with a boon:
 
 * **Titan's Fury.** Once per long rest, when you would normally be reduced to 0 HP you instead drop to 1 HP and invoke the Titan's Fury.  For the next minute you are automatically raging - this rage does not count against your daily use limits (although if you were raging when you would have dropped to 0 HP you do not receive that rage back as a refund) and you do not stop raging unless you choose to.  Beyond your normal rage abilities you also gain resistance to all damage except psychic and force, your jumping distance is tripled and you are completely immune to fall damage.  You may use a bonus action to roar, forcing all hostile creatures within 10 ft of you to make a Wisdom saving throw (DC 8 + CON + Proficiency).  If they fail then they are frightened of you until the end of your next turn.  When the Titan's Fury ends you gain 1 level of exhaustion.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjAxMjUwNzYsMTM2MTExNTkzLDY2MD
-EyODM1NywtMjE0NDIxOTEzMCwtMTMzMjEzMzk2NSwtMTAwNTkw
-MTQ0OSwtMzk4MzEyOTYyLDExODc2MjIyNjAsNTk2NDg3OTMxLC
-0xNjczODc4NTE1XX0=
+eyJoaXN0b3J5IjpbLTExNDY1NjcxNjMsLTE5NjAxMjUwNzYsMT
+M2MTExNTkzLDY2MDEyODM1NywtMjE0NDIxOTEzMCwtMTMzMjEz
+Mzk2NSwtMTAwNTkwMTQ0OSwtMzk4MzEyOTYyLDExODc2MjIyNj
+AsNTk2NDg3OTMxLC0xNjczODc4NTE1XX0=
 -->
