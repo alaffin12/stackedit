@@ -31,12 +31,13 @@ Everyone starts with a boon:
 * **Mantle of the Stronmaus.** Once per long rest you may call upon the divinity of Stronmaus.  For one minute you wear a mantle of the storm itself.  Your movement speed increases by 10 ft and when you succeed on a melee attack you may add an additional 1d6 thunder damage to the attack and the target cannot take reactions until the start of its next turn.  Additionally, while wearing the mantle if you are struck my a melee attack you may, as a reaction, deal 2d8 lightning damage to the attacker, and the attacker must make a strength save against a DC of 8 + DEX+ Proficiency or be pushed back 10 ft.
 
 ### Oh the Fragrent
-*In the battle in the desert, in the battle against a nascent dragon god ancient titans - the sons of Annam - wielded you as their blade.  As you fell from the sky something awoke in you - a connection to the Titans who were wielding you.  And now, when death seems close at hand, you can call on that power once more...*
+*In the battle in the desert, in the battle against a nascent dragon god, ancient titans - the sons of Annam - wielded you as their blade.  As you fell from the sky something awoke in you - a connection to the Titans who were wielding you.  And now, when death seems close at hand, you can call on that power once more...*
 
 * **Titan's Fury.** Once per long rest, when you would normally be reduced to 0 HP you instead drop to 1 HP and invoke the Titan's Fury.  For the next minute you are automatically raging - this rage does not count against your daily use limits (although if you were raging when you would have dropped to 0 HP you do not receive that rage back as a refund) and you do not stop raging unless you choose to.  Beyond your normal rage abilities you also gain resistance to all damage except psychic and force, your jumping distance is tripled and you are completely immune to fall damage.  You may use a bonus action to roar, forcing all hostile creatures within 10 ft of you to make a Wisdom saving throw (DC 8 + CON + Proficiency).  If they fail then they are frightened of you until the end of your next turn.  When the Titan's Fury ends you gain 1 level of exhaustion.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDY1NjcxNjMsLTE5NjAxMjUwNzYsMT
-M2MTExNTkzLDY2MDEyODM1NywtMjE0NDIxOTEzMCwtMTMzMjEz
-Mzk2NSwtMTAwNTkwMTQ0OSwtMzk4MzEyOTYyLDExODc2MjIyNj
-AsNTk2NDg3OTMxLC0xNjczODc4NTE1XX0=
+eyJoaXN0b3J5IjpbMTgzMzQ1MzY2MywtMTE0NjU2NzE2MywtMT
+k2MDEyNTA3NiwxMzYxMTE1OTMsNjYwMTI4MzU3LC0yMTQ0MjE5
+MTMwLC0xMzMyMTMzOTY1LC0xMDA1OTAxNDQ5LC0zOTgzMTI5Nj
+IsMTE4NzYyMjI2MCw1OTY0ODc5MzEsLTE2NzM4Nzg1MTVdfQ==
+
 -->
