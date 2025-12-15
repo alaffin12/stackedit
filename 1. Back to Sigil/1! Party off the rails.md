@@ -41,7 +41,7 @@ The Slaad Tadpole will have an effect on the player in three phases.
 *Active:* 
 * The party is actively investigating Ilren
 * The party knows or strongly suspects an infection
-* The PC drops to 0 HP
+* The infected PC drops to 0 HP
 
 *Effects:*
 * Each time the ship is attacked the infected has to make a DC 17 Constitution save or take 4d6 psychic damage.
@@ -52,7 +52,8 @@ The Slaad Tadpole will have an effect on the player in three phases.
 * Lesser Restoration does nothing
 * Detect Poison and Disease gives a false negative
 * Greater Restoration suppresses it for 24 hours
-* A DC 20 Medicine and a DC 20 Arcana check (both are required) will identify the cause as chaotic parasitism.  Cirit can also diagnose without a check.  None of this changes what it can and can't do, but Cirit (who is more familiar with both Slaad and the current situation) will say that short of powerful high end magic (more powerful than even greater restoration) the best way t
+* A DC 20 Medicine and a DC 20 Arcana check (both are required) will identify the cause as chaotic parasitism.  Cirit can also diagnose without a check.  None of this changes what it can and can't do, but Cirit (who is more familiar with both Slaad and the current situation) will say that short of powerful high end magic (more powerful than even greater restoration) the best way to undo the infection is to kill creature that created the parasite - Ilren - as it is his magic that is making the the tadpole so resilient.
+
 
 
 
@@ -92,7 +93,7 @@ Each segment causes _one_ effect (roll or choose):
     
     -   You _threaten_ a large encounter but let them avoid it by sacrificing time, spells, or HP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTU0Mzc4NjYsLTExNTQ2NjAyOTYsMT
+eyJoaXN0b3J5IjpbLTEwNzIxNDIzMTQsLTExNTQ2NjAyOTYsMT
 g5OTYzODQxNSwtMTQ0MjUzNTg4MSwyMDYyMzYxNzg4LDE1MjY3
 NTEyODYsMTM0NTUzMzE0MCwtMjkwNzI1NDMxLDMwNjAzNDEzNS
 wtMTM1NDk0NzAwNSw3MzA5OTgxMTZdfQ==
