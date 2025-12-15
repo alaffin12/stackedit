@@ -56,7 +56,7 @@ The Slaad Tadpole will have an effect on the player in three phases.
 
 #### Phase 3: Confrontation
 *Active:* When the party confronts Ilren.
-If the party co
+If the party confronts Ilren without suppressing the effects of the tadpole on the victim then they are going to be in trouble.  But here we are:
 
 
 
@@ -96,7 +96,7 @@ Each segment causes _one_ effect (roll or choose):
     
     -   You _threaten_ a large encounter but let them avoid it by sacrificing time, spells, or HP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzkwMTgzNDEsLTExNTQ2NjAyOTYsMT
+eyJoaXN0b3J5IjpbLTE0NDg0NDE0NjIsLTExNTQ2NjAyOTYsMT
 g5OTYzODQxNSwtMTQ0MjUzNTg4MSwyMDYyMzYxNzg4LDE1MjY3
 NTEyODYsMTM0NTUzMzE0MCwtMjkwNzI1NDMxLDMwNjAzNDEzNS
 wtMTM1NDk0NzAwNSw3MzA5OTgxMTZdfQ==
