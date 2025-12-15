@@ -13,7 +13,7 @@ One player is infected with a special slaad tadpole.  Traditionally a slaad tadp
 #### Event #2: Aasimar Dream
 Andromeda has a dream - a very potent, real seeming dream.  The dream goes as follows:
 
-> You feel yourself drift off to sleep peacefully, and then suddenly something reaches up from the floor around you and pull you under, through the deck to... somewhere else.  You drift in a vast, breathless empty shot through with veins of dying light.  You see a throne-like seat of crystal and sigils and magic - you know it to be a spelljamming helm, even though you have never seen a spelljamming helm before - tumbling through the empty, its light sputtering as if starved of purpo
+> You feel yourself drift off to sleep peacefully, and then suddenly something reaches up from the floor around you and pull you under, through the deck to... somewhere else.  You drift in a vast, breathless empty shot through with veins of dying light.  You see a throne-like seat of crystal and sigils and magic - you know it to be a spelljamming helm, even though you have never seen a spelljamming helm before - tumbling through the empty, its light sputtering as if starved of purpose.  
 
 
 Each segment causes _one_ effect (roll or choose):
@@ -52,7 +52,7 @@ Each segment causes _one_ effect (roll or choose):
     
     -   You _threaten_ a large encounter but let them avoid it by sacrificing time, spells, or HP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NDk0NDI5MiwxNTI2NzUxMjg2LDEzND
+eyJoaXN0b3J5IjpbMjA2MjM2MTc4OCwxNTI2NzUxMjg2LDEzND
 U1MzMxNDAsLTI5MDcyNTQzMSwzMDYwMzQxMzUsLTEzNTQ5NDcw
 MDUsNzMwOTk4MTE2XX0=
 -->
