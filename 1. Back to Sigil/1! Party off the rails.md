@@ -22,7 +22,10 @@ With the arrival of Ahmaz (who has more authority than either Lysan or Zastra) a
 The Slaad Tadpole will have an effect on the player in three phases.
 
 #### Phase 1: Blind
-*Active when:* The party does no know about the infection and does not yet suspect Illren
+*Active when:* The party does not know about the infection and does not yet suspect Illren
+*Effects:* 
+* Brief chills, or being nauseated briefly
+* Br
 
 Each segment causes _one_ effect (roll or choose):
 
@@ -60,8 +63,8 @@ Each segment causes _one_ effect (roll or choose):
     
     -   You _threaten_ a large encounter but let them avoid it by sacrificing time, spells, or HP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDEwMDQxMDUsMTg5OTYzODQxNSwtMT
-Q0MjUzNTg4MSwyMDYyMzYxNzg4LDE1MjY3NTEyODYsMTM0NTUz
-MzE0MCwtMjkwNzI1NDMxLDMwNjAzNDEzNSwtMTM1NDk0NzAwNS
-w3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTI0MTg4NTU3NSwxODk5NjM4NDE1LC0xND
+QyNTM1ODgxLDIwNjIzNjE3ODgsMTUyNjc1MTI4NiwxMzQ1NTMz
+MTQwLC0yOTA3MjU0MzEsMzA2MDM0MTM1LC0xMzU0OTQ3MDA1LD
+czMDk5ODExNl19
 -->
