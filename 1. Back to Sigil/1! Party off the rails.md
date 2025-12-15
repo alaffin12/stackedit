@@ -67,7 +67,11 @@ If the party confronts Ilren without suppressing the effects of the tadpole on t
 The party will awaken to the sound of the ship's bell ringing.  The Lambent Zenith is under attack again.  
 
 #### Ship Attacks
-Rather than deal with trying to run a massive combat encounter that would just get bogged down we are going to do it in the abstract
+Rather than deal with trying to run a massive combat encounter that would just get bogged down we are going to do it in the abstract.  There will be repeated attacks on the ship throughout the day.  Each time roll 1d6:
+
+| Roll | Effect | 
+| -- | -- |
+| 1 | Each PC has to make a DC 15 Constitution save.  
 
 
 Each segment causes _one_ effect (roll or choose):
@@ -106,7 +110,7 @@ Each segment causes _one_ effect (roll or choose):
     
     -   You _threaten_ a large encounter but let them avoid it by sacrificing time, spells, or HP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTMwNDkxNzIsLTE4NTA1MzI2MDYsNT
+eyJoaXN0b3J5IjpbLTE1MzYwNTgxMzAsLTE4NTA1MzI2MDYsNT
 czMDE5MjMxLC0xMTU0NjYwMjk2LDE4OTk2Mzg0MTUsLTE0NDI1
 MzU4ODEsMjA2MjM2MTc4OCwxNTI2NzUxMjg2LDEzNDU1MzMxND
 AsLTI5MDcyNTQzMSwzMDYwMzQxMzUsLTEzNTQ5NDcwMDUsNzMw
