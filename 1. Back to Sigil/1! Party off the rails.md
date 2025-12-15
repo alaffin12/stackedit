@@ -78,11 +78,11 @@ Andromeda has a dream - a very potent, real seeming dream.  The dream goes as fo
 With the arrival of Ahmaz (who has more authority than either Lysan or Zastra) and the heroes Ilren is forced to take a more active approach in his corruption of this crew (hence implanting one of the players with a slaad tadpole).  He will also modify the memory of Zastra, beginning to turn him against Ahmaz.  
 
 ### The Next Morning
-The party will awaken to the sound of the ship's bell ringing.  The Lambent Zenith is under attack again.  Roll 2d6 and use the table to determine the impact on the party and crew
+The party will awaken to the sound of the ship's bell ringing.  The Lambent Zenith is under attack again.  Roll 2d6 and use the table to determine the impact on the party and crew.  Afterwards Fiagro will call together all the senior crew.  Because the PCs ha
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MTUwNDYxMCwtMjk5NTkwNjMyLC0xOD
-UwNTMyNjA2LDU3MzAxOTIzMSwtMTE1NDY2MDI5NiwxODk5NjM4
-NDE1LC0xNDQyNTM1ODgxLDIwNjIzNjE3ODgsMTUyNjc1MTI4Ni
-wxMzQ1NTMzMTQwLC0yOTA3MjU0MzEsMzA2MDM0MTM1LC0xMzU0
-OTQ3MDA1LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNDU0NTM0Mjc4LDEyNTE1MDQ2MTAsLTI5OT
+U5MDYzMiwtMTg1MDUzMjYwNiw1NzMwMTkyMzEsLTExNTQ2NjAy
+OTYsMTg5OTYzODQxNSwtMTQ0MjUzNTg4MSwyMDYyMzYxNzg4LD
+E1MjY3NTEyODYsMTM0NTUzMzE0MCwtMjkwNzI1NDMxLDMwNjAz
+NDEzNSwtMTM1NDk0NzAwNSw3MzA5OTgxMTZdfQ==
 -->
