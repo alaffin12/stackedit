@@ -2,8 +2,45 @@
 The murder hobos have gone off the rails.  How do I fix it?  How do I get them back on track:
 
 ## The Long Rest
-Ahmaz returns to the party.  He's not happy with how events turned out - he understands that Fiagro was not in his right mind, but he does not believe that knocking him out to he
+Ahmaz returns to the party.  He's not happy with how events turned out - he understands that Fiagro was not in his right mind, but he does not believe that knocking him out to heal him actually helped the party.  
+
+
+Each segment causes _one_ effect (roll or choose):
+
+1.  **Psychic Resonance**
+    
+    -   Each PC makes a DC 13 Wis save or loses:
+        
+        -   1 Hit Die _or_
+            
+        -   A prepared spell of their choice (representing astral bleed)
+            
+2.  **Hull Breach Pressure**
+    
+    -   Spelljammer systems strain
+        
+    -   Disadvantage on the _next_ Strength or Dex-based group check
+        
+3.  **Astral Vermin**
+    
+    -   _Not a full fight_: one PC takes 2d8 damage unless someone spends an action/resource to intervene
+        
+4.  **Dead God’s Murmur**
+    
+    -   One PC hears whispers tailored to their fears
+        
+    -   Ilren uses this as cover for Modify Memory later
+        
+5.  **Crew Friction**
+    
+    -   NPC distrust increases
+        
+    -   Disadvantage on Persuasion with Fiagro or the Gith unless resolved
+        
+6.  **Predator Approach**
+    
+    -   You _threaten_ a large encounter but let them avoid it by sacrificing time, spells, or HP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NDMxMzA5OCwtMTM1NDk0NzAwNSw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMzA2MDM0MTM1LC0xMzU0OTQ3MDA1LDczMD
+k5ODExNl19
 -->
