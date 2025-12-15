@@ -61,7 +61,7 @@ If the party confronts Ilren without suppressing the effects of the tadpole on t
 
 *Effects:* 
 * Each round the infected PC loses 3d6 HP.  This HP directly heals Ilren.  
-* The infected PC has no reactions or bonus actio
+* The infected PC has no reactions.  On its turn it gets a single move action or a single action, but nothing more.  
 
 
 Each segment causes _one_ effect (roll or choose):
@@ -100,8 +100,8 @@ Each segment causes _one_ effect (roll or choose):
     
     -   You _threaten_ a large encounter but let them avoid it by sacrificing time, spells, or HP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDQ0ODEyODgsLTExNTQ2NjAyOTYsMT
-g5OTYzODQxNSwtMTQ0MjUzNTg4MSwyMDYyMzYxNzg4LDE1MjY3
-NTEyODYsMTM0NTUzMzE0MCwtMjkwNzI1NDMxLDMwNjAzNDEzNS
-wtMTM1NDk0NzAwNSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNTczMDE5MjMxLC0xMTU0NjYwMjk2LDE4OT
+k2Mzg0MTUsLTE0NDI1MzU4ODEsMjA2MjM2MTc4OCwxNTI2NzUx
+Mjg2LDEzNDU1MzMxNDAsLTI5MDcyNTQzMSwzMDYwMzQxMzUsLT
+EzNTQ5NDcwMDUsNzMwOTk4MTE2XX0=
 -->
