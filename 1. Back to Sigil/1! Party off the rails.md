@@ -44,7 +44,8 @@ The Slaad Tadpole will have an effect on the player in three phases.
 * The PC drops to 0 HP
 
 *Effects:*
-
+* Each time the ship is attacked the infected has to make a DC 17 Constitution save or take 4d6 psychic damage.
+* Healing does not seem to work fully - they only regain half the hit points they normally would in all circumstances
 
 
 
@@ -84,8 +85,8 @@ Each segment causes _one_ effect (roll or choose):
     
     -   You _threaten_ a large encounter but let them avoid it by sacrificing time, spells, or HP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDQ3NDcwNDIsMTg5OTYzODQxNSwtMT
-Q0MjUzNTg4MSwyMDYyMzYxNzg4LDE1MjY3NTEyODYsMTM0NTUz
-MzE0MCwtMjkwNzI1NDMxLDMwNjAzNDEzNSwtMTM1NDk0NzAwNS
-w3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbODQ0MTEzNjg4LDE4OTk2Mzg0MTUsLTE0ND
+I1MzU4ODEsMjA2MjM2MTc4OCwxNTI2NzUxMjg2LDEzNDU1MzMx
+NDAsLTI5MDcyNTQzMSwzMDYwMzQxMzUsLTEzNTQ5NDcwMDUsNz
+MwOTk4MTE2XX0=
 -->
