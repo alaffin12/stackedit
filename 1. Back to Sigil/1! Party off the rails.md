@@ -16,7 +16,7 @@ Andromeda has a dream - a very potent, real seeming dream.  The dream goes as fo
 > You feel yourself drift off to sleep peacefully, and then suddenly something reaches up from the floor around you and pull you under, through the deck to... somewhere else.  You know the touch of the divine better than most, and this has that - a touch of the divine.  But it is distant.  An echo.  And at the same time the sound of it drowns out the sound of your own blood, pumping in your veins.  It is warm.  Golden.  Celestial.  But the light is restrained, like a held breath that has gone on too long.  Around it - around the whole ship - there is a sour, discordant note.  Something laughing softly, wearing a voice that does not belong to it.  And the golden sound calls out.  "...cousin..."
 
 #### Event #3: Ilren Acts: Modify Memory
-With the arrival of Ahmaz (who has more authority than either Lysan or Zastra) and the heroes Ilren is forced to take a more active approach in his corruption of this crew (hence implanting one of the players with a slaad tadpole).  He will a
+With the arrival of Ahmaz (who has more authority than either Lysan or Zastra) and the heroes Ilren is forced to take a more active approach in his corruption of this crew (hence implanting one of the players with a slaad tadpole).  He will also modify the memory of Zastra, beginning to turn him against Ahmaz.  
 
 Each segment causes _one_ effect (roll or choose):
 
@@ -54,8 +54,8 @@ Each segment causes _one_ effect (roll or choose):
     
     -   You _threaten_ a large encounter but let them avoid it by sacrificing time, spells, or HP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTk3NDI2OTIsLTE0NDI1MzU4ODEsMj
-A2MjM2MTc4OCwxNTI2NzUxMjg2LDEzNDU1MzMxNDAsLTI5MDcy
-NTQzMSwzMDYwMzQxMzUsLTEzNTQ5NDcwMDUsNzMwOTk4MTE2XX
-0=
+eyJoaXN0b3J5IjpbMTg5OTYzODQxNSwtMTQ0MjUzNTg4MSwyMD
+YyMzYxNzg4LDE1MjY3NTEyODYsMTM0NTUzMzE0MCwtMjkwNzI1
+NDMxLDMwNjAzNDEzNSwtMTM1NDk0NzAwNSw3MzA5OTgxMTZdfQ
+==
 -->
