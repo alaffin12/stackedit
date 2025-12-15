@@ -1,22 +1,7 @@
 # So they've finally done it...
 The murder hobos have gone off the rails.  How do I fix it?  How do I get them back on track:
 
-## The Long Rest
-Ahmaz returns to the party.  He's not happy with how events turned out - he understands that Fiagro was not in his right mind, but he does not believe that knocking him out to heal him actually helped the party.  If they ask if he is willing to give the lockdown password, to which Ahmaz will almost laugh and reply: "No.  He thinks you might be behind whatever was afflicting him.  Worse still he thinks I might be afflicted to.  But he is willing to let you stay on the Lambent Zenith for now.  He is warding his wardroom against further intrusion, and is going to take a rest.  I suggest you all do the same.  If word gets out that you attacked Figaro there might be some folk who take matters into their own hands - I suggest you stay in the galley with Kycera for now."
-
-### During the Long Rest
-Presumably the party, in need of a long rest, will take Ahmaz's advice. The following events will happen:
-
-#### Event #1: Ilren Acts: Slaad Tadpole
-One player is infected with a special slaad tadpole.  Traditionally a slaad tadpole manifest along with a certain pattern, but this one is special.  Created by 'Ilren' to sow chaos.  Andromeda and Nakos are immune, so choose one of the other four to be infected with no save - the tadpole approaches in the darkness, is practically invisible anyway and finds its way into the host's body without any resistance.  
-
-#### Event #2: Aasimar Dream
-Andromeda has a dream - a very potent, real seeming dream.  The dream goes as follows:
-
-> You feel yourself drift off to sleep peacefully, and then suddenly something reaches up from the floor around you and pull you under, through the deck to... somewhere else.  You know the touch of the divine better than most, and this has that - a touch of the divine.  But it is distant.  An echo.  And at the same time the sound of it drowns out the sound of your own blood, pumping in your veins.  It is warm.  Golden.  Celestial.  But the light is restrained, like a held breath that has gone on too long.  Around it - around the whole ship - there is a sour, discordant note.  Something laughing softly, wearing a voice that does not belong to it.  And the golden sound calls out.  "...sister..."
-
-#### Event #3: Ilren Acts: Modify Memory
-With the arrival of Ahmaz (who has more authority than either Lysan or Zastra) and the heroes Ilren is forced to take a more active approach in his corruption of this crew (hence implanting one of the players with a slaad tadpole).  He will also modify the memory of Zastra, beginning to turn him against Ahmaz.  
+Some mechanics for what is to come...
 
 ### The Slaad Tadpole
 The Slaad Tadpole will have an effect on the player in three phases.
@@ -63,6 +48,26 @@ If the party confronts Ilren without suppressing the effects of the tadpole on t
 * Each round the infected PC loses 3d6 HP.  This HP directly heals Ilren.  
 * The infected PC has no reactions.  On its turn it gets a single move action or a single action, but nothing more.  
 
+## The Long Rest
+Ahmaz returns to the party.  He's not happy with how events turned out - he understands that Fiagro was not in his right mind, but he does not believe that knocking him out to heal him actually helped the party.  If they ask if he is willing to give the lockdown password, to which Ahmaz will almost laugh and reply: "No.  He thinks you might be behind whatever was afflicting him.  Worse still he thinks I might be afflicted to.  But he is willing to let you stay on the Lambent Zenith for now.  He is warding his wardroom against further intrusion, and is going to take a rest.  I suggest you all do the same.  If word gets out that you attacked Figaro there might be some folk who take matters into their own hands - I suggest you stay in the galley with Kycera for now."
+
+### During the Long Rest
+Presumably the party, in need of a long rest, will take Ahmaz's advice. The following events will happen:
+
+#### Event #1: Ilren Acts: Slaad Tadpole
+One player is infected with a special slaad tadpole.  Traditionally a slaad tadpole manifest along with a certain pattern, but this one is special.  Created by 'Ilren' to sow chaos.  Andromeda and Nakos are immune, so choose one of the other four to be infected with no save - the tadpole approaches in the darkness, is practically invisible anyway and finds its way into the host's body without any resistance.  
+
+#### Event #2: Aasimar Dream
+Andromeda has a dream - a very potent, real seeming dream.  The dream goes as follows:
+
+> You feel yourself drift off to sleep peacefully, and then suddenly something reaches up from the floor around you and pull you under, through the deck to... somewhere else.  You know the touch of the divine better than most, and this has that - a touch of the divine.  But it is distant.  An echo.  And at the same time the sound of it drowns out the sound of your own blood, pumping in your veins.  It is warm.  Golden.  Celestial.  But the light is restrained, like a held breath that has gone on too long.  Around it - around the whole ship - there is a sour, discordant note.  Something laughing softly, wearing a voice that does not belong to it.  And the golden sound calls out.  "...sister..."
+
+#### Event #3: Ilren Acts: Modify Memory
+With the arrival of Ahmaz (who has more authority than either Lysan or Zastra) and the heroes Ilren is forced to take a more active approach in his corruption of this crew (hence implanting one of the players with a slaad tadpole).  He will also modify the memory of Zastra, beginning to turn him against Ahmaz.  
+
+
+
+
 ### The Next Morning
 The party will awaken to the sound of the ship's bell ringing.  The Lambent Zenith is under attack again.  
 
@@ -71,11 +76,12 @@ Rather than deal with trying to run a massive combat encounter that would just g
 
 | Roll | Effect | 
 | -- | -- |
-| 1 | Each PC has to make a DC 15 Constitution save.  Those who fail must lose a hit dice or sacrifice a level one (or higher) spell slot |
+| 1 | One PC hears a whisper from the dead god, focusing on their fears. 
 | 2 | Each PC has to make a DC 15 Dexterity save.  Those who fail are wounded, and will have disadvantage on their next Dexterity or Strength saving throw or check (they cannot cheese this by making an inconsequential check to say, do a cartwheel.  The check must have meaning for the penalty to apply) |
-| 3 | Distribute 4d8 damage amongst the party.  It can be reduced by 1d4 for each level of spell slot or psionic dice expended.  I can be reduced 1d8 for each barbarian rage expended (max one per barbarian). | 
-| 4 | A large predator attacks.  Distribute 8d8 damage amongst the party.  It can be reduced by 1d4 for each level of spell slot or psionic dice expended.  I can be reduced 1d8 for each barbarian rage expended (max one per barbarian).  NPC crewmember dies.  Unnamed first, then named until only Ilren is left |
-
+| 3 | Each PC has to make a DC 15 Constitution save.  Those who fail must lose a hit dice or sacrifice a level one (or higher) spell slot |
+| 4 | Distribute 4d8 damage amongst the party.  It can be reduced by 1d4 for each level of spell slot or psionic dice expended.  I can be reduced 1d8 for each barbarian rage expended (max one per barbarian). | 
+| 5 | A large predator attacks.  Distribute 8d8 damage amongst the party.  It can be reduced by 1d4 for each level of spell slot or psionic dice expended.  I can be reduced 1d8 for each barbarian rage expended (max one per barbarian).  NPC crewmember dies.  Unnamed first, then named until only Ilren is left |
+| 6 | Roll again.  Roll twice. |
 
 
 Each segment causes _one_ effect (roll or choose):
@@ -114,9 +120,9 @@ Each segment causes _one_ effect (roll or choose):
     
     -   You _threaten_ a large encounter but let them avoid it by sacrificing time, spells, or HP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjQ4NzYzMzksLTE4NTA1MzI2MDYsNT
-czMDE5MjMxLC0xMTU0NjYwMjk2LDE4OTk2Mzg0MTUsLTE0NDI1
-MzU4ODEsMjA2MjM2MTc4OCwxNTI2NzUxMjg2LDEzNDU1MzMxND
-AsLTI5MDcyNTQzMSwzMDYwMzQxMzUsLTEzNTQ5NDcwMDUsNzMw
-OTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTY0ODk1MDA5MywtMTg1MDUzMjYwNiw1Nz
+MwMTkyMzEsLTExNTQ2NjAyOTYsMTg5OTYzODQxNSwtMTQ0MjUz
+NTg4MSwyMDYyMzYxNzg4LDE1MjY3NTEyODYsMTM0NTUzMzE0MC
+wtMjkwNzI1NDMxLDMwNjAzNDEzNSwtMTM1NDk0NzAwNSw3MzA5
+OTgxMTZdfQ==
 -->
