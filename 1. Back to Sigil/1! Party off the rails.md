@@ -13,7 +13,7 @@ One player is infected with a special slaad tadpole.  Traditionally a slaad tadp
 #### Event #2: Aasimar Dream
 Andromeda has a dream - a very potent, real seeming dream.  The dream goes as follows:
 
-> You feel yourself drift off to sleep peacefully, and then suddenly something reaches up from the floor around you and pull you under, through the deck to... somewhere else.  You know the touch of the divine better than most, and this has that - a touch of the divine.  But it is distant.  An echo.  And yet it leaves that which runs through your veins 
+> You feel yourself drift off to sleep peacefully, and then suddenly something reaches up from the floor around you and pull you under, through the deck to... somewhere else.  You know the touch of the divine better than most, and this has that - a touch of the divine.  But it is distant.  An echo.  And at the same time the sound of it drowns out the sound of your own blood, pumping in your veins.  It is warm.  Golden.  Celestial.  But the light of 
 
 Each segment causes _one_ effect (roll or choose):
 
@@ -51,7 +51,7 @@ Each segment causes _one_ effect (roll or choose):
     
     -   You _threaten_ a large encounter but let them avoid it by sacrificing time, spells, or HP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTA4NTMwODIsMjA2MjM2MTc4OCwxNT
-I2NzUxMjg2LDEzNDU1MzMxNDAsLTI5MDcyNTQzMSwzMDYwMzQx
-MzUsLTEzNTQ5NDcwMDUsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbNDk0NzAwMzAxLDIwNjIzNjE3ODgsMTUyNj
+c1MTI4NiwxMzQ1NTMzMTQwLC0yOTA3MjU0MzEsMzA2MDM0MTM1
+LC0xMzU0OTQ3MDA1LDczMDk5ODExNl19
 -->
