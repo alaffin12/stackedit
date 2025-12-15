@@ -11,7 +11,7 @@ Presumably the party, in need of a long rest, will take Ahmaz's advice. The foll
 One player is infected with a special slaad tadpole.  Traditionally a slaad tadpole manifest along with a certain pattern, but this one is special.  Created by 'Ilren' to sow chaos.  Andromeda and Nakos are immune, so choose one of the other four to be infected with no save - the tadpole approaches in the darkness, is practically invisible anyway and finds its way into the host's body without any resistance.  
 
 #### Event #2: Aasimar Dream
-
+Andromeda has a dream - a very potent, real seeming dream.  The
 
 
 Each segment causes _one_ effect (roll or choose):
@@ -50,7 +50,7 @@ Each segment causes _one_ effect (roll or choose):
     
     -   You _threaten_ a large encounter but let them avoid it by sacrificing time, spells, or HP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4Njg3NTA4NywxMzQ1NTMzMTQwLC0yOT
+eyJoaXN0b3J5IjpbMTUyNjc1MTI4NiwxMzQ1NTMzMTQwLC0yOT
 A3MjU0MzEsMzA2MDM0MTM1LC0xMzU0OTQ3MDA1LDczMDk5ODEx
 Nl19
 -->
