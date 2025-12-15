@@ -52,7 +52,7 @@ The Slaad Tadpole will have an effect on the player in three phases.
 * Lesser Restoration does nothing
 * Detect Poison and Disease gives a false negative
 * Greater Restoration suppresses it for 24 hours
-* 
+* A DC 20 Medicine and a DC 20 Arcana check (both are required) will identify the cause as chaotic parasitism.  Cirit can also diagnose without a check
 
 
 
@@ -92,7 +92,7 @@ Each segment causes _one_ effect (roll or choose):
     
     -   You _threaten_ a large encounter but let them avoid it by sacrificing time, spells, or HP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzAyOTI4MTMsMTg5OTYzODQxNSwtMT
+eyJoaXN0b3J5IjpbLTExNTQ2NjAyOTYsMTg5OTYzODQxNSwtMT
 Q0MjUzNTg4MSwyMDYyMzYxNzg4LDE1MjY3NTEyODYsMTM0NTUz
 MzE0MCwtMjkwNzI1NDMxLDMwNjAzNDEzNSwtMTM1NDk0NzAwNS
 w3MzA5OTgxMTZdfQ==
