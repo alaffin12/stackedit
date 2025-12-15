@@ -2,7 +2,7 @@
 The murder hobos have gone off the rails.  How do I fix it?  How do I get them back on track:
 
 ## The Long Rest
-Ahmaz returns to the party.  He's not happy with how events turned out - he understands that Fiagro was not in his right mind, but he does not believe that knocking him out to heal him actually helped the party.  
+Ahmaz returns to the party.  He's not happy with how events turned out - he understands that Fiagro was not in his right mind, but he does not believe that knocking him out to heal him actually helped the party.  If they ask if he is willing to give the lockdown password, to which Ahmaz will almost laugh and reply: "No.  He thinks you might be behind whatever was afflicting him.  Worse still he thinks I might be afflicted to.  But he is willing to lety
 
 
 Each segment causes _one_ effect (roll or choose):
@@ -41,6 +41,6 @@ Each segment causes _one_ effect (roll or choose):
     
     -   You _threaten_ a large encounter but let them avoid it by sacrificing time, spells, or HP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA2MDM0MTM1LC0xMzU0OTQ3MDA1LDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbNDY3NTcxMzUyLDMwNjAzNDEzNSwtMTM1ND
+k0NzAwNSw3MzA5OTgxMTZdfQ==
 -->
