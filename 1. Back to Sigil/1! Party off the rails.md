@@ -72,7 +72,8 @@ Rather than deal with trying to run a massive combat encounter that would just g
 | Roll | Effect | 
 | -- | -- |
 | 1 | Each PC has to make a DC 15 Constitution save.  Those who fail must lose a hit dice or sacrifice a level one (or higher) spell slot |
-| 2 | Each PC has to make a DC 15 Dexterity 
+| 2 | Each PC has to make a DC 15 Dexterity save.  Those who fail are wounded, and will have disadvantage on their next Dexterity or Strength saving throw or check (they cannot cheese this by making an inconsequential check to say, do a cartwheel.  The check must have meaning for the penalty to apply) |
+| 3 | 
 
 
 Each segment causes _one_ effect (roll or choose):
@@ -111,7 +112,7 @@ Each segment causes _one_ effect (roll or choose):
     
     -   You _threaten_ a large encounter but let them avoid it by sacrificing time, spells, or HP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM0Mzg5NDIxLC0xODUwNTMyNjA2LDU3Mz
+eyJoaXN0b3J5IjpbNTcyMTExNDE1LC0xODUwNTMyNjA2LDU3Mz
 AxOTIzMSwtMTE1NDY2MDI5NiwxODk5NjM4NDE1LC0xNDQyNTM1
 ODgxLDIwNjIzNjE3ODgsMTUyNjc1MTI4NiwxMzQ1NTMzMTQwLC
 0yOTA3MjU0MzEsMzA2MDM0MTM1LC0xMzU0OTQ3MDA1LDczMDk5
