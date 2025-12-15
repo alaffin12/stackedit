@@ -18,6 +18,8 @@ Andromeda has a dream - a very potent, real seeming dream.  The dream goes as fo
 #### Event #3: Ilren Acts: Modify Memory
 With the arrival of Ahmaz (who has more authority than either Lysan or Zastra) and the heroes Ilren is forced to take a more active approach in his corruption of this crew (hence implanting one of the players with a slaad tadpole).  He will also modify the memory of Zastra, beginning to turn him against Ahmaz.  
 
+### The Next Morning 
+
 Each segment causes _one_ effect (roll or choose):
 
 1.  **Psychic Resonance**
@@ -54,8 +56,8 @@ Each segment causes _one_ effect (roll or choose):
     
     -   You _threaten_ a large encounter but let them avoid it by sacrificing time, spells, or HP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5OTYzODQxNSwtMTQ0MjUzNTg4MSwyMD
-YyMzYxNzg4LDE1MjY3NTEyODYsMTM0NTUzMzE0MCwtMjkwNzI1
-NDMxLDMwNjAzNDEzNSwtMTM1NDk0NzAwNSw3MzA5OTgxMTZdfQ
-==
+eyJoaXN0b3J5IjpbMTU5MTg0NTg4MCwxODk5NjM4NDE1LC0xND
+QyNTM1ODgxLDIwNjIzNjE3ODgsMTUyNjc1MTI4NiwxMzQ1NTMz
+MTQwLC0yOTA3MjU0MzEsMzA2MDM0MTM1LC0xMzU0OTQ3MDA1LD
+czMDk5ODExNl19
 -->
