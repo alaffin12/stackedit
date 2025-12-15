@@ -73,7 +73,7 @@ Rather than deal with trying to run a massive combat encounter that would just g
 | -- | -- |
 | 1 | Each PC has to make a DC 15 Constitution save.  Those who fail must lose a hit dice or sacrifice a level one (or higher) spell slot |
 | 2 | Each PC has to make a DC 15 Dexterity save.  Those who fail are wounded, and will have disadvantage on their next Dexterity or Strength saving throw or check (they cannot cheese this by making an inconsequential check to say, do a cartwheel.  The check must have meaning for the penalty to apply) |
-| 3 | 
+| 3 | Distribute 4d8 damage amongst the party.  It can be reduced by 1d4 for each level of spell slot or psionic dice expended.  I can be reduced 1d8 for each barbarian rage expended.
 
 
 Each segment causes _one_ effect (roll or choose):
@@ -112,9 +112,9 @@ Each segment causes _one_ effect (roll or choose):
     
     -   You _threaten_ a large encounter but let them avoid it by sacrificing time, spells, or HP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcyMTExNDE1LC0xODUwNTMyNjA2LDU3Mz
-AxOTIzMSwtMTE1NDY2MDI5NiwxODk5NjM4NDE1LC0xNDQyNTM1
-ODgxLDIwNjIzNjE3ODgsMTUyNjc1MTI4NiwxMzQ1NTMzMTQwLC
-0yOTA3MjU0MzEsMzA2MDM0MTM1LC0xMzU0OTQ3MDA1LDczMDk5
-ODExNl19
+eyJoaXN0b3J5IjpbLTE2MTA4Njc5MzksLTE4NTA1MzI2MDYsNT
+czMDE5MjMxLC0xMTU0NjYwMjk2LDE4OTk2Mzg0MTUsLTE0NDI1
+MzU4ODEsMjA2MjM2MTc4OCwxNTI2NzUxMjg2LDEzNDU1MzMxND
+AsLTI5MDcyNTQzMSwzMDYwMzQxMzUsLTEzNTQ5NDcwMDUsNzMw
+OTk4MTE2XX0=
 -->
