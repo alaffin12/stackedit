@@ -8,7 +8,7 @@ Ahmaz returns to the party.  He's not happy with how events turned out - he unde
 Presumably the party, in need of a long rest, will take Ahmaz's advice. The following events will happen:
 
 #### Event #1: Slaadi Tadpole
-
+One player is infected with a special slaad tadpole.  Traditionally a slaad tadpole manifest along with a certain pattern, but this one 
 
 Each segment causes _one_ effect (roll or choose):
 
@@ -46,6 +46,6 @@ Each segment causes _one_ effect (roll or choose):
     
     -   You _threaten_ a large encounter but let them avoid it by sacrificing time, spells, or HP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MDcyNTQzMSwzMDYwMzQxMzUsLTEzNT
-Q5NDcwMDUsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbNjU2NTk4OTc5LC0yOTA3MjU0MzEsMzA2MD
+M0MTM1LC0xMzU0OTQ3MDA1LDczMDk5ODExNl19
 -->
