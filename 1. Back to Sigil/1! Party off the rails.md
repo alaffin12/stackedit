@@ -13,11 +13,7 @@ One player is infected with a special slaad tadpole.  Traditionally a slaad tadp
 #### Event #2: Aasimar Dream
 Andromeda has a dream - a very potent, real seeming dream.  The dream goes as follows:
 
-> The dream begins in silence, weightless and cold. Stars hang unmoving, as if painted on glass. Before you drifts a great throne of crystal and brass, unmistakably a seat of command — not resting on a deck, but tumbling slowly through the void, trailing threads of light like severed nerves. Beneath it yawns an impossible shape: a vast, half-remembered corpse of divinity, its surface fractured and hollow, exhaling a low, funereal resonance that you feel in your bones rather than hear.
->
-> A winged figure appears, radiant but battered, reaching for the drifting throne. One wing is torn and darkened, feathers falling away into nothing; one leg is absent entirely, replaced only by drifting motes of silver where it should be. As her fingers brush the throne, something vast stirs within the god-corpse — a pressure, a presence — and the stars bend inward as if recoiling. The figure cries out, not in pain but in warning, and is hurled back toward a jagged silhouette of a ship’s broken bow, slamming against an unseen barrier that seals shut behind her like a closing eye.
->
->As the vision fades, a second presence coils into your awareness: warm, golden, bound, its light muffled as though wrapped in chains of dull iron. It does not speak, but its distress resonates like a plucked string. Then — discord. A wrongness slips through the harmony, a note that croaks where it should sing, moving freely where others are constrained. The throne continues to drift, unclaimed, sinking deeper toward the dead god’s heart… and you wake with the certainty that something sacred has been lost, something watchful is imprisoned nearby, and something else is wearing a smile it does not own.
+> You feel yourself drift off to sleep peacefully, and then suddenly something reaches up from the floor around you and pull you under, through the deck to... somewhere els
 
 
 Each segment causes _one_ effect (roll or choose):
@@ -56,7 +52,7 @@ Each segment causes _one_ effect (roll or choose):
     
     -   You _threaten_ a large encounter but let them avoid it by sacrificing time, spells, or HP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODY3MjU5NTAsMTUyNjc1MTI4NiwxMz
-Q1NTMzMTQwLC0yOTA3MjU0MzEsMzA2MDM0MTM1LC0xMzU0OTQ3
-MDA1LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbODQ3MTMwMDkwLDE1MjY3NTEyODYsMTM0NT
+UzMzE0MCwtMjkwNzI1NDMxLDMwNjAzNDEzNSwtMTM1NDk0NzAw
+NSw3MzA5OTgxMTZdfQ==
 -->
