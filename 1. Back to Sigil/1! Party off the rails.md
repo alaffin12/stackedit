@@ -64,7 +64,10 @@ If the party confronts Ilren without suppressing the effects of the tadpole on t
 * The infected PC has no reactions.  On its turn it gets a single move action or a single action, but nothing more.  
 
 ### The Next Morning
-The party will awaken to the sound of the ship's bell rining.  The Lambent Zenith is under attack again.  
+The party will awaken to the sound of the ship's bell ringing.  The Lambent Zenith is under attack again.  
+
+#### Ship Attacks
+Rather than deal with trying to run a massive combat encounter that
 
 
 Each segment causes _one_ effect (roll or choose):
@@ -103,8 +106,8 @@ Each segment causes _one_ effect (roll or choose):
     
     -   You _threaten_ a large encounter but let them avoid it by sacrificing time, spells, or HP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMjE5NzQ3MSw1NzMwMTkyMzEsLTExNT
-Q2NjAyOTYsMTg5OTYzODQxNSwtMTQ0MjUzNTg4MSwyMDYyMzYx
-Nzg4LDE1MjY3NTEyODYsMTM0NTUzMzE0MCwtMjkwNzI1NDMxLD
-MwNjAzNDEzNSwtMTM1NDk0NzAwNSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE4NTA1MzI2MDYsNTczMDE5MjMxLC0xMT
+U0NjYwMjk2LDE4OTk2Mzg0MTUsLTE0NDI1MzU4ODEsMjA2MjM2
+MTc4OCwxNTI2NzUxMjg2LDEzNDU1MzMxNDAsLTI5MDcyNTQzMS
+wzMDYwMzQxMzUsLTEzNTQ5NDcwMDUsNzMwOTk4MTE2XX0=
 -->
