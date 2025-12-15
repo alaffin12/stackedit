@@ -30,7 +30,17 @@ The Slaad Tadpole will have an effect on the player in three phases.
 * Brief chills, or being nauseated briefly
 * Brief flashes of irrational anger or fear
 * Nightmares of falling through colour and noise
+
 *Notes:* 
+* No penalties
+* No conditions
+* Detect Magic shows nothing
+* Detect Good and Evil shows vague static interference
+
+#### Phase 2: 
+*Active:* 
+
+
 
 Each segment causes _one_ effect (roll or choose):
 
@@ -68,8 +78,8 @@ Each segment causes _one_ effect (roll or choose):
     
     -   You _threaten_ a large encounter but let them avoid it by sacrificing time, spells, or HP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU1NDMzNzU0LDE4OTk2Mzg0MTUsLTE0ND
-I1MzU4ODEsMjA2MjM2MTc4OCwxNTI2NzUxMjg2LDEzNDU1MzMx
-NDAsLTI5MDcyNTQzMSwzMDYwMzQxMzUsLTEzNTQ5NDcwMDUsNz
-MwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTEwODcyOTQzODgsMTg5OTYzODQxNSwtMT
+Q0MjUzNTg4MSwyMDYyMzYxNzg4LDE1MjY3NTEyODYsMTM0NTUz
+MzE0MCwtMjkwNzI1NDMxLDMwNjAzNDEzNSwtMTM1NDk0NzAwNS
+w3MzA5OTgxMTZdfQ==
 -->
