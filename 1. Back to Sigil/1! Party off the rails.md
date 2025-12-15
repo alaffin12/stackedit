@@ -13,7 +13,9 @@ One player is infected with a special slaad tadpole.  Traditionally a slaad tadp
 #### Event #2: Aasimar Dream
 Andromeda has a dream - a very potent, real seeming dream.  The dream goes as follows:
 
-> You feel yourself drift off to sleep peacefully, and then suddenly something reaches up from the floor around you and pull you under, through the deck to... somewhere else.  You know the touch of the divine better than most, and this has that - a touch of the divine.  But it is distant.  An echo.  And at the same time the sound of it drowns out the sound of your own blood, pumping in your veins.  It is warm.  Golden.  Celestial.  But the light is restrained, like a held breath that has gone on too long.  Around it - around the whole ship - there is a sour, discordant note.  Something laughing softly, wearing a voice that does not belong to it.  
+> You feel yourself drift off to sleep peacefully, and then suddenly something reaches up from the floor around you and pull you under, through the deck to... somewhere else.  You know the touch of the divine better than most, and this has that - a touch of the divine.  But it is distant.  An echo.  And at the same time the sound of it drowns out the sound of your own blood, pumping in your veins.  It is warm.  Golden.  Celestial.  But the light is restrained, like a held breath that has gone on too long.  Around it - around the whole ship - there is a sour, discordant note.  Something laughing softly, wearing a voice that does not belong to it.  And the golden sound calls out.  "...cousin..."
+
+#### Event 
 
 Each segment causes _one_ effect (roll or choose):
 
@@ -51,7 +53,8 @@ Each segment causes _one_ effect (roll or choose):
     
     -   You _threaten_ a large encounter but let them avoid it by sacrificing time, spells, or HP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDI1MzU4ODEsMjA2MjM2MTc4OCwxNT
-I2NzUxMjg2LDEzNDU1MzMxNDAsLTI5MDcyNTQzMSwzMDYwMzQx
-MzUsLTEzNTQ5NDcwMDUsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTU5NzUwNTI2MSwtMTQ0MjUzNTg4MSwyMD
+YyMzYxNzg4LDE1MjY3NTEyODYsMTM0NTUzMzE0MCwtMjkwNzI1
+NDMxLDMwNjAzNDEzNSwtMTM1NDk0NzAwNSw3MzA5OTgxMTZdfQ
+==
 -->
