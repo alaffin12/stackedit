@@ -71,7 +71,8 @@ Rather than deal with trying to run a massive combat encounter that would just g
 
 | Roll | Effect | 
 | -- | -- |
-| 1 | Each PC has to make a DC 15 Constitution save.  
+| 1 | Each PC has to make a DC 15 Constitution save.  Those who fail must lose a hit dice or sacrifice a level one (or higher) spell slot |
+| 2 | Each PC has to make a DC 15 Dexterity 
 
 
 Each segment causes _one_ effect (roll or choose):
@@ -110,9 +111,9 @@ Each segment causes _one_ effect (roll or choose):
     
     -   You _threaten_ a large encounter but let them avoid it by sacrificing time, spells, or HP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzYwNTgxMzAsLTE4NTA1MzI2MDYsNT
-czMDE5MjMxLC0xMTU0NjYwMjk2LDE4OTk2Mzg0MTUsLTE0NDI1
-MzU4ODEsMjA2MjM2MTc4OCwxNTI2NzUxMjg2LDEzNDU1MzMxND
-AsLTI5MDcyNTQzMSwzMDYwMzQxMzUsLTEzNTQ5NDcwMDUsNzMw
-OTk4MTE2XX0=
+eyJoaXN0b3J5IjpbNjM0Mzg5NDIxLC0xODUwNTMyNjA2LDU3Mz
+AxOTIzMSwtMTE1NDY2MDI5NiwxODk5NjM4NDE1LC0xNDQyNTM1
+ODgxLDIwNjIzNjE3ODgsMTUyNjc1MTI4NiwxMzQ1NTMzMTQwLC
+0yOTA3MjU0MzEsMzA2MDM0MTM1LC0xMzU0OTQ3MDA1LDczMDk5
+ODExNl19
 -->
