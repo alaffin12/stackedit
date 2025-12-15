@@ -37,8 +37,14 @@ The Slaad Tadpole will have an effect on the player in three phases.
 * Detect Magic shows nothing
 * Detect Good and Evil shows vague static interference
 
-#### Phase 2: 
+#### Phase 2: Escalation
 *Active:* 
+* The party is actively investigating Ilren
+* The party knows or strongly suspects an infection
+* The PC drops to 0 HP
+
+*Effects:*
+
 
 
 
@@ -78,7 +84,7 @@ Each segment causes _one_ effect (roll or choose):
     
     -   You _threaten_ a large encounter but let them avoid it by sacrificing time, spells, or HP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODcyOTQzODgsMTg5OTYzODQxNSwtMT
+eyJoaXN0b3J5IjpbLTEwNDQ3NDcwNDIsMTg5OTYzODQxNSwtMT
 Q0MjUzNTg4MSwyMDYyMzYxNzg4LDE1MjY3NTEyODYsMTM0NTUz
 MzE0MCwtMjkwNzI1NDMxLDMwNjAzNDEzNSwtMTM1NDk0NzAwNS
 w3MzA5OTgxMTZdfQ==
