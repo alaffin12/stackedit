@@ -88,13 +88,15 @@ Calling everyone together, Figaro intends to get everyone's opinions before maki
 
 **Ahmaz:** Would advocate for action even without the party present.  Having a band of obviously skilled mercenaries present increases his desire for action, not reaction.  
 
-**Daveras:** Is still depressed at the loss 
+**Daveras:** Is still depressed at the loss of his friends.  Is fatalistic enough that he will go along with whatever is proposed, but personally believes hunkering down is the best option.
+
+**Figaro:** Does not trust the party.  Does not trust Ahmaz any more.  Is trying to choose the best course of action, does not 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3ODAwMTc3OCwtOTQ5NTkyMDM3LC0xMT
-E3NDMwNDA5LDEwODIyMzkzNTksMTU4MDc0OTM2MSwxMjUxNTA0
-NjEwLC0yOTk1OTA2MzIsLTE4NTA1MzI2MDYsNTczMDE5MjMxLC
-0xMTU0NjYwMjk2LDE4OTk2Mzg0MTUsLTE0NDI1MzU4ODEsMjA2
-MjM2MTc4OCwxNTI2NzUxMjg2LDEzNDU1MzMxNDAsLTI5MDcyNT
-QzMSwzMDYwMzQxMzUsLTEzNTQ5NDcwMDUsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE4ODA5Mzg0MzIsLTk0OTU5MjAzNywtMT
+ExNzQzMDQwOSwxMDgyMjM5MzU5LDE1ODA3NDkzNjEsMTI1MTUw
+NDYxMCwtMjk5NTkwNjMyLC0xODUwNTMyNjA2LDU3MzAxOTIzMS
+wtMTE1NDY2MDI5NiwxODk5NjM4NDE1LC0xNDQyNTM1ODgxLDIw
+NjIzNjE3ODgsMTUyNjc1MTI4NiwxMzQ1NTMzMTQwLC0yOTA3Mj
+U0MzEsMzA2MDM0MTM1LC0xMzU0OTQ3MDA1LDczMDk5ODExNl19
 
 -->
