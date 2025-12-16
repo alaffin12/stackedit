@@ -83,12 +83,15 @@ With the arrival of Ahmaz (who has more authority than either Lysan or Zastra) a
 ### The Next Morning
 The party will awaken to the sound of the ship's bell ringing.  The Lambent Zenith is under attack again.  Roll 2d6 and use the table to determine the impact on the party and crew.  Afterwards Fiagro will call together all the senior crew to discuss options, begrudgingly inviting everyone with a name on the ship (including the party and Daveras)
 
-#
+#### The Council of Figaro
+Calling everyone together, Figaro intends to get everyone's opinions before making his decision about how best to proceed.
+
+**Ahmaz:** Would advocate for action even without the party present
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjI1NjIxNDYsLTExMTc0MzA0MDksMT
-A4MjIzOTM1OSwxNTgwNzQ5MzYxLDEyNTE1MDQ2MTAsLTI5OTU5
-MDYzMiwtMTg1MDUzMjYwNiw1NzMwMTkyMzEsLTExNTQ2NjAyOT
-YsMTg5OTYzODQxNSwtMTQ0MjUzNTg4MSwyMDYyMzYxNzg4LDE1
-MjY3NTEyODYsMTM0NTUzMzE0MCwtMjkwNzI1NDMxLDMwNjAzND
-EzNSwtMTM1NDk0NzAwNSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTk0OTU5MjAzNywtMTExNzQzMDQwOSwxMD
+gyMjM5MzU5LDE1ODA3NDkzNjEsMTI1MTUwNDYxMCwtMjk5NTkw
+NjMyLC0xODUwNTMyNjA2LDU3MzAxOTIzMSwtMTE1NDY2MDI5Ni
+wxODk5NjM4NDE1LC0xNDQyNTM1ODgxLDIwNjIzNjE3ODgsMTUy
+Njc1MTI4NiwxMzQ1NTMzMTQwLC0yOTA3MjU0MzEsMzA2MDM0MT
+M1LC0xMzU0OTQ3MDA1LDczMDk5ODExNl19
 -->
