@@ -59,7 +59,7 @@ Rather than deal with trying to run a massive combat encounter that would just g
 | 2 | Each PC has to make a DC 15 Dexterity save.  Those who fail are wounded, and will have disadvantage on their next Dexterity or Strength saving throw or check (they cannot cheese this by making an inconsequential check to say, do a cartwheel.  The check must have meaning for the penalty to apply) |
 | 3 | Each PC has to make a DC 15 Constitution save.  Those who fail must lose a hit dice or sacrifice a level one (or higher) spell slot |
 | 4 | Distribute 4d8 damage amongst the party.  It can be reduced by 1d4 for each level of spell slot or psionic dice expended.  I can be reduced 1d8 for each barbarian rage expended (max one per barbarian). | 
-| 5 | A large predator attacks.  Distribute 8d8 damage amongst the party.  It can be reduced by 1d4 for each level of spell slot or psionic dice expended.  I can be reduced 1d8 for each barbarian rage expended (max one per barbarian).  NPC crewmember dies.  Unnamed first, then named in the following order: Ahmaz->Cirit (if free)->Figaro If the party is left with only Ilren alive something has gone horribly wrong.  Play it by ear. |
+| 5 | A large predator attacks.  Distribute 8d8 damage amongst the party.  It can be reduced by 1d4 for each level of spell slot or psionic dice expended.  I can be reduced 1d8 for each barbarian rage expended (max one per barbarian).  NPC crewmember dies.  Unnamed first, then named in the following order: Iksa & Redbud (if rescued)->Daveras->Lysan->Kycera->Zastra->Ahmaz->Cirit (if free)->Figaro If the party is left with only Ilren alive something has gone horribly wrong.  Play it by ear. |
 | 6 | Roll again.  Roll twice. |
 ---
 
@@ -83,10 +83,10 @@ With the arrival of Ahmaz (who has more authority than either Lysan or Zastra) a
 ### The Next Morning
 The party will awaken to the sound of the ship's bell ringing.  The Lambent Zenith is under attack again.  Roll 2d6 and use the table to determine the impact on the party and crew.  Afterwards Fiagro will call together all the senior crew to discuss options, begrudging
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE5NTU5NiwxNTgwNzQ5MzYxLDEyNTE1MD
-Q2MTAsLTI5OTU5MDYzMiwtMTg1MDUzMjYwNiw1NzMwMTkyMzEs
-LTExNTQ2NjAyOTYsMTg5OTYzODQxNSwtMTQ0MjUzNTg4MSwyMD
-YyMzYxNzg4LDE1MjY3NTEyODYsMTM0NTUzMzE0MCwtMjkwNzI1
-NDMxLDMwNjAzNDEzNSwtMTM1NDk0NzAwNSw3MzA5OTgxMTZdfQ
-==
+eyJoaXN0b3J5IjpbMTA4MjIzOTM1OSwxNTgwNzQ5MzYxLDEyNT
+E1MDQ2MTAsLTI5OTU5MDYzMiwtMTg1MDUzMjYwNiw1NzMwMTky
+MzEsLTExNTQ2NjAyOTYsMTg5OTYzODQxNSwtMTQ0MjUzNTg4MS
+wyMDYyMzYxNzg4LDE1MjY3NTEyODYsMTM0NTUzMzE0MCwtMjkw
+NzI1NDMxLDMwNjAzNDEzNSwtMTM1NDk0NzAwNSw3MzA5OTgxMT
+ZdfQ==
 -->
