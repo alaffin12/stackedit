@@ -90,13 +90,15 @@ Calling everyone together, Figaro intends to get everyone's opinions before maki
 
 **Daveras:** Is still depressed at the loss of his friends.  Is fatalistic enough that he will go along with whatever is proposed, but personally believes hunkering down is the best option.
 
-**Figaro:** Does not trust the party.  Does not trust Ahmaz any more.  Is trying to choose the best course of action, does not 
+**Figaro:** Does not trust the party.  Does not trust Ahmaz any more.  Is trying to choose the best course of action, does not favour any options yet.
+
+**Ilren:** *"The proper course of action in such situations is to hunker down an await rescue.  We are holding against the raids for now, they do not present much thr
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODA5Mzg0MzIsLTk0OTU5MjAzNywtMT
-ExNzQzMDQwOSwxMDgyMjM5MzU5LDE1ODA3NDkzNjEsMTI1MTUw
-NDYxMCwtMjk5NTkwNjMyLC0xODUwNTMyNjA2LDU3MzAxOTIzMS
-wtMTE1NDY2MDI5NiwxODk5NjM4NDE1LC0xNDQyNTM1ODgxLDIw
-NjIzNjE3ODgsMTUyNjc1MTI4NiwxMzQ1NTMzMTQwLC0yOTA3Mj
-U0MzEsMzA2MDM0MTM1LC0xMzU0OTQ3MDA1LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTEyMjYyNDQwNiwtOTQ5NTkyMDM3LC0xMT
+E3NDMwNDA5LDEwODIyMzkzNTksMTU4MDc0OTM2MSwxMjUxNTA0
+NjEwLC0yOTk1OTA2MzIsLTE4NTA1MzI2MDYsNTczMDE5MjMxLC
+0xMTU0NjYwMjk2LDE4OTk2Mzg0MTUsLTE0NDI1MzU4ODEsMjA2
+MjM2MTc4OCwxNTI2NzUxMjg2LDEzNDU1MzMxNDAsLTI5MDcyNT
+QzMSwzMDYwMzQxMzUsLTEzNTQ5NDcwMDUsNzMwOTk4MTE2XX0=
 
 -->
