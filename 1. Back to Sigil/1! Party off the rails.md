@@ -92,13 +92,15 @@ Calling everyone together, Figaro intends to get everyone's opinions before maki
 
 **Figaro:** Does not trust the party.  Does not trust Ahmaz any more.  Is trying to choose the best course of action, does not favour any options yet.
 
-**Ilren:** *"The proper course of action in such situations is to hunker down an await rescue.  (if everyone survived the morning attacks) We have been holding against the raids for now, they do not present much threat to us.  Better to fortify here then to let them pick us off one by one.  (if people died during the morning) We are losing people fast enough as it is 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NDgwNTY5OSwtOTQ5NTkyMDM3LC0xMT
-E3NDMwNDA5LDEwODIyMzkzNTksMTU4MDc0OTM2MSwxMjUxNTA0
-NjEwLC0yOTk1OTA2MzIsLTE4NTA1MzI2MDYsNTczMDE5MjMxLC
-0xMTU0NjYwMjk2LDE4OTk2Mzg0MTUsLTE0NDI1MzU4ODEsMjA2
-MjM2MTc4OCwxNTI2NzUxMjg2LDEzNDU1MzMxNDAsLTI5MDcyNT
-QzMSwzMDYwMzQxMzUsLTEzNTQ5NDcwMDUsNzMwOTk4MTE2XX0=
+**Ilren:** *"The proper course of action in such situations is to hunker down an await rescue.  (if everyone survived the morning attacks) We have been holding against the raids for now, they do not present much threat to us.  Better to fortify here then to let them pick us off one by one.  (if people died during the morning) We are losing people fast enough as it is.  If we send people to the bow of the ship they'll pick us off one by one."
 
+**Kycera**: 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE5MzY0NjE0NTQsMTc1NDgwNTY5OSwtOT
+Q5NTkyMDM3LC0xMTE3NDMwNDA5LDEwODIyMzkzNTksMTU4MDc0
+OTM2MSwxMjUxNTA0NjEwLC0yOTk1OTA2MzIsLTE4NTA1MzI2MD
+YsNTczMDE5MjMxLC0xMTU0NjYwMjk2LDE4OTk2Mzg0MTUsLTE0
+NDI1MzU4ODEsMjA2MjM2MTc4OCwxNTI2NzUxMjg2LDEzNDU1Mz
+MxNDAsLTI5MDcyNTQzMSwzMDYwMzQxMzUsLTEzNTQ5NDcwMDUs
+NzMwOTk4MTE2XX0=
 -->
