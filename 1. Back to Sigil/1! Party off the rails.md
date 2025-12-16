@@ -82,11 +82,13 @@ With the arrival of Ahmaz (who has more authority than either Lysan or Zastra) a
 
 ### The Next Morning
 The party will awaken to the sound of the ship's bell ringing.  The Lambent Zenith is under attack again.  Roll 2d6 and use the table to determine the impact on the party and crew.  Afterwards Fiagro will call together all the senior crew to discuss options, begrudgingly inviting everyone with a name on the ship (including the party and Daveras)
+
+#
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTc0MzA0MDksMTA4MjIzOTM1OSwxNT
-gwNzQ5MzYxLDEyNTE1MDQ2MTAsLTI5OTU5MDYzMiwtMTg1MDUz
-MjYwNiw1NzMwMTkyMzEsLTExNTQ2NjAyOTYsMTg5OTYzODQxNS
-wtMTQ0MjUzNTg4MSwyMDYyMzYxNzg4LDE1MjY3NTEyODYsMTM0
-NTUzMzE0MCwtMjkwNzI1NDMxLDMwNjAzNDEzNSwtMTM1NDk0Nz
-AwNSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE1NjI1NjIxNDYsLTExMTc0MzA0MDksMT
+A4MjIzOTM1OSwxNTgwNzQ5MzYxLDEyNTE1MDQ2MTAsLTI5OTU5
+MDYzMiwtMTg1MDUzMjYwNiw1NzMwMTkyMzEsLTExNTQ2NjAyOT
+YsMTg5OTYzODQxNSwtMTQ0MjUzNTg4MSwyMDYyMzYxNzg4LDE1
+MjY3NTEyODYsMTM0NTUzMzE0MCwtMjkwNzI1NDMxLDMwNjAzND
+EzNSwtMTM1NDk0NzAwNSw3MzA5OTgxMTZdfQ==
 -->
