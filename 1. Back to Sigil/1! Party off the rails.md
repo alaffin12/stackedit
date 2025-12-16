@@ -86,12 +86,15 @@ The party will awaken to the sound of the ship's bell ringing.  The Lambent Zeni
 #### The Council of Figaro
 Calling everyone together, Figaro intends to get everyone's opinions before making his decision about how best to proceed.
 
-**Ahmaz:** Would advocate for action even without the party present
+**Ahmaz:** Would advocate for action even without the party present.  Having a band of obviously skilled mercenaries present increases his desire for action, not reaction.  
+
+**Daveras:** Is still depressed at the loss 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0OTU5MjAzNywtMTExNzQzMDQwOSwxMD
-gyMjM5MzU5LDE1ODA3NDkzNjEsMTI1MTUwNDYxMCwtMjk5NTkw
-NjMyLC0xODUwNTMyNjA2LDU3MzAxOTIzMSwtMTE1NDY2MDI5Ni
-wxODk5NjM4NDE1LC0xNDQyNTM1ODgxLDIwNjIzNjE3ODgsMTUy
-Njc1MTI4NiwxMzQ1NTMzMTQwLC0yOTA3MjU0MzEsMzA2MDM0MT
-M1LC0xMzU0OTQ3MDA1LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTQ3ODAwMTc3OCwtOTQ5NTkyMDM3LC0xMT
+E3NDMwNDA5LDEwODIyMzkzNTksMTU4MDc0OTM2MSwxMjUxNTA0
+NjEwLC0yOTk1OTA2MzIsLTE4NTA1MzI2MDYsNTczMDE5MjMxLC
+0xMTU0NjYwMjk2LDE4OTk2Mzg0MTUsLTE0NDI1MzU4ODEsMjA2
+MjM2MTc4OCwxNTI2NzUxMjg2LDEzNDU1MzMxNDAsLTI5MDcyNT
+QzMSwzMDYwMzQxMzUsLTEzNTQ5NDcwMDUsNzMwOTk4MTE2XX0=
+
 -->
