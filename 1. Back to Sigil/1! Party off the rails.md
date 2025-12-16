@@ -3,10 +3,11 @@ The murder hobos have gone off the rails.  How do I fix it?  How do I get them b
 
 Some mechanics for what is to come...
 
-## The Slaad Tadpole
+---
+#### The Slaad Tadpole
 The Slaad Tadpole will have an effect on the player in three phases.
 
-### Phase 1: Blind
+##### Phase 1: Blind
 *Active:* 
 * The party does not know about the infection.
 * The party does is not yet actively investigating Ilren.
@@ -22,7 +23,7 @@ The Slaad Tadpole will have an effect on the player in three phases.
 * Detect Magic shows nothing
 * Detect Good and Evil shows vague static interference
 
-### Phase 2: Escalation
+##### Phase 2: Escalation
 *Active:* 
 * The party is actively investigating Ilren
 * The party knows or strongly suspects an infection
@@ -39,7 +40,7 @@ The Slaad Tadpole will have an effect on the player in three phases.
 * Greater Restoration suppresses it for 24 hours
 * A DC 20 Medicine and a DC 20 Arcana check (both are required) will identify the cause as chaotic parasitism.  Cirit can also diagnose without a check.  None of this changes what it can and can't do, but Cirit (who is more familiar with both Slaad and the current situation) will say that short of powerful high end magic (more powerful than even greater restoration) the best way to undo the infection is to kill creature that created the parasite - Ilren - as it is his magic that is making the the tadpole so resilient.
 
-### Phase 3: Confrontation
+##### Phase 3: Confrontation
 *Active:* When the party confronts Ilren.
 
 If the party confronts Ilren without suppressing the effects of the tadpole on the victim then they are going to be in trouble.  But here we are:
@@ -47,8 +48,9 @@ If the party confronts Ilren without suppressing the effects of the tadpole on t
 *Effects:* 
 * Each round the infected PC loses 3d6 HP.  This HP directly heals Ilren.  
 * The infected PC has no reactions.  On its turn it gets a single move action or a single action, but nothing more.  
-
-## Ship Attacks
+---
+---
+#### Ship Attacks
 Rather than deal with trying to run a massive combat encounter that would just get bogged down we are going to do it in the abstract.  There will be repeated attacks on the ship throughout the day.  Each time roll 1d6:
 
 | Roll | Effect | 
@@ -59,6 +61,7 @@ Rather than deal with trying to run a massive combat encounter that would just g
 | 4 | Distribute 4d8 damage amongst the party.  It can be reduced by 1d4 for each level of spell slot or psionic dice expended.  I can be reduced 1d8 for each barbarian rage expended (max one per barbarian). | 
 | 5 | A large predator attacks.  Distribute 8d8 damage amongst the party.  It can be reduced by 1d4 for each level of spell slot or psionic dice expended.  I can be reduced 1d8 for each barbarian rage expended (max one per barbarian).  NPC crewmember dies.  Unnamed first, then named until only Ilren is left |
 | 6 | Roll again.  Roll twice. |
+---
 
 ## The Long Rest
 Ahmaz returns to the party.  He's not happy with how events turned out - he understands that Fiagro was not in his right mind, but he does not believe that knocking him out to heal him actually helped the party.  If they ask if he is willing to give the lockdown password, to which Ahmaz will almost laugh and reply: "No.  He thinks you might be behind whatever was afflicting him.  Worse still he thinks I might be afflicted to.  But he is willing to let you stay on the Lambent Zenith for now.  He is warding his wardroom against further intrusion, and is going to take a rest.  I suggest you all do the same.  If word gets out that you attacked Figaro there might be some folk who take matters into their own hands - I suggest you stay in the galley with Kycera for now."
@@ -80,9 +83,10 @@ With the arrival of Ahmaz (who has more authority than either Lysan or Zastra) a
 ### The Next Morning
 The party will awaken to the sound of the ship's bell ringing.  The Lambent Zenith is under attack again.  Roll 2d6 and use the table to determine the impact on the party and crew.  Afterwards Fiagro will call together all the senior crew to discuss options, begrudging
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MDc0OTM2MSwxMjUxNTA0NjEwLC0yOT
-k1OTA2MzIsLTE4NTA1MzI2MDYsNTczMDE5MjMxLC0xMTU0NjYw
-Mjk2LDE4OTk2Mzg0MTUsLTE0NDI1MzU4ODEsMjA2MjM2MTc4OC
-wxNTI2NzUxMjg2LDEzNDU1MzMxNDAsLTI5MDcyNTQzMSwzMDYw
-MzQxMzUsLTEzNTQ5NDcwMDUsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbNTg0MDQ5NDYxLDE1ODA3NDkzNjEsMTI1MT
+UwNDYxMCwtMjk5NTkwNjMyLC0xODUwNTMyNjA2LDU3MzAxOTIz
+MSwtMTE1NDY2MDI5NiwxODk5NjM4NDE1LC0xNDQyNTM1ODgxLD
+IwNjIzNjE3ODgsMTUyNjc1MTI4NiwxMzQ1NTMzMTQwLC0yOTA3
+MjU0MzEsMzA2MDM0MTM1LC0xMzU0OTQ3MDA1LDczMDk5ODExNl
+19
 -->
