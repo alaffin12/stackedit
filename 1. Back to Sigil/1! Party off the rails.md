@@ -59,11 +59,11 @@ Rather than deal with trying to run a massive combat encounter that would just g
 | 2 | Each PC has to make a DC 15 Dexterity save.  Those who fail are wounded, and will have disadvantage on their next Dexterity or Strength saving throw or check (they cannot cheese this by making an inconsequential check to say, do a cartwheel.  The check must have meaning for the penalty to apply) |
 | 3 | Each PC has to make a DC 15 Constitution save.  Those who fail must lose a hit dice or sacrifice a level one (or higher) spell slot |
 | 4 | Distribute 4d8 damage amongst the party.  It can be reduced by 1d4 for each level of spell slot or psionic dice expended.  I can be reduced 1d8 for each barbarian rage expended (max one per barbarian). | 
-| 5 | A large predator attacks.  Distribute 8d8 damage amongst the party.  It can be reduced by 1d4 for each level of spell slot or psionic dice expended.  I can be reduced 1d8 for each barbarian rage expended (max one per barbarian).  NPC crewmember dies.  Unnamed first, then named until only Ilren is left |
+| 5 | A large predator attacks.  Distribute 8d8 damage amongst the party.  It can be reduced by 1d4 for each level of spell slot or psionic dice expended.  I can be reduced 1d8 for each barbarian rage expended (max one per barbarian).  NPC crewmember dies.  Unnamed first, then named in the following order: Fig Ilren is left |
 | 6 | Roll again.  Roll twice. |
 ---
 
-## The Long Rest
+## Setting the Stage - The Long Rest
 Ahmaz returns to the party.  He's not happy with how events turned out - he understands that Fiagro was not in his right mind, but he does not believe that knocking him out to heal him actually helped the party.  If they ask if he is willing to give the lockdown password, to which Ahmaz will almost laugh and reply: "No.  He thinks you might be behind whatever was afflicting him.  Worse still he thinks I might be afflicted to.  But he is willing to let you stay on the Lambent Zenith for now.  He is warding his wardroom against further intrusion, and is going to take a rest.  I suggest you all do the same.  If word gets out that you attacked Figaro there might be some folk who take matters into their own hands - I suggest you stay in the galley with Kycera for now."
 
 ### During the Long Rest
@@ -83,10 +83,10 @@ With the arrival of Ahmaz (who has more authority than either Lysan or Zastra) a
 ### The Next Morning
 The party will awaken to the sound of the ship's bell ringing.  The Lambent Zenith is under attack again.  Roll 2d6 and use the table to determine the impact on the party and crew.  Afterwards Fiagro will call together all the senior crew to discuss options, begrudging
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg0MDQ5NDYxLDE1ODA3NDkzNjEsMTI1MT
-UwNDYxMCwtMjk5NTkwNjMyLC0xODUwNTMyNjA2LDU3MzAxOTIz
-MSwtMTE1NDY2MDI5NiwxODk5NjM4NDE1LC0xNDQyNTM1ODgxLD
-IwNjIzNjE3ODgsMTUyNjc1MTI4NiwxMzQ1NTMzMTQwLC0yOTA3
-MjU0MzEsMzA2MDM0MTM1LC0xMzU0OTQ3MDA1LDczMDk5ODExNl
-19
+eyJoaXN0b3J5IjpbMTUzNTcyNjcyNCwxNTgwNzQ5MzYxLDEyNT
+E1MDQ2MTAsLTI5OTU5MDYzMiwtMTg1MDUzMjYwNiw1NzMwMTky
+MzEsLTExNTQ2NjAyOTYsMTg5OTYzODQxNSwtMTQ0MjUzNTg4MS
+wyMDYyMzYxNzg4LDE1MjY3NTEyODYsMTM0NTUzMzE0MCwtMjkw
+NzI1NDMxLDMwNjAzNDEzNSwtMTM1NDk0NzAwNSw3MzA5OTgxMT
+ZdfQ==
 -->
