@@ -94,13 +94,13 @@ Calling everyone together, Figaro intends to get everyone's opinions before maki
 
 **Ilren:** *"The proper course of action in such situations is to hunker down an await rescue.  **(if everyone survived the morning attacks)** We have been holding against the raids for now, they do not present much threat to us.  Better to fortify here then to let them pick us off one by one.  **(if people died during the morning)** We are losing people fast enough as it is.  If we send people to the bow of the ship they'll pick us off one by one."*
 
-**Kycera**: 
+**Kycera**: Is not the type to like sitting and holding a defensive position.  However she is not sure that do
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzc1NjQ3NCwtMTkzNjQ2MTQ1NCwxNz
-U0ODA1Njk5LC05NDk1OTIwMzcsLTExMTc0MzA0MDksMTA4MjIz
-OTM1OSwxNTgwNzQ5MzYxLDEyNTE1MDQ2MTAsLTI5OTU5MDYzMi
-wtMTg1MDUzMjYwNiw1NzMwMTkyMzEsLTExNTQ2NjAyOTYsMTg5
-OTYzODQxNSwtMTQ0MjUzNTg4MSwyMDYyMzYxNzg4LDE1MjY3NT
-EyODYsMTM0NTUzMzE0MCwtMjkwNzI1NDMxLDMwNjAzNDEzNSwt
-MTM1NDk0NzAwNV19
+eyJoaXN0b3J5IjpbNzQwOTc3ODQzLC0xOTM3NTY0NzQsLTE5Mz
+Y0NjE0NTQsMTc1NDgwNTY5OSwtOTQ5NTkyMDM3LC0xMTE3NDMw
+NDA5LDEwODIyMzkzNTksMTU4MDc0OTM2MSwxMjUxNTA0NjEwLC
+0yOTk1OTA2MzIsLTE4NTA1MzI2MDYsNTczMDE5MjMxLC0xMTU0
+NjYwMjk2LDE4OTk2Mzg0MTUsLTE0NDI1MzU4ODEsMjA2MjM2MT
+c4OCwxNTI2NzUxMjg2LDEzNDU1MzMxNDAsLTI5MDcyNTQzMSwz
+MDYwMzQxMzVdfQ==
 -->
