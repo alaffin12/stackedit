@@ -98,11 +98,11 @@ Figaro chairs the 'meeting', such as it is, and begins by asserting that in Inda
 **Ilren** 
 *Tone:* Calm, Patronizing
 
-Ilren argues for stasis, dressing it up as prudence.  He praises the crew and their resilience, 
+Ilren argues for stasis, dressing it up as prudence.  He praises the crew and their resilience, having held out through so much already.  It would be a shame to waste it on reckless adventurism, to throw it away on 'senseless heroics'.  Chaos feeds on hasty actions chosen 
 
 **Kycera**: Is not the type to like sitting and holding a defensive position.  However she is not sure that do
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MzA5ODgzNCw3NDA5Nzc4NDMsLTE5Mz
+eyJoaXN0b3J5IjpbLTI1MjY1MDExNiw3NDA5Nzc4NDMsLTE5Mz
 c1NjQ3NCwtMTkzNjQ2MTQ1NCwxNzU0ODA1Njk5LC05NDk1OTIw
 MzcsLTExMTc0MzA0MDksMTA4MjIzOTM1OSwxNTgwNzQ5MzYxLD
 EyNTE1MDQ2MTAsLTI5OTU5MDYzMiwtMTg1MDUzMjYwNiw1NzMw
