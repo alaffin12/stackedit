@@ -92,8 +92,9 @@ Calling everyone together, Figaro intends to get everyone's opinions before maki
 Ahmaz is not happy.  The party behaved recklessly and have put him in a difficult situation.  Worse still, the party is advocating for the correct solution.  However their actions have stained that viewpoint.  Will openly criticize the party - for acting carelessly and without thought.  But he will also advocate for action - essentially saying they are right and that waiting for the universe to save the Lambent Zenith is foolish.  
 
 **Daveras**
-*Tone: *
+*Tone:* Quiet, hollow, resigned
 
+Daveras has lost much lately - he assumes Iksa and Redbud are dead.  Hope is a distant thing for him.  He prefers Ilren's plan because it sounds like less work overall 
 
 **Figaro**
 *Tone:* Controlled anger (at assault, mental manipulation); brittle authority; barely contained fear.
@@ -120,7 +121,7 @@ Lysan echoes Ahmaz's sentiments.  She will dismiss Ilren's belief as foolish and
 
 Zastra argues against Ahmaz and his plans, saying things like Ahmaz's plans always get people killed (eliciting a shocked reaction from almost everyone, who expected both Lysan and Zastra to fully back Ahmaz).  He will also imply (without evidence) that the party is manipulating Ahmaz.  Prefers Ilren's plan as it keeps order.  His arguments should always seem less than cohesive - as if there is something slightly off with his reasoning (in truth his mind has been manipulated by Ilren)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNTAwODA4MSw5NjgwOTU2MzQsNzQwOT
+eyJoaXN0b3J5IjpbLTE2Nzg0ODIyOCw5NjgwOTU2MzQsNzQwOT
 c3ODQzLC0xOTM3NTY0NzQsLTE5MzY0NjE0NTQsMTc1NDgwNTY5
 OSwtOTQ5NTkyMDM3LC0xMTE3NDMwNDA5LDEwODIyMzkzNTksMT
 U4MDc0OTM2MSwxMjUxNTA0NjEwLC0yOTk1OTA2MzIsLTE4NTA1
