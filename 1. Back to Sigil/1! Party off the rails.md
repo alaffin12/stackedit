@@ -103,7 +103,8 @@ Figaro chairs the 'meeting', such as it is, and begins by asserting that in Inda
 
 Ilren argues for stasis, dressing it up as prudence.  He praises the crew and their resilience, having held out through so much already.  It would be a shame to waste it on reckless adventurism, to throw it away on 'senseless heroics'.  Chaos feeds on hasty actions chosen in choler.  Discipline starves it.  
 
-**Kycera**: Is not the type to like sitting and holding a defensive position.  However she is not sure that do
+**Kycera**
+*Tone
 
 **Lysan**
 *Tone:* Direct, blunt
@@ -113,9 +114,9 @@ Lysan echoes Ahmaz's sentiments.  She will dismiss Ilren's belief as foolish and
 **Zastra**
 *Tone:* Defensive, emotional, suspicious
 
-Zastra argues against Ahmaz and his plans, saying things like Ahmaz's plans always get people killed (eliciting a shocked reaction from almost everyone, who expected both Lysan and Zastra to fully back Ahmaz).  He will also imply (without evidence) that the party is manipulating Ahmaz.  Prefers Ilren's plan as it keeps order.  His arguments should always seem less than cohesive - as if there is something 
+Zastra argues against Ahmaz and his plans, saying things like Ahmaz's plans always get people killed (eliciting a shocked reaction from almost everyone, who expected both Lysan and Zastra to fully back Ahmaz).  He will also imply (without evidence) that the party is manipulating Ahmaz.  Prefers Ilren's plan as it keeps order.  His arguments should always seem less than cohesive - as if there is something slightly off with his reasoning (in truth his mind has been manipulated by Ilren)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MzkxNDgwLDc0MDk3Nzg0MywtMTkzNz
+eyJoaXN0b3J5IjpbOTk5NjQ5MzcwLDc0MDk3Nzg0MywtMTkzNz
 U2NDc0LC0xOTM2NDYxNDU0LDE3NTQ4MDU2OTksLTk0OTU5MjAz
 NywtMTExNzQzMDQwOSwxMDgyMjM5MzU5LDE1ODA3NDkzNjEsMT
 I1MTUwNDYxMCwtMjk5NTkwNjMyLC0xODUwNTMyNjA2LDU3MzAx
