@@ -90,18 +90,19 @@ Calling everyone together, Figaro intends to get everyone's opinions before maki
 
 **Daveras:** Is still depressed at the loss of his friends.  Is fatalistic enough that he will go along with whatever is proposed, but personally believes hunkering down is the best option.
 
-**Figaro:** *Controlled anger, brittle
-* 
+**Figaro**
+* Authority figure
+
 
 **Ilren:** *"The proper course of action in such situations is to hunker down an await rescue.  **(if everyone survived the morning attacks)** We have been holding against the raids for now, they do not present much threat to us.  Better to fortify here then to let them pick us off one by one.  **(if people died during the morning)** We are losing people fast enough as it is.  If we send people to the bow of the ship they'll pick us off one by one."*
 
 **Kycera**: Is not the type to like sitting and holding a defensive position.  However she is not sure that do
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzYxNzMzODAsNzQwOTc3ODQzLC0xOT
-M3NTY0NzQsLTE5MzY0NjE0NTQsMTc1NDgwNTY5OSwtOTQ5NTky
-MDM3LC0xMTE3NDMwNDA5LDEwODIyMzkzNTksMTU4MDc0OTM2MS
-wxMjUxNTA0NjEwLC0yOTk1OTA2MzIsLTE4NTA1MzI2MDYsNTcz
-MDE5MjMxLC0xMTU0NjYwMjk2LDE4OTk2Mzg0MTUsLTE0NDI1Mz
-U4ODEsMjA2MjM2MTc4OCwxNTI2NzUxMjg2LDEzNDU1MzMxNDAs
-LTI5MDcyNTQzMV19
+eyJoaXN0b3J5IjpbLTM4NjI4MTI2Niw3NDA5Nzc4NDMsLTE5Mz
+c1NjQ3NCwtMTkzNjQ2MTQ1NCwxNzU0ODA1Njk5LC05NDk1OTIw
+MzcsLTExMTc0MzA0MDksMTA4MjIzOTM1OSwxNTgwNzQ5MzYxLD
+EyNTE1MDQ2MTAsLTI5OTU5MDYzMiwtMTg1MDUzMjYwNiw1NzMw
+MTkyMzEsLTExNTQ2NjAyOTYsMTg5OTYzODQxNSwtMTQ0MjUzNT
+g4MSwyMDYyMzYxNzg4LDE1MjY3NTEyODYsMTM0NTUzMzE0MCwt
+MjkwNzI1NDMxXX0=
 -->
