@@ -93,18 +93,18 @@ Calling everyone together, Figaro intends to get everyone's opinions before maki
 **Figaro**
 Tone: Controlled anger (at assault, mental manipulation); brittle authority; barely contained fear.
 
-Figaro chairs the 'meeting', such as it is, and begins by asserting that in Inda's absence the Lambent Zenith is his ship.  He admits that they are in an unprecedented and difficult situation, which is why he has called a meeting of everyone - even outsiders like Daveras, Ilren - whom he thanks for helping hold the crew together and keeping morale up in his absence - and the party - despite their assault.  Fiagro believes that the crew must stick together - splitting up to pursue the spelljammer helm now will endanger everyone.  He, of course, cannot force the party to stay on 
+Figaro chairs the 'meeting', such as it is, and begins by asserting that in Inda's absence the Lambent Zenith is his ship.  He admits that they are in an unprecedented and difficult situation, which is why he has called a meeting of everyone - even outsiders like Daveras, Ilren - whom he thanks for helping hold the crew together and keeping morale up in his absence - and the party - despite their assault.  Fiagro believes that the crew must stick together - splitting up to pursue the spelljammer helm now will endanger everyone.  He, of course, cannot force the party to stay on board.  But if they leave they will be treated as hostiles on their return as it is now known that something out there has the power to manipulate minds.  He will not give them the lockdown password for the same reason.  
 
 
 
 
 
 
-**Ilren:** *"The proper course of action in such situations is to hunker down an await rescue.  **(if everyone survived the morning attacks)** We have been holding against the raids for now, they do not present much threat to us.  Better to fortify here then to let them pick us off one by one.  **(if people died during the morning)** We are losing people fast enough as it is.  If we send people to the bow of the ship they'll pick us off one by one."*
+**Ilren** 
 
 **Kycera**: Is not the type to like sitting and holding a defensive position.  However she is not sure that do
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMTkwODYzMyw3NDA5Nzc4NDMsLTE5Mz
+eyJoaXN0b3J5IjpbLTE4MTIwNzA4MSw3NDA5Nzc4NDMsLTE5Mz
 c1NjQ3NCwtMTkzNjQ2MTQ1NCwxNzU0ODA1Njk5LC05NDk1OTIw
 MzcsLTExMTc0MzA0MDksMTA4MjIzOTM1OSwxNTgwNzQ5MzYxLD
 EyNTE1MDQ2MTAsLTI5OTU5MDYzMiwtMTg1MDUzMjYwNiw1NzMw
