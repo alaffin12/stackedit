@@ -86,7 +86,10 @@ The party will awaken to the sound of the ship's bell ringing.  The Lambent Zeni
 #### The Council of Figaro
 Calling everyone together, Figaro intends to get everyone's opinions before making his decision about how best to proceed.
 
-**Ahmaz:** Would advocate for action even without the party present.  Having a band of obviously skilled mercenaries present increases his desire for action, not reaction.  
+**Ahmaz** 
+*Tone:* Sharp, clipped.  Military-like.  Frustrated.
+
+Ahmaz is not happy.  The party behaved recklessly and have put him in a difficult situation.  Worse still, the party is advocating for the correct solution.  However their actions have stained that viewpoint.  
 
 **Daveras:** Is still depressed at the loss of his friends.  Is fatalistic enough that he will go along with whatever is proposed, but personally believes hunkering down is the best option.
 
@@ -102,7 +105,7 @@ Ilren argues for stasis, dressing it up as prudence.  He praises the crew and th
 
 **Kycera**: Is not the type to like sitting and holding a defensive position.  However she is not sure that do
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU0MDUwNTQ3LDc0MDk3Nzg0MywtMTkzNz
+eyJoaXN0b3J5IjpbMjYzMTg5MjU3LDc0MDk3Nzg0MywtMTkzNz
 U2NDc0LC0xOTM2NDYxNDU0LDE3NTQ4MDU2OTksLTk0OTU5MjAz
 NywtMTExNzQzMDQwOSwxMDgyMjM5MzU5LDE1ODA3NDkzNjEsMT
 I1MTUwNDYxMCwtMjk5NTkwNjMyLC0xODUwNTMyNjA2LDU3MzAx
