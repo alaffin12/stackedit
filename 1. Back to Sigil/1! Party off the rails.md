@@ -89,7 +89,7 @@ Calling everyone together, Figaro intends to get everyone's opinions before maki
 **Ahmaz** 
 *Tone:* Sharp, clipped.  Military-like.  Frustrated.
 
-Ahmaz is not happy.  The party behaved recklessly and have put him in a difficult situation.  Worse still, the party is advocating for the correct solution.  However their actions have stained that viewpoint.  
+Ahmaz is not happy.  The party behaved recklessly and have put him in a difficult situation.  Worse still, the party is advocating for the correct solution.  However their actions have stained that viewpoint.  Will openly criticize the party - for acting carelessly and without thought.  But he will also advocate for action - essentially saying they are right and that waiting for the universe to save the Lambent Zenith is foolish.  
 
 **Daveras:** Is still depressed at the loss of his friends.  Is fatalistic enough that he will go along with whatever is proposed, but personally believes hunkering down is the best option.
 
@@ -105,11 +105,11 @@ Ilren argues for stasis, dressing it up as prudence.  He praises the crew and th
 
 **Kycera**: Is not the type to like sitting and holding a defensive position.  However she is not sure that do
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYzMTg5MjU3LDc0MDk3Nzg0MywtMTkzNz
-U2NDc0LC0xOTM2NDYxNDU0LDE3NTQ4MDU2OTksLTk0OTU5MjAz
-NywtMTExNzQzMDQwOSwxMDgyMjM5MzU5LDE1ODA3NDkzNjEsMT
-I1MTUwNDYxMCwtMjk5NTkwNjMyLC0xODUwNTMyNjA2LDU3MzAx
-OTIzMSwtMTE1NDY2MDI5NiwxODk5NjM4NDE1LC0xNDQyNTM1OD
-gxLDIwNjIzNjE3ODgsMTUyNjc1MTI4NiwxMzQ1NTMzMTQwLC0y
-OTA3MjU0MzFdfQ==
+eyJoaXN0b3J5IjpbLTg2OTY4ODc3NCw3NDA5Nzc4NDMsLTE5Mz
+c1NjQ3NCwtMTkzNjQ2MTQ1NCwxNzU0ODA1Njk5LC05NDk1OTIw
+MzcsLTExMTc0MzA0MDksMTA4MjIzOTM1OSwxNTgwNzQ5MzYxLD
+EyNTE1MDQ2MTAsLTI5OTU5MDYzMiwtMTg1MDUzMjYwNiw1NzMw
+MTkyMzEsLTExNTQ2NjAyOTYsMTg5OTYzODQxNSwtMTQ0MjUzNT
+g4MSwyMDYyMzYxNzg4LDE1MjY3NTEyODYsMTM0NTUzMzE0MCwt
+MjkwNzI1NDMxXX0=
 -->
