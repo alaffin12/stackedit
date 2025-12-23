@@ -91,7 +91,8 @@ Calling everyone together, Figaro intends to get everyone's opinions before maki
 
 Ahmaz is not happy.  The party behaved recklessly and have put him in a difficult situation.  Worse still, the party is advocating for the correct solution.  However their actions have stained that viewpoint.  Will openly criticize the party - for acting carelessly and without thought.  But he will also advocate for action - essentially saying they are right and that waiting for the universe to save the Lambent Zenith is foolish.  
 
-**Daveras:** Is still depressed at the loss of his friends.  Is fatalistic enough that he will go along with whatever is proposed, but personally believes hunkering down is the best option.
+**Daveras**
+
 
 **Figaro**
 *Tone:* Controlled anger (at assault, mental manipulation); brittle authority; barely contained fear.
@@ -106,7 +107,7 @@ Ilren argues for stasis, dressing it up as prudence.  He praises the crew and th
 **Kycera**
 *Tone:* Measured.  Restrained.  Painfully honest.
 
-Kycera will admit that her instinct is to act.  She will also admit that her instinct has not always served her well in the past.  She will open up, confessing to the crew that she was once an assassin who worked for the Chainmen, helping to enslave peoples across wildspace.  She admits that she his this from all but Inda.  
+Kycera will admit that her instinct is to act.  She will also admit that her instinct has not always served her well in the past.  She will open up, confessing to the crew that she was once an assassin who worked for the Chainmen, helping to enslave peoples across wildspace.  She admits that she his this from all but Inda.  Ultimately her view is that action is necessary, but it must be tempered with purpose and thought.  She will advocate allowing the party to pursue the helm, but only if the crew is safe.  Right now there is a memory shaper on the loose - the crew is not safe, and so it must be dealt with first.
 
 **Lysan**
 *Tone:* Direct, blunt
@@ -118,11 +119,11 @@ Lysan echoes Ahmaz's sentiments.  She will dismiss Ilren's belief as foolish and
 
 Zastra argues against Ahmaz and his plans, saying things like Ahmaz's plans always get people killed (eliciting a shocked reaction from almost everyone, who expected both Lysan and Zastra to fully back Ahmaz).  He will also imply (without evidence) that the party is manipulating Ahmaz.  Prefers Ilren's plan as it keeps order.  His arguments should always seem less than cohesive - as if there is something slightly off with his reasoning (in truth his mind has been manipulated by Ilren)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY4MDk1NjM0LDc0MDk3Nzg0MywtMTkzNz
-U2NDc0LC0xOTM2NDYxNDU0LDE3NTQ4MDU2OTksLTk0OTU5MjAz
-NywtMTExNzQzMDQwOSwxMDgyMjM5MzU5LDE1ODA3NDkzNjEsMT
-I1MTUwNDYxMCwtMjk5NTkwNjMyLC0xODUwNTMyNjA2LDU3MzAx
-OTIzMSwtMTE1NDY2MDI5NiwxODk5NjM4NDE1LC0xNDQyNTM1OD
-gxLDIwNjIzNjE3ODgsMTUyNjc1MTI4NiwxMzQ1NTMzMTQwLC0y
-OTA3MjU0MzFdfQ==
+eyJoaXN0b3J5IjpbMTkxMjIwNjA1OSw5NjgwOTU2MzQsNzQwOT
+c3ODQzLC0xOTM3NTY0NzQsLTE5MzY0NjE0NTQsMTc1NDgwNTY5
+OSwtOTQ5NTkyMDM3LC0xMTE3NDMwNDA5LDEwODIyMzkzNTksMT
+U4MDc0OTM2MSwxMjUxNTA0NjEwLC0yOTk1OTA2MzIsLTE4NTA1
+MzI2MDYsNTczMDE5MjMxLC0xMTU0NjYwMjk2LDE4OTk2Mzg0MT
+UsLTE0NDI1MzU4ODEsMjA2MjM2MTc4OCwxNTI2NzUxMjg2LDEz
+NDU1MzMxNDBdfQ==
 -->
