@@ -94,18 +94,19 @@ Calling everyone together, Figaro intends to get everyone's opinions before maki
 * Authority figure, but his authority is brittle.
 * Angry and afraid after mental manipulation and assault by party, but is keeping both under control for the good of the crew.
 * The Lambent Zenith is **his ship** until Inda returns.
-* Refuses to give up the lock down code to the party - does not trust them, but more significantly - if he gives them the lock down code and they 
+* Refuses to give up the lock down code to the party - does not trust them, but more significantly - if he gives them the lock down code and they are picked off en route to the bow then whatever else is on this dead Titan might then have access to their only way off it.
+* Complements Ilren for his assistance in keeping the crew calm.
 
 
 **Ilren:** *"The proper course of action in such situations is to hunker down an await rescue.  **(if everyone survived the morning attacks)** We have been holding against the raids for now, they do not present much threat to us.  Better to fortify here then to let them pick us off one by one.  **(if people died during the morning)** We are losing people fast enough as it is.  If we send people to the bow of the ship they'll pick us off one by one."*
 
 **Kycera**: Is not the type to like sitting and holding a defensive position.  However she is not sure that do
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY5NzMzMjI0LDc0MDk3Nzg0MywtMTkzNz
-U2NDc0LC0xOTM2NDYxNDU0LDE3NTQ4MDU2OTksLTk0OTU5MjAz
-NywtMTExNzQzMDQwOSwxMDgyMjM5MzU5LDE1ODA3NDkzNjEsMT
-I1MTUwNDYxMCwtMjk5NTkwNjMyLC0xODUwNTMyNjA2LDU3MzAx
-OTIzMSwtMTE1NDY2MDI5NiwxODk5NjM4NDE1LC0xNDQyNTM1OD
-gxLDIwNjIzNjE3ODgsMTUyNjc1MTI4NiwxMzQ1NTMzMTQwLC0y
-OTA3MjU0MzFdfQ==
+eyJoaXN0b3J5IjpbLTM5ODUwNTQyNyw3NDA5Nzc4NDMsLTE5Mz
+c1NjQ3NCwtMTkzNjQ2MTQ1NCwxNzU0ODA1Njk5LC05NDk1OTIw
+MzcsLTExMTc0MzA0MDksMTA4MjIzOTM1OSwxNTgwNzQ5MzYxLD
+EyNTE1MDQ2MTAsLTI5OTU5MDYzMiwtMTg1MDUzMjYwNiw1NzMw
+MTkyMzEsLTExNTQ2NjAyOTYsMTg5OTYzODQxNSwtMTQ0MjUzNT
+g4MSwyMDYyMzYxNzg4LDE1MjY3NTEyODYsMTM0NTUzMzE0MCwt
+MjkwNzI1NDMxXX0=
 -->
