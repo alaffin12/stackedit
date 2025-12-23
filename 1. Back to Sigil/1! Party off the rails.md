@@ -94,18 +94,18 @@ Calling everyone together, Figaro intends to get everyone's opinions before maki
 * Authority figure, but his authority is brittle.
 * Angry and afraid after mental manipulation and assault by party, but is keeping both under control for the good of the crew.
 * The Lambent Zenith is **his ship** until Inda returns.
-* Vie
+* Refuses to give up the lock down code to the party - does not trust them, but more significantly - if he gives them the lock down code and they 
 
 
 **Ilren:** *"The proper course of action in such situations is to hunker down an await rescue.  **(if everyone survived the morning attacks)** We have been holding against the raids for now, they do not present much threat to us.  Better to fortify here then to let them pick us off one by one.  **(if people died during the morning)** We are losing people fast enough as it is.  If we send people to the bow of the ship they'll pick us off one by one."*
 
 **Kycera**: Is not the type to like sitting and holding a defensive position.  However she is not sure that do
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTM3MDYzNjUsNzQwOTc3ODQzLC0xOT
-M3NTY0NzQsLTE5MzY0NjE0NTQsMTc1NDgwNTY5OSwtOTQ5NTky
-MDM3LC0xMTE3NDMwNDA5LDEwODIyMzkzNTksMTU4MDc0OTM2MS
-wxMjUxNTA0NjEwLC0yOTk1OTA2MzIsLTE4NTA1MzI2MDYsNTcz
-MDE5MjMxLC0xMTU0NjYwMjk2LDE4OTk2Mzg0MTUsLTE0NDI1Mz
-U4ODEsMjA2MjM2MTc4OCwxNTI2NzUxMjg2LDEzNDU1MzMxNDAs
-LTI5MDcyNTQzMV19
+eyJoaXN0b3J5IjpbNzY5NzMzMjI0LDc0MDk3Nzg0MywtMTkzNz
+U2NDc0LC0xOTM2NDYxNDU0LDE3NTQ4MDU2OTksLTk0OTU5MjAz
+NywtMTExNzQzMDQwOSwxMDgyMjM5MzU5LDE1ODA3NDkzNjEsMT
+I1MTUwNDYxMCwtMjk5NTkwNjMyLC0xODUwNTMyNjA2LDU3MzAx
+OTIzMSwtMTE1NDY2MDI5NiwxODk5NjM4NDE1LC0xNDQyNTM1OD
+gxLDIwNjIzNjE3ODgsMTUyNjc1MTI4NiwxMzQ1NTMzMTQwLC0y
+OTA3MjU0MzFdfQ==
 -->
