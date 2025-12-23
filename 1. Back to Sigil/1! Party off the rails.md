@@ -113,13 +113,13 @@ Lysan echoes Ahmaz's sentiments.  She will dismiss Ilren's belief as foolish and
 **Zastra**
 *Tone:* Defensive, emotional, suspicious
 
-Zastra argues against Ahmaz and his plans, saying things like Ahmaz's plans always get people killed (eliciting a shocked reaction from almost everyone, who expected both Lysan and Zastra to fully back Ahmaz).  He will also imply 
+Zastra argues against Ahmaz and his plans, saying things like Ahmaz's plans always get people killed (eliciting a shocked reaction from almost everyone, who expected both Lysan and Zastra to fully back Ahmaz).  He will also imply (without evidence) that the party is manipulating Ahmaz.  Prefers Ilren's plan as it keeps order.  His arguments should always seem less than cohesive - as if there is something 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzMxNzAzMzcsNzQwOTc3ODQzLC0xOT
-M3NTY0NzQsLTE5MzY0NjE0NTQsMTc1NDgwNTY5OSwtOTQ5NTky
-MDM3LC0xMTE3NDMwNDA5LDEwODIyMzkzNTksMTU4MDc0OTM2MS
-wxMjUxNTA0NjEwLC0yOTk1OTA2MzIsLTE4NTA1MzI2MDYsNTcz
-MDE5MjMxLC0xMTU0NjYwMjk2LDE4OTk2Mzg0MTUsLTE0NDI1Mz
-U4ODEsMjA2MjM2MTc4OCwxNTI2NzUxMjg2LDEzNDU1MzMxNDAs
-LTI5MDcyNTQzMV19
+eyJoaXN0b3J5IjpbMTc4MzkxNDgwLDc0MDk3Nzg0MywtMTkzNz
+U2NDc0LC0xOTM2NDYxNDU0LDE3NTQ4MDU2OTksLTk0OTU5MjAz
+NywtMTExNzQzMDQwOSwxMDgyMjM5MzU5LDE1ODA3NDkzNjEsMT
+I1MTUwNDYxMCwtMjk5NTkwNjMyLC0xODUwNTMyNjA2LDU3MzAx
+OTIzMSwtMTE1NDY2MDI5NiwxODk5NjM4NDE1LC0xNDQyNTM1OD
+gxLDIwNjIzNjE3ODgsMTUyNjc1MTI4NiwxMzQ1NTMzMTQwLC0y
+OTA3MjU0MzFdfQ==
 -->
