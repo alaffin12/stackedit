@@ -104,12 +104,17 @@ Figaro chairs the 'meeting', such as it is, and begins by asserting that in Inda
 Ilren argues for stasis, dressing it up as prudence.  He praises the crew and their resilience, having held out through so much already.  It would be a shame to waste it on reckless adventurism, to throw it away on 'senseless heroics'.  Chaos feeds on hasty actions chosen in choler.  Discipline starves it.  
 
 **Kycera**: Is not the type to like sitting and holding a defensive position.  However she is not sure that do
+
+**Lysan**
+*Tone:* Direct, blunt
+
+Lysan echoes Ahmaz's sentiments.  She will dismiss Ilren's belief
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2OTY4ODc3NCw3NDA5Nzc4NDMsLTE5Mz
-c1NjQ3NCwtMTkzNjQ2MTQ1NCwxNzU0ODA1Njk5LC05NDk1OTIw
-MzcsLTExMTc0MzA0MDksMTA4MjIzOTM1OSwxNTgwNzQ5MzYxLD
-EyNTE1MDQ2MTAsLTI5OTU5MDYzMiwtMTg1MDUzMjYwNiw1NzMw
-MTkyMzEsLTExNTQ2NjAyOTYsMTg5OTYzODQxNSwtMTQ0MjUzNT
-g4MSwyMDYyMzYxNzg4LDE1MjY3NTEyODYsMTM0NTUzMzE0MCwt
-MjkwNzI1NDMxXX0=
+eyJoaXN0b3J5IjpbMzA5MDY2NTI5LDc0MDk3Nzg0MywtMTkzNz
+U2NDc0LC0xOTM2NDYxNDU0LDE3NTQ4MDU2OTksLTk0OTU5MjAz
+NywtMTExNzQzMDQwOSwxMDgyMjM5MzU5LDE1ODA3NDkzNjEsMT
+I1MTUwNDYxMCwtMjk5NTkwNjMyLC0xODUwNTMyNjA2LDU3MzAx
+OTIzMSwtMTE1NDY2MDI5NiwxODk5NjM4NDE1LC0xNDQyNTM1OD
+gxLDIwNjIzNjE3ODgsMTUyNjc1MTI4NiwxMzQ1NTMzMTQwLC0y
+OTA3MjU0MzFdfQ==
 -->
