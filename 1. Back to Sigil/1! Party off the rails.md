@@ -108,13 +108,16 @@ Ilren argues for stasis, dressing it up as prudence.  He praises the crew and th
 **Lysan**
 *Tone:* Direct, blunt
 
-Lysan echoes Ahmaz's sentiments.  She will dismiss Ilren's belief
+Lysan echoes Ahmaz's sentiments.  She will dismiss Ilren's belief as foolish and unworthy of him.  She believes if they stay they will all die, tired and alone.  If they make some effort to escape they may still die that way, but they may make their own destiny.
+
+**Zastra**
+*Tone:* Defensice,
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA5MDY2NTI5LDc0MDk3Nzg0MywtMTkzNz
-U2NDc0LC0xOTM2NDYxNDU0LDE3NTQ4MDU2OTksLTk0OTU5MjAz
-NywtMTExNzQzMDQwOSwxMDgyMjM5MzU5LDE1ODA3NDkzNjEsMT
-I1MTUwNDYxMCwtMjk5NTkwNjMyLC0xODUwNTMyNjA2LDU3MzAx
-OTIzMSwtMTE1NDY2MDI5NiwxODk5NjM4NDE1LC0xNDQyNTM1OD
-gxLDIwNjIzNjE3ODgsMTUyNjc1MTI4NiwxMzQ1NTMzMTQwLC0y
-OTA3MjU0MzFdfQ==
+eyJoaXN0b3J5IjpbLTE2MjA2ODkwMTIsNzQwOTc3ODQzLC0xOT
+M3NTY0NzQsLTE5MzY0NjE0NTQsMTc1NDgwNTY5OSwtOTQ5NTky
+MDM3LC0xMTE3NDMwNDA5LDEwODIyMzkzNTksMTU4MDc0OTM2MS
+wxMjUxNTA0NjEwLC0yOTk1OTA2MzIsLTE4NTA1MzI2MDYsNTcz
+MDE5MjMxLC0xMTU0NjYwMjk2LDE4OTk2Mzg0MTUsLTE0NDI1Mz
+U4ODEsMjA2MjM2MTc4OCwxNTI2NzUxMjg2LDEzNDU1MzMxNDAs
+LTI5MDcyNTQzMV19
 -->
