@@ -111,9 +111,11 @@ Ilren argues for stasis, dressing it up as prudence.  He praises the crew and th
 Lysan echoes Ahmaz's sentiments.  She will dismiss Ilren's belief as foolish and unworthy of him.  She believes if they stay they will all die, tired and alone.  If they make some effort to escape they may still die that way, but they may make their own destiny.
 
 **Zastra**
-*Tone:* Defensice,
+*Tone:* Defensive, emotional, suspicious
+
+Zastra argues against Ahmaz and his plans, saying things like Ahmaz's plans always get people killed (eliciting a shocked reaction from almost everyone, who expected both Lysan and Zastra to fully back Ahmaz).  He will also imply 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjA2ODkwMTIsNzQwOTc3ODQzLC0xOT
+eyJoaXN0b3J5IjpbLTE0MzMxNzAzMzcsNzQwOTc3ODQzLC0xOT
 M3NTY0NzQsLTE5MzY0NjE0NTQsMTc1NDgwNTY5OSwtOTQ5NTky
 MDM3LC0xMTE3NDMwNDA5LDEwODIyMzkzNTksMTU4MDc0OTM2MS
 wxMjUxNTA0NjEwLC0yOTk1OTA2MzIsLTE4NTA1MzI2MDYsNTcz
