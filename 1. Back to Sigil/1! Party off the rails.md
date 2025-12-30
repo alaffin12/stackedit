@@ -137,11 +137,11 @@ Option 3 is the most off the rails choice.  If the party attacks then everyone o
 
 Option 2 gets them back "on track" the fastest however it will present challenges to the.  En route they will be bset by slaadi ruled by 'Ilren' - one green slaad, one grey slaad, one blue slaad and two red slaad.  Once they make the bow of the ship they have to figure out how to bypass the lock down.  But that can be dealt with in role play.  
 
-Option 1 sets up the most complicated, but most complete solution to the
+Option 1 sets up the most complicated, but most complete solution to their problems
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzYzODk0MzYsLTE5ODM3MDE2NzcsLT
+eyJoaXN0b3J5IjpbLTE4MDQyNjQzNTUsLTE5ODM3MDE2NzcsLT
 kxNDA0NDM3OSwxMDY3MzMzODg3LDk2NjMwMDQ2NywtMTUxMTY3
 ODMwNSwxNzQwMzgzNTU4LDYxODk4ODU0MCwtMTY3ODQ4MjI4LD
 k2ODA5NTYzNCw3NDA5Nzc4NDMsLTE5Mzc1NjQ3NCwtMTkzNjQ2
