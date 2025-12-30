@@ -135,15 +135,15 @@ There are three possible directions I can see the party taking after the council
 
 Option 3 is the most off the rails choice.  If the party attacks then everyone on board counter attacks.  Pull no punches here - the entire crew (Fiagro, the three githyanki knights, Kycera, Daveras and the disguised Death Slaad Ilren as well as the nameless crew will turn on them.  This could be deadly for them.  Good.
 
-Option 2 gets them back "on track" the fastest.  
+Option 2 gets them back "on track" the fastest however it will present challenges to the
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY2MzAwNDY3LC0xNTExNjc4MzA1LDE3ND
-AzODM1NTgsNjE4OTg4NTQwLC0xNjc4NDgyMjgsOTY4MDk1NjM0
-LDc0MDk3Nzg0MywtMTkzNzU2NDc0LC0xOTM2NDYxNDU0LDE3NT
-Q4MDU2OTksLTk0OTU5MjAzNywtMTExNzQzMDQwOSwxMDgyMjM5
-MzU5LDE1ODA3NDkzNjEsMTI1MTUwNDYxMCwtMjk5NTkwNjMyLC
-0xODUwNTMyNjA2LDU3MzAxOTIzMSwtMTE1NDY2MDI5NiwxODk5
-NjM4NDE1XX0=
+eyJoaXN0b3J5IjpbMTA2NzMzMzg4Nyw5NjYzMDA0NjcsLTE1MT
+E2NzgzMDUsMTc0MDM4MzU1OCw2MTg5ODg1NDAsLTE2Nzg0ODIy
+OCw5NjgwOTU2MzQsNzQwOTc3ODQzLC0xOTM3NTY0NzQsLTE5Mz
+Y0NjE0NTQsMTc1NDgwNTY5OSwtOTQ5NTkyMDM3LC0xMTE3NDMw
+NDA5LDEwODIyMzkzNTksMTU4MDc0OTM2MSwxMjUxNTA0NjEwLC
+0yOTk1OTA2MzIsLTE4NTA1MzI2MDYsNTczMDE5MjMxLC0xMTU0
+NjYwMjk2XX0=
 -->
