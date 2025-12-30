@@ -133,9 +133,9 @@ There are three possible directions I can see the party taking after the council
 2. Try to strike out on their own
 3. Attack what remains of the crew
 
-Option 3 is the most off the rails choice.  If the party attacks then everyone on board counter attacks.  Pull no punches here -   
+Option 3 is the most off the rails choice.  If the party attacks then everyone on board counter attacks.  Pull no punches here - the entire crew (Fiagro, the three githyanki knights, Kycera, Daveras and the disguised Death Slaad as well as the nameless crew will turn on them  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMzU5MjU1NSw2MTg5ODg1NDAsLTE2Nz
+eyJoaXN0b3J5IjpbMTc0MDM4MzU1OCw2MTg5ODg1NDAsLTE2Nz
 g0ODIyOCw5NjgwOTU2MzQsNzQwOTc3ODQzLC0xOTM3NTY0NzQs
 LTE5MzY0NjE0NTQsMTc1NDgwNTY5OSwtOTQ5NTkyMDM3LC0xMT
 E3NDMwNDA5LDEwODIyMzkzNTksMTU4MDc0OTM2MSwxMjUxNTA0
