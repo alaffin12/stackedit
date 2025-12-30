@@ -129,15 +129,17 @@ Ultimately Figaro will side with Ilren/Zastra/Kycera and abjure action in favour
 
 There are three possible directions I can see the party taking after the council meetings:
 
-##### 1. Try and solve the mystery of the memory-shaper.  
+1. Try to solve the mystery of the memory-shaper
+2. Try to strike out on their own
+3. Attack what remains of the crew
 
-This will lead them eventually to Ilren,   
+Option 3 is the most off the rails choice.  If the party attacks then everyone on board counter attacks.  Pull no punches here -   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY5MDMyMjIwLDYxODk4ODU0MCwtMTY3OD
-Q4MjI4LDk2ODA5NTYzNCw3NDA5Nzc4NDMsLTE5Mzc1NjQ3NCwt
-MTkzNjQ2MTQ1NCwxNzU0ODA1Njk5LC05NDk1OTIwMzcsLTExMT
-c0MzA0MDksMTA4MjIzOTM1OSwxNTgwNzQ5MzYxLDEyNTE1MDQ2
-MTAsLTI5OTU5MDYzMiwtMTg1MDUzMjYwNiw1NzMwMTkyMzEsLT
-ExNTQ2NjAyOTYsMTg5OTYzODQxNSwtMTQ0MjUzNTg4MSwyMDYy
-MzYxNzg4XX0=
+eyJoaXN0b3J5IjpbLTUzMzU5MjU1NSw2MTg5ODg1NDAsLTE2Nz
+g0ODIyOCw5NjgwOTU2MzQsNzQwOTc3ODQzLC0xOTM3NTY0NzQs
+LTE5MzY0NjE0NTQsMTc1NDgwNTY5OSwtOTQ5NTkyMDM3LC0xMT
+E3NDMwNDA5LDEwODIyMzkzNTksMTU4MDc0OTM2MSwxMjUxNTA0
+NjEwLC0yOTk1OTA2MzIsLTE4NTA1MzI2MDYsNTczMDE5MjMxLC
+0xMTU0NjYwMjk2LDE4OTk2Mzg0MTUsLTE0NDI1MzU4ODEsMjA2
+MjM2MTc4OF19
 -->
