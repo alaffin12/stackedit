@@ -119,13 +119,15 @@ Lysan echoes Ahmaz's sentiments.  She will dismiss Ilren's belief as foolish and
 **Zastra**
 *Tone:* Defensive, emotional, suspicious
 
-Zastra argues against Ahmaz and his plans, saying things like Ahmaz's plans always get people killed (eliciting a shocked reaction from almost everyone, who expected both Lysan and Zastra to fully back Ahmaz).  He will also imply (without evidence) that the party is manipulating Ahmaz.  Prefers Ilren's plan as it keeps order.  His arguments should always seem less than cohesive - as if there is something slightly off with his reasoning (in truth his mind has been manipulated by Ilren)
+Zastra argues against Ahmaz and his plans, saying things like Ahmaz's plans always get people killed (eliciting a shocked reaction from almost everyone, who expected both Lysan and Zastra to fully back Ahmaz).  He will also imply (without evidence) that the party is manipulating Ahmaz.  Prefers Ilren's plan as it keeps order.  His arguments should always seem less than cohesive - as if there is something slightly off with his reasoning (in truth his mind has been manipulated by Ilren).
+
+Ultimately Figaro will side with Ilren/Zastra/Kycera and abjure action in favour of hunkering down and defending the wreck.  Be careful not to imply that this is a vote -
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Nzg0ODIyOCw5NjgwOTU2MzQsNzQwOT
-c3ODQzLC0xOTM3NTY0NzQsLTE5MzY0NjE0NTQsMTc1NDgwNTY5
-OSwtOTQ5NTkyMDM3LC0xMTE3NDMwNDA5LDEwODIyMzkzNTksMT
-U4MDc0OTM2MSwxMjUxNTA0NjEwLC0yOTk1OTA2MzIsLTE4NTA1
-MzI2MDYsNTczMDE5MjMxLC0xMTU0NjYwMjk2LDE4OTk2Mzg0MT
-UsLTE0NDI1MzU4ODEsMjA2MjM2MTc4OCwxNTI2NzUxMjg2LDEz
-NDU1MzMxNDBdfQ==
+eyJoaXN0b3J5IjpbLTE3ODg5NTgyNDYsLTE2Nzg0ODIyOCw5Nj
+gwOTU2MzQsNzQwOTc3ODQzLC0xOTM3NTY0NzQsLTE5MzY0NjE0
+NTQsMTc1NDgwNTY5OSwtOTQ5NTkyMDM3LC0xMTE3NDMwNDA5LD
+EwODIyMzkzNTksMTU4MDc0OTM2MSwxMjUxNTA0NjEwLC0yOTk1
+OTA2MzIsLTE4NTA1MzI2MDYsNTczMDE5MjMxLC0xMTU0NjYwMj
+k2LDE4OTk2Mzg0MTUsLTE0NDI1MzU4ODEsMjA2MjM2MTc4OCwx
+NTI2NzUxMjg2XX0=
 -->
