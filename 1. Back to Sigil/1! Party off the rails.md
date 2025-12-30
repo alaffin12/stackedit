@@ -135,15 +135,15 @@ There are three possible directions I can see the party taking after the council
 
 Option 3 is the most off the rails choice.  If the party attacks then everyone on board counter attacks.  Pull no punches here - the entire crew (Fiagro, the three githyanki knights, Kycera, Daveras and the disguised Death Slaad Ilren as well as the nameless crew will turn on them.  This could be deadly for them.  Good.
 
-Option 2 gets them back "on track" the fastest however it will present challenges to the
+Option 2 gets them back "on track" the fastest however it will present challenges to the.  En route they will be bset by slaadi ruled by 'Ilren' - one green slaad, one grey slaad, one blue slaad and two red slaad.  Once they make the bow of the ship they have to figure out how to bypass the lockdown.  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NzMzMzg4Nyw5NjYzMDA0NjcsLTE1MT
-E2NzgzMDUsMTc0MDM4MzU1OCw2MTg5ODg1NDAsLTE2Nzg0ODIy
-OCw5NjgwOTU2MzQsNzQwOTc3ODQzLC0xOTM3NTY0NzQsLTE5Mz
-Y0NjE0NTQsMTc1NDgwNTY5OSwtOTQ5NTkyMDM3LC0xMTE3NDMw
-NDA5LDEwODIyMzkzNTksMTU4MDc0OTM2MSwxMjUxNTA0NjEwLC
-0yOTk1OTA2MzIsLTE4NTA1MzI2MDYsNTczMDE5MjMxLC0xMTU0
-NjYwMjk2XX0=
+eyJoaXN0b3J5IjpbLTE3NjU3Nzk0NywxMDY3MzMzODg3LDk2Nj
+MwMDQ2NywtMTUxMTY3ODMwNSwxNzQwMzgzNTU4LDYxODk4ODU0
+MCwtMTY3ODQ4MjI4LDk2ODA5NTYzNCw3NDA5Nzc4NDMsLTE5Mz
+c1NjQ3NCwtMTkzNjQ2MTQ1NCwxNzU0ODA1Njk5LC05NDk1OTIw
+MzcsLTExMTc0MzA0MDksMTA4MjIzOTM1OSwxNTgwNzQ5MzYxLD
+EyNTE1MDQ2MTAsLTI5OTU5MDYzMiwtMTg1MDUzMjYwNiw1NzMw
+MTkyMzFdfQ==
 -->
