@@ -137,15 +137,17 @@ Option 3 is the most off the rails choice.  If the party attacks then everyone o
 
 Option 2 gets them back "on track" the fastest however it will present challenges to the.  En route they will be bset by slaadi ruled by 'Ilren' - one green slaad, one grey slaad, one blue slaad and two red slaad.  Once they make the bow of the ship they have to figure out how to bypass the lock down.  But that can be dealt with in role play.  
 
-Option 1 sets up the most complicated, but most complete solution to their problems
+Option 1 sets up the most complicated, but most complete solution to their problems.  It sets up **"The Mystery of the Mind Shaper**
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDQyNjQzNTUsLTE5ODM3MDE2NzcsLT
-kxNDA0NDM3OSwxMDY3MzMzODg3LDk2NjMwMDQ2NywtMTUxMTY3
-ODMwNSwxNzQwMzgzNTU4LDYxODk4ODU0MCwtMTY3ODQ4MjI4LD
-k2ODA5NTYzNCw3NDA5Nzc4NDMsLTE5Mzc1NjQ3NCwtMTkzNjQ2
-MTQ1NCwxNzU0ODA1Njk5LC05NDk1OTIwMzcsLTExMTc0MzA0MD
-ksMTA4MjIzOTM1OSwxNTgwNzQ5MzYxLDEyNTE1MDQ2MTAsLTI5
-OTU5MDYzMl19
+eyJoaXN0b3J5IjpbLTEyMDY2MDQ2NzMsLTE4MDQyNjQzNTUsLT
+E5ODM3MDE2NzcsLTkxNDA0NDM3OSwxMDY3MzMzODg3LDk2NjMw
+MDQ2NywtMTUxMTY3ODMwNSwxNzQwMzgzNTU4LDYxODk4ODU0MC
+wtMTY3ODQ4MjI4LDk2ODA5NTYzNCw3NDA5Nzc4NDMsLTE5Mzc1
+NjQ3NCwtMTkzNjQ2MTQ1NCwxNzU0ODA1Njk5LC05NDk1OTIwMz
+csLTExMTc0MzA0MDksMTA4MjIzOTM1OSwxNTgwNzQ5MzYxLDEy
+NTE1MDQ2MTBdfQ==
 -->
