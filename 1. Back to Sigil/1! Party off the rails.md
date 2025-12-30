@@ -125,13 +125,19 @@ Allow players to debate and argue, but none of the NPC's will be easily swayed a
 
 Ultimately Figaro will side with Ilren/Zastra/Kycera and abjure action in favour of hunkering down and defending the wreck.
 
-  
+#### Aftermath
+
+There are three possible directions I can see the party taking after the council meetings:
+
+##### 1. Try and solve the mystery of the memory-shaper.  
+
+This will lead them eventually to Ilren,   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE4OTg4NTQwLC0xNjc4NDgyMjgsOTY4MD
-k1NjM0LDc0MDk3Nzg0MywtMTkzNzU2NDc0LC0xOTM2NDYxNDU0
-LDE3NTQ4MDU2OTksLTk0OTU5MjAzNywtMTExNzQzMDQwOSwxMD
-gyMjM5MzU5LDE1ODA3NDkzNjEsMTI1MTUwNDYxMCwtMjk5NTkw
-NjMyLC0xODUwNTMyNjA2LDU3MzAxOTIzMSwtMTE1NDY2MDI5Ni
-wxODk5NjM4NDE1LC0xNDQyNTM1ODgxLDIwNjIzNjE3ODgsMTUy
-Njc1MTI4Nl19
+eyJoaXN0b3J5IjpbOTY5MDMyMjIwLDYxODk4ODU0MCwtMTY3OD
+Q4MjI4LDk2ODA5NTYzNCw3NDA5Nzc4NDMsLTE5Mzc1NjQ3NCwt
+MTkzNjQ2MTQ1NCwxNzU0ODA1Njk5LC05NDk1OTIwMzcsLTExMT
+c0MzA0MDksMTA4MjIzOTM1OSwxNTgwNzQ5MzYxLDEyNTE1MDQ2
+MTAsLTI5OTU5MDYzMiwtMTg1MDUzMjYwNiw1NzMwMTkyMzEsLT
+ExNTQ2NjAyOTYsMTg5OTYzODQxNSwtMTQ0MjUzNTg4MSwyMDYy
+MzYxNzg4XX0=
 -->
