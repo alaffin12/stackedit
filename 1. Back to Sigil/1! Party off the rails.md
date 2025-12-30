@@ -121,9 +121,9 @@ Lysan echoes Ahmaz's sentiments.  She will dismiss Ilren's belief as foolish and
 
 Zastra argues against Ahmaz and his plans, saying things like Ahmaz's plans always get people killed (eliciting a shocked reaction from almost everyone, who expected both Lysan and Zastra to fully back Ahmaz).  He will also imply (without evidence) that the party is manipulating Ahmaz.  Prefers Ilren's plan as it keeps order.  His arguments should always seem less than cohesive - as if there is something slightly off with his reasoning (in truth his mind has been manipulated by Ilren).
 
-Allow players to debate and argue, but none of the NPC's will be easily swayed.  Ultimately Figaro will side with Ilren/Zastra/Kycera and abjure action in favour of hunkering down and defending the wreck.  Be careful not to imply that this is a vote - Figaro is the acting captain and it is his choice.  He is just 
+Allow players to debate and argue, but none of the NPC's will be easily swayed and it is not really pragmatic for the players to try and sway any NPC anyway - all assembled will agree that it is Figaro's choice alone.  The.  Ultimately Figaro will side with Ilren/Zastra/Kycera and abjure action in favour of hunkering down and defending the wreck.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxODY0MTg4NCwtMTY3ODQ4MjI4LDk2OD
+eyJoaXN0b3J5IjpbLTk1ODI5ODQzOCwtMTY3ODQ4MjI4LDk2OD
 A5NTYzNCw3NDA5Nzc4NDMsLTE5Mzc1NjQ3NCwtMTkzNjQ2MTQ1
 NCwxNzU0ODA1Njk5LC05NDk1OTIwMzcsLTExMTc0MzA0MDksMT
 A4MjIzOTM1OSwxNTgwNzQ5MzYxLDEyNTE1MDQ2MTAsLTI5OTU5
