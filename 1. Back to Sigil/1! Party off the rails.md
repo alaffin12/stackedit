@@ -81,7 +81,7 @@ Andromeda has a dream - a very potent, real seeming dream.  The dream goes as fo
 With the arrival of Ahmaz (who has more authority than either Lysan or Zastra) and the heroes Ilren is forced to take a more active approach in his corruption of this crew (hence implanting one of the players with a slaad tadpole).  He will also modify the memory of Zastra, beginning to turn him against Ahmaz.  
 
 #### Event #4: Kycera confronts Emilia
-At some point during the night Emilia will wake with a blade at her throat and a hand over her 
+At some point during the night Emilia will wake with a blade at her throat and a hand over her mouth.  Kycera has noticed the way that Emilia carries herself.  She knows the half-elf is an assassin.  And Kycera 
 
 ### The Next Morning
 The party will awaken to the sound of the ship's bell ringing.  The Lambent Zenith is under attack again.  Roll 2d6 and use the table to determine the impact on the party and crew.  Afterwards Fiagro will call together all the senior crew to discuss options, begrudgingly inviting everyone with a name on the ship (including the party and Daveras)
@@ -145,7 +145,7 @@ Option 1 sets up the most complicated, but most complete solution to their probl
 #### The Mystery of the Memory-Shaper
 The trick in this situation is going to be to get the party moving in the right direction.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NDg2MzUzMyw3MTU0NzYwMzQsLTE2Nz
+eyJoaXN0b3J5IjpbMTE1MzUwNzM4Myw3MTU0NzYwMzQsLTE2Nz
 M3ODc5NDYsLTEyMDY2MDQ2NzMsLTE4MDQyNjQzNTUsLTE5ODM3
 MDE2NzcsLTkxNDA0NDM3OSwxMDY3MzMzODg3LDk2NjMwMDQ2Ny
 wtMTUxMTY3ODMwNSwxNzQwMzgzNTU4LDYxODk4ODU0MCwtMTY3
