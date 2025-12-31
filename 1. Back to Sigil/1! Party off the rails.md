@@ -70,7 +70,7 @@ Ahmaz returns to the party.  He's not happy with how events turned out - he unde
 Presumably the party, in need of a long rest, will take Ahmaz's advice. The following events will happen:
 
 #### Event #1: Ilren Acts: Slaad Tadpole
-One player is infected with a special slaad tadpole.  Traditionally a slaad tadpole manifest along with a certain pattern, but this one is special.  Created by 'Ilren' to sow chaos.  Andromeda and Nakos are immune, so choose one of the other four to be infected with no save - the tadpole approaches in the darkness, is practically invisible anyway and finds its way into the host's body without any resistance.  
+One player is infected with a special slaad tadpole.  Traditionally a slaad tadpole manifest along with a certain pattern, but this one is special.  Created by 'Ilren' to sow chaos.  Andromeda and Nakos are immune (and Andromeda has her own event during the long rest) and Emilia has her own event, so choose one of the other three (Riric/Mazirak/Oh) to be infected with no save - the tadpole approaches in the darkness, is practically invisible anyway and finds its way into the host's body without any resistance.  
 
 #### Event #2: Aasimar Dream
 Andromeda has a dream - a very potent, real seeming dream.  The dream goes as follows:
@@ -144,11 +144,11 @@ Option 1 sets up the most complicated, but most complete solution to their probl
 #### The Mystery of the Memory-Shaper
 The trick in this situation is going to be to get the party moving in the right direction.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcyNTk5NzU3LDcxNTQ3NjAzNCwtMTY3Mz
-c4Nzk0NiwtMTIwNjYwNDY3MywtMTgwNDI2NDM1NSwtMTk4Mzcw
-MTY3NywtOTE0MDQ0Mzc5LDEwNjczMzM4ODcsOTY2MzAwNDY3LC
-0xNTExNjc4MzA1LDE3NDAzODM1NTgsNjE4OTg4NTQwLC0xNjc4
-NDgyMjgsOTY4MDk1NjM0LDc0MDk3Nzg0MywtMTkzNzU2NDc0LC
-0xOTM2NDYxNDU0LDE3NTQ4MDU2OTksLTk0OTU5MjAzNywtMTEx
-NzQzMDQwOV19
+eyJoaXN0b3J5IjpbNzQ5NjgxNzQsNzE1NDc2MDM0LC0xNjczNz
+g3OTQ2LC0xMjA2NjA0NjczLC0xODA0MjY0MzU1LC0xOTgzNzAx
+Njc3LC05MTQwNDQzNzksMTA2NzMzMzg4Nyw5NjYzMDA0NjcsLT
+E1MTE2NzgzMDUsMTc0MDM4MzU1OCw2MTg5ODg1NDAsLTE2Nzg0
+ODIyOCw5NjgwOTU2MzQsNzQwOTc3ODQzLC0xOTM3NTY0NzQsLT
+E5MzY0NjE0NTQsMTc1NDgwNTY5OSwtOTQ5NTkyMDM3LC0xMTE3
+NDMwNDA5XX0=
 -->
