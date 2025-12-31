@@ -81,7 +81,7 @@ Andromeda has a dream - a very potent, real seeming dream.  The dream goes as fo
 With the arrival of Ahmaz (who has more authority than either Lysan or Zastra) and the heroes Ilren is forced to take a more active approach in his corruption of this crew (hence implanting one of the players with a slaad tadpole).  He will also modify the memory of Zastra, beginning to turn him against Ahmaz.  
 
 #### Event #4: Kycera confronts Emilia
-At some point during the night Emilia will wake with a blade at her throat and a hand over her mouth.  Kycera has noticed the way that Emilia carries herself.  She knows the half-elf is an assassin.  And Kycera thinks - or rather fears - that Emilia is here to kill her.  Kycera should have a brief conversation with Emilia out of the room - d
+At some point during the night Emilia will wake with a blade at her throat and a hand over her mouth.  Kycera has noticed the way that Emilia carries herself.  She knows the half-elf is an assassin.  And Kycera thinks - or rather fears - that Emilia is here to kill her.  Kycera should have a brief conversation with Emilia out of the room - defensive, practical, isolated so that no one else hears.  If Kycera is convinced that Emilia is not here for her then she will let Emilia go back, apologizing.
 
 ### The Next Morning
 The party will awaken to the sound of the ship's bell ringing.  The Lambent Zenith is under attack again.  Roll 2d6 and use the table to determine the impact on the party and crew.  Afterwards Fiagro will call together all the senior crew to discuss options, begrudgingly inviting everyone with a name on the ship (including the party and Daveras)
@@ -143,9 +143,10 @@ Option 2 gets them back "on track" the fastest however it will present challenge
 Option 1 sets up the most complicated, but most complete solution to their problems.  It sets up **"The Mystery of the Memory-Shaper**
 
 #### The Mystery of the Memory-Shaper
-The trick in this situation is going to be to get the party moving in the right direction.  
+The trick in this situation is going to be to get the party moving in the right direction.  However we have seeded some things for the players to latch on to:
+*  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4OTU0OTY0Nyw3MTU0NzYwMzQsLTE2Nz
+eyJoaXN0b3J5IjpbLTY2NDMzOTU1NSw3MTU0NzYwMzQsLTE2Nz
 M3ODc5NDYsLTEyMDY2MDQ2NzMsLTE4MDQyNjQzNTUsLTE5ODM3
 MDE2NzcsLTkxNDA0NDM3OSwxMDY3MzMzODg3LDk2NjMwMDQ2Ny
 wtMTUxMTY3ODMwNSwxNzQwMzgzNTU4LDYxODk4ODU0MCwtMTY3
