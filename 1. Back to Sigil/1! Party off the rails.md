@@ -140,14 +140,13 @@ Option 2 gets them back "on track" the fastest however it will present challenge
 Option 1 sets up the most complicated, but most complete solution to their problems.  It sets up **"The Mystery of the Memory-Shaper**
 
 #### The Mystery of the Memory-Shaper
-
-
+The trick in this situation is going to be to get the party moving in th
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzM3ODc5NDYsLTEyMDY2MDQ2NzMsLT
-E4MDQyNjQzNTUsLTE5ODM3MDE2NzcsLTkxNDA0NDM3OSwxMDY3
-MzMzODg3LDk2NjMwMDQ2NywtMTUxMTY3ODMwNSwxNzQwMzgzNT
-U4LDYxODk4ODU0MCwtMTY3ODQ4MjI4LDk2ODA5NTYzNCw3NDA5
-Nzc4NDMsLTE5Mzc1NjQ3NCwtMTkzNjQ2MTQ1NCwxNzU0ODA1Nj
-k5LC05NDk1OTIwMzcsLTExMTc0MzA0MDksMTA4MjIzOTM1OSwx
-NTgwNzQ5MzYxXX0=
+eyJoaXN0b3J5IjpbNzE1NDc2MDM0LC0xNjczNzg3OTQ2LC0xMj
+A2NjA0NjczLC0xODA0MjY0MzU1LC0xOTgzNzAxNjc3LC05MTQw
+NDQzNzksMTA2NzMzMzg4Nyw5NjYzMDA0NjcsLTE1MTE2NzgzMD
+UsMTc0MDM4MzU1OCw2MTg5ODg1NDAsLTE2Nzg0ODIyOCw5Njgw
+OTU2MzQsNzQwOTc3ODQzLC0xOTM3NTY0NzQsLTE5MzY0NjE0NT
+QsMTc1NDgwNTY5OSwtOTQ5NTkyMDM3LC0xMTE3NDMwNDA5LDEw
+ODIyMzkzNTldfQ==
 -->
