@@ -157,9 +157,9 @@ Additionally they may have learned the following:
 
 Now the players should begin to gather clues:
 * Lysan and Zastra seem to have very different viewpoints on Ahmaz's leadership.  Lysan seems to recognize that Ahmaz is stern, but is ultimately a good leader.  Zastra will have nothing good to say about Ahmaz.
-* If asked about Cirit's death 
+* If asked about Cirit's death there are two crew members who saw her perish.  But each says the other saw the corpse being carried off by the denizens of the dead titan.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MTM5MTY5OSw3MTU0NzYwMzQsLTE2Nz
+eyJoaXN0b3J5IjpbMTYzNDU0MTU4Myw3MTU0NzYwMzQsLTE2Nz
 M3ODc5NDYsLTEyMDY2MDQ2NzMsLTE4MDQyNjQzNTUsLTE5ODM3
 MDE2NzcsLTkxNDA0NDM3OSwxMDY3MzMzODg3LDk2NjMwMDQ2Ny
 wtMTUxMTY3ODMwNSwxNzQwMzgzNTU4LDYxODk4ODU0MCwtMTY3
