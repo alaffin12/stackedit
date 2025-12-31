@@ -143,10 +143,11 @@ Option 2 gets them back "on track" the fastest however it will present challenge
 Option 1 sets up the most complicated, but most complete solution to their problems.  It sets up **"The Mystery of the Memory-Shaper**
 
 #### The Mystery of the Memory-Shaper
-The trick in this situation is going to be to get the party moving in the right direction.  However we have seeded some things for the players to latch on to:
-*  
+The trick in this situation is going to be to get the party moving in the right direction.  However we have seeded some things for the players to latch on to, so hopefully they will catch on.  At this point in the story they should know the following:
+
+* Something is moving on the ship modifying memories putting the crew - and the party - at risk.   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NDMzOTU1NSw3MTU0NzYwMzQsLTE2Nz
+eyJoaXN0b3J5IjpbLTMzODMyNjA2Myw3MTU0NzYwMzQsLTE2Nz
 M3ODc5NDYsLTEyMDY2MDQ2NzMsLTE4MDQyNjQzNTUsLTE5ODM3
 MDE2NzcsLTkxNDA0NDM3OSwxMDY3MzMzODg3LDk2NjMwMDQ2Ny
 wtMTUxMTY3ODMwNSwxNzQwMzgzNTU4LDYxODk4ODU0MCwtMTY3
