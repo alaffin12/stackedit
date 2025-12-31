@@ -80,6 +80,8 @@ Andromeda has a dream - a very potent, real seeming dream.  The dream goes as fo
 #### Event #3: Ilren Acts: Modify Memory
 With the arrival of Ahmaz (who has more authority than either Lysan or Zastra) and the heroes Ilren is forced to take a more active approach in his corruption of this crew (hence implanting one of the players with a slaad tadpole).  He will also modify the memory of Zastra, beginning to turn him against Ahmaz.  
 
+#### Event #4: 
+
 ### The Next Morning
 The party will awaken to the sound of the ship's bell ringing.  The Lambent Zenith is under attack again.  Roll 2d6 and use the table to determine the impact on the party and crew.  Afterwards Fiagro will call together all the senior crew to discuss options, begrudgingly inviting everyone with a name on the ship (including the party and Daveras)
 
@@ -140,13 +142,13 @@ Option 2 gets them back "on track" the fastest however it will present challenge
 Option 1 sets up the most complicated, but most complete solution to their problems.  It sets up **"The Mystery of the Memory-Shaper**
 
 #### The Mystery of the Memory-Shaper
-The trick in this situation is going to be to get the party moving in th
+The trick in this situation is going to be to get the party moving in the right direction.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE1NDc2MDM0LC0xNjczNzg3OTQ2LC0xMj
-A2NjA0NjczLC0xODA0MjY0MzU1LC0xOTgzNzAxNjc3LC05MTQw
-NDQzNzksMTA2NzMzMzg4Nyw5NjYzMDA0NjcsLTE1MTE2NzgzMD
-UsMTc0MDM4MzU1OCw2MTg5ODg1NDAsLTE2Nzg0ODIyOCw5Njgw
-OTU2MzQsNzQwOTc3ODQzLC0xOTM3NTY0NzQsLTE5MzY0NjE0NT
-QsMTc1NDgwNTY5OSwtOTQ5NTkyMDM3LC0xMTE3NDMwNDA5LDEw
-ODIyMzkzNTldfQ==
+eyJoaXN0b3J5IjpbNjcyNTk5NzU3LDcxNTQ3NjAzNCwtMTY3Mz
+c4Nzk0NiwtMTIwNjYwNDY3MywtMTgwNDI2NDM1NSwtMTk4Mzcw
+MTY3NywtOTE0MDQ0Mzc5LDEwNjczMzM4ODcsOTY2MzAwNDY3LC
+0xNTExNjc4MzA1LDE3NDAzODM1NTgsNjE4OTg4NTQwLC0xNjc4
+NDgyMjgsOTY4MDk1NjM0LDc0MDk3Nzg0MywtMTkzNzU2NDc0LC
+0xOTM2NDYxNDU0LDE3NTQ4MDU2OTksLTk0OTU5MjAzNywtMTEx
+NzQzMDQwOV19
 -->
