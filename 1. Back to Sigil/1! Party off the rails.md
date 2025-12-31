@@ -145,13 +145,19 @@ Option 1 sets up the most complicated, but most complete solution to their probl
 #### The Mystery of the Memory-Shaper
 The trick in this situation is going to be to get the party moving in the right direction.  However we have seeded some things for the players to latch on to, so hopefully they will catch on.  At this point in the story they should know the following:
 
-* Something is moving on the ship modifying memories putting the crew - and the party - at risk.   
+* Something is moving on the ship modifying memories putting the crew - and the party - at risk.
+* Figaro has had his memory modified.
+* Something of a divine nature has reached out to Andromeda.
+
+Additionally they may have learned the following:
+
+* One of their number is infected with a unique S 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzODMyNjA2Myw3MTU0NzYwMzQsLTE2Nz
-M3ODc5NDYsLTEyMDY2MDQ2NzMsLTE4MDQyNjQzNTUsLTE5ODM3
-MDE2NzcsLTkxNDA0NDM3OSwxMDY3MzMzODg3LDk2NjMwMDQ2Ny
-wtMTUxMTY3ODMwNSwxNzQwMzgzNTU4LDYxODk4ODU0MCwtMTY3
-ODQ4MjI4LDk2ODA5NTYzNCw3NDA5Nzc4NDMsLTE5Mzc1NjQ3NC
-wtMTkzNjQ2MTQ1NCwxNzU0ODA1Njk5LC05NDk1OTIwMzcsLTEx
-MTc0MzA0MDldfQ==
+eyJoaXN0b3J5IjpbMzg5MjQxMTQ3LDcxNTQ3NjAzNCwtMTY3Mz
+c4Nzk0NiwtMTIwNjYwNDY3MywtMTgwNDI2NDM1NSwtMTk4Mzcw
+MTY3NywtOTE0MDQ0Mzc5LDEwNjczMzM4ODcsOTY2MzAwNDY3LC
+0xNTExNjc4MzA1LDE3NDAzODM1NTgsNjE4OTg4NTQwLC0xNjc4
+NDgyMjgsOTY4MDk1NjM0LDc0MDk3Nzg0MywtMTkzNzU2NDc0LC
+0xOTM2NDYxNDU0LDE3NTQ4MDU2OTksLTk0OTU5MjAzNywtMTEx
+NzQzMDQwOV19
 -->
