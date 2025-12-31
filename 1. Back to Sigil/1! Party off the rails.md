@@ -151,13 +151,15 @@ The trick in this situation is going to be to get the party moving in the right 
 
 Additionally they may have learned the following:
 
-* One of their number is infected with a unique S 
+* One of their number is infected with something.
+* Zastra is behaving oddly.
+* Kycera has a secret past that she has revealed to Emilia, and to a lesser extent the crew.   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg5MjQxMTQ3LDcxNTQ3NjAzNCwtMTY3Mz
-c4Nzk0NiwtMTIwNjYwNDY3MywtMTgwNDI2NDM1NSwtMTk4Mzcw
-MTY3NywtOTE0MDQ0Mzc5LDEwNjczMzM4ODcsOTY2MzAwNDY3LC
-0xNTExNjc4MzA1LDE3NDAzODM1NTgsNjE4OTg4NTQwLC0xNjc4
-NDgyMjgsOTY4MDk1NjM0LDc0MDk3Nzg0MywtMTkzNzU2NDc0LC
-0xOTM2NDYxNDU0LDE3NTQ4MDU2OTksLTk0OTU5MjAzNywtMTEx
-NzQzMDQwOV19
+eyJoaXN0b3J5IjpbLTE5MjUyNTY3NjksNzE1NDc2MDM0LC0xNj
+czNzg3OTQ2LC0xMjA2NjA0NjczLC0xODA0MjY0MzU1LC0xOTgz
+NzAxNjc3LC05MTQwNDQzNzksMTA2NzMzMzg4Nyw5NjYzMDA0Nj
+csLTE1MTE2NzgzMDUsMTc0MDM4MzU1OCw2MTg5ODg1NDAsLTE2
+Nzg0ODIyOCw5NjgwOTU2MzQsNzQwOTc3ODQzLC0xOTM3NTY0Nz
+QsLTE5MzY0NjE0NTQsMTc1NDgwNTY5OSwtOTQ5NTkyMDM3LC0x
+MTE3NDMwNDA5XX0=
 -->
