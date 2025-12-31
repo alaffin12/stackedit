@@ -154,8 +154,11 @@ Additionally they may have learned the following:
 * One of their number is infected with something.
 * Zastra is behaving oddly.
 * Kycera has a secret past that she has revealed to Emilia, and to a lesser extent the crew.   
+
+Now the players should begin to gather clues:
+* Lysan and Zastra seem to have very different viewpoints on Ahmaz's leadership.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjUyNTY3NjksNzE1NDc2MDM0LC0xNj
+eyJoaXN0b3J5IjpbLTExMTIyMTY5NzIsNzE1NDc2MDM0LC0xNj
 czNzg3OTQ2LC0xMjA2NjA0NjczLC0xODA0MjY0MzU1LC0xOTgz
 NzAxNjc3LC05MTQwNDQzNzksMTA2NzMzMzg4Nyw5NjYzMDA0Nj
 csLTE1MTE2NzgzMDUsMTc0MDM4MzU1OCw2MTg5ODg1NDAsLTE2
