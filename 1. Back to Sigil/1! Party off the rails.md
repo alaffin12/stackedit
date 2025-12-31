@@ -156,13 +156,14 @@ Additionally they may have learned the following:
 * Kycera has a secret past that she has revealed to Emilia, and to a lesser extent the crew.   
 
 Now the players should begin to gather clues:
-* Lysan and Zastra seem to have very different viewpoints on Ahmaz's leadership.  
+* Lysan and Zastra seem to have very different viewpoints on Ahmaz's leadership.  Lysan seems to recognize that Ahmaz is stern, but is ultimately a good leader.  Zastra will have nothing good to say about Ahmaz.
+* If asked about Cirit's death 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTIyMTY5NzIsNzE1NDc2MDM0LC0xNj
-czNzg3OTQ2LC0xMjA2NjA0NjczLC0xODA0MjY0MzU1LC0xOTgz
-NzAxNjc3LC05MTQwNDQzNzksMTA2NzMzMzg4Nyw5NjYzMDA0Nj
-csLTE1MTE2NzgzMDUsMTc0MDM4MzU1OCw2MTg5ODg1NDAsLTE2
-Nzg0ODIyOCw5NjgwOTU2MzQsNzQwOTc3ODQzLC0xOTM3NTY0Nz
-QsLTE5MzY0NjE0NTQsMTc1NDgwNTY5OSwtOTQ5NTkyMDM3LC0x
-MTE3NDMwNDA5XX0=
+eyJoaXN0b3J5IjpbMjA5MTM5MTY5OSw3MTU0NzYwMzQsLTE2Nz
+M3ODc5NDYsLTEyMDY2MDQ2NzMsLTE4MDQyNjQzNTUsLTE5ODM3
+MDE2NzcsLTkxNDA0NDM3OSwxMDY3MzMzODg3LDk2NjMwMDQ2Ny
+wtMTUxMTY3ODMwNSwxNzQwMzgzNTU4LDYxODk4ODU0MCwtMTY3
+ODQ4MjI4LDk2ODA5NTYzNCw3NDA5Nzc4NDMsLTE5Mzc1NjQ3NC
+wtMTkzNjQ2MTQ1NCwxNzU0ODA1Njk5LC05NDk1OTIwMzcsLTEx
+MTc0MzA0MDldfQ==
 -->
