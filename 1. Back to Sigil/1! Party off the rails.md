@@ -164,17 +164,17 @@ Additionally they may have learned the following:
 * Zastra is behaving oddly.
 * Kycera has a secret past that she has revealed to Emilia, and to a lesser extent the crew.   
 
-Now the players should begin to gather clues:
+Now the players should begin to gather clues.  These clues can be categorized into three categories - who has been affected, 
 * Lysan and Zastra seem to have very different viewpoints on Ahmaz's leadership.  Lysan seems to recognize that Ahmaz is stern, but is ultimately a good leader.  Zastra will have nothing good to say about Ahmaz.
 * If asked about Cirit's death there are two crew members who saw her perish.  But each says the other saw the corpse being carried off by the denizens of the dead titan.
 * Any time anyone is questioned about a memory that has been modified there will be a discussion of who was there.  The cast of people present will vary, but Ilren will always be present.
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNDgwMjg1MCwxOTg1ODQ2MzQ3LDUzMT
-g2NzcwOCwxNjM0NTQxNTgzLDcxNTQ3NjAzNCwtMTY3Mzc4Nzk0
-NiwtMTIwNjYwNDY3MywtMTgwNDI2NDM1NSwtMTk4MzcwMTY3Ny
-wtOTE0MDQ0Mzc5LDEwNjczMzM4ODcsOTY2MzAwNDY3LC0xNTEx
-Njc4MzA1LDE3NDAzODM1NTgsNjE4OTg4NTQwLC0xNjc4NDgyMj
-gsOTY4MDk1NjM0LDc0MDk3Nzg0MywtMTkzNzU2NDc0LC0xOTM2
-NDYxNDU0XX0=
+eyJoaXN0b3J5IjpbLTk3ODY2NDM3MCwxNzI0ODAyODUwLDE5OD
+U4NDYzNDcsNTMxODY3NzA4LDE2MzQ1NDE1ODMsNzE1NDc2MDM0
+LC0xNjczNzg3OTQ2LC0xMjA2NjA0NjczLC0xODA0MjY0MzU1LC
+0xOTgzNzAxNjc3LC05MTQwNDQzNzksMTA2NzMzMzg4Nyw5NjYz
+MDA0NjcsLTE1MTE2NzgzMDUsMTc0MDM4MzU1OCw2MTg5ODg1ND
+AsLTE2Nzg0ODIyOCw5NjgwOTU2MzQsNzQwOTc3ODQzLC0xOTM3
+NTY0NzRdfQ==
 -->
