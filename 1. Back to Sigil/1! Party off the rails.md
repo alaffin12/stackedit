@@ -167,17 +167,17 @@ Additionally they may have learned the following:
 Now the players should begin to gather clues.  These clues can be categorized into three aixses - who has been affected, what evidence there is of on-going magical memory manipulation and who stands to benefit from the entire scheme.  Some clues will be easy to find, or at most gated behind the players simply saying "I look here".  Others may required rolling and skill checks.  Of course finding Cirit is a game changer and lays everything out on the table for everyone.
 
 ##### Axis I - Scope
-Basically everyone on board has been affected except the party (to new, an Ilren has already pegged them as dangerous 
+Basically everyone on board has been affected except the party (too new, and Ilren has already pegged them as dangerous - so not likely targets); Ahmaz (newly arrived as well, may become a target if things drag out);  
 * Lysan and Zastra seem to have very different viewpoints on Ahmaz's leadership.  Lysan seems to recognize that Ahmaz is stern, but is ultimately a good leader.  Zastra will have nothing good to say about Ahmaz.
 * If asked about Cirit's death there are two crew members who saw her perish.  But each says the other saw the corpse being carried off by the denizens of the dead titan.
 * Any time anyone is questioned about a memory that has been modified there will be a discussion of who was there.  The cast of people present will vary, but Ilren will always be present.
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyODkyMjMxMCwxNzI0ODAyODUwLDE5OD
-U4NDYzNDcsNTMxODY3NzA4LDE2MzQ1NDE1ODMsNzE1NDc2MDM0
-LC0xNjczNzg3OTQ2LC0xMjA2NjA0NjczLC0xODA0MjY0MzU1LC
-0xOTgzNzAxNjc3LC05MTQwNDQzNzksMTA2NzMzMzg4Nyw5NjYz
-MDA0NjcsLTE1MTE2NzgzMDUsMTc0MDM4MzU1OCw2MTg5ODg1ND
-AsLTE2Nzg0ODIyOCw5NjgwOTU2MzQsNzQwOTc3ODQzLC0xOTM3
-NTY0NzRdfQ==
+eyJoaXN0b3J5IjpbLTE0ODY5MzgzNzIsMTcyNDgwMjg1MCwxOT
+g1ODQ2MzQ3LDUzMTg2NzcwOCwxNjM0NTQxNTgzLDcxNTQ3NjAz
+NCwtMTY3Mzc4Nzk0NiwtMTIwNjYwNDY3MywtMTgwNDI2NDM1NS
+wtMTk4MzcwMTY3NywtOTE0MDQ0Mzc5LDEwNjczMzM4ODcsOTY2
+MzAwNDY3LC0xNTExNjc4MzA1LDE3NDAzODM1NTgsNjE4OTg4NT
+QwLC0xNjc4NDgyMjgsOTY4MDk1NjM0LDc0MDk3Nzg0MywtMTkz
+NzU2NDc0XX0=
 -->
