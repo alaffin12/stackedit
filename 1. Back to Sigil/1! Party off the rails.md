@@ -81,7 +81,16 @@ Andromeda has a dream - a very potent, real seeming dream.  The dream goes as fo
 With the arrival of Ahmaz (who has more authority than either Lysan or Zastra) and the heroes Ilren is forced to take a more active approach in his corruption of this crew (hence implanting one of the players with a slaad tadpole).  He will also modify the memory of Zastra, beginning to turn him against Ahmaz.  
 
 #### Event #4: Kycera confronts Emilia
-At some point during the night Emilia will wake with a blade at her throat and a hand over her mouth.  Kycera has noticed the way that Emilia carries herself.  She knows the half-elf is an assassin.  And Kycera thinks - or rather fears - that Emilia is here to kill her.  Kycera should have a brief conversation with Emilia out of the room - defensive, practical, isolated so that no one else hears.  If Kycera is convinced that Emilia is not here for her then she will let Emilia go back, apologizing.
+>You wake with a start, a knife at your throat and a large, muscular hand around your mouth.  You couldn't scream if you wanted to.  "We need to talk girl.  Now.  Or I slit your throat here and now.  Your friends might get me, but I'll get you - you understand me?"  Kycera, the large half-orc quartermaster, has you in a compromising position.  Her knife is sharp, the blade curved.  You can smell the acrid hints of poison on the blade.
+>
+>You go along with her.  
+>
+>She leads you out into the wreck.  There is no dark, no nighttime in the astral sea.  Just the dull grey of twilight.  However she manages to slip with you unseen from the galley where you and your companions were sleeping to an isolated part of the wreck, her blade close to your throat the entire time.  Once you're alone, isolated, she confronts you.  "Who are you with?" she demands "Who sent you?"  
+>
+>You plead ignorance.  "Don't lie to me girl." She responds "I'm no fool.  I know a trained killer when I see one.  The way you move.  The way you watch everything.  You're just like me.  An assassin.  Sent to kill me.  Who sent you?  The Chainmen?  Some fool looking for revenge?  How did you track me down?"
+>
+>You once more plead ignorance.  The two of you go back and forth for a time - you're not the sharing kind, really, but you reveal bits and pieces about your past as a spy and an assassin in a war Kycera has never heard of.  In turn Kycera reveals more of herself to you - possibly more than she intends to.  She was an assassin, working for the Chainmen - a guild of slavers who operate on the Astral Sea.  She fled them eventually, coming to work for Inda who is the type to give outsiders and people with a grim past a second chance, and has lived in terror since - fearing they intend to make a symbol out of her.  Your general lack of knowledge about the Astral Sea and spelljamming convinces her that you are not with them, so eventually her blade drops.  She apologizes profusely and asks you to keep her secret - if not from your friends then from the crew.  Inda forgave her, but she doubts the others would look kindly upon her if her past were known.  Then she leads you back to the galley and allows you to resume your rest.  
+
 
 ### The Next Morning
 The party will awaken to the sound of the ship's bell ringing.  The Lambent Zenith is under attack again.  Roll 2d6 and use the table to determine the impact on the party and crew.  Afterwards Fiagro will call together all the senior crew to discuss options, begrudgingly inviting everyone with a name on the ship (including the party and Daveras)
@@ -161,11 +170,11 @@ Now the players should begin to gather clues:
 * Any time anyone is questioned about a memory that has been modified there will be a discussion of who was there.  The cast of people present will vary, but Ilren will always be there.
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMxODY3NzA4LDE2MzQ1NDE1ODMsNzE1ND
-c2MDM0LC0xNjczNzg3OTQ2LC0xMjA2NjA0NjczLC0xODA0MjY0
-MzU1LC0xOTgzNzAxNjc3LC05MTQwNDQzNzksMTA2NzMzMzg4Ny
-w5NjYzMDA0NjcsLTE1MTE2NzgzMDUsMTc0MDM4MzU1OCw2MTg5
-ODg1NDAsLTE2Nzg0ODIyOCw5NjgwOTU2MzQsNzQwOTc3ODQzLC
-0xOTM3NTY0NzQsLTE5MzY0NjE0NTQsMTc1NDgwNTY5OSwtOTQ5
-NTkyMDM3XX0=
+eyJoaXN0b3J5IjpbMTk4NTg0NjM0Nyw1MzE4Njc3MDgsMTYzND
+U0MTU4Myw3MTU0NzYwMzQsLTE2NzM3ODc5NDYsLTEyMDY2MDQ2
+NzMsLTE4MDQyNjQzNTUsLTE5ODM3MDE2NzcsLTkxNDA0NDM3OS
+wxMDY3MzMzODg3LDk2NjMwMDQ2NywtMTUxMTY3ODMwNSwxNzQw
+MzgzNTU4LDYxODk4ODU0MCwtMTY3ODQ4MjI4LDk2ODA5NTYzNC
+w3NDA5Nzc4NDMsLTE5Mzc1NjQ3NCwtMTkzNjQ2MTQ1NCwxNzU0
+ODA1Njk5XX0=
 -->
