@@ -158,13 +158,14 @@ Additionally they may have learned the following:
 Now the players should begin to gather clues:
 * Lysan and Zastra seem to have very different viewpoints on Ahmaz's leadership.  Lysan seems to recognize that Ahmaz is stern, but is ultimately a good leader.  Zastra will have nothing good to say about Ahmaz.
 * If asked about Cirit's death there are two crew members who saw her perish.  But each says the other saw the corpse being carried off by the denizens of the dead titan.
-* Any time 
+* Any time anyone is questioned about a memory that has been modified there will be a discussion of who was there.  The cast of people present will vary, but Ilren will always be there.
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NDI0NDI3MCwxNjM0NTQxNTgzLDcxNT
-Q3NjAzNCwtMTY3Mzc4Nzk0NiwtMTIwNjYwNDY3MywtMTgwNDI2
-NDM1NSwtMTk4MzcwMTY3NywtOTE0MDQ0Mzc5LDEwNjczMzM4OD
-csOTY2MzAwNDY3LC0xNTExNjc4MzA1LDE3NDAzODM1NTgsNjE4
-OTg4NTQwLC0xNjc4NDgyMjgsOTY4MDk1NjM0LDc0MDk3Nzg0My
-wtMTkzNzU2NDc0LC0xOTM2NDYxNDU0LDE3NTQ4MDU2OTksLTk0
-OTU5MjAzN119
+eyJoaXN0b3J5IjpbNTMxODY3NzA4LDE2MzQ1NDE1ODMsNzE1ND
+c2MDM0LC0xNjczNzg3OTQ2LC0xMjA2NjA0NjczLC0xODA0MjY0
+MzU1LC0xOTgzNzAxNjc3LC05MTQwNDQzNzksMTA2NzMzMzg4Ny
+w5NjYzMDA0NjcsLTE1MTE2NzgzMDUsMTc0MDM4MzU1OCw2MTg5
+ODg1NDAsLTE2Nzg0ODIyOCw5NjgwOTU2MzQsNzQwOTc3ODQzLC
+0xOTM3NTY0NzQsLTE5MzY0NjE0NTQsMTc1NDgwNTY5OSwtOTQ5
+NTkyMDM3XX0=
 -->
