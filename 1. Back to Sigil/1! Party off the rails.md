@@ -164,13 +164,15 @@ Additionally they may have learned the following:
 * Zastra is behaving oddly.
 * Kycera has a secret past that she has revealed to Emilia, and to a lesser extent the crew.   
 
-Now the players should begin to gather clues.  These clues can be categorized into three categories - who has been affected, 
+Now the players should begin to gather clues.  These clues can be categorized into three categories - who has been affected, what evidence there is of on-going magical memory manipulation and who stands to benefit from the entire scheme:
+
+##### C
 * Lysan and Zastra seem to have very different viewpoints on Ahmaz's leadership.  Lysan seems to recognize that Ahmaz is stern, but is ultimately a good leader.  Zastra will have nothing good to say about Ahmaz.
 * If asked about Cirit's death there are two crew members who saw her perish.  But each says the other saw the corpse being carried off by the denizens of the dead titan.
 * Any time anyone is questioned about a memory that has been modified there will be a discussion of who was there.  The cast of people present will vary, but Ilren will always be present.
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3ODY2NDM3MCwxNzI0ODAyODUwLDE5OD
+eyJoaXN0b3J5IjpbLTcwOTY0ODcwMSwxNzI0ODAyODUwLDE5OD
 U4NDYzNDcsNTMxODY3NzA4LDE2MzQ1NDE1ODMsNzE1NDc2MDM0
 LC0xNjczNzg3OTQ2LC0xMjA2NjA0NjczLC0xODA0MjY0MzU1LC
 0xOTgzNzAxNjc3LC05MTQwNDQzNzksMTA2NzMzMzg4Nyw5NjYz
