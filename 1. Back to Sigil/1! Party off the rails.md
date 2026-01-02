@@ -164,11 +164,11 @@ Additionally they may have learned the following:
 * Zastra is behaving oddly.
 * Kycera has a secret past that she has revealed to Emilia, and to a lesser extent the crew.   
 
-Now the players should begin to gather clues.  Evidence can be broadly categorized into three types - who has been affected (who are the victims); what memories have been modified (or more importantly, what purpose is served by the modifications); and who benefits from these modifications (or more specifically, who is the beneficiary of all these problems).  A side mystery is the mysterious celestial voice reaching out to Andromeda (Cirit).  Some clues will be easy to find, or at most gated behind the players saying "I look here" or "I look at this".  Others may require rolling skill checks and the like.
+Now the players should begin to gather clues.  Evidence can be broadly categorized into three types - 'who' has been affected (who are the victims); 'what' memories have been modified (or more importantly, what purpose is served by the modifications); and who benefits from these modifications (or more broadly, 'why').  A side mystery is the mysterious celestial voice reaching out to Andromeda (Cirit).  Some clues will be easy to find, or at most gated behind the players saying "I look here" or "I look at this".  Others may require rolling skill checks and the like.
 
 ##### Who?
 Basically everyone the party can talk to at this point except Ilren, Ahmaz and Lysan have had their memories modified.  Obviously, as the perpetrator Ilren is unaffected, and Ahmaz is too recently returned to the ship to have been victimized (and probably too tightly tied to the PC's, who Ilren has pegged as the only real threat to his plans).  Ilren has also avoided meddling with the githyanki during the early stages of his scheme as they are dangerous and resilient against such manipulations, which is why Lysan is so far unaffected, but the arrival of the party has forced his hand - Zastra was modified during the last night and Lysan is certainly a valid target now.
-
+* Lysan and Zastra seem to have different viewpoints on Ahmaz's leadership.  Lysan seems to recognize that Ahmaz is stern, but is u
 
 
 ##### Axis I - Scope
@@ -180,11 +180,11 @@ To reveal the scope of this seed the following clues:
 * Any time anyone is questioned about a memory that has been modified there will be a discussion of who was there.  The cast of people present will vary, but Ilren will always be present.
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQwNzAxNzk4LC01MTI4NDk3MjYsNTM5Mj
-I5NDE1LDE2NDc4NzkxOTIsMTUxODI1MDk3MSwtODAxNTE5NTgw
-LC0xNTA5MTg3ODk5LDE3MjQ4MDI4NTAsMTk4NTg0NjM0Nyw1Mz
-E4Njc3MDgsMTYzNDU0MTU4Myw3MTU0NzYwMzQsLTE2NzM3ODc5
-NDYsLTEyMDY2MDQ2NzMsLTE4MDQyNjQzNTUsLTE5ODM3MDE2Nz
-csLTkxNDA0NDM3OSwxMDY3MzMzODg3LDk2NjMwMDQ2NywtMTUx
-MTY3ODMwNV19
+eyJoaXN0b3J5IjpbLTE0NDc1NDkyMzUsOTQwNzAxNzk4LC01MT
+I4NDk3MjYsNTM5MjI5NDE1LDE2NDc4NzkxOTIsMTUxODI1MDk3
+MSwtODAxNTE5NTgwLC0xNTA5MTg3ODk5LDE3MjQ4MDI4NTAsMT
+k4NTg0NjM0Nyw1MzE4Njc3MDgsMTYzNDU0MTU4Myw3MTU0NzYw
+MzQsLTE2NzM3ODc5NDYsLTEyMDY2MDQ2NzMsLTE4MDQyNjQzNT
+UsLTE5ODM3MDE2NzcsLTkxNDA0NDM3OSwxMDY3MzMzODg3LDk2
+NjMwMDQ2N119
 -->
