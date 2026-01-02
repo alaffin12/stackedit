@@ -164,7 +164,7 @@ Additionally they may have learned the following:
 * Zastra is behaving oddly.
 * Kycera has a secret past that she has revealed to Emilia, and to a lesser extent the crew.   
 
-Now the players should begin to gather clues.  Evidence can be broadly categorized into three types - who has been affected (who are the victims); what memories have been modified (or more importantly, what purpose is served by the modifications); and who benefits from these modifications (or more specifically, who is the beneficiary of all these problems).  A side mystery is the mysterious celestial voice reaching out to Andromeda, and 
+Now the players should begin to gather clues.  Evidence can be broadly categorized into three types - who has been affected (who are the victims); what memories have been modified (or more importantly, what purpose is served by the modifications); and who benefits from these modifications (or more specifically, who is the beneficiary of all these problems).  A side mystery is the mysterious celestial voice reaching out to Andromeda (Cirit).  
 
  by These clues can be categorized into three groups - who has been affected (the victims), what evidence there is of on-going magical memory manipulation and who stands to benefit from the entire scheme.  Some clues will be easy to find, or at most gated behind the players simply saying "I look here".  Others may required rolling and skill checks.  Of course finding Cirit is a game changer and lays everything out on the table for everyone.
 
@@ -177,11 +177,11 @@ To reveal the scope of this seed the following clues:
 * Any time anyone is questioned about a memory that has been modified there will be a discussion of who was there.  The cast of people present will vary, but Ilren will always be present.
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0Nzg3OTE5MiwxNTE4MjUwOTcxLC04MD
-E1MTk1ODAsLTE1MDkxODc4OTksMTcyNDgwMjg1MCwxOTg1ODQ2
-MzQ3LDUzMTg2NzcwOCwxNjM0NTQxNTgzLDcxNTQ3NjAzNCwtMT
-Y3Mzc4Nzk0NiwtMTIwNjYwNDY3MywtMTgwNDI2NDM1NSwtMTk4
-MzcwMTY3NywtOTE0MDQ0Mzc5LDEwNjczMzM4ODcsOTY2MzAwND
-Y3LC0xNTExNjc4MzA1LDE3NDAzODM1NTgsNjE4OTg4NTQwLC0x
-Njc4NDgyMjhdfQ==
+eyJoaXN0b3J5IjpbNTM5MjI5NDE1LDE2NDc4NzkxOTIsMTUxOD
+I1MDk3MSwtODAxNTE5NTgwLC0xNTA5MTg3ODk5LDE3MjQ4MDI4
+NTAsMTk4NTg0NjM0Nyw1MzE4Njc3MDgsMTYzNDU0MTU4Myw3MT
+U0NzYwMzQsLTE2NzM3ODc5NDYsLTEyMDY2MDQ2NzMsLTE4MDQy
+NjQzNTUsLTE5ODM3MDE2NzcsLTkxNDA0NDM3OSwxMDY3MzMzOD
+g3LDk2NjMwMDQ2NywtMTUxMTY3ODMwNSwxNzQwMzgzNTU4LDYx
+ODk4ODU0MF19
 -->
