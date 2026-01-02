@@ -167,7 +167,7 @@ Additionally they may have learned the following:
 Now the players should begin to gather clues.  Evidence can be broadly categorized into three types - who has been affected (who are the victims); what memories have been modified (or more importantly, what purpose is served by the modifications); and who benefits from these modifications (or more specifically, who is the beneficiary of all these problems).  A side mystery is the mysterious celestial voice reaching out to Andromeda (Cirit).  Some clues will be easy to find, or at most gated behind the players saying "I look here" or "I look at this".  Others may require rolling skill checks and the like.
 
 ##### Who?
-Basically everyone the party can talk to 
+Basically everyone the party can talk to at this point except Ilren, Ahmaz and Lysan have had their memories modified.  Obviously, as the perpetrator Ilren is unaffected, and Ahmaz is too recently returned to the ship (and probably too tightly tied to the PC's, who Ilren has pegged 
 
 ##### Axis I - Scope
 Basically everyone on board has been affected except the party (too new, and Ilren has already pegged them as dangerous - so not likely targets); Ahmaz (newly arrived as well, may become a target if things drag out); Lysan (likely future target - Ilren had been avoiding the Githyanki because of their history and resilience to mental manipulation, but he has now moved on to Zastra, so Lysan becomes an eligible target as well).
@@ -178,7 +178,7 @@ To reveal the scope of this seed the following clues:
 * Any time anyone is questioned about a memory that has been modified there will be a discussion of who was there.  The cast of people present will vary, but Ilren will always be present.
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDM3Mjc2OTksNTM5MjI5NDE1LDE2ND
+eyJoaXN0b3J5IjpbLTEwOTM5NDE3ODIsNTM5MjI5NDE1LDE2ND
 c4NzkxOTIsMTUxODI1MDk3MSwtODAxNTE5NTgwLC0xNTA5MTg3
 ODk5LDE3MjQ4MDI4NTAsMTk4NTg0NjM0Nyw1MzE4Njc3MDgsMT
 YzNDU0MTU4Myw3MTU0NzYwMzQsLTE2NzM3ODc5NDYsLTEyMDY2
