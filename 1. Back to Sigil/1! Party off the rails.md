@@ -164,7 +164,7 @@ Additionally they may have learned the following:
 * Zastra is behaving oddly.
 * Kycera has a secret past that she has revealed to Emilia, and to a lesser extent the crew.   
 
-Now the players should begin to gather clues.  These clues can be categorized into three aixses - who has been affected, what evidence there is of on-going magical memory manipulation and who stands to benefit from the entire scheme.  Some clues will be easy to find, or at most gated behind the players simply saying "I look here".  Others may required rolling and skill checks.  Of course finding Cirit is a game changer and lays everything out on the table for everyone.
+Now the players should begin to gather clues.  EThese clues can be categorized into three groups - who has been affected (the victims), what evidence there is of on-going magical memory manipulation and who stands to benefit from the entire scheme.  Some clues will be easy to find, or at most gated behind the players simply saying "I look here".  Others may required rolling and skill checks.  Of course finding Cirit is a game changer and lays everything out on the table for everyone.
 
 ##### Axis I - Scope
 Basically everyone on board has been affected except the party (too new, and Ilren has already pegged them as dangerous - so not likely targets); Ahmaz (newly arrived as well, may become a target if things drag out); Lysan (likely future target - Ilren had been avoiding the Githyanki because of their history and resilience to mental manipulation, but he has now moved on to Zastra, so Lysan becomes an eligible target as well).
@@ -175,11 +175,11 @@ To reveal the scope of this seed the following clues:
 * Any time anyone is questioned about a memory that has been modified there will be a discussion of who was there.  The cast of people present will vary, but Ilren will always be present.
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDkxODc4OTksMTcyNDgwMjg1MCwxOT
-g1ODQ2MzQ3LDUzMTg2NzcwOCwxNjM0NTQxNTgzLDcxNTQ3NjAz
-NCwtMTY3Mzc4Nzk0NiwtMTIwNjYwNDY3MywtMTgwNDI2NDM1NS
-wtMTk4MzcwMTY3NywtOTE0MDQ0Mzc5LDEwNjczMzM4ODcsOTY2
-MzAwNDY3LC0xNTExNjc4MzA1LDE3NDAzODM1NTgsNjE4OTg4NT
-QwLC0xNjc4NDgyMjgsOTY4MDk1NjM0LDc0MDk3Nzg0MywtMTkz
-NzU2NDc0XX0=
+eyJoaXN0b3J5IjpbODc4NDcxMDAsLTE1MDkxODc4OTksMTcyND
+gwMjg1MCwxOTg1ODQ2MzQ3LDUzMTg2NzcwOCwxNjM0NTQxNTgz
+LDcxNTQ3NjAzNCwtMTY3Mzc4Nzk0NiwtMTIwNjYwNDY3MywtMT
+gwNDI2NDM1NSwtMTk4MzcwMTY3NywtOTE0MDQ0Mzc5LDEwNjcz
+MzM4ODcsOTY2MzAwNDY3LC0xNTExNjc4MzA1LDE3NDAzODM1NT
+gsNjE4OTg4NTQwLC0xNjc4NDgyMjgsOTY4MDk1NjM0LDc0MDk3
+Nzg0M119
 -->
