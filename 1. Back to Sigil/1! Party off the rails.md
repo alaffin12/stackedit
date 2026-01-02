@@ -164,7 +164,7 @@ Additionally they may have learned the following:
 * Zastra is behaving oddly.
 * Kycera has a secret past that she has revealed to Emilia, and to a lesser extent the crew.   
 
-Now the players should begin to gather clues.  Evidence can be broadly categorized into three types - who has been affected (who are the victims); what memories have been modified (or more importantly, what purpose is served by the modifications) by These clues can be categorized into three groups - who has been affected (the victims), what evidence there is of on-going magical memory manipulation and who stands to benefit from the entire scheme.  Some clues will be easy to find, or at most gated behind the players simply saying "I look here".  Others may required rolling and skill checks.  Of course finding Cirit is a game changer and lays everything out on the table for everyone.
+Now the players should begin to gather clues.  Evidence can be broadly categorized into three types - who has been affected (who are the victims); what memories have been modified (or more importantly, what purpose is served by the modifications); and who benefits from by These clues can be categorized into three groups - who has been affected (the victims), what evidence there is of on-going magical memory manipulation and who stands to benefit from the entire scheme.  Some clues will be easy to find, or at most gated behind the players simply saying "I look here".  Others may required rolling and skill checks.  Of course finding Cirit is a game changer and lays everything out on the table for everyone.
 
 ##### Axis I - Scope
 Basically everyone on board has been affected except the party (too new, and Ilren has already pegged them as dangerous - so not likely targets); Ahmaz (newly arrived as well, may become a target if things drag out); Lysan (likely future target - Ilren had been avoiding the Githyanki because of their history and resilience to mental manipulation, but he has now moved on to Zastra, so Lysan becomes an eligible target as well).
@@ -175,11 +175,11 @@ To reveal the scope of this seed the following clues:
 * Any time anyone is questioned about a memory that has been modified there will be a discussion of who was there.  The cast of people present will vary, but Ilren will always be present.
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMTUxOTU4MCwtMTUwOTE4Nzg5OSwxNz
-I0ODAyODUwLDE5ODU4NDYzNDcsNTMxODY3NzA4LDE2MzQ1NDE1
-ODMsNzE1NDc2MDM0LC0xNjczNzg3OTQ2LC0xMjA2NjA0NjczLC
-0xODA0MjY0MzU1LC0xOTgzNzAxNjc3LC05MTQwNDQzNzksMTA2
-NzMzMzg4Nyw5NjYzMDA0NjcsLTE1MTE2NzgzMDUsMTc0MDM4Mz
-U1OCw2MTg5ODg1NDAsLTE2Nzg0ODIyOCw5NjgwOTU2MzQsNzQw
-OTc3ODQzXX0=
+eyJoaXN0b3J5IjpbLTY0OTY3OTUyMCwtODAxNTE5NTgwLC0xNT
+A5MTg3ODk5LDE3MjQ4MDI4NTAsMTk4NTg0NjM0Nyw1MzE4Njc3
+MDgsMTYzNDU0MTU4Myw3MTU0NzYwMzQsLTE2NzM3ODc5NDYsLT
+EyMDY2MDQ2NzMsLTE4MDQyNjQzNTUsLTE5ODM3MDE2NzcsLTkx
+NDA0NDM3OSwxMDY3MzMzODg3LDk2NjMwMDQ2NywtMTUxMTY3OD
+MwNSwxNzQwMzgzNTU4LDYxODk4ODU0MCwtMTY3ODQ4MjI4LDk2
+ODA5NTYzNF19
 -->
