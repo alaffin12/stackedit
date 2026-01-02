@@ -164,9 +164,10 @@ Additionally they may have learned the following:
 * Zastra is behaving oddly.
 * Kycera has a secret past that she has revealed to Emilia, and to a lesser extent the crew.   
 
-Now the players should begin to gather clues.  Evidence can be broadly categorized into three types - who has been affected (who are the victims); what memories have been modified (or more importantly, what purpose is served by the modifications); and who benefits from these modifications (or more specifically, who is the beneficiary of all these problems).  A side mystery is the mysterious celestial voice reaching out to Andromeda (Cirit).  
+Now the players should begin to gather clues.  Evidence can be broadly categorized into three types - who has been affected (who are the victims); what memories have been modified (or more importantly, what purpose is served by the modifications); and who benefits from these modifications (or more specifically, who is the beneficiary of all these problems).  A side mystery is the mysterious celestial voice reaching out to Andromeda (Cirit).  Some clues will be easy to find, or at most gated behind the players saying "I look here" or "I look at this".  Others may require rolling skill checks and the like.
 
- by These clues can be categorized into three groups - who has been affected (the victims), what evidence there is of on-going magical memory manipulation and who stands to benefit from the entire scheme.  Some clues will be easy to find, or at most gated behind the players simply saying "I look here".  Others may required rolling and skill checks.  Of course finding Cirit is a game changer and lays everything out on the table for everyone.
+##### Who?
+Basically everyone the party can talk to 
 
 ##### Axis I - Scope
 Basically everyone on board has been affected except the party (too new, and Ilren has already pegged them as dangerous - so not likely targets); Ahmaz (newly arrived as well, may become a target if things drag out); Lysan (likely future target - Ilren had been avoiding the Githyanki because of their history and resilience to mental manipulation, but he has now moved on to Zastra, so Lysan becomes an eligible target as well).
@@ -177,11 +178,11 @@ To reveal the scope of this seed the following clues:
 * Any time anyone is questioned about a memory that has been modified there will be a discussion of who was there.  The cast of people present will vary, but Ilren will always be present.
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM5MjI5NDE1LDE2NDc4NzkxOTIsMTUxOD
-I1MDk3MSwtODAxNTE5NTgwLC0xNTA5MTg3ODk5LDE3MjQ4MDI4
-NTAsMTk4NTg0NjM0Nyw1MzE4Njc3MDgsMTYzNDU0MTU4Myw3MT
-U0NzYwMzQsLTE2NzM3ODc5NDYsLTEyMDY2MDQ2NzMsLTE4MDQy
-NjQzNTUsLTE5ODM3MDE2NzcsLTkxNDA0NDM3OSwxMDY3MzMzOD
-g3LDk2NjMwMDQ2NywtMTUxMTY3ODMwNSwxNzQwMzgzNTU4LDYx
-ODk4ODU0MF19
+eyJoaXN0b3J5IjpbLTIwMDM3Mjc2OTksNTM5MjI5NDE1LDE2ND
+c4NzkxOTIsMTUxODI1MDk3MSwtODAxNTE5NTgwLC0xNTA5MTg3
+ODk5LDE3MjQ4MDI4NTAsMTk4NTg0NjM0Nyw1MzE4Njc3MDgsMT
+YzNDU0MTU4Myw3MTU0NzYwMzQsLTE2NzM3ODc5NDYsLTEyMDY2
+MDQ2NzMsLTE4MDQyNjQzNTUsLTE5ODM3MDE2NzcsLTkxNDA0ND
+M3OSwxMDY3MzMzODg3LDk2NjMwMDQ2NywtMTUxMTY3ODMwNSwx
+NzQwMzgzNTU4XX0=
 -->
