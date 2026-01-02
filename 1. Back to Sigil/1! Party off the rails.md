@@ -167,7 +167,7 @@ Additionally they may have learned the following:
 Now the players should begin to gather clues.  Evidence can be broadly categorized into three types - who has been affected (who are the victims); what memories have been modified (or more importantly, what purpose is served by the modifications); and who benefits from these modifications (or more specifically, who is the beneficiary of all these problems).  A side mystery is the mysterious celestial voice reaching out to Andromeda (Cirit).  Some clues will be easy to find, or at most gated behind the players saying "I look here" or "I look at this".  Others may require rolling skill checks and the like.
 
 ##### Who?
-Basically everyone the party can talk to at this point except Ilren, Ahmaz and Lysan have had their memories modified.  Obviously, as the perpetrator Ilren is unaffected, and Ahmaz is too recently returned to the ship (and probably too tightly tied to the PC's, who Ilren has pegged 
+Basically everyone the party can talk to at this point except Ilren, Ahmaz and Lysan have had their memories modified.  Obviously, as the perpetrator Ilren is unaffected, and Ahmaz is too recently returned to the ship to have been victimized (and probably too tightly tied to the PC's, who Ilren has pegged as the only real threat to his plans).  Ilren has also avoided meddling with the githyanki during the early stages of his scheme as they are dangerous and resilient against such manipulations, which is why Lysan is so far unaffected, but th
 
 ##### Axis I - Scope
 Basically everyone on board has been affected except the party (too new, and Ilren has already pegged them as dangerous - so not likely targets); Ahmaz (newly arrived as well, may become a target if things drag out); Lysan (likely future target - Ilren had been avoiding the Githyanki because of their history and resilience to mental manipulation, but he has now moved on to Zastra, so Lysan becomes an eligible target as well).
@@ -178,11 +178,11 @@ To reveal the scope of this seed the following clues:
 * Any time anyone is questioned about a memory that has been modified there will be a discussion of who was there.  The cast of people present will vary, but Ilren will always be present.
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTM5NDE3ODIsNTM5MjI5NDE1LDE2ND
-c4NzkxOTIsMTUxODI1MDk3MSwtODAxNTE5NTgwLC0xNTA5MTg3
-ODk5LDE3MjQ4MDI4NTAsMTk4NTg0NjM0Nyw1MzE4Njc3MDgsMT
-YzNDU0MTU4Myw3MTU0NzYwMzQsLTE2NzM3ODc5NDYsLTEyMDY2
-MDQ2NzMsLTE4MDQyNjQzNTUsLTE5ODM3MDE2NzcsLTkxNDA0ND
-M3OSwxMDY3MzMzODg3LDk2NjMwMDQ2NywtMTUxMTY3ODMwNSwx
-NzQwMzgzNTU4XX0=
+eyJoaXN0b3J5IjpbMTg4ODY1OTg2NSw1MzkyMjk0MTUsMTY0Nz
+g3OTE5MiwxNTE4MjUwOTcxLC04MDE1MTk1ODAsLTE1MDkxODc4
+OTksMTcyNDgwMjg1MCwxOTg1ODQ2MzQ3LDUzMTg2NzcwOCwxNj
+M0NTQxNTgzLDcxNTQ3NjAzNCwtMTY3Mzc4Nzk0NiwtMTIwNjYw
+NDY3MywtMTgwNDI2NDM1NSwtMTk4MzcwMTY3NywtOTE0MDQ0Mz
+c5LDEwNjczMzM4ODcsOTY2MzAwNDY3LC0xNTExNjc4MzA1LDE3
+NDAzODM1NThdfQ==
 -->
