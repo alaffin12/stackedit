@@ -170,7 +170,7 @@ Now the players should begin to gather clues.  Evidence can be broadly categoriz
 Basically everyone the party can talk to at this point except Ilren, Ahmaz and Lysan have had their memories modified.  Obviously, as the perpetrator Ilren is unaffected, and Ahmaz is too recently returned to the ship to have been victimized (and probably too tightly tied to the PC's, who Ilren has pegged as the only real threat to his plans).  Ilren has also avoided meddling with the githyanki during the early stages of his scheme as they are dangerous and resilient against such manipulations, which is why Lysan is so far unaffected, but the arrival of the party has forced his hand - Zastra was modified during the last night and Lysan is certainly a valid target now.
 * Lysan and Zastra seem to have different viewpoints on Ahmaz's leadership.  Lysan seems to recognize that Ahmaz is stern, but is ultimately a good leader, who has guided the crew through tough times.  Zastra has nothing good to say about Ahmaz and will automatically - and very emotionally - negate anything good said about him.
 * Crew members seem to give contradictory statements about events.  The differences may seem minor, but there are differences.
-* 
+* If the party inspects the crew quarters they will discover a crew member's journal, 
 
 
 ##### Axis I - Scope
@@ -182,7 +182,7 @@ To reveal the scope of this seed the following clues:
 * Any time anyone is questioned about a memory that has been modified there will be a discussion of who was there.  The cast of people present will vary, but Ilren will always be present.
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzIyODM3MDIsOTQwNzAxNzk4LC01MT
+eyJoaXN0b3J5IjpbLTE4ODUwMDk4NjQsOTQwNzAxNzk4LC01MT
 I4NDk3MjYsNTM5MjI5NDE1LDE2NDc4NzkxOTIsMTUxODI1MDk3
 MSwtODAxNTE5NTgwLC0xNTA5MTg3ODk5LDE3MjQ4MDI4NTAsMT
 k4NTg0NjM0Nyw1MzE4Njc3MDgsMTYzNDU0MTU4Myw3MTU0NzYw
