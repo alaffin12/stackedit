@@ -178,7 +178,7 @@ Basically everyone the party can talk to at this point except Ilren, Ahmaz and L
 ##### What?
 This is a little more esoteric.  Ilren is using his ability to obscure his actions, but also to sow chaos.  Because of this almost anything is fair game.  Some scenes that might occur include:
 * While Ilren is absent from the mess a random crew man walks in and punches another random crewman, saying he knows what he did.  When confronted the offender will refuse to say more, simply claiming it's between him and the victim.  The victim will claim ignorance.  Ilren will walk into the mess a little bit after it happens.
-* If the party questions two (non-Ilren) crewmen about Cirit's death (possibly because of the journal entry) they will find an odd problem with continuity, with one saying the it h
+* If the party questions two (non-Ilren) crewmen about Cirit's death (possibly because of the journal entry) they will find an odd problem with continuity, with one saying the it happened just after the wreck and the other saying it was some time after.  
 
 
 ##### Axis I - Scope
@@ -190,11 +190,11 @@ To reveal the scope of this seed the following clues:
 * Any time anyone is questioned about a memory that has been modified there will be a discussion of who was there.  The cast of people present will vary, but Ilren will always be present.
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MTgxMDQ1MCwtMTI1ODY2ODMzOCwtMj
-cxNDI1NTQwLC0xNjUyNjcyNjU3LC0xMjQ0Njg0ODMwLDk0MDcw
-MTc5OCwtNTEyODQ5NzI2LDUzOTIyOTQxNSwxNjQ3ODc5MTkyLD
-E1MTgyNTA5NzEsLTgwMTUxOTU4MCwtMTUwOTE4Nzg5OSwxNzI0
-ODAyODUwLDE5ODU4NDYzNDcsNTMxODY3NzA4LDE2MzQ1NDE1OD
-MsNzE1NDc2MDM0LC0xNjczNzg3OTQ2LC0xMjA2NjA0NjczLC0x
-ODA0MjY0MzU1XX0=
+eyJoaXN0b3J5IjpbLTc1MjA2ODUyLC0xMjU4NjY4MzM4LC0yNz
+E0MjU1NDAsLTE2NTI2NzI2NTcsLTEyNDQ2ODQ4MzAsOTQwNzAx
+Nzk4LC01MTI4NDk3MjYsNTM5MjI5NDE1LDE2NDc4NzkxOTIsMT
+UxODI1MDk3MSwtODAxNTE5NTgwLC0xNTA5MTg3ODk5LDE3MjQ4
+MDI4NTAsMTk4NTg0NjM0Nyw1MzE4Njc3MDgsMTYzNDU0MTU4My
+w3MTU0NzYwMzQsLTE2NzM3ODc5NDYsLTEyMDY2MDQ2NzMsLTE4
+MDQyNjQzNTVdfQ==
 -->
