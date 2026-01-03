@@ -180,7 +180,7 @@ This is a little more esoteric.  Ilren is using his ability to obscure his actio
 * While Ilren is absent from the mess a random crew man walks in and punches another random crewman, saying he knows what he did.  When confronted the offender will refuse to say more, simply claiming it's between him and the victim.  The victim will claim ignorance.  Ilren will walk into the mess a little bit after it happens.
 * If the party questions two (non-Ilren) crewmen about Cirit's death (possibly because of the journal entry) they will find an odd problem with continuity, with one saying the it happened just after the wreck and the other saying it was some time after.  
 * A crew member might talk about being abandoned during the initial wreck and making their way back to the spelljammer.  However their memory will be full of holes, and they will not even be able to remember who abandoned them (though they will add *'probably one of the gith'* to their declaration).
-*    
+* If the party is a space with Ilren another NPC may walk into the space, pause, shake their head and then leave to go somewhere else.  If confronted about it immediately they will reply *'I don't remember why I went in there -   
 
 
 ##### Axis I - Scope
@@ -192,11 +192,11 @@ To reveal the scope of this seed the following clues:
 * Any time anyone is questioned about a memory that has been modified there will be a discussion of who was there.  The cast of people present will vary, but Ilren will always be present.
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTY5Mzc2LC0xNjkyMjA1NDE4LC03NT
-IwNjg1MiwtMTI1ODY2ODMzOCwtMjcxNDI1NTQwLC0xNjUyNjcy
-NjU3LC0xMjQ0Njg0ODMwLDk0MDcwMTc5OCwtNTEyODQ5NzI2LD
-UzOTIyOTQxNSwxNjQ3ODc5MTkyLDE1MTgyNTA5NzEsLTgwMTUx
-OTU4MCwtMTUwOTE4Nzg5OSwxNzI0ODAyODUwLDE5ODU4NDYzND
-csNTMxODY3NzA4LDE2MzQ1NDE1ODMsNzE1NDc2MDM0LC0xNjcz
-Nzg3OTQ2XX0=
+eyJoaXN0b3J5IjpbOTU1NzYyMzcxLC0yMDk2OTM3NiwtMTY5Mj
+IwNTQxOCwtNzUyMDY4NTIsLTEyNTg2NjgzMzgsLTI3MTQyNTU0
+MCwtMTY1MjY3MjY1NywtMTI0NDY4NDgzMCw5NDA3MDE3OTgsLT
+UxMjg0OTcyNiw1MzkyMjk0MTUsMTY0Nzg3OTE5MiwxNTE4MjUw
+OTcxLC04MDE1MTk1ODAsLTE1MDkxODc4OTksMTcyNDgwMjg1MC
+wxOTg1ODQ2MzQ3LDUzMTg2NzcwOCwxNjM0NTQxNTgzLDcxNTQ3
+NjAzNF19
 -->
