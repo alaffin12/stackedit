@@ -189,6 +189,9 @@ This is the most important set of clues, as it will point most directly to Ilren
 * Intelligence (Religion or Arcana) DC 15: There are creatures that feed and thrive on chaos.  Demons, and the denizens of limbo come to mind. (Only after the party notices how chaotic the attacks seem to be)
 * Wisdom (Perception) DC 14: The attacks are slowly grinding the crew down.  Your presence makes them stronger, but eventually you will be ground down too. (Only after multiple attacks)
 
+##### The Infected
+The infected PC is Ilren's ace in the hole.  
+
 
 
 
@@ -201,11 +204,11 @@ To reveal the scope of this seed the following clues:
 * Any time anyone is questioned about a memory that has been modified there will be a discussion of who was there.  The cast of people present will vary, but Ilren will always be present.
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMzMDIxNTEsLTE4MTExNTUyMDAsLTExNT
-UxNDg3NzgsLTIwOTY5Mzc2LC0xNjkyMjA1NDE4LC03NTIwNjg1
-MiwtMTI1ODY2ODMzOCwtMjcxNDI1NTQwLC0xNjUyNjcyNjU3LC
-0xMjQ0Njg0ODMwLDk0MDcwMTc5OCwtNTEyODQ5NzI2LDUzOTIy
-OTQxNSwxNjQ3ODc5MTkyLDE1MTgyNTA5NzEsLTgwMTUxOTU4MC
-wtMTUwOTE4Nzg5OSwxNzI0ODAyODUwLDE5ODU4NDYzNDcsNTMx
-ODY3NzA4XX0=
+eyJoaXN0b3J5IjpbMTkxODUzMjY5OCw1MzMwMjE1MSwtMTgxMT
+E1NTIwMCwtMTE1NTE0ODc3OCwtMjA5NjkzNzYsLTE2OTIyMDU0
+MTgsLTc1MjA2ODUyLC0xMjU4NjY4MzM4LC0yNzE0MjU1NDAsLT
+E2NTI2NzI2NTcsLTEyNDQ2ODQ4MzAsOTQwNzAxNzk4LC01MTI4
+NDk3MjYsNTM5MjI5NDE1LDE2NDc4NzkxOTIsMTUxODI1MDk3MS
+wtODAxNTE5NTgwLC0xNTA5MTg3ODk5LDE3MjQ4MDI4NTAsMTk4
+NTg0NjM0N119
 -->
