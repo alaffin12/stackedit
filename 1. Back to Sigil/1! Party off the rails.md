@@ -176,7 +176,7 @@ Basically everyone the party can talk to at this point except Ilren, Ahmaz and L
 
 ##### What?
 This is a little more esoteric.  Ilren is using his ability to obscure his actions, but also to sow chaos.  Because of this almost anything is fair game.  Some scenes that might occur include:
-* While Ilren is absent from the mess a random crew man walks in and punches another random crewman, saying he knows what he did.  When confronted the offender will refuse to say more, simply claiming it's between him and the victim. 
+* While Ilren is absent from the mess a random crew man walks in and punches another random crewman, saying he knows what he did.  When confronted the offender will refuse to say more, simply claiming it's between him and the victim.  The victim will claim ignorance.  Ilren will walk into the mess a little bit after it happens.
 
 
 ##### Axis I - Scope
@@ -188,7 +188,7 @@ To reveal the scope of this seed the following clues:
 * Any time anyone is questioned about a memory that has been modified there will be a discussion of who was there.  The cast of people present will vary, but Ilren will always be present.
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjE2MDU4NzUsLTI3MTQyNTU0MCwtMT
+eyJoaXN0b3J5IjpbLTEyNTg2NjgzMzgsLTI3MTQyNTU0MCwtMT
 Y1MjY3MjY1NywtMTI0NDY4NDgzMCw5NDA3MDE3OTgsLTUxMjg0
 OTcyNiw1MzkyMjk0MTUsMTY0Nzg3OTE5MiwxNTE4MjUwOTcxLC
 04MDE1MTk1ODAsLTE1MDkxODc4OTksMTcyNDgwMjg1MCwxOTg1
