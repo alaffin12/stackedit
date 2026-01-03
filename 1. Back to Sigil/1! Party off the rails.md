@@ -170,7 +170,8 @@ Now the players should begin to gather clues.  Evidence can be broadly categoriz
 Basically everyone the party can talk to at this point except Ilren, Ahmaz and Lysan have had their memories modified.  Obviously, as the perpetrator Ilren is unaffected, and Ahmaz is too recently returned to the ship to have been victimized (and probably too tightly tied to the PC's, who Ilren has pegged as the only real threat to his plans).  Ilren has also avoided meddling with the githyanki during the early stages of his scheme as they are dangerous and resilient against such manipulations, which is why Lysan is so far unaffected, but the arrival of the party has forced his hand - Zastra was modified during the last night and Lysan is certainly a valid target now.
 * Lysan and Zastra seem to have different viewpoints on Ahmaz's leadership.  Lysan seems to recognize that Ahmaz is stern, but is ultimately a good leader, who has guided the crew through tough times.  Zastra has nothing good to say about Ahmaz and will automatically - and very emotionally - negate anything good said about him.
 * Crew members seem to give contradictory statements about events.  The differences may seem minor, but there are differences.
-* If the party inspects the crew quarters and makes a DC 12 Intelligence (Investigate) check they will discover a crew member's journal, which contains the following entry: *"Ilren says it was quick. I don’t remember it being quick. I remember wanting to help Cirit, but my feet wouldn’t move. Why was Ilren the only one calm?"*
+* If the party inspects the crew quarters and makes a DC 12 Intelligence (Investigate) check they will discover a crew member's journal, which contains the following entry: *"Ilren says it was quick. I don’t remember it being quick. I remember wanting to help Cirit, but my feet wouldn’t move. Why was Ilren so calm?"*
+* 
 * 
 
 
@@ -183,11 +184,11 @@ To reveal the scope of this seed the following clues:
 * Any time anyone is questioned about a memory that has been modified there will be a discussion of who was there.  The cast of people present will vary, but Ilren will always be present.
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTI2NzI2NTcsLTEyNDQ2ODQ4MzAsOT
-QwNzAxNzk4LC01MTI4NDk3MjYsNTM5MjI5NDE1LDE2NDc4Nzkx
-OTIsMTUxODI1MDk3MSwtODAxNTE5NTgwLC0xNTA5MTg3ODk5LD
-E3MjQ4MDI4NTAsMTk4NTg0NjM0Nyw1MzE4Njc3MDgsMTYzNDU0
-MTU4Myw3MTU0NzYwMzQsLTE2NzM3ODc5NDYsLTEyMDY2MDQ2Nz
-MsLTE4MDQyNjQzNTUsLTE5ODM3MDE2NzcsLTkxNDA0NDM3OSwx
-MDY3MzMzODg3XX0=
+eyJoaXN0b3J5IjpbMTI3MTc3OTM4OCwtMTY1MjY3MjY1NywtMT
+I0NDY4NDgzMCw5NDA3MDE3OTgsLTUxMjg0OTcyNiw1MzkyMjk0
+MTUsMTY0Nzg3OTE5MiwxNTE4MjUwOTcxLC04MDE1MTk1ODAsLT
+E1MDkxODc4OTksMTcyNDgwMjg1MCwxOTg1ODQ2MzQ3LDUzMTg2
+NzcwOCwxNjM0NTQxNTgzLDcxNTQ3NjAzNCwtMTY3Mzc4Nzk0Ni
+wtMTIwNjYwNDY3MywtMTgwNDI2NDM1NSwtMTk4MzcwMTY3Nywt
+OTE0MDQ0Mzc5XX0=
 -->
