@@ -179,7 +179,7 @@ Basically everyone the party can talk to at this point except Ilren, Ahmaz and L
 This is a little more esoteric.  Ilren is using his ability to obscure his actions, but also to sow chaos.  Because of this almost anything is fair game.  Some scenes that might occur include:
 * While Ilren is absent from the mess a random crew man walks in and punches another random crewman, saying he knows what he did.  When confronted the offender will refuse to say more, simply claiming it's between him and the victim.  The victim will claim ignorance.  Ilren will walk into the mess a little bit after it happens.
 * If the party questions two (non-Ilren) crewmen about Cirit's death (possibly because of the journal entry) they will find an odd problem with continuity, with one saying the it happened just after the wreck and the other saying it was some time after.  
-* A crew member might talk about being abandoned during the initial wreck and making their way back to the spelljammer.  However their memory will be full of holes, and  
+* A crew member might talk about being abandoned during the initial wreck and making their way back to the spelljammer.  However their memory will be full of holes, and they will not even be able to remember who abandoned them (though they will add *'probably one of the gith'* to their declaration)   
 
 
 ##### Axis I - Scope
@@ -191,11 +191,11 @@ To reveal the scope of this seed the following clues:
 * Any time anyone is questioned about a memory that has been modified there will be a discussion of who was there.  The cast of people present will vary, but Ilren will always be present.
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNDcxNDEyMywtNzUyMDY4NTIsLTEyNT
-g2NjgzMzgsLTI3MTQyNTU0MCwtMTY1MjY3MjY1NywtMTI0NDY4
-NDgzMCw5NDA3MDE3OTgsLTUxMjg0OTcyNiw1MzkyMjk0MTUsMT
-Y0Nzg3OTE5MiwxNTE4MjUwOTcxLC04MDE1MTk1ODAsLTE1MDkx
-ODc4OTksMTcyNDgwMjg1MCwxOTg1ODQ2MzQ3LDUzMTg2NzcwOC
-wxNjM0NTQxNTgzLDcxNTQ3NjAzNCwtMTY3Mzc4Nzk0NiwtMTIw
-NjYwNDY3M119
+eyJoaXN0b3J5IjpbLTE2OTIyMDU0MTgsLTc1MjA2ODUyLC0xMj
+U4NjY4MzM4LC0yNzE0MjU1NDAsLTE2NTI2NzI2NTcsLTEyNDQ2
+ODQ4MzAsOTQwNzAxNzk4LC01MTI4NDk3MjYsNTM5MjI5NDE1LD
+E2NDc4NzkxOTIsMTUxODI1MDk3MSwtODAxNTE5NTgwLC0xNTA5
+MTg3ODk5LDE3MjQ4MDI4NTAsMTk4NTg0NjM0Nyw1MzE4Njc3MD
+gsMTYzNDU0MTU4Myw3MTU0NzYwMzQsLTE2NzM3ODc5NDYsLTEy
+MDY2MDQ2NzNdfQ==
 -->
