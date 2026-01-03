@@ -187,7 +187,7 @@ This is the most important set of clues, as it will point most directly to Ilren
 * Wisdom (Insight) DC 17: Someone is engaging in widespread social manipulation on this wreck.  (Only after more than one NPC has been found to be manipulated)
 * Wisdom (Survival or Perception) DC 15: Attacks from 'scavengers' seem to coincide with discord on the wreck. (Only after an attack)
 * Intelligence (Religion or Arcana) DC 15: There are creatures that feed and thrive on chaos.  Demons, and the denizens of limbo come to mind. (Only after the party notices how chaotic the attacks seem to be)
-* 
+* Wisdom (Perception) DC 14: The attacks are slowly grinding the crew down.  Your presence makes them stronger, but eventually you will be ground down too. (Only after multiple attacks)
 
 
 
@@ -201,11 +201,11 @@ To reveal the scope of this seed the following clues:
 * Any time anyone is questioned about a memory that has been modified there will be a discussion of who was there.  The cast of people present will vary, but Ilren will always be present.
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NDg2NDg4MCwtMTgxMTE1NTIwMCwtMT
-E1NTE0ODc3OCwtMjA5NjkzNzYsLTE2OTIyMDU0MTgsLTc1MjA2
-ODUyLC0xMjU4NjY4MzM4LC0yNzE0MjU1NDAsLTE2NTI2NzI2NT
-csLTEyNDQ2ODQ4MzAsOTQwNzAxNzk4LC01MTI4NDk3MjYsNTM5
-MjI5NDE1LDE2NDc4NzkxOTIsMTUxODI1MDk3MSwtODAxNTE5NT
-gwLC0xNTA5MTg3ODk5LDE3MjQ4MDI4NTAsMTk4NTg0NjM0Nyw1
-MzE4Njc3MDhdfQ==
+eyJoaXN0b3J5IjpbNTMzMDIxNTEsLTE4MTExNTUyMDAsLTExNT
+UxNDg3NzgsLTIwOTY5Mzc2LC0xNjkyMjA1NDE4LC03NTIwNjg1
+MiwtMTI1ODY2ODMzOCwtMjcxNDI1NTQwLC0xNjUyNjcyNjU3LC
+0xMjQ0Njg0ODMwLDk0MDcwMTc5OCwtNTEyODQ5NzI2LDUzOTIy
+OTQxNSwxNjQ3ODc5MTkyLDE1MTgyNTA5NzEsLTgwMTUxOTU4MC
+wtMTUwOTE4Nzg5OSwxNzI0ODAyODUwLDE5ODU4NDYzNDcsNTMx
+ODY3NzA4XX0=
 -->
