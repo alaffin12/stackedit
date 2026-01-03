@@ -183,7 +183,7 @@ This is a little more esoteric.  Ilren is using his ability to obscure his actio
 * If the party is a space with Ilren another NPC may walk into the space, pause, shake their head and then leave to go somewhere else.  If confronted about it immediately they will reply *'I don't remember why I went in there.'*  If some time has passed they won't remember it at all.   
 
 ##### Why?
-
+This is the most important set of clues, as it will point most directly to Ilren.  However the clues are also buried the deepest, as the motivation is chaos itself.  But it's not just random - it's systemic chaos.  And hopefully the party
 
 
 ##### Axis I - Scope
@@ -195,11 +195,11 @@ To reveal the scope of this seed the following clues:
 * Any time anyone is questioned about a memory that has been modified there will be a discussion of who was there.  The cast of people present will vary, but Ilren will always be present.
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTExNTUyMDAsLTExNTUxNDg3NzgsLT
-IwOTY5Mzc2LC0xNjkyMjA1NDE4LC03NTIwNjg1MiwtMTI1ODY2
-ODMzOCwtMjcxNDI1NTQwLC0xNjUyNjcyNjU3LC0xMjQ0Njg0OD
-MwLDk0MDcwMTc5OCwtNTEyODQ5NzI2LDUzOTIyOTQxNSwxNjQ3
-ODc5MTkyLDE1MTgyNTA5NzEsLTgwMTUxOTU4MCwtMTUwOTE4Nz
-g5OSwxNzI0ODAyODUwLDE5ODU4NDYzNDcsNTMxODY3NzA4LDE2
-MzQ1NDE1ODNdfQ==
+eyJoaXN0b3J5IjpbMjI2MTc2NzU5LC0xODExMTU1MjAwLC0xMT
+U1MTQ4Nzc4LC0yMDk2OTM3NiwtMTY5MjIwNTQxOCwtNzUyMDY4
+NTIsLTEyNTg2NjgzMzgsLTI3MTQyNTU0MCwtMTY1MjY3MjY1Ny
+wtMTI0NDY4NDgzMCw5NDA3MDE3OTgsLTUxMjg0OTcyNiw1Mzky
+Mjk0MTUsMTY0Nzg3OTE5MiwxNTE4MjUwOTcxLC04MDE1MTk1OD
+AsLTE1MDkxODc4OTksMTcyNDgwMjg1MCwxOTg1ODQ2MzQ3LDUz
+MTg2NzcwOF19
 -->
