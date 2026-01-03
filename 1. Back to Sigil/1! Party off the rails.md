@@ -182,6 +182,9 @@ This is a little more esoteric.  Ilren is using his ability to obscure his actio
 * A crew member might talk about being abandoned during the initial wreck and making their way back to the spelljammer.  However their memory will be full of holes, and they will not even be able to remember who abandoned them (though they will add *'probably one of the gith'* to their declaration).
 * If the party is a space with Ilren another NPC may walk into the space, pause, shake their head and then leave to go somewhere else.  If confronted about it immediately they will reply *'I don't remember why I went in there.'*  If some time has passed they won't remember it at all.   
 
+##### Why?
+
+
 
 ##### Axis I - Scope
 Basically everyone on board has been affected except the party (too new, and Ilren has already pegged them as dangerous - so not likely targets); Ahmaz (newly arrived as well, may become a target if things drag out); Lysan (likely future target - Ilren had been avoiding the Githyanki because of their history and resilience to mental manipulation, but he has now moved on to Zastra, so Lysan becomes an eligible target as well).
@@ -192,11 +195,11 @@ To reveal the scope of this seed the following clues:
 * Any time anyone is questioned about a memory that has been modified there will be a discussion of who was there.  The cast of people present will vary, but Ilren will always be present.
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTUxNDg3NzgsLTIwOTY5Mzc2LC0xNj
-kyMjA1NDE4LC03NTIwNjg1MiwtMTI1ODY2ODMzOCwtMjcxNDI1
-NTQwLC0xNjUyNjcyNjU3LC0xMjQ0Njg0ODMwLDk0MDcwMTc5OC
-wtNTEyODQ5NzI2LDUzOTIyOTQxNSwxNjQ3ODc5MTkyLDE1MTgy
-NTA5NzEsLTgwMTUxOTU4MCwtMTUwOTE4Nzg5OSwxNzI0ODAyOD
-UwLDE5ODU4NDYzNDcsNTMxODY3NzA4LDE2MzQ1NDE1ODMsNzE1
-NDc2MDM0XX0=
+eyJoaXN0b3J5IjpbLTE4MTExNTUyMDAsLTExNTUxNDg3NzgsLT
+IwOTY5Mzc2LC0xNjkyMjA1NDE4LC03NTIwNjg1MiwtMTI1ODY2
+ODMzOCwtMjcxNDI1NTQwLC0xNjUyNjcyNjU3LC0xMjQ0Njg0OD
+MwLDk0MDcwMTc5OCwtNTEyODQ5NzI2LDUzOTIyOTQxNSwxNjQ3
+ODc5MTkyLDE1MTgyNTA5NzEsLTgwMTUxOTU4MCwtMTUwOTE4Nz
+g5OSwxNzI0ODAyODUwLDE5ODU4NDYzNDcsNTMxODY3NzA4LDE2
+MzQ1NDE1ODNdfQ==
 -->
