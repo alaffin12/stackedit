@@ -171,6 +171,7 @@ Basically everyone the party can talk to at this point except Ilren, Ahmaz and L
 * Lysan and Zastra seem to have different viewpoints on Ahmaz's leadership.  Lysan seems to recognize that Ahmaz is stern, but is ultimately a good leader, who has guided the crew through tough times.  Zastra has nothing good to say about Ahmaz and will automatically - and very emotionally - negate anything good said about him.
 * Crew members seem to give contradictory statements about events.  The differences may seem minor, but there are differences.
 * If the party inspects the crew quarters and makes a DC 12 Intelligence (Investigate) check they will discover a crew member's journal, which contains the following entry: *"Ilren says it was quick. I don’t remember it being quick. I remember wanting to help Cirit, but my feet wouldn’t move. Why was Ilren so calm?"*
+* Daveras remember the death of of Iksa and Redbud, but he cannot articulate any details of the event.
 * 
 * 
 
@@ -184,7 +185,7 @@ To reveal the scope of this seed the following clues:
 * Any time anyone is questioned about a memory that has been modified there will be a discussion of who was there.  The cast of people present will vary, but Ilren will always be present.
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MTc3OTM4OCwtMTY1MjY3MjY1NywtMT
+eyJoaXN0b3J5IjpbLTI3MTQyNTU0MCwtMTY1MjY3MjY1NywtMT
 I0NDY4NDgzMCw5NDA3MDE3OTgsLTUxMjg0OTcyNiw1MzkyMjk0
 MTUsMTY0Nzg3OTE5MiwxNTE4MjUwOTcxLC04MDE1MTk1ODAsLT
 E1MDkxODc4OTksMTcyNDgwMjg1MCwxOTg1ODQ2MzQ3LDUzMTg2
