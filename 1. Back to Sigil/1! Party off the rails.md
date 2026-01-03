@@ -183,7 +183,8 @@ This is a little more esoteric.  Ilren is using his ability to obscure his actio
 * If the party is a space with Ilren another NPC may walk into the space, pause, shake their head and then leave to go somewhere else.  If confronted about it immediately they will reply *'I don't remember why I went in there.'*  If some time has passed they won't remember it at all.   
 
 ##### Why?
-This is the most important set of clues, as it will point most directly to Ilren.  However the clues are also buried the deepest, as the motivation is chaos itself.  But it's not just random - it's systemic chaos.  And hopefully the party will realize it benefits someone who thrives on conflict, and who wants to delay, stall and exhaust the entire crew.
+This is the most important set of clues, as it will point most directly to Ilren.  However the clues are also buried the deepest, as the motivation is chaos itself.  But it's not just random - it's systemic chaos.  And hopefully the party will realize it benefits someone who thrives on conflict, and who wants to delay, stall and exhaust the entire crew.  These are all skill checks that will happen after gathering other clues:
+* Wisdom (Insight) DC 17: 
 
 
 
@@ -197,7 +198,7 @@ To reveal the scope of this seed the following clues:
 * Any time anyone is questioned about a memory that has been modified there will be a discussion of who was there.  The cast of people present will vary, but Ilren will always be present.
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MTI4NTQwMCwtMTgxMTE1NTIwMCwtMT
+eyJoaXN0b3J5IjpbMTYxNDQ5MzQ4NywtMTgxMTE1NTIwMCwtMT
 E1NTE0ODc3OCwtMjA5NjkzNzYsLTE2OTIyMDU0MTgsLTc1MjA2
 ODUyLC0xMjU4NjY4MzM4LC0yNzE0MjU1NDAsLTE2NTI2NzI2NT
 csLTEyNDQ2ODQ4MzAsOTQwNzAxNzk4LC01MTI4NDk3MjYsNTM5
