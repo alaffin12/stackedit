@@ -175,7 +175,8 @@ Basically everyone the party can talk to at this point except Ilren, Ahmaz and L
 * Players who do enough talking to the crew will find complaints of frequent nosebleeds and headaches
 
 ##### What?
-This is a little more esoteric.  Ilren is using his ability to obscure his actions, but also to sow chaos.  Because of this almost anything is fair game.  Sme i
+This is a little more esoteric.  Ilren is using his ability to obscure his actions, but also to sow chaos.  Because of this almost anything is fair game.  Some scenes that might occur include:
+* While Ilren is absent from the mess a random crew man walks in and punches another random crewman, saying he knows what he did.  When confronted the offender will refuse to say more, simply claiming it's between him and the victim. 
 
 
 ##### Axis I - Scope
@@ -187,11 +188,11 @@ To reveal the scope of this seed the following clues:
 * Any time anyone is questioned about a memory that has been modified there will be a discussion of who was there.  The cast of people present will vary, but Ilren will always be present.
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM3MDI3NjI5LC0yNzE0MjU1NDAsLTE2NT
-I2NzI2NTcsLTEyNDQ2ODQ4MzAsOTQwNzAxNzk4LC01MTI4NDk3
-MjYsNTM5MjI5NDE1LDE2NDc4NzkxOTIsMTUxODI1MDk3MSwtOD
-AxNTE5NTgwLC0xNTA5MTg3ODk5LDE3MjQ4MDI4NTAsMTk4NTg0
-NjM0Nyw1MzE4Njc3MDgsMTYzNDU0MTU4Myw3MTU0NzYwMzQsLT
-E2NzM3ODc5NDYsLTEyMDY2MDQ2NzMsLTE4MDQyNjQzNTUsLTE5
-ODM3MDE2NzddfQ==
+eyJoaXN0b3J5IjpbLTExNjE2MDU4NzUsLTI3MTQyNTU0MCwtMT
+Y1MjY3MjY1NywtMTI0NDY4NDgzMCw5NDA3MDE3OTgsLTUxMjg0
+OTcyNiw1MzkyMjk0MTUsMTY0Nzg3OTE5MiwxNTE4MjUwOTcxLC
+04MDE1MTk1ODAsLTE1MDkxODc4OTksMTcyNDgwMjg1MCwxOTg1
+ODQ2MzQ3LDUzMTg2NzcwOCwxNjM0NTQxNTgzLDcxNTQ3NjAzNC
+wtMTY3Mzc4Nzk0NiwtMTIwNjYwNDY3MywtMTgwNDI2NDM1NSwt
+MTk4MzcwMTY3N119
 -->
