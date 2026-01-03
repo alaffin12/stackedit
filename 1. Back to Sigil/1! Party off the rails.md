@@ -190,7 +190,9 @@ This is the most important set of clues, as it will point most directly to Ilren
 * Wisdom (Perception) DC 14: The attacks are slowly grinding the crew down.  Your presence makes them stronger, but eventually you will be ground down too. (Only after multiple attacks)
 
 ##### The Infected
-The infected PC is Ilren's ace in the hole - a target Ilren can manipulate subtly to alter the investigation.  Ilren can use the tadpole to make the PC sick, but can also change how the PC perceives things.  Occasionally have the infected PC make a skill check, and then perhap 
+The infected PC is Ilren's ace in the hole - a target Ilren can manipulate subtly to alter the investigation.  Ilren can use the tadpole to make the PC sick, but can also change how the PC perceives things.  Occasionally have the infected PC make a skill check, and then perhaps reveal to him a clue that actually serves Ilren, not the party.
+
+
 
 
 
@@ -204,7 +206,7 @@ To reveal the scope of this seed the following clues:
 * Any time anyone is questioned about a memory that has been modified there will be a discussion of who was there.  The cast of people present will vary, but Ilren will always be present.
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNTI3NzcwNCw1MzMwMjE1MSwtMTgxMT
+eyJoaXN0b3J5IjpbMTIzNDYyMzg0MSw1MzMwMjE1MSwtMTgxMT
 E1NTIwMCwtMTE1NTE0ODc3OCwtMjA5NjkzNzYsLTE2OTIyMDU0
 MTgsLTc1MjA2ODUyLC0xMjU4NjY4MzM4LC0yNzE0MjU1NDAsLT
 E2NTI2NzI2NTcsLTEyNDQ2ODQ4MzAsOTQwNzAxNzk4LC01MTI4
