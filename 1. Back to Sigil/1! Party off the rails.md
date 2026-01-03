@@ -194,7 +194,8 @@ The infected PC is Ilren's ace in the hole - a target Ilren can manipulate subtl
 
 ##### Cirit
 Cirit is the players trump card, if they can find her.  The problem is the finding her.  She is only accessible via prying up the floorboard in Z7 and dropping down into the lower decks/brig of the ship.  However there are a few clues that might lead the party to her.
-* If the players check the ships log they will find mention of another deck below the ones they have access to.  If questioned about it any crew member will respond that there is indeed a third deck to the Lambent Zenith, but access has been cut off because of the wre
+* If the players check the ships log they will find mention of another deck below the ones they have access to.  If questioned about it any crew member will respond that there is indeed a third deck to the Lambent Zenith, but access has been cut off because of the wreck.  A DC 17 Wisdom (Perception) check will have players notice that the responder (if it is anyone except Ahmaz or Ilren) goes a bit glassy eyed when they talk about it.  
+* If they dig around in the hold (Z7) and ma 
 
 
 
@@ -208,11 +209,11 @@ To reveal the scope of this seed the following clues:
 * Any time anyone is questioned about a memory that has been modified there will be a discussion of who was there.  The cast of people present will vary, but Ilren will always be present.
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDU5NDM2NzMsMTIzNDY4NzU4MCwxMj
-M0NjIzODQxLDUzMzAyMTUxLC0xODExMTU1MjAwLC0xMTU1MTQ4
-Nzc4LC0yMDk2OTM3NiwtMTY5MjIwNTQxOCwtNzUyMDY4NTIsLT
-EyNTg2NjgzMzgsLTI3MTQyNTU0MCwtMTY1MjY3MjY1NywtMTI0
-NDY4NDgzMCw5NDA3MDE3OTgsLTUxMjg0OTcyNiw1MzkyMjk0MT
-UsMTY0Nzg3OTE5MiwxNTE4MjUwOTcxLC04MDE1MTk1ODAsLTE1
-MDkxODc4OTldfQ==
+eyJoaXN0b3J5IjpbMTEzMTU1ODc2OCwxMjM0Njg3NTgwLDEyMz
+Q2MjM4NDEsNTMzMDIxNTEsLTE4MTExNTUyMDAsLTExNTUxNDg3
+NzgsLTIwOTY5Mzc2LC0xNjkyMjA1NDE4LC03NTIwNjg1MiwtMT
+I1ODY2ODMzOCwtMjcxNDI1NTQwLC0xNjUyNjcyNjU3LC0xMjQ0
+Njg0ODMwLDk0MDcwMTc5OCwtNTEyODQ5NzI2LDUzOTIyOTQxNS
+wxNjQ3ODc5MTkyLDE1MTgyNTA5NzEsLTgwMTUxOTU4MCwtMTUw
+OTE4Nzg5OV19
 -->
