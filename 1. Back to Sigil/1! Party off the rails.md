@@ -193,6 +193,7 @@ This is the most important set of clues, as it will point most directly to Ilren
 The infected PC is Ilren's ace in the hole - a target Ilren can manipulate subtly to alter the investigation.  Ilren can use the tadpole to make the PC sick, but can also change how the PC perceives things.  Occasionally have the infected PC make a skill check, and then perhaps reveal to him a clue that actually serves Ilren, not the party.
 
 ##### Cirit
+Cirit is the players trump card, if they can find her
 
 
 
@@ -206,11 +207,11 @@ To reveal the scope of this seed the following clues:
 * Any time anyone is questioned about a memory that has been modified there will be a discussion of who was there.  The cast of people present will vary, but Ilren will always be present.
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI0MTUzMTY1LDEyMzQ2MjM4NDEsNTMzMD
-IxNTEsLTE4MTExNTUyMDAsLTExNTUxNDg3NzgsLTIwOTY5Mzc2
-LC0xNjkyMjA1NDE4LC03NTIwNjg1MiwtMTI1ODY2ODMzOCwtMj
-cxNDI1NTQwLC0xNjUyNjcyNjU3LC0xMjQ0Njg0ODMwLDk0MDcw
-MTc5OCwtNTEyODQ5NzI2LDUzOTIyOTQxNSwxNjQ3ODc5MTkyLD
-E1MTgyNTA5NzEsLTgwMTUxOTU4MCwtMTUwOTE4Nzg5OSwxNzI0
-ODAyODUwXX0=
+eyJoaXN0b3J5IjpbMTIzNDY4NzU4MCwxMjM0NjIzODQxLDUzMz
+AyMTUxLC0xODExMTU1MjAwLC0xMTU1MTQ4Nzc4LC0yMDk2OTM3
+NiwtMTY5MjIwNTQxOCwtNzUyMDY4NTIsLTEyNTg2NjgzMzgsLT
+I3MTQyNTU0MCwtMTY1MjY3MjY1NywtMTI0NDY4NDgzMCw5NDA3
+MDE3OTgsLTUxMjg0OTcyNiw1MzkyMjk0MTUsMTY0Nzg3OTE5Mi
+wxNTE4MjUwOTcxLC04MDE1MTk1ODAsLTE1MDkxODc4OTksMTcy
+NDgwMjg1MF19
 -->
