@@ -172,7 +172,8 @@ Basically everyone the party can talk to at this point except Ilren, Ahmaz and L
 * Crew members seem to give contradictory statements about events.  The differences may seem minor, but there are differences.
 * If the party inspects the crew quarters and makes a DC 12 Intelligence (Investigate) check they will discover a crew member's journal, which contains the following entry: *"Ilren says it was quick. I don’t remember it being quick. I remember wanting to help Cirit, but my feet wouldn’t move. Why was Ilren so calm?"*
 * Daveras remember the death of of Iksa and Redbud, but he cannot articulate any details of the event.
-* Players who do enough talking to the crew will find complaints of frequent nosebleeds and headaches
+* Players who do enough talking to the crew will find complaints of frequent nosebleeds and headaches.
+* If the players get Ilren and another NPC in a room and discuss an event both remember q DC 12 Wisdom (Per
 
 ##### What?
 This is a little more esoteric.  Ilren is using his ability to obscure his actions, but also to sow chaos.  Because of this almost anything is fair game.  Some scenes that might occur include:
@@ -188,11 +189,11 @@ To reveal the scope of this seed the following clues:
 * Any time anyone is questioned about a memory that has been modified there will be a discussion of who was there.  The cast of people present will vary, but Ilren will always be present.
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTg2NjgzMzgsLTI3MTQyNTU0MCwtMT
-Y1MjY3MjY1NywtMTI0NDY4NDgzMCw5NDA3MDE3OTgsLTUxMjg0
-OTcyNiw1MzkyMjk0MTUsMTY0Nzg3OTE5MiwxNTE4MjUwOTcxLC
-04MDE1MTk1ODAsLTE1MDkxODc4OTksMTcyNDgwMjg1MCwxOTg1
-ODQ2MzQ3LDUzMTg2NzcwOCwxNjM0NTQxNTgzLDcxNTQ3NjAzNC
-wtMTY3Mzc4Nzk0NiwtMTIwNjYwNDY3MywtMTgwNDI2NDM1NSwt
-MTk4MzcwMTY3N119
+eyJoaXN0b3J5IjpbLTM5MTU4ODY3NSwtMTI1ODY2ODMzOCwtMj
+cxNDI1NTQwLC0xNjUyNjcyNjU3LC0xMjQ0Njg0ODMwLDk0MDcw
+MTc5OCwtNTEyODQ5NzI2LDUzOTIyOTQxNSwxNjQ3ODc5MTkyLD
+E1MTgyNTA5NzEsLTgwMTUxOTU4MCwtMTUwOTE4Nzg5OSwxNzI0
+ODAyODUwLDE5ODU4NDYzNDcsNTMxODY3NzA4LDE2MzQ1NDE1OD
+MsNzE1NDc2MDM0LC0xNjczNzg3OTQ2LC0xMjA2NjA0NjczLC0x
+ODA0MjY0MzU1XX0=
 -->
