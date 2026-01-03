@@ -172,8 +172,10 @@ Basically everyone the party can talk to at this point except Ilren, Ahmaz and L
 * Crew members seem to give contradictory statements about events.  The differences may seem minor, but there are differences.
 * If the party inspects the crew quarters and makes a DC 12 Intelligence (Investigate) check they will discover a crew member's journal, which contains the following entry: *"Ilren says it was quick. I don’t remember it being quick. I remember wanting to help Cirit, but my feet wouldn’t move. Why was Ilren so calm?"*
 * Daveras remember the death of of Iksa and Redbud, but he cannot articulate any details of the event.
-* 
-* 
+* Players who do enough talking to the crew will find complaints of frequent nosebleeds and headaches
+
+##### What?
+This is a little more esoteric.  Everything is fair game for a 'what' memory, but if the party begins to unravel 
 
 
 ##### Axis I - Scope
@@ -185,11 +187,11 @@ To reveal the scope of this seed the following clues:
 * Any time anyone is questioned about a memory that has been modified there will be a discussion of who was there.  The cast of people present will vary, but Ilren will always be present.
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MTQyNTU0MCwtMTY1MjY3MjY1NywtMT
-I0NDY4NDgzMCw5NDA3MDE3OTgsLTUxMjg0OTcyNiw1MzkyMjk0
-MTUsMTY0Nzg3OTE5MiwxNTE4MjUwOTcxLC04MDE1MTk1ODAsLT
-E1MDkxODc4OTksMTcyNDgwMjg1MCwxOTg1ODQ2MzQ3LDUzMTg2
-NzcwOCwxNjM0NTQxNTgzLDcxNTQ3NjAzNCwtMTY3Mzc4Nzk0Ni
-wtMTIwNjYwNDY3MywtMTgwNDI2NDM1NSwtMTk4MzcwMTY3Nywt
-OTE0MDQ0Mzc5XX0=
+eyJoaXN0b3J5IjpbLTgyODI2NTg0NiwtMjcxNDI1NTQwLC0xNj
+UyNjcyNjU3LC0xMjQ0Njg0ODMwLDk0MDcwMTc5OCwtNTEyODQ5
+NzI2LDUzOTIyOTQxNSwxNjQ3ODc5MTkyLDE1MTgyNTA5NzEsLT
+gwMTUxOTU4MCwtMTUwOTE4Nzg5OSwxNzI0ODAyODUwLDE5ODU4
+NDYzNDcsNTMxODY3NzA4LDE2MzQ1NDE1ODMsNzE1NDc2MDM0LC
+0xNjczNzg3OTQ2LC0xMjA2NjA0NjczLC0xODA0MjY0MzU1LC0x
+OTgzNzAxNjc3XX0=
 -->
