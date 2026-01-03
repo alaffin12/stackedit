@@ -174,11 +174,11 @@ Basically everyone the party can talk to at this point except Ilren, Ahmaz and L
 * Daveras remember the death of of Iksa and Redbud, but he cannot articulate any details of the event.
 * Players who do enough talking to the crew will find complaints of frequent nosebleeds and headaches.
 * If the players get Ilren and another NPC in a room and discuss an event both remember a DC 12 Wisdom (Insight) check will reveal that while the NPC seems hazy on his memory of the event, Ilren's memory is crystal and certain.
-* 
 
 ##### What?
 This is a little more esoteric.  Ilren is using his ability to obscure his actions, but also to sow chaos.  Because of this almost anything is fair game.  Some scenes that might occur include:
 * While Ilren is absent from the mess a random crew man walks in and punches another random crewman, saying he knows what he did.  When confronted the offender will refuse to say more, simply claiming it's between him and the victim.  The victim will claim ignorance.  Ilren will walk into the mess a little bit after it happens.
+* If the party questions two (non-Ilren) 
 
 
 ##### Axis I - Scope
@@ -190,11 +190,11 @@ To reveal the scope of this seed the following clues:
 * Any time anyone is questioned about a memory that has been modified there will be a discussion of who was there.  The cast of people present will vary, but Ilren will always be present.
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzM5ODY2MTcsLTEyNTg2NjgzMzgsLT
-I3MTQyNTU0MCwtMTY1MjY3MjY1NywtMTI0NDY4NDgzMCw5NDA3
-MDE3OTgsLTUxMjg0OTcyNiw1MzkyMjk0MTUsMTY0Nzg3OTE5Mi
-wxNTE4MjUwOTcxLC04MDE1MTk1ODAsLTE1MDkxODc4OTksMTcy
-NDgwMjg1MCwxOTg1ODQ2MzQ3LDUzMTg2NzcwOCwxNjM0NTQxNT
-gzLDcxNTQ3NjAzNCwtMTY3Mzc4Nzk0NiwtMTIwNjYwNDY3Mywt
-MTgwNDI2NDM1NV19
+eyJoaXN0b3J5IjpbODE5OTQ1NDcxLC0xMjU4NjY4MzM4LC0yNz
+E0MjU1NDAsLTE2NTI2NzI2NTcsLTEyNDQ2ODQ4MzAsOTQwNzAx
+Nzk4LC01MTI4NDk3MjYsNTM5MjI5NDE1LDE2NDc4NzkxOTIsMT
+UxODI1MDk3MSwtODAxNTE5NTgwLC0xNTA5MTg3ODk5LDE3MjQ4
+MDI4NTAsMTk4NTg0NjM0Nyw1MzE4Njc3MDgsMTYzNDU0MTU4My
+w3MTU0NzYwMzQsLTE2NzM3ODc5NDYsLTEyMDY2MDQ2NzMsLTE4
+MDQyNjQzNTVdfQ==
 -->
