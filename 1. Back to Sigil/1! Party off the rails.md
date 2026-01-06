@@ -197,12 +197,15 @@ Cirit is the players trump card, if they can find her.  The problem is the findi
 * If the players check the ships log they will find mention of another deck below the ones they have access to.  If questioned about it any crew member will respond that there is indeed a third deck to the Lambent Zenith, but access has been cut off because of the wreck.  A DC 17 Wisdom (Perception) check will have players notice that the responder (if it is anyone except Ahmaz or Ilren) goes a bit glassy eyed when they talk about it.  
 * If they dig around in the hold (Z7) and make a DC 12 Intelligence (Investigate) check they will find the loose floorboards.
 * If Andromeda takes further long rests Cirit will try and guide her more strongly. 
+
+#### Denoument
+Eventually the party will realize it is Ilren behind it all.  He will reveal himself as a death slaad, activate the tadpole in Mazirak (if applicable) and fight the party (while most of the rest of the crew cowers in fear)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODM2OTI1MTMsMTIzNDY4NzU4MCwxMj
-M0NjIzODQxLDUzMzAyMTUxLC0xODExMTU1MjAwLC0xMTU1MTQ4
-Nzc4LC0yMDk2OTM3NiwtMTY5MjIwNTQxOCwtNzUyMDY4NTIsLT
-EyNTg2NjgzMzgsLTI3MTQyNTU0MCwtMTY1MjY3MjY1NywtMTI0
-NDY4NDgzMCw5NDA3MDE3OTgsLTUxMjg0OTcyNiw1MzkyMjk0MT
-UsMTY0Nzg3OTE5MiwxNTE4MjUwOTcxLC04MDE1MTk1ODAsLTE1
-MDkxODc4OTldfQ==
+eyJoaXN0b3J5IjpbODEyODUzNDg1LC0xNDgzNjkyNTEzLDEyMz
+Q2ODc1ODAsMTIzNDYyMzg0MSw1MzMwMjE1MSwtMTgxMTE1NTIw
+MCwtMTE1NTE0ODc3OCwtMjA5NjkzNzYsLTE2OTIyMDU0MTgsLT
+c1MjA2ODUyLC0xMjU4NjY4MzM4LC0yNzE0MjU1NDAsLTE2NTI2
+NzI2NTcsLTEyNDQ2ODQ4MzAsOTQwNzAxNzk4LC01MTI4NDk3Mj
+YsNTM5MjI5NDE1LDE2NDc4NzkxOTIsMTUxODI1MDk3MSwtODAx
+NTE5NTgwXX0=
 -->
