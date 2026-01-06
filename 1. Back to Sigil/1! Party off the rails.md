@@ -72,6 +72,10 @@ Presumably the party, in need of a long rest, will take Ahmaz's advice. The foll
 #### Event #1: Ilren Acts: Slaad Tadpole
 One player is infected with a special slaad tadpole.  Traditionally a slaad tadpole manifest along with a certain pattern, but this one is special.  Created by 'Ilren' to sow chaos.  Andromeda and Nakos are immune (and Andromeda has her own event during the long rest) and Emilia has her own event, so choose one of the other three (Riric/Mazirak/Oh) to be infected with no save - the tadpole approaches in the darkness, is practically invisible anyway and finds its way into the host's body without any resistance.  
 
+Mazirak will experience the following:
+> You wake up in a coughing fit, like you almost swallowed your tongue.  Or a darkmantle arm.  You're not sure which.  It takes you a moment to catch your breath, but the moment passes and you drift slowly back to sleep.  As you 
+
+
 #### Event #2: Aasimar Dream
 Andromeda has a dream - a very potent, real seeming dream.  The dream goes as follows:
 
@@ -201,11 +205,11 @@ Cirit is the players trump card, if they can find her.  The problem is the findi
 #### Denoument
 Eventually the party will realize it is Ilren behind it all.  He will reveal himself as a death slaad, activate the tadpole in Mazirak (if applicable) and fight the party (while most of the rest of the crew cowers in fear)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEyODUzNDg1LC0xNDgzNjkyNTEzLDEyMz
-Q2ODc1ODAsMTIzNDYyMzg0MSw1MzMwMjE1MSwtMTgxMTE1NTIw
-MCwtMTE1NTE0ODc3OCwtMjA5NjkzNzYsLTE2OTIyMDU0MTgsLT
-c1MjA2ODUyLC0xMjU4NjY4MzM4LC0yNzE0MjU1NDAsLTE2NTI2
-NzI2NTcsLTEyNDQ2ODQ4MzAsOTQwNzAxNzk4LC01MTI4NDk3Mj
-YsNTM5MjI5NDE1LDE2NDc4NzkxOTIsMTUxODI1MDk3MSwtODAx
-NTE5NTgwXX0=
+eyJoaXN0b3J5IjpbLTI3NjEyODg5OSwtMTQ4MzY5MjUxMywxMj
+M0Njg3NTgwLDEyMzQ2MjM4NDEsNTMzMDIxNTEsLTE4MTExNTUy
+MDAsLTExNTUxNDg3NzgsLTIwOTY5Mzc2LC0xNjkyMjA1NDE4LC
+03NTIwNjg1MiwtMTI1ODY2ODMzOCwtMjcxNDI1NTQwLC0xNjUy
+NjcyNjU3LC0xMjQ0Njg0ODMwLDk0MDcwMTc5OCwtNTEyODQ5Nz
+I2LDUzOTIyOTQxNSwxNjQ3ODc5MTkyLDE1MTgyNTA5NzEsLTgw
+MTUxOTU4MF19
 -->
