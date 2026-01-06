@@ -59,7 +59,7 @@ Rather than deal with trying to run a massive combat encounter that would just g
 | 2 | Each PC has to make a DC 15 Dexterity save.  Those who fail are wounded, and will have disadvantage on their next Dexterity or Strength saving throw or check (they cannot cheese this by making an inconsequential check to say, do a cartwheel.  The check must have meaning for the penalty to apply) |
 | 3 | Each PC has to make a DC 15 Constitution save.  Those who fail must lose a hit dice or sacrifice a level one (or higher) spell slot |
 | 4 | Distribute 4d8 damage amongst the party.  It can be reduced by 1d4 for each level of spell slot or psionic dice expended.  I can be reduced 1d8 for each barbarian rage expended (max one per barbarian). | 
-| 5 | A large predator attacks.  Distribute 8d8 damage amongst the party.  It can be reduced by 1d4 for each level of spell slot or psionic dice expended.  I can be reduced 1d8 for each barbarian rage expended (max one per barbarian).  NPC crewmember dies.  Unnamed first, then named in the following order: Iksa & Redbud (if rescued)->Daveras->Lysan->Kycera->Zastra->Ahmaz->Cirit (if free)->Figaro If the party is left with only Ilren alive something has gone horribly wrong.  Play it by ear. |
+| 5 | A large predator attacks.  Distribute 8d8 damage amongst the party.  It can be reduced by 1d4 for each level of spell slot or psionic dice expended.  It can be reduced 1d8 for each barbarian rage expended (max one per barbarian).  An NPC crewmember dies.  Unnamed first, then named in the following order: Iksa & Redbud (if rescued)->Daveras->Lysan->Kycera->Zastra->Ahmaz->Cirit (if free)->Figaro If the party is left with only Ilren alive something has gone horribly wrong.  Play it by ear. |
 | 6 | Roll again.  Roll twice. |
 ---
 
@@ -73,7 +73,7 @@ Presumably the party, in need of a long rest, will take Ahmaz's advice. The foll
 One player is infected with a special slaad tadpole.  Traditionally a slaad tadpole manifest along with a certain pattern, but this one is special.  Created by 'Ilren' to sow chaos.  Andromeda and Nakos are immune (and Andromeda has her own event during the long rest) and Emilia has her own event, so choose one of the other three (Riric/Mazirak/Oh) to be infected with no save - the tadpole approaches in the darkness, is practically invisible anyway and finds its way into the host's body without any resistance.  
 
 Mazirak will experience the following:
-> You wake up in a coughing fit, like you almost swallowed your tongue.  Or a darkmantle arm.  You're not sure which.  It takes you a moment to catch your breath, but the moment passes and you drift slowly back to sleep.  As you 
+> You wake up in a coughing fit, like you almost swallowed your tongue.  Or a darkmantle arm.  You're not sure which.  It takes you a moment to catch your breath, but the moment passes and you drift slowly back to sleep.  As you do you notice two figures return to the galley from somewhere else - the orcish quartermaster Kycera and your new ally Emilia...
 
 
 #### Event #2: Aasimar Dream
@@ -205,11 +205,11 @@ Cirit is the players trump card, if they can find her.  The problem is the findi
 #### Denoument
 Eventually the party will realize it is Ilren behind it all.  He will reveal himself as a death slaad, activate the tadpole in Mazirak (if applicable) and fight the party (while most of the rest of the crew cowers in fear)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NjEyODg5OSwtMTQ4MzY5MjUxMywxMj
-M0Njg3NTgwLDEyMzQ2MjM4NDEsNTMzMDIxNTEsLTE4MTExNTUy
-MDAsLTExNTUxNDg3NzgsLTIwOTY5Mzc2LC0xNjkyMjA1NDE4LC
-03NTIwNjg1MiwtMTI1ODY2ODMzOCwtMjcxNDI1NTQwLC0xNjUy
-NjcyNjU3LC0xMjQ0Njg0ODMwLDk0MDcwMTc5OCwtNTEyODQ5Nz
-I2LDUzOTIyOTQxNSwxNjQ3ODc5MTkyLDE1MTgyNTA5NzEsLTgw
-MTUxOTU4MF19
+eyJoaXN0b3J5IjpbLTE5NTYwMzQ4NDUsLTE0ODM2OTI1MTMsMT
+IzNDY4NzU4MCwxMjM0NjIzODQxLDUzMzAyMTUxLC0xODExMTU1
+MjAwLC0xMTU1MTQ4Nzc4LC0yMDk2OTM3NiwtMTY5MjIwNTQxOC
+wtNzUyMDY4NTIsLTEyNTg2NjgzMzgsLTI3MTQyNTU0MCwtMTY1
+MjY3MjY1NywtMTI0NDY4NDgzMCw5NDA3MDE3OTgsLTUxMjg0OT
+cyNiw1MzkyMjk0MTUsMTY0Nzg3OTE5MiwxNTE4MjUwOTcxLC04
+MDE1MTk1ODBdfQ==
 -->
