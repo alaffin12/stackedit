@@ -9,7 +9,8 @@ Ravenloft exists as a place to trap the worst of the worst within their own stor
 The Rhulisti of Athas tried to wield the Ritual of Remaking to reorder their own world.  They destroyed their own core truth, causing reality to begin to unravel.  The Pristine Tower was created to serve as an artificial core truth, but the price of the artificial truth has been dire. 
 
 ### The Secret of Krynn
-The cataclysm is not about the gods leaving Krynn, or about the people of Krynn rejecting the gods.  
+The cataclysm is not about the gods leaving Krynn, or about the people of Krynn rejecting the gods.  It was about the Doctrine of Balance.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTExODY2OTMsMTE4NjU5NjY1M119
+eyJoaXN0b3J5IjpbMTM4NjIyNjE4MiwtMTIxMTE4NjY5MywxMT
+g2NTk2NjUzXX0=
 -->
