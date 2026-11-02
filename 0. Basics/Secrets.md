@@ -9,8 +9,10 @@ Ravenloft exists as a place to trap the worst of the worst within their own stor
 The Rhulisti of Athas tried to wield the Ritual of Remaking to reorder their own world.  They destroyed their own core truth, causing reality to begin to unravel.  The Pristine Tower was created to serve as an artificial core truth, but the price of the artificial truth has been dire. 
 
 ### The Secret of Krynn
+The Cataclysm was the result of a failed attempt to alter the fundamental nature of Krynn.  The Kingpriest sought to remove all evil from the world, and in his hubris managed to accrue enough power to do so.  But purging evil would have removed from the 
+
 Was not caused by the gods seeking to punish Krynn for crimes against the heavens, nor was it caused by the people of Krynn turning from the gods.  The Kingpriest sought to remove all evil from Krynn, but in doing so he would've removed the freedom of choice, one of the core pillars of Krynn.  The destruction that followed was not the doing of the gods (who themselves were cast back from Krynn by the cataclysm) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTAzMDE0NTQsLTEyMTExODY2OTMsMT
+eyJoaXN0b3J5IjpbLTEzMzYzNTU0MzQsLTEyMTExODY2OTMsMT
 E4NjU5NjY1M119
 -->
