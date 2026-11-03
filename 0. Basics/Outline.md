@@ -33,27 +33,27 @@ Mordenkainen was a prolific writer, and his notes are scattered all across the M
 
 ### Act II - Foundation Secrets
 #### Scene I - Eberron
-##### Level 13
 ###### Murder on the Zilargo Express
 The party journeys to Eberron and finds a professor in Sharn able to assist them.  Unfortunately, on their way to the Mournlands Vecna plays a card, attempting to prevent the party - or anyone - from learning the secret.
 ###### Into the Mournlands
 The party seeks out - and find the Lord of Blades, and the truth of the Day of Mourning.
-#### Scene II - Ravenloft
+##### Level 13
+#### Scene II - Ravenloft (13)
 ##### Level 14
-#### Scene III - Athas
+#### Scene III - Athas (14/15)
 ##### Level 15
-#### Scene IV - Krynn
+#### Scene IV - Krynn (16)
 ##### Level 16
-#### Scene V - Oerth
+#### Scene V - Oerth (17)
 ##### Level 17
-#### Scene VI - Faerun
+#### Scene VI - Faerun (18)
 ##### Level 18
 
 ### Act III - The Final Battles
-#### The Wolf Spider
+#### The Wolf Spider (19)
 ##### Level 19
-#### The Final Confrontation
+#### The Final Confrontation (20)
 ##### Level 20
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NDYxMTE0Ml19
+eyJoaXN0b3J5IjpbNDY2NjUzOTcxLC00NDQ2MTExNDJdfQ==
 -->
