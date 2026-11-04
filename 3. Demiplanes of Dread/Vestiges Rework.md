@@ -9,12 +9,18 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 
 ##### X'yig/Twit-Ur, The Screaming Hive
 *Impression:* You see a shifting, crystalline mass that resembles an impossibly vast, fractured blue bird.  A cacophony of short, stabbing thoughts pierces your mind like a swarm of glass needles.   "I am X'yig..." it howls at you "...I am Twit-Ur"
+*Spell:*
+*Magic Item:*
+*Curse:*
+*Deformation:*
 
-###### Eastern Sarcophagus - Inmathir, the Mirror Widow**
-*Appearance:* A cloaked figure with a veil of glimmering glass shards in place of a face. Behind each shard is a different face — different ages, different genders, different species — all silently screaming. Its hands are graceful and beckoning. Where it should cast a shadow, it reflects light instead.
-*History:* Inmathir was once a muse of transformation, offering mortals visions of their "truest selves" — always beautiful, always powerful. But the forms she offered were lies. Kingdoms destroyed themselves chasing unattainable perfection, carving themselves into mockeries. She never harmed a soul directly — but none were ever the same after looking into her.
-*Impression:*  The character sees themselves, briefly, as something else — glorious, terrifying, unrecognizable. A sudden craving to become that reflection washes over them. “You were never meant to be what you are,” a voice says. “Let me show you what you could have been.”
-*Dark Gift:* Second Skin
+##### Name
+*Impression:* You see a shifting, crystalline mass that resembles an impossibly vast, fractured blue bird.  A cacophony of short, stabbing thoughts pierces your mind like a swarm of glass needles.   "I am X'yig..." it howls at you "...I am Twit-Ur"
+*Spell:*
+*Magic Item:*
+*Curse:*
+*Deformation:*
+
 
 
 The Architects of the Digital Void
@@ -76,6 +82,6 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NDE4MjM1OCwtMzEyMzMzMTQwLC0xMT
-U1NDA3NTM5LC0xNjkyMTM0NzA5XX0=
+eyJoaXN0b3J5IjpbNTgxMTk3NzI2LC0zMTIzMzMxNDAsLTExNT
+U0MDc1MzksLTE2OTIxMzQ3MDldfQ==
 -->
