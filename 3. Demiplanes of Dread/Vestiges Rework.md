@@ -18,7 +18,7 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 *Impression:* You see a monolithic entity of shifting geometry surrounded by interlocking blocks of obsidian and gold.  The entity contains within it a void filled with green fire.  "I am Bit-Kthun..." it whispers "...I am the Ghost in the Ledger"
 *Spell:* Heat Metal
 *Magic Item:*
-*Curse:*
+*Curse:* Any time you spend money roll 1d20.  If the result is even, you pay an amount equal to the original price plu
 *Deformation:*
 
 ##### Name
@@ -89,6 +89,6 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NTMxOTk1NCwtMTc3NTA3NzgyMCwtMz
-EyMzMzMTQwLC0xMTU1NDA3NTM5LC0xNjkyMTM0NzA5XX0=
+eyJoaXN0b3J5IjpbNTc3OTA0NjQ4LC0xNzc1MDc3ODIwLC0zMT
+IzMzMxNDAsLTExNTU0MDc1MzksLTE2OTIxMzQ3MDldfQ==
 -->
