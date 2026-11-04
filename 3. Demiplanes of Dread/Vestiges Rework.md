@@ -15,8 +15,8 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 *Deformation:* Eyes lose their nature color and are replaced by an unstable, flickering patter of electric blue and stark white.  It looks as if their eyes are refreshing rapidly.
 
 ##### Bit-Kthun, the Ghost in the Ledger
-*Impression:* You see a monolithic entity of shifting geometry surrounded by interlocking blocks of obsidian and gold.  The entity contains within it a void filled with green fire.  "I am Bit
-*Spell:*
+*Impression:* You see a monolithic entity of shifting geometry surrounded by interlocking blocks of obsidian and gold.  The entity contains within it a void filled with green fire.  "I am Bit-Kthun..." it whispers "...I am the Ghost in the Ledger"
+*Spell:* 
 *Magic Item:*
 *Curse:*
 *Deformation:*
@@ -89,6 +89,6 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NTI3MjI5OCwtMTc3NTA3NzgyMCwtMz
-EyMzMzMTQwLC0xMTU1NDA3NTM5LC0xNjkyMTM0NzA5XX0=
+eyJoaXN0b3J5IjpbLTgyOTkzMzk5LC0xNzc1MDc3ODIwLC0zMT
+IzMzMxNDAsLTExNTU0MDc1MzksLTE2OTIxMzQ3MDldfQ==
 -->
