@@ -7,26 +7,7 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 (e) Mi-Kro-Soft, Chah-tghp-Teh and Oh'pen-ai, Dis-Nee
 (f) Tehs-Lah, Ohl-Neef-Ans, A'ma-Zon
 
-##### X'yig/Twit-Ur, The Screaming Hive
-*Impression:* You see a shifting, crystalline mass that resembles an impossibly vast, fractured blue bird.  A cacophony of short, stabbing thoughts pierces your mind like a swarm of glass needles.   "I am X'yig..." it howls at you "...I am Twit-Ur, the Screaming Hive"
-*Spell:* Antagonize
-*Magic Item:* 
-*Curse:* Disadvantage on any skill check to determine if someone is telling the truth.  
-*Deformation:* Eyes lose their nature color and are replaced by an unstable, flickering patter of electric blue and stark white.  It looks as if their eyes are refreshing rapidly.
 
-##### Bit-Kthun, the Ghost in the Ledger
-*Impression:* You see a monolithic entity of shifting geometry surrounded by interlocking blocks of obsidian and gold.  The entity contains within it a void filled with green fire.  "I am Bit-Kthun..." it whispers "...I am the Ghost in the Ledger"
-*Spell:* Heat Metal
-*Magic Item:*
-*Curse:* Any time you spend money roll 1d20.  If the result is even, you pay the asking price plus an additional percentage equal to the roll.  If the result is odd, you receive a discount instead.
-*Deformation:* You constantly radiate heat.  Although this heat does not seem to warm you, others around you notice it - and notice the taste of ozone in the air.
-
-##### In-Tel, the Silicon Heart
-*Impression:*  You feel a heavy, clinical hum in your jawbone and the suffocating smell of overheated silicon and chemicals.  You see a colossal, massive building of dark black rising from a seat of green, with silver teeth reaching from the building into the depths.  "I am Intel..." it's voice echoes at a steady, unnatural cadence, like the ticking of a clock "...I am the Silicon Heart".
-*Spell:* Intellect Fortress
-*Magic Item:*
-*Curse:* Magic items that recharge receive one less charge per day.
-*Deformation:* Your skin is perpetually hot to the touch, and your heart now beats with an unnatural regularity.  Your blink in a similar manner - matched to the ticking of a clock.
 
 ##### Name
 *Impression:* 
@@ -96,7 +77,7 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc4NjUzMTE4LC0xOTA5MzUzNDgwLC0xNz
-c1MDc3ODIwLC0zMTIzMzMxNDAsLTExNTU0MDc1MzksLTE2OTIx
-MzQ3MDldfQ==
+eyJoaXN0b3J5IjpbLTIwNDA4MjM1MzYsLTE5MDkzNTM0ODAsLT
+E3NzUwNzc4MjAsLTMxMjMzMzE0MCwtMTE1NTQwNzUzOSwtMTY5
+MjEzNDcwOV19
 -->
