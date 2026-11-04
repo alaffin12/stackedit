@@ -7,6 +7,8 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 (e) Mi-Kro-Soft, Chah-tghp-Teh and Oh'pen-ai, Dis-Nee
 (f) Tehs-Lah, Ohl-Neef-Ans, A'ma-Zon
 
+| Name | Spell | 
+
 
 The Architects of the Digital Void
 
@@ -67,5 +69,5 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4ODE5NTgxMiwtMTY5MjEzNDcwOV19
+eyJoaXN0b3J5IjpbLTU0MDYwNDY5MywtMTY5MjEzNDcwOV19
 -->
