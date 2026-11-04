@@ -7,8 +7,8 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 (e) Mi-Kro-Soft, Chah-tghp-Teh and Oh'pen-ai, Dis-Nee
 (f) Tehs-Lah, Ohl-Neef-Ans, A'ma-Zon
 
-###### X'yig/Twit-Ur
-
+##### X'yig/Twit-Ur
+*Appearance:* 
 
 ###### Eastern Sarcophagus - Inmathir, the Mirror Widow**
 *Appearance:* A cloaked figure with a veil of glimmering glass shards in place of a face. Behind each shard is a different face — different ages, different genders, different species — all silently screaming. Its hands are graceful and beckoning. Where it should cast a shadow, it reflects light instead.
@@ -76,5 +76,6 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MTQ0NjQyMiwtMTY5MjEzNDcwOV19
+eyJoaXN0b3J5IjpbLTExNTU0MDc1MzksLTE2OTIxMzQ3MDldfQ
+==
 -->
