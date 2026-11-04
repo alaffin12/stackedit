@@ -3,9 +3,9 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 (a) 
 (b)
 (c)
-(d) missing one Goo-Ghal Stahr-bux
-(e) Mi-Kro-Soft, Chah-tghp-Teh and Oh'pen-ai, 
-(f)
+(d) Goo-Ghal, Stahr-bux
+(e) Mi-Kro-Soft, Chah-tghp-Teh and Oh'pen-ai, Dis-Nee
+(f) Tehs-Lah,  Ohl-Neef-Ans, A'ma-Zon
 
 
 The Architects of the Digital Void
@@ -67,5 +67,6 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg0MjMyOTQwLC0xNjkyMTM0NzA5XX0=
+eyJoaXN0b3J5IjpbLTEzODM2ODQ4NTAsLTE2OTIxMzQ3MDldfQ
+==
 -->
