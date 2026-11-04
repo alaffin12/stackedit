@@ -14,8 +14,15 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 *Curse:* Disadvantage on any skill check to determine if someone is telling the truth.  
 *Deformation:* Eyes lose their nature color and are replaced by an unstable, flickering patter of electric blue and stark white.  It looks as if their eyes are refreshing rapidly.
 
+##### Bit-Kthun, the Ghost in the Ledger
+*Impression:* 
+*Spell:*
+*Magic Item:*
+*Curse:*
+*Deformation:*
+
 ##### Name
-*Impression:* You see a shifting, crystalline mass that resembles an impossibly vast, fractured blue bird.  A cacophony of short, stabbing thoughts pierces your mind like a swarm of glass needles.   "I am X'yig..." it howls at you "...I am Twit-Ur"
+*Impression:* 
 *Spell:*
 *Magic Item:*
 *Curse:*
@@ -82,6 +89,6 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY4Nzg2MjM5LC0xNzc1MDc3ODIwLC0zMT
-IzMzMxNDAsLTExNTU0MDc1MzksLTE2OTIxMzQ3MDldfQ==
+eyJoaXN0b3J5IjpbMTQzMjYxNDcyMCwtMTc3NTA3NzgyMCwtMz
+EyMzMzMTQwLC0xMTU1NDA3NTM5LC0xNjkyMTM0NzA5XX0=
 -->
