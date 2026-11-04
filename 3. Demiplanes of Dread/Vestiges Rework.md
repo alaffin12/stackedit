@@ -7,8 +7,8 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 (e) Mi-Kro-Soft, Chah-tghp-Teh and Oh'pen-ai, Dis-Nee
 (f) Tehs-Lah, Ohl-Neef-Ans, A'ma-Zon
 
-##### X'yig/Twit-Ur
-*Impression:* You see a shifting, crystalline mass that resembles an impossibly vast, fractured blue bird.  A cacophony of short, stabbing thoughts pierces your mind like a swarm of glass needles.   
+##### X'yig/Twit-Ur, The Screaming Hive
+*Impression:* You see a shifting, crystalline mass that resembles an impossibly vast, fractured blue bird.  A cacophony of short, stabbing thoughts pierces your mind like a swarm of glass needles.   "I am X'yig..." it howls at you "...I am Twit-Ur"
 
 ###### Eastern Sarcophagus - Inmathir, the Mirror Widow**
 *Appearance:* A cloaked figure with a veil of glimmering glass shards in place of a face. Behind each shard is a different face — different ages, different genders, different species — all silently screaming. Its hands are graceful and beckoning. Where it should cast a shadow, it reflects light instead.
@@ -76,6 +76,6 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMjMzMzE0MCwtMTE1NTQwNzUzOSwtMT
-Y5MjEzNDcwOV19
+eyJoaXN0b3J5IjpbLTk4NDE4MjM1OCwtMzEyMzMzMTQwLC0xMT
+U1NDA3NTM5LC0xNjkyMTM0NzA5XX0=
 -->
