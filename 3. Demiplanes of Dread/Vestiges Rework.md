@@ -3,8 +3,8 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 (a) 
 (b)
 (c)
-(d) missing one Goo-Ghal
-(e)
+(d) missing one Goo-Ghal Stahr-bux
+(e) Mi-Kro-Soft, 
 (f)
 
 
@@ -67,5 +67,5 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIwNzcyMjk1LC0xNjkyMTM0NzA5XX0=
+eyJoaXN0b3J5IjpbMzE3MDk0NjE3LC0xNjkyMTM0NzA5XX0=
 -->
