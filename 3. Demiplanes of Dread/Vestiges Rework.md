@@ -25,8 +25,8 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 *Impression:*  You feel a heavy, clinical hum in your jawbone and the suffocating smell of overheated silicon and chemicals.  You see a colossal, massive building of dark black rising from a seat of green, with silver teeth reaching from the building into the depths.  "I am Intel..." it's voice echoes at a steady, unnatural cadence, like the ticking of a clock "...I am the Silicon Heart".
 *Spell:* Intellect Fortress
 *Magic Item:*
-*Curse:* Magic items that recharge receive one less cha
-*Deformation:*
+*Curse:* Magic items that recharge receive one less charge per day.
+*Deformation:* Your skin is perpetually hot to the touch, and your heart now beats with an unnatural regularity.  Your blink in a similar manner - matched to the ticking of a clock.
 
 ##### Name
 *Impression:* 
@@ -96,7 +96,7 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NjY5MzUzMSwtMTkwOTM1MzQ4MCwtMT
-c3NTA3NzgyMCwtMzEyMzMzMTQwLC0xMTU1NDA3NTM5LC0xNjky
-MTM0NzA5XX0=
+eyJoaXN0b3J5IjpbOTc4NjUzMTE4LC0xOTA5MzUzNDgwLC0xNz
+c1MDc3ODIwLC0zMTIzMzMxNDAsLTExNTU0MDc1MzksLTE2OTIx
+MzQ3MDldfQ==
 -->
