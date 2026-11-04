@@ -12,7 +12,7 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 *Spell:* Antagonize
 *Magic Item:* 
 *Curse:* Disadvantage on any skill check to determine if someone is telling the truth.  
-*Deformation:*
+*Deformation:* Eyes lose their nature color and are replaced by an unstable, flickering patter of electric blue and stark white.  It looks as if their eyes are refreshing rapidly.
 
 ##### Name
 *Impression:* You see a shifting, crystalline mass that resembles an impossibly vast, fractured blue bird.  A cacophony of short, stabbing thoughts pierces your mind like a swarm of glass needles.   "I am X'yig..." it howls at you "...I am Twit-Ur"
@@ -82,6 +82,6 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzUwNzc4MjAsLTMxMjMzMzE0MCwtMT
-E1NTQwNzUzOSwtMTY5MjEzNDcwOV19
+eyJoaXN0b3J5IjpbNTY4Nzg2MjM5LC0xNzc1MDc3ODIwLC0zMT
+IzMzMxNDAsLTExNTU0MDc1MzksLTE2OTIxMzQ3MDldfQ==
 -->
