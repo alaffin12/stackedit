@@ -1,4 +1,4 @@
-Vestiges are thinly veiled modern references.  They each impart access to a single 3rd level spell (limited once per day, Save = 12+1/2 level, Attack ) and the powers of one uncommon magic item.  They also inflict one "curse" and one mild physical change to any who accept them.
+Vestiges are thinly veiled modern references.  They each impart access to a single 3rd level spell (limited once per day, Save = 12+1/2 level, Attack bonus = 4+1/2 level) and the powers of one uncommon magic item.  They also inflict one "curse" and one mild physical change to any who accept them.
 
 (a) X-Yig (pronounced Twit-Ur), Bit-Kthun, In-Tel
 (b) Zhohm, Met-Ah, Whall-M'rth
@@ -82,6 +82,6 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MDc0NTQ1OCwtMzEyMzMzMTQwLC0xMT
-U1NDA3NTM5LC0xNjkyMTM0NzA5XX0=
+eyJoaXN0b3J5IjpbLTE4MTk5NTQyMDMsLTMxMjMzMzE0MCwtMT
+E1NTQwNzUzOSwtMTY5MjEzNDcwOV19
 -->
