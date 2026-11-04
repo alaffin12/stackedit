@@ -11,7 +11,7 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 *Impression:* You see a shifting, crystalline mass that resembles an impossibly vast, fractured blue bird.  A cacophony of short, stabbing thoughts pierces your mind like a swarm of glass needles.   "I am X'yig..." it howls at you "...I am Twit-Ur"
 *Spell:* Antagonize
 *Magic Item:* 
-*Curse:* 
+*Curse:* Disadvantage on any skill check to determine if someone is telling the truth.  
 *Deformation:*
 
 ##### Name
@@ -82,6 +82,6 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk1MzE1OTMsLTMxMjMzMzE0MCwtMTE1NT
-QwNzUzOSwtMTY5MjEzNDcwOV19
+eyJoaXN0b3J5IjpbLTE3NzUwNzc4MjAsLTMxMjMzMzE0MCwtMT
+E1NTQwNzUzOSwtMTY5MjEzNDcwOV19
 -->
