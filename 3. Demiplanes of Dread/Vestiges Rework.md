@@ -9,8 +9,8 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 
 ##### X'yig/Twit-Ur, The Screaming Hive
 *Impression:* You see a shifting, crystalline mass that resembles an impossibly vast, fractured blue bird.  A cacophony of short, stabbing thoughts pierces your mind like a swarm of glass needles.   "I am X'yig..." it howls at you "...I am Twit-Ur"
-*Spell:*
-*Magic Item:*
+*Spell:* Antagonize
+*Magic Item:* 
 *Curse:*
 *Deformation:*
 
@@ -82,6 +82,6 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgxMTk3NzI2LC0zMTIzMzMxNDAsLTExNT
-U0MDc1MzksLTE2OTIxMzQ3MDldfQ==
+eyJoaXN0b3J5IjpbLTE1NDEwODg0MzgsLTMxMjMzMzE0MCwtMT
+E1NTQwNzUzOSwtMTY5MjEzNDcwOV19
 -->
