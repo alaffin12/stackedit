@@ -2,7 +2,7 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 
 (a) X-Yig (pronounced Twit-Ur), Bit-Kthun, In-Tel
 (b) Zhohm, Met-Ah, Whall-M'rth
-(c) Ah-Puhl, Tin-Dhur, Tik-Toth
+(c) Neht-Flix, Tin-Dhur, Tik-Toth
 (d) Goo-Ghal, Stahr-bux
 (e) Mi-Kro-Soft, Chah-tghp-Teh and Oh'pen-ai, Dis-Nee
 (f) Tehs-Lah, Ohl-Neef-Ans, A'ma-Zon
@@ -19,7 +19,7 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 *Spell:* Heat Metal
 *Magic Item:*
 *Curse:* Any time you spend money roll 1d20.  If the result is even, you pay the asking price plus an additional percentage equal to the roll.  If the result is odd, you receive a discount instead.
-*Deformation:* You constantly radiate heat.  Although this heat does not seem to warm you,
+*Deformation:* You constantly radiate heat.  Although this heat does not seem to warm you, others around you notice it - and notice the taste of ozone in the air.
 
 ##### Name
 *Impression:* 
@@ -89,6 +89,6 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTkzMTQwMjMsLTE3NzUwNzc4MjAsLT
-MxMjMzMzE0MCwtMTE1NTQwNzUzOSwtMTY5MjEzNDcwOV19
+eyJoaXN0b3J5IjpbLTEyNjU2MjQ4NywtMTc3NTA3NzgyMCwtMz
+EyMzMzMTQwLC0xMTU1NDA3NTM5LC0xNjkyMTM0NzA5XX0=
 -->
