@@ -8,7 +8,7 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 (f) Tehs-Lah, Ohl-Neef-Ans, A'ma-Zon
 
 ##### X'yig/Twit-Ur, The Screaming Hive
-*Impression:* You see a shifting, crystalline mass that resembles an impossibly vast, fractured blue bird.  A cacophony of short, stabbing thoughts pierces your mind like a swarm of glass needles.   "I am X'yig..." it howls at you "...I am Twit-Ur"
+*Impression:* You see a shifting, crystalline mass that resembles an impossibly vast, fractured blue bird.  A cacophony of short, stabbing thoughts pierces your mind like a swarm of glass needles.   "I am X'yig..." it howls at you "...I am Twit-Ur, the Screaming Hive"
 *Spell:* Antagonize
 *Magic Item:* 
 *Curse:* Disadvantage on any skill check to determine if someone is telling the truth.  
@@ -22,7 +22,7 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 *Deformation:* You constantly radiate heat.  Although this heat does not seem to warm you, others around you notice it - and notice the taste of ozone in the air.
 
 ##### In-Tel, the Silicon Heart
-*Impression:*  You feel a heavy, clinical hum in your jawbone and the suffocating smell of overheated silicon and chemicals.  You see a colossal, massive building of dark black rising from a seat of green, with silver teeth reaching from the building into the depths.  "It am
+*Impression:*  You feel a heavy, clinical hum in your jawbone and the suffocating smell of overheated silicon and chemicals.  You see a colossal, massive building of dark black rising from a seat of green, with silver teeth reaching from the building into the depths.  "I am Intel..." it's voice echoes at a steady, unnatural cadence, like the ticking of a clock "...I am the Silicon Heart".
 *Spell:*
 *Magic Item:*
 *Curse:*
@@ -96,6 +96,6 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0ODY3NjI5NSwtMTc3NTA3NzgyMCwtMz
-EyMzMzMTQwLC0xMTU1NDA3NTM5LC0xNjkyMTM0NzA5XX0=
+eyJoaXN0b3J5IjpbLTE5MDkzNTM0ODAsLTE3NzUwNzc4MjAsLT
+MxMjMzMzE0MCwtMTE1NTQwNzUzOSwtMTY5MjEzNDcwOV19
 -->
