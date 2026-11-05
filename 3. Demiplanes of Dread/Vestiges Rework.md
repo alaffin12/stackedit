@@ -22,8 +22,8 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 *Deformation:* Your hand curls and forms into a permanent thumbs up.  You can force it to take a different shape, hold your weapons etc.  But when you are at rest it returns.
 
 
-##### Whall-M'rth
-*Impression:* A wave of stale air scented with unpleasant chemicals washes over you as a massive, flat topped blue titan sprawling across the horizon comes into view.  It has a mouth shaped like a massive door (or a door-shaped like a mouth), into which you see hollow-eyed phantoms entering
+##### Whall-M'rth, the Great Leviathan
+*Impression:* A wave of stale air scented with unpleasant chemicals washes over you as a massive, flat topped blue titan sprawling across the horizon comes into view.  It has a mouth shaped like a massive door (or a door-shaped like a mouth), into which you see hollow-eyed phantoms entering, but never leaving.  It grows a face - a yellow think with blank eyes and a perpetual smile.  The face looks at you.  "Welcome to Whall-M'rth, the Great Leviathan."
 *Spell:*
 *Magic Item:*
 *Curse:*
@@ -97,7 +97,7 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNTExODk2MCwtMTExODc5MDIxMCwtMj
+eyJoaXN0b3J5IjpbLTc0OTkwMzUxMiwtMTExODc5MDIxMCwtMj
 A0MDgyMzUzNiwtMTkwOTM1MzQ4MCwtMTc3NTA3NzgyMCwtMzEy
 MzMzMTQwLC0xMTU1NDA3NTM5LC0xNjkyMTM0NzA5XX0=
 -->
