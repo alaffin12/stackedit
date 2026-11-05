@@ -1,7 +1,6 @@
 Vestiges are thinly veiled modern references.  They each impart access to a single 3rd level spell (limited once per day, Save = 12+1/2 level, Attack bonus = 4+1/2 level) and the powers of one uncommon magic item.  They also inflict one "curse" and one mild physical change to any who accept them.
 
-(a) X-Yig (pronounced Twit-Ur), Bit-Kthun, In-Tel
-(b) Zhohm, Met-Ah, Whall-M'rth
+((b) Zhohm, Met-Ah, Whall-M'rth
 (c) Neht-Flix, Tin-Dhur, Tik-Toth
 (d) Goo-Ghal, Stahr-bux
 (e) Mi-Kro-Soft, Chah-tghp-Teh and Oh'pen-ai, Dis-Nee
@@ -16,12 +15,19 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 
 
 ##### Met-Ah, the Weaver of False Realities
-*Impression:* A sickening lurch of vertigo hits you as the physical world dissolve.  You see a vast, arachnid monstrosity woven from the very web it sits on, composed of glowing blue and purple fibers.  Dangling from the web are millions of pale, featureless mannequins, each twitching as the spider-being plucks the strings.  
+*Impression:* A sickening lurch of vertigo hits you as the physical world dissolve.  You see a vast, arachnid monstrosity woven from the very web it sits on, composed of glowing blue and purple fibers.  Dangling from the web are millions of pale, featureless mannequins, each twitching as the spider-being plucks the strings.  The vibrations form something resembling a voice, and you hear the words "I am Met-Ah, the Weaver of False Realities"
 *Spell:*
 *Magic Item:*
-*Curse:* 
+*Curse:* Disadvantage on any skill check to determine if someone is telling the truth.  
 *Deformation:* Your hand curls and forms into a permanent thumbs up.  You can force it to take a different shape, hold your weapons etc.  But when you are at rest it returns.
 
+
+##### Name
+*Impression:* 
+*Spell:*
+*Magic Item:*
+*Curse:*
+*Deformation:*
 
 ##### Name
 *Impression:* 
@@ -91,7 +97,7 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ3NTg3ODQsLTExMTg3OTAyMTAsLTIwND
-A4MjM1MzYsLTE5MDkzNTM0ODAsLTE3NzUwNzc4MjAsLTMxMjMz
-MzE0MCwtMTE1NTQwNzUzOSwtMTY5MjEzNDcwOV19
+eyJoaXN0b3J5IjpbLTEwODUxOTk0NzAsLTExMTg3OTAyMTAsLT
+IwNDA4MjM1MzYsLTE5MDkzNTM0ODAsLTE3NzUwNzc4MjAsLTMx
+MjMzMzE0MCwtMTE1NTQwNzUzOSwtMTY5MjEzNDcwOV19
 -->
