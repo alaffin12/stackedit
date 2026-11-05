@@ -12,7 +12,7 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 *Deformation:* You voice loses its natural, warm resonance and gains a dusty, dry quality.  Whenever you speak quietly the sound is accompanied by a static hiss. 
 
 ##### Tin-Dhur, the Flesh Matcher
-*Impression:* 
+*Impression:* A sudden, intense spike of heat flares in your chest, accompanied by the dry repeating sound of a thousand calloused thumbs against raw leather.  You see a towering, multi-limbe
 *Spell:*
 *Magic Item:*
 *Curse:*
@@ -94,8 +94,8 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MDIzMzczMiw1Mjg0MTg0NTEsLTExMT
-g3OTAyMTAsLTIwNDA4MjM1MzYsLTE5MDkzNTM0ODAsLTE3NzUw
-Nzc4MjAsLTMxMjMzMzE0MCwtMTE1NTQwNzUzOSwtMTY5MjEzND
-cwOV19
+eyJoaXN0b3J5IjpbLTgwODY5ODM4MCwxMjcwMjMzNzMyLDUyOD
+QxODQ1MSwtMTExODc5MDIxMCwtMjA0MDgyMzUzNiwtMTkwOTM1
+MzQ4MCwtMTc3NTA3NzgyMCwtMzEyMzMzMTQwLC0xMTU1NDA3NT
+M5LC0xNjkyMTM0NzA5XX0=
 -->
