@@ -5,19 +5,25 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 (f) Tehs-Lah, Ohl-Neef-Ans, A'ma-Zon
 
 ##### Neht-Flix, the Somnambulist
+*Impression:* A deep, structural boom - like a heavy, iron door closing - w
+*Spell:*
+*Magic Item:*
+*Curse:*
+*Deformation:*
+
+##### Tin-Dhur, the Flesh Matcher
 *Impression:* 
 *Spell:*
 *Magic Item:*
 *Curse:*
 *Deformation:*
 
-##### Name
+##### Tik-Toth, The Chronovore
 *Impression:* 
 *Spell:*
 *Magic Item:*
 *Curse:*
 *Deformation:*
-
 
 
 ##### Name
@@ -88,7 +94,7 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NTc5MjQyOSw1Mjg0MTg0NTEsLTExMT
+eyJoaXN0b3J5IjpbMTg2MzgxNDY0OCw1Mjg0MTg0NTEsLTExMT
 g3OTAyMTAsLTIwNDA4MjM1MzYsLTE5MDkzNTM0ODAsLTE3NzUw
 Nzc4MjAsLTMxMjMzMzE0MCwtMTE1NTQwNzUzOSwtMTY5MjEzND
 cwOV19
