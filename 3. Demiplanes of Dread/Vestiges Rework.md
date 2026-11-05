@@ -22,8 +22,8 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 *Deformation:* Your hand curls and forms into a permanent thumbs up.  You can force it to take a different shape, hold your weapons etc.  But when you are at rest it returns.
 
 
-##### Name
-*Impression:* 
+##### Whall-M'rth
+*Impression:* A wave of stale air scented with unpleasant chemicals washes over you
 *Spell:*
 *Magic Item:*
 *Curse:*
@@ -97,7 +97,7 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODUxOTk0NzAsLTExMTg3OTAyMTAsLT
-IwNDA4MjM1MzYsLTE5MDkzNTM0ODAsLTE3NzUwNzc4MjAsLTMx
-MjMzMzE0MCwtMTE1NTQwNzUzOSwtMTY5MjEzNDcwOV19
+eyJoaXN0b3J5IjpbMTE0NTU5NDM0NCwtMTExODc5MDIxMCwtMj
+A0MDgyMzUzNiwtMTkwOTM1MzQ4MCwtMTc3NTA3NzgyMCwtMzEy
+MzMzMTQwLC0xMTU1NDA3NTM5LC0xNjkyMTM0NzA5XX0=
 -->
