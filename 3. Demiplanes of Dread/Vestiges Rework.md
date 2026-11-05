@@ -7,6 +7,12 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 (e) Mi-Kro-Soft, Chah-tghp-Teh and Oh'pen-ai, Dis-Nee
 (f) Tehs-Lah, Ohl-Neef-Ans, A'ma-Zon
 
+##### In-Stah, the Flayer of Self
+*Impression:* A wave of self-loathing washes over you as a massive kal
+*Spell:*
+*Magic Item:*
+*Curse:*
+*Deformation:*
 
 
 ##### Name
@@ -77,7 +83,7 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDA4MjM1MzYsLTE5MDkzNTM0ODAsLT
-E3NzUwNzc4MjAsLTMxMjMzMzE0MCwtMTE1NTQwNzUzOSwtMTY5
-MjEzNDcwOV19
+eyJoaXN0b3J5IjpbLTYzNjQ5NTQ4MiwtMjA0MDgyMzUzNiwtMT
+kwOTM1MzQ4MCwtMTc3NTA3NzgyMCwtMzEyMzMzMTQwLC0xMTU1
+NDA3NTM5LC0xNjkyMTM0NzA5XX0=
 -->
