@@ -12,7 +12,7 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 *Spell:* Disguise Self
 *Magic Item:*
 *Curse:* You become obsessed with your looks.
-*Deformation:*
+*Deformation:* Your skin becomes flawless, like porcelain or marble.  From a distance you are stunning.  Up close you are unsettling and unnatural, like a painted doll or a heavily filtered image
 
 
 ##### Name
@@ -83,7 +83,7 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNjkxODg4MCwtMjA0MDgyMzUzNiwtMT
-kwOTM1MzQ4MCwtMTc3NTA3NzgyMCwtMzEyMzMzMTQwLC0xMTU1
-NDA3NTM5LC0xNjkyMTM0NzA5XX0=
+eyJoaXN0b3J5IjpbLTExMTg3OTAyMTAsLTIwNDA4MjM1MzYsLT
+E5MDkzNTM0ODAsLTE3NzUwNzc4MjAsLTMxMjMzMzE0MCwtMTE1
+NTQwNzUzOSwtMTY5MjEzNDcwOV19
 -->
