@@ -10,7 +10,7 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 *Impression:* You have a sudden, terrible sensation of nakedness.  No.  Not nakedness.  You are more than naked.  You are stripped bare as you are drawn into a shifting storm of the four primary colors.  At the heart of the storm you see a shifting sphere, composed of billions of crystalline, overlapping eyes that seem to see everything.  "I am Ghoo-Ghal..." the storm howls "...the All-Seeing"
 *Spell:* Clairvoyance 
 *Magic Item:*
-*Curse:*
+*Curse:* You have advantage on checks to discern the truth.  You have disadvantage on checks to hide the truth.
 *Deformation:*
 
 ##### Stahr-Bux, the Siren of the Black Sludge
@@ -89,8 +89,8 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5ODEwMjg2LDUyODQxODQ1MSwtMTExOD
-c5MDIxMCwtMjA0MDgyMzUzNiwtMTkwOTM1MzQ4MCwtMTc3NTA3
-NzgyMCwtMzEyMzMzMTQwLC0xMTU1NDA3NTM5LC0xNjkyMTM0Nz
-A5XX0=
+eyJoaXN0b3J5IjpbLTE2Nzc2NTE4NCw1Mjg0MTg0NTEsLTExMT
+g3OTAyMTAsLTIwNDA4MjM1MzYsLTE5MDkzNTM0ODAsLTE3NzUw
+Nzc4MjAsLTMxMjMzMzE0MCwtMTE1NTQwNzUzOSwtMTY5MjEzND
+cwOV19
 -->
