@@ -15,8 +15,8 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 *Deformation:* Your skin becomes flawless, like porcelain or marble.  From a distance you are stunning.  Up close you are unsettling and unnatural, like a painted doll or a heavily filtered image
 
 
-##### Name
-*Impression:* 
+##### Met-Ah, the Weaver of False Realities
+*Impression:* A sickening lurch of vertigo hits you as the physical world dissolve.  You see a vast, arachnid monstrosity wove entirely from glowing blue and purple fib
 *Spell:*
 *Magic Item:*
 *Curse:*
@@ -91,7 +91,7 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ0NTIxMjU1LC0xMTE4NzkwMjEwLC0yMD
-QwODIzNTM2LC0xOTA5MzUzNDgwLC0xNzc1MDc3ODIwLC0zMTIz
-MzMxNDAsLTExNTU0MDc1MzksLTE2OTIxMzQ3MDldfQ==
+eyJoaXN0b3J5IjpbLTE4NDI2NDE1MjIsLTExMTg3OTAyMTAsLT
+IwNDA4MjM1MzYsLTE5MDkzNTM0ODAsLTE3NzUwNzc4MjAsLTMx
+MjMzMzE0MCwtMTE1NTQwNzUzOSwtMTY5MjEzNDcwOV19
 -->
