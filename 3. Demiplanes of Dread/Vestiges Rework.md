@@ -8,10 +8,10 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 (f) Tehs-Lah, Ohl-Neef-Ans, A'ma-Zon
 
 ##### In-Stah, the Flayer of Self
-*Impression:* A wave of self-loathing washes over you as a massive kaleidoscopic tower of mirrors rises before you.  Each mirror reflect beauty, seemingly pure and flawless.  The tower rises as you look upon it, reaching an apex where the mirrors are crushed, revealing rusty hooks, razor sharp wire and discarded skins.  The grinding noise forms a voice - "I a  :
-*Spell:*
+*Impression:* A wave of self-loathing washes over you as a massive kaleidoscopic tower of mirrors rises before you.  Each mirror reflect beauty, seemingly pure and flawless.  The tower rises as you look upon it, reaching an apex where the mirrors are crushed, revealing rusty hooks, razor sharp wire and discarded skins.  The grinding noise forms a voice - "I am In-Stah, the Flayer of Self"  :
+*Spell:* Disguise Self
 *Magic Item:*
-*Curse:*
+*Curse:* You become obsessed with your looks.
 *Deformation:*
 
 
@@ -83,7 +83,7 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEyNjg1NzY0LC0yMDQwODIzNTM2LC0xOT
-A5MzUzNDgwLC0xNzc1MDc3ODIwLC0zMTIzMzMxNDAsLTExNTU0
-MDc1MzksLTE2OTIxMzQ3MDldfQ==
+eyJoaXN0b3J5IjpbMjEwNjkxODg4MCwtMjA0MDgyMzUzNiwtMT
+kwOTM1MzQ4MCwtMTc3NTA3NzgyMCwtMzEyMzMzMTQwLC0xMTU1
+NDA3NTM5LC0xNjkyMTM0NzA5XX0=
 -->
