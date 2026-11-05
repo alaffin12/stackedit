@@ -15,8 +15,8 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 *Impression:* A sudden, intense spike of heat flares in your chest, accompanied by the dry repeating sound of a thousand calloused thumbs against raw leather.  You see a towering, multi-limbed colossus of rose-gold metal and raw, living muscle.  It sits in the middle of a river, in which countless humanoid bodies float towards it.  Its infinite hands sort the bodies, left and right.  Those sent to the left are consigned to oblivion, falling over a waterfall and into the endless void.  Those sent to the right seem to be consumed by the colossus, adding to its mass.  "I am Tin-Dhur..." the bodies floating in the river intone as one "...the Flesh Matcher"
 *Spell:* Aura of Vitality
 *Magic Item:*
-*Curse:* Whenever you interact with a person roll 1d4.  On an even result your social checks with them are "normal".  On an odd result all socia
-*Deformation:*
+*Curse:* Whenever you interact with a person roll 1d4.  On an even result your social checks with them are "normal".  On an odd result all social interactions (at this time) are at a disadvantage.
+*Deformation:* Your shadow it split in two down the middle.  The one on the left is slouched and seems exhausted.  The one on the right strikes an overly-exaggerated 
 
 ##### Tik-Toth, The Chronovore
 *Impression:* 
@@ -94,7 +94,7 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNzE4MTY0MiwxMjcwMjMzNzMyLDUyOD
+eyJoaXN0b3J5IjpbLTQxNTMxNzEyNiwxMjcwMjMzNzMyLDUyOD
 QxODQ1MSwtMTExODc5MDIxMCwtMjA0MDgyMzUzNiwtMTkwOTM1
 MzQ4MCwtMTc3NTA3NzgyMCwtMzEyMzMzMTQwLC0xMTU1NDA3NT
 M5LC0xNjkyMTM0NzA5XX0=
