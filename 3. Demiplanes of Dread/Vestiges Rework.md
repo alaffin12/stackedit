@@ -25,8 +25,8 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 *Impression:* A wave of stale air scented with unpleasant chemicals washes over you as a massive, flat topped blue titan sprawling across the horizon comes into view.  It has a mouth shaped like a massive door (or a door-shaped like a mouth), into which you see hollow-eyed phantoms entering, but never leaving.  It grows a face - a yellow thing with blank eyes and a perpetual smile.  The face looks at you.  "Welcome to Whall-M'rth, the Great Leviathan."
 *Spell:* Create Food and Water
 *Magic Item:*
-*Curse:* Whenever you go shopping, roll a d20.  On an odd number you receive a discount equal to the result of that role as a percentage.  On an even 
-*Deformation:*
+*Curse:* Whenever you go shopping, roll a d20.  On an odd number you receive a discount equal to the result of that role as a percentage.  On an even number, one item at random (non-magical items only) is broken.
+*Deformation:* You receive a permanent
 
 ##### Name
 *Impression:* 
@@ -96,8 +96,8 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTIwMTM2NTQsNTI4NDE4NDUxLC0xMT
-E4NzkwMjEwLC0yMDQwODIzNTM2LC0xOTA5MzUzNDgwLC0xNzc1
-MDc3ODIwLC0zMTIzMzMxNDAsLTExNTU0MDc1MzksLTE2OTIxMz
-Q3MDldfQ==
+eyJoaXN0b3J5IjpbMTQxOTEyMTA5OSw1Mjg0MTg0NTEsLTExMT
+g3OTAyMTAsLTIwNDA4MjM1MzYsLTE5MDkzNTM0ODAsLTE3NzUw
+Nzc4MjAsLTMxMjMzMzE0MCwtMTE1NTQwNzUzOSwtMTY5MjEzND
+cwOV19
 -->
