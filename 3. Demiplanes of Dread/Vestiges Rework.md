@@ -16,7 +16,7 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 *Spell:* Aura of Vitality
 *Magic Item:*
 *Curse:* Whenever you interact with a person roll 1d4.  On an even result your social checks with them are "normal".  On an odd result all social interactions (at this time) are at a disadvantage.
-*Deformation:* Your shadow it split in two down the middle.  The one on the left is slouched and seems exhausted.  The one on the right strikes an overly-exaggerated 
+*Deformation:* Your shadow it split in two down the middle.  The one on the left is slouched and seems exhausted.  The one on the right strikes an overly-exaggerated, hyper-alluring pose.
 
 ##### Tik-Toth, The Chronovore
 *Impression:* 
@@ -94,8 +94,8 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNTMxNzEyNiwxMjcwMjMzNzMyLDUyOD
-QxODQ1MSwtMTExODc5MDIxMCwtMjA0MDgyMzUzNiwtMTkwOTM1
-MzQ4MCwtMTc3NTA3NzgyMCwtMzEyMzMzMTQwLC0xMTU1NDA3NT
-M5LC0xNjkyMTM0NzA5XX0=
+eyJoaXN0b3J5IjpbMzM1ODQyNzcwLDEyNzAyMzM3MzIsNTI4ND
+E4NDUxLC0xMTE4NzkwMjEwLC0yMDQwODIzNTM2LC0xOTA5MzUz
+NDgwLC0xNzc1MDc3ODIwLC0zMTIzMzMxNDAsLTExNTU0MDc1Mz
+ksLTE2OTIxMzQ3MDldfQ==
 -->
