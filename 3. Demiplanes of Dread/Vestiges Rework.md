@@ -11,7 +11,7 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 *Impression:* A wave of self-loathing washes over you as a massive kaleidoscopic tower of mirrors rises before you.  Each mirror reflect beauty, seemingly pure and flawless.  The tower rises as you look upon it, reaching an apex where the mirrors are crushed, revealing rusty hooks, razor sharp wire and discarded skins.  The grinding noise forms a voice - "I am In-Stah, the Flayer of Self"  :
 *Spell:* Disguise Self
 *Magic Item:*
-*Curse:* You become obsessed with your looks.
+*Curse:* You become obsessed with your looks.  You have disadvantage on social checks with 
 *Deformation:* Your skin becomes flawless, like porcelain or marble.  From a distance you are stunning.  Up close you are unsettling and unnatural, like a painted doll or a heavily filtered image
 
 
@@ -19,8 +19,8 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 *Impression:* A sickening lurch of vertigo hits you as the physical world dissolve.  You see a vast, arachnid monstrosity woven from the very web it sits on, composed of glowing blue and purple fibers.  Dangling from the web are millions of pale, featureless mannequins, each twitching as the spider-being plucks the strings.  
 *Spell:*
 *Magic Item:*
-*Curse:*
-*Deformation:* Your hand curls and forms into a permanent thumb
+*Curse:* 
+*Deformation:* Your hand curls and forms into a permanent thumbs up.  You can force it to take a different shape, hold your weapons etc.  But when you are at rest it returns.
 
 
 ##### Name
@@ -91,7 +91,7 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyODE4ODkwNSwtMTExODc5MDIxMCwtMj
+eyJoaXN0b3J5IjpbLTYyMTg2MTg2MiwtMTExODc5MDIxMCwtMj
 A0MDgyMzUzNiwtMTkwOTM1MzQ4MCwtMTc3NTA3NzgyMCwtMzEy
 MzMzMTQwLC0xMTU1NDA3NTM5LC0xNjkyMTM0NzA5XX0=
 -->
