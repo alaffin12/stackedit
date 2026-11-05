@@ -26,7 +26,7 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 *Spell:* Create Food and Water
 *Magic Item:*
 *Curse:* Whenever you go shopping, roll a d20.  On an odd number you receive a discount equal to the result of that role as a percentage.  On an even number, one item at random (non-magical items only) is broken.
-*Deformation:* You receive a permanent
+*Deformation:* You receive a permanent barcode tattoo on your left and right hands.
 
 ##### Name
 *Impression:* 
@@ -96,8 +96,8 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxOTEyMTA5OSw1Mjg0MTg0NTEsLTExMT
-g3OTAyMTAsLTIwNDA4MjM1MzYsLTE5MDkzNTM0ODAsLTE3NzUw
-Nzc4MjAsLTMxMjMzMzE0MCwtMTE1NTQwNzUzOSwtMTY5MjEzND
-cwOV19
+eyJoaXN0b3J5IjpbMjY4NDk1NjY4LDUyODQxODQ1MSwtMTExOD
+c5MDIxMCwtMjA0MDgyMzUzNiwtMTkwOTM1MzQ4MCwtMTc3NTA3
+NzgyMCwtMzEyMzMzMTQwLC0xMTU1NDA3NTM5LC0xNjkyMTM0Nz
+A5XX0=
 -->
