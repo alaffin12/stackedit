@@ -14,7 +14,7 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 *Deformation:* When you (or anyone) look at your reflect you no longer see yourself.  Instead you see a wireframe schematic of yourself, with personal - sometimes even deeply intimate text moving the the reflection (information such as your current healthy, your greatest fear, or the name of the last person you killed)
 
 ##### Stahr-Bux, the Siren of the Black Sludge
-*Impression:* 
+*Impression:* A suffocatingly sweet, burnt aroma fills your lungs as you find yourself standing on the precipice of a lake of charred earth and boiling tar.  
 *Spell:*
 *Magic Item:*
 *Curse:*
@@ -89,8 +89,8 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNDA1MjE0MCw1Mjg0MTg0NTEsLTExMT
-g3OTAyMTAsLTIwNDA4MjM1MzYsLTE5MDkzNTM0ODAsLTE3NzUw
-Nzc4MjAsLTMxMjMzMzE0MCwtMTE1NTQwNzUzOSwtMTY5MjEzND
-cwOV19
+eyJoaXN0b3J5IjpbLTE2MzM5NzEzOTgsNTI4NDE4NDUxLC0xMT
+E4NzkwMjEwLC0yMDQwODIzNTM2LC0xOTA5MzUzNDgwLC0xNzc1
+MDc3ODIwLC0zMTIzMzMxNDAsLTExNTU0MDc1MzksLTE2OTIxMz
+Q3MDldfQ==
 -->
