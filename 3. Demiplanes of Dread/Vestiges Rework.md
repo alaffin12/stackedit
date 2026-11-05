@@ -4,19 +4,20 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 (e) Mi-Kro-Soft, Chah-tghp-Teh and Oh'pen-ai, Dis-Nee
 (f) Tehs-Lah, Ohl-Neef-Ans, A'ma-Zon
 
-##### Ghoo-Ghal, the All-Seeing 
-*Impression:* You have a sudden, terrible sensation of nakedness.  No.  Not nakedness.  You are more than naked.  You are stripped bare as you are drawn into a shifting storm of the four primary colors.  At the heart of the storm you see a shifting sphere, composed of billions of crystalline, overlapping eyes that seem to see everything.  "I am Ghoo-Ghal..." the storm howls "...the All-Seeing"
-*Spell:* Clairvoyance 
+##### Neht-Flix, the Somnambulist
+*Impression:* 
+*Spell:*
 *Magic Item:*
-*Curse:* You have advantage on checks to discern the truth.  You have disadvantage on checks to hide the truth.
-*Deformation:* When you (or anyone) look at your reflect you no longer see yourself.  Instead you see a wireframe schematic of yourself, with personal - sometimes even deeply intimate text moving the the reflection (information such as your current healthy, your greatest fear, or the name of the last person you killed)
+*Curse:*
+*Deformation:*
 
-##### Stahr-Bux, the Siren of the Black Sludge
-*Impression:* A suffocatingly sweet, burnt aroma fills your lungs as you find yourself standing on the precipice of a lake of charred earth and boiling tar.  A twin tailed mermaid of jade and petrified wood appears, her massive scaled tail wrapping around her own body, constantly squeezing her as she offers you a bone-white chalice.  "I am Stahr-Bux..." she says "...I am the Siren of the Black Sludge.  Would you like a drink?"
-*Spell:* Haste
+##### Name
+*Impression:* 
+*Spell:*
 *Magic Item:*
-*Curse:* You are not sleeping well these days.  If you are immune to sleep effects, you no longer are immune to them.  If you are vulnerable you sleep effects you have disadvantage on saves to resist being put to sleep.  In either case, if you are subjected to the sleep spell you automatically fall asleep (and you do not count against the HP total used by the Sleep spell)
-*Deformation:* Your teeth are browned slightly, and your breath always smells faintly bitter.  A small patch of green scales erupts on your hand which are cold, hard and smell faintly of damp, tropical earth.
+*Curse:*
+*Deformation:*
+
 
 
 ##### Name
@@ -87,7 +88,7 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzcyMjA5Myw1Mjg0MTg0NTEsLTExMT
+eyJoaXN0b3J5IjpbMTY2NTc5MjQyOSw1Mjg0MTg0NTEsLTExMT
 g3OTAyMTAsLTIwNDA4MjM1MzYsLTE5MDkzNTM0ODAsLTE3NzUw
 Nzc4MjAsLTMxMjMzMzE0MCwtMTE1NTQwNzUzOSwtMTY5MjEzND
 cwOV19
