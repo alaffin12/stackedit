@@ -11,7 +11,7 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 *Spell:* Clairvoyance 
 *Magic Item:*
 *Curse:* You have advantage on checks to discern the truth.  You have disadvantage on checks to hide the truth.
-*Deformation:*
+*Deformation:* The Iris of one of your eyes becomes a tiny ring that shifts and cycles rapidly through ever changing runes.  When you speak to someone it projects a 
 
 ##### Stahr-Bux, the Siren of the Black Sludge
 *Impression:* 
@@ -89,8 +89,8 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Nzc2NTE4NCw1Mjg0MTg0NTEsLTExMT
-g3OTAyMTAsLTIwNDA4MjM1MzYsLTE5MDkzNTM0ODAsLTE3NzUw
-Nzc4MjAsLTMxMjMzMzE0MCwtMTE1NTQwNzUzOSwtMTY5MjEzND
-cwOV19
+eyJoaXN0b3J5IjpbNjU4NTQ5ODEwLDUyODQxODQ1MSwtMTExOD
+c5MDIxMCwtMjA0MDgyMzUzNiwtMTkwOTM1MzQ4MCwtMTc3NTA3
+NzgyMCwtMzEyMzMzMTQwLC0xMTU1NDA3NTM5LC0xNjkyMTM0Nz
+A5XX0=
 -->
