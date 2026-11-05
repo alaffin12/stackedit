@@ -23,6 +23,14 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 *Deformation:*
 
 
+##### Name
+*Impression:* 
+*Spell:*
+*Magic Item:*
+*Curse:*
+*Deformation:*
+
+
 
 The Architects of the Digital Void
 
@@ -83,7 +91,7 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTg3OTAyMTAsLTIwNDA4MjM1MzYsLT
-E5MDkzNTM0ODAsLTE3NzUwNzc4MjAsLTMxMjMzMzE0MCwtMTE1
-NTQwNzUzOSwtMTY5MjEzNDcwOV19
+eyJoaXN0b3J5IjpbNzQ0NTIxMjU1LC0xMTE4NzkwMjEwLC0yMD
+QwODIzNTM2LC0xOTA5MzUzNDgwLC0xNzc1MDc3ODIwLC0zMTIz
+MzMxNDAsLTExNTU0MDc1MzksLTE2OTIxMzQ3MDldfQ==
 -->
