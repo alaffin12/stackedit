@@ -11,7 +11,7 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 *Spell:* Clairvoyance 
 *Magic Item:*
 *Curse:* You have advantage on checks to discern the truth.  You have disadvantage on checks to hide the truth.
-*Deformation:* When you (or anyone) look at your reflect you no longer see yourself.  Instead you see a wirefr
+*Deformation:* When you (or anyone) look at your reflect you no longer see yourself.  Instead you see a wireframe schematic of yourself, with personal - sometimes even deeply intimate text moving the the reflection (information such as your current healthy, your greatest fear, or the name of the last person you killed)
 
 ##### Stahr-Bux, the Siren of the Black Sludge
 *Impression:* 
@@ -89,8 +89,8 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI2MzM5NDQyLDUyODQxODQ1MSwtMTExOD
-c5MDIxMCwtMjA0MDgyMzUzNiwtMTkwOTM1MzQ4MCwtMTc3NTA3
-NzgyMCwtMzEyMzMzMTQwLC0xMTU1NDA3NTM5LC0xNjkyMTM0Nz
-A5XX0=
+eyJoaXN0b3J5IjpbMTgzNDA1MjE0MCw1Mjg0MTg0NTEsLTExMT
+g3OTAyMTAsLTIwNDA4MjM1MzYsLTE5MDkzNTM0ODAsLTE3NzUw
+Nzc4MjAsLTMxMjMzMzE0MCwtMTE1NTQwNzUzOSwtMTY5MjEzND
+cwOV19
 -->
