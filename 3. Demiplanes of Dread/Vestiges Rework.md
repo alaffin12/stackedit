@@ -6,27 +6,20 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 (e) Mi-Kro-Soft, Chah-tghp-Teh and Oh'pen-ai, Dis-Nee
 (f) Tehs-Lah, Ohl-Neef-Ans, A'ma-Zon
 
-##### In-Stah, the Flayer of Self
-*Impression:* A wave of self-loathing washes over you as a massive kaleidoscopic tower of mirrors rises before you.  Each mirror reflect beauty, seemingly pure and flawless.  The tower rises as you look upon it, reaching an apex where the mirrors are crushed, revealing rusty hooks, razor sharp wire and discarded skins.  The grinding noise forms a voice - "I am In-Stah, the Flayer of Self"  :
-*Spell:* Major Image
+##### Ghoo-Ghal, the All-Seeing 
+*Impression:* 
+*Spell:*
 *Magic Item:*
-*Curse:* You become obsessed with appearance.  You have disadvantage on social checks with people who are not noble (or otherwise rich and powerful) as you can scarcely hide your disdain for people who live dirty and mean.
-*Deformation:* Your skin becomes flawless, like porcelain or marble.  From a distance you are stunning.  Up close you are unsettling and unnatural, like a painted doll or a heavily filtered image
+*Curse:*
+*Deformation:*
 
-
-##### Met-Ah, the Weaver of False Realities
-*Impression:* A sickening lurch of vertigo hits you as the physical world dissolve.  You see a vast, arachnid monstrosity woven from the very web it sits on, composed of glowing blue and purple fibers.  Dangling from the web are millions of pale, featureless mannequins, each twitching as the spider-being plucks the strings.  The vibrations form something resembling a voice, and you hear the words "I am Met-Ah, the Weaver of False Realities"
-*Spell:* Fear
+##### S
+*Impression:* 
+*Spell:*
 *Magic Item:*
-*Curse:* Disadvantage on any skill check to determine if someone is telling the truth.  
-*Deformation:* Your hand curls and forms into a permanent thumbs up.  You can force it to take a different shape, hold your weapons etc.  But when you are at rest it returns.
+*Curse:*
+*Deformation:*
 
-##### Whall-M'rth, the Great Leviathan
-*Impression:* A wave of stale air scented with unpleasant chemicals washes over you as a massive, flat topped blue titan sprawling across the horizon comes into view.  It has a mouth shaped like a massive door (or a door-shaped like a mouth), into which you see hollow-eyed phantoms entering, but never leaving.  It grows a face - a yellow thing with blank eyes and a perpetual smile.  The face looks at you.  "Welcome to Whall-M'rth, the Great Leviathan."
-*Spell:* Create Food and Water
-*Magic Item:*
-*Curse:* Whenever you go shopping, roll a d20.  On an odd number you receive a discount equal to the result of that role as a percentage.  On an even number, one item at random (non-magical items only) is broken.
-*Deformation:* You receive a permanent barcode tattoo on your left and right hands.
 
 ##### Name
 *Impression:* 
@@ -96,7 +89,7 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY4NDk1NjY4LDUyODQxODQ1MSwtMTExOD
+eyJoaXN0b3J5IjpbODUyNjkwNjg0LDUyODQxODQ1MSwtMTExOD
 c5MDIxMCwtMjA0MDgyMzUzNiwtMTkwOTM1MzQ4MCwtMTc3NTA3
 NzgyMCwtMzEyMzMzMTQwLC0xMTU1NDA3NTM5LC0xNjkyMTM0Nz
 A5XX0=
