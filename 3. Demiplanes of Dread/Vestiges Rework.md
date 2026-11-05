@@ -11,7 +11,7 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 *Impression:* A wave of self-loathing washes over you as a massive kaleidoscopic tower of mirrors rises before you.  Each mirror reflect beauty, seemingly pure and flawless.  The tower rises as you look upon it, reaching an apex where the mirrors are crushed, revealing rusty hooks, razor sharp wire and discarded skins.  The grinding noise forms a voice - "I am In-Stah, the Flayer of Self"  :
 *Spell:* Disguise Self
 *Magic Item:*
-*Curse:* You become obsessed with your looks.  You have disadvantage on social checks with 
+*Curse:* You become obsessed with appearance.  You have disadvantage on social checks with people who are not noble (or otherwise rich and powerful) as you can scarcely hide your disdain for people who live dirty and mean.
 *Deformation:* Your skin becomes flawless, like porcelain or marble.  From a distance you are stunning.  Up close you are unsettling and unnatural, like a painted doll or a heavily filtered image
 
 
@@ -91,7 +91,7 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMTg2MTg2MiwtMTExODc5MDIxMCwtMj
-A0MDgyMzUzNiwtMTkwOTM1MzQ4MCwtMTc3NTA3NzgyMCwtMzEy
-MzMzMTQwLC0xMTU1NDA3NTM5LC0xNjkyMTM0NzA5XX0=
+eyJoaXN0b3J5IjpbOTQ3NTg3ODQsLTExMTg3OTAyMTAsLTIwND
+A4MjM1MzYsLTE5MDkzNTM0ODAsLTE3NzUwNzc4MjAsLTMxMjMz
+MzE0MCwtMTE1NTQwNzUzOSwtMTY5MjEzNDcwOV19
 -->
