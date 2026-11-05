@@ -7,7 +7,7 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 (f) Tehs-Lah, Ohl-Neef-Ans, A'ma-Zon
 
 ##### Ghoo-Ghal, the All-Seeing 
-*Impression:* 
+*Impression:* You have a sudden, terrible sensation of nakedness.  No.  Not nakedness.  You are more than naked.  You are stripped bare as you are drawn into a shifting storm of the four primary colors.  At the heart of the storm you see a shifting sphere, composed of billions of crystalline, overlapping eyes
 *Spell:*
 *Magic Item:*
 *Curse:*
@@ -89,7 +89,7 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk0NjA2NDcwLDUyODQxODQ1MSwtMTExOD
+eyJoaXN0b3J5IjpbNzg1MjcyMDg2LDUyODQxODQ1MSwtMTExOD
 c5MDIxMCwtMjA0MDgyMzUzNiwtMTkwOTM1MzQ4MCwtMTc3NTA3
 NzgyMCwtMzEyMzMzMTQwLC0xMTU1NDA3NTM5LC0xNjkyMTM0Nz
 A5XX0=
