@@ -13,7 +13,7 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 *Curse:*
 *Deformation:*
 
-##### S
+##### Stahr-Bux, the Siren of the Black Sludge
 *Impression:* 
 *Spell:*
 *Magic Item:*
@@ -89,7 +89,7 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUyNjkwNjg0LDUyODQxODQ1MSwtMTExOD
+eyJoaXN0b3J5IjpbNjk0NjA2NDcwLDUyODQxODQ1MSwtMTExOD
 c5MDIxMCwtMjA0MDgyMzUzNiwtMTkwOTM1MzQ4MCwtMTc3NTA3
 NzgyMCwtMzEyMzMzMTQwLC0xMTU1NDA3NTM5LC0xNjkyMTM0Nz
 A5XX0=
