@@ -19,7 +19,7 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 *Deformation:* Your shadow it split in two down the middle.  The one on the left is slouched and seems exhausted.  The one on the right strikes an overly-exaggerated, hyper-alluring pose.
 
 ##### Tik-Toth, The Chronovore
-*Impression:* 
+*Impression:* You hear the maddening sound of a massive clock in your skull, accompanied by a sudden, sickening jolt of dopamine.  You see a shifting, multi-jointed abberation of gears and glass
 *Spell:*
 *Magic Item:*
 *Curse:*
@@ -94,8 +94,8 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM1ODQyNzcwLDEyNzAyMzM3MzIsNTI4ND
-E4NDUxLC0xMTE4NzkwMjEwLC0yMDQwODIzNTM2LC0xOTA5MzUz
-NDgwLC0xNzc1MDc3ODIwLC0zMTIzMzMxNDAsLTExNTU0MDc1Mz
-ksLTE2OTIxMzQ3MDldfQ==
+eyJoaXN0b3J5IjpbLTE0OTYwODU1NjksMTI3MDIzMzczMiw1Mj
+g0MTg0NTEsLTExMTg3OTAyMTAsLTIwNDA4MjM1MzYsLTE5MDkz
+NTM0ODAsLTE3NzUwNzc4MjAsLTMxMjMzMzE0MCwtMTE1NTQwNz
+UzOSwtMTY5MjEzNDcwOV19
 -->
