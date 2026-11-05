@@ -16,11 +16,11 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 
 
 ##### Met-Ah, the Weaver of False Realities
-*Impression:* A sickening lurch of vertigo hits you as the physical world dissolve.  You see a vast, arachnid monstrosity woven from the very web it sits on, composed of glowing blue and purple fibers.  Dangling from the web are millions of pale, featureless mannequins, each twitching as the spider-being 
+*Impression:* A sickening lurch of vertigo hits you as the physical world dissolve.  You see a vast, arachnid monstrosity woven from the very web it sits on, composed of glowing blue and purple fibers.  Dangling from the web are millions of pale, featureless mannequins, each twitching as the spider-being plucks the strings.  
 *Spell:*
 *Magic Item:*
 *Curse:*
-*Deformation:*
+*Deformation:* Your hand curls and forms into a permanent thumb
 
 
 ##### Name
@@ -91,7 +91,7 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNDQxNDMyMiwtMTExODc5MDIxMCwtMj
+eyJoaXN0b3J5IjpbLTYyODE4ODkwNSwtMTExODc5MDIxMCwtMj
 A0MDgyMzUzNiwtMTkwOTM1MzQ4MCwtMTc3NTA3NzgyMCwtMzEy
 MzMzMTQwLC0xMTU1NDA3NTM5LC0xNjkyMTM0NzA5XX0=
 -->
