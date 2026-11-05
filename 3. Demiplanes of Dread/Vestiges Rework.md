@@ -23,7 +23,7 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 *Spell:* Charm Person
 *Magic Item:*
 *Curse:* You no longer have any idea what time of day or night it is.
-*Deformation:* 
+*Deformation:* Intricate, shallow grooves map themselves across the player’s forearms, resembling the rings of an ancient, rotted tree. If anyone touches these grooves, they are hit with a brief, exhausting phantom impression of the player’s most mundane, repetitive physical actions from the past 24 hours
 
 
 ##### Name
@@ -94,8 +94,8 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQzNDUwNjYxLDEyNzAyMzM3MzIsNTI4ND
-E4NDUxLC0xMTE4NzkwMjEwLC0yMDQwODIzNTM2LC0xOTA5MzUz
-NDgwLC0xNzc1MDc3ODIwLC0zMTIzMzMxNDAsLTExNTU0MDc1Mz
-ksLTE2OTIxMzQ3MDldfQ==
+eyJoaXN0b3J5IjpbLTEwMTQxMTI0NjIsMTI3MDIzMzczMiw1Mj
+g0MTg0NTEsLTExMTg3OTAyMTAsLTIwNDA4MjM1MzYsLTE5MDkz
+NTM0ODAsLTE3NzUwNzc4MjAsLTMxMjMzMzE0MCwtMTE1NTQwNz
+UzOSwtMTY5MjEzNDcwOV19
 -->
