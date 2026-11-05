@@ -19,10 +19,10 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 *Deformation:* Your shadow it split in two down the middle.  The one on the left is slouched and seems exhausted.  The one on the right strikes an overly-exaggerated, hyper-alluring pose.
 
 ##### Tik-Toth, The Chronovore
-*Impression:* You hear the maddening sound of a massive clock in your skull, accompanied by a sudden, sickening jolt of dopamine.  You see a shifting, multi-jointed aberration of gears and glass as stained black and white, but one which appear traced with light blue and pink.  Around it you see countless individuals.  It reaches out with it's countblack and white tendrils 
+*Impression:* You hear the maddening sound of a massive clock in your skull, accompanied by a sudden, sickening jolt of dopamine.  You see a shifting, multi-jointed aberration of gears and glass as stained black and white, but one which appear traced with light blue and pink.  Around it you see countless individuals.  It reaches out with its countless black and white tendrils and spears a an individual, consuming them for a few seconds before releasing them again.  "I am Tik-Toth..." the tendrils snap "...the Chronovore"
 *Spell:*
 *Magic Item:*
-*Curse:*
+*Curse:* You no longer have
 *Deformation:*
 
 
@@ -94,7 +94,7 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxOTc0ODM0MywxMjcwMjMzNzMyLDUyOD
+eyJoaXN0b3J5IjpbMTUyNTk2NDYwMCwxMjcwMjMzNzMyLDUyOD
 QxODQ1MSwtMTExODc5MDIxMCwtMjA0MDgyMzUzNiwtMTkwOTM1
 MzQ4MCwtMTc3NTA3NzgyMCwtMzEyMzMzMTQwLC0xMTU1NDA3NT
 M5LC0xNjkyMTM0NzA5XX0=
