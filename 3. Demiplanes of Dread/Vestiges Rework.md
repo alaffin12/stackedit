@@ -17,7 +17,7 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 *Impression:* A suffocatingly sweet, burnt aroma fills your lungs as you find yourself standing on the precipice of a lake of charred earth and boiling tar.  A twin tailed mermaid of jade and petrified wood appears, her massive scaled tail wrapping around her own body, constantly squeezing her as she offers you a bone-white chalice.  "I am Stahr-Bux..." she says "...I am the Siren of the Black Sludge.  Would you like a drink?"
 *Spell:* Haste
 *Magic Item:*
-*Curse:* 
+*Curse:* You are not sleeping well these days.  If you are immune to sleep effects
 *Deformation:*
 
 
@@ -89,8 +89,8 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDk5MzIxMjUsNTI4NDE4NDUxLC0xMT
-E4NzkwMjEwLC0yMDQwODIzNTM2LC0xOTA5MzUzNDgwLC0xNzc1
-MDc3ODIwLC0zMTIzMzMxNDAsLTExNTU0MDc1MzksLTE2OTIxMz
-Q3MDldfQ==
+eyJoaXN0b3J5IjpbMzM5MDcyNDUxLDUyODQxODQ1MSwtMTExOD
+c5MDIxMCwtMjA0MDgyMzUzNiwtMTkwOTM1MzQ4MCwtMTc3NTA3
+NzgyMCwtMzEyMzMzMTQwLC0xMTU1NDA3NTM5LC0xNjkyMTM0Nz
+A5XX0=
 -->
