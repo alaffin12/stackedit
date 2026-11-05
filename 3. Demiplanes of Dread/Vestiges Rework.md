@@ -6,10 +6,10 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 
 ##### Neht-Flix, the Somnambulist
 *Impression:* A deep, structural boom - like a heavy, iron door closing - echoes through your mind, followed by a mind-numbing static hiss.  You see a gargantuan red obelisk floating in an ocean of darkness.  The front of the obelisk flickers a dim light, pulsing with hypnotic waves that lock you in place.  "I am Neht-Flix..." the static hisses "...the Somnambulist."
-*Spell:*
+*Spell:* Hypnotic Pattern
 *Magic Item:*
-*Curse:*
-*Deformation:* You voice loses its natural, warm resonance and gains a dusty, dry quality.  Whenever you speak quietly the sound is 
+*Curse:* You have disadvantage on saves against charm effects.  If you had advantage or immunity 
+*Deformation:* You voice loses its natural, warm resonance and gains a dusty, dry quality.  Whenever you speak quietly the sound is accompanied by a static hiss. 
 
 ##### Tin-Dhur, the Flesh Matcher
 *Impression:* 
@@ -94,7 +94,7 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NTgyOTg1Niw1Mjg0MTg0NTEsLTExMT
+eyJoaXN0b3J5IjpbMTUyNjQ2NzgyMSw1Mjg0MTg0NTEsLTExMT
 g3OTAyMTAsLTIwNDA4MjM1MzYsLTE5MDkzNTM0ODAsLTE3NzUw
 Nzc4MjAsLTMxMjMzMzE0MCwtMTE1NTQwNzUzOSwtMTY5MjEzND
 cwOV19
