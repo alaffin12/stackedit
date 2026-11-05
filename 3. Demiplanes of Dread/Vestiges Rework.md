@@ -8,7 +8,7 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 (f) Tehs-Lah, Ohl-Neef-Ans, A'ma-Zon
 
 ##### In-Stah, the Flayer of Self
-*Impression:* A wave of self-loathing washes over you as a massive kal
+*Impression:* A wave of self-loathing washes over you as a massive kaleidoscopic tower of mirrors rises before you.  Each mirror reflect beauty, seemingly pure and flawless.  The tower rises as you look upon it, stretching to infinity.  But below you see the source, rus
 *Spell:*
 *Magic Item:*
 *Curse:*
@@ -83,7 +83,7 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNjQ5NTQ4MiwtMjA0MDgyMzUzNiwtMT
-kwOTM1MzQ4MCwtMTc3NTA3NzgyMCwtMzEyMzMzMTQwLC0xMTU1
-NDA3NTM5LC0xNjkyMTM0NzA5XX0=
+eyJoaXN0b3J5IjpbLTEyNTU1MjYxMDUsLTIwNDA4MjM1MzYsLT
+E5MDkzNTM0ODAsLTE3NzUwNzc4MjAsLTMxMjMzMzE0MCwtMTE1
+NTQwNzUzOSwtMTY5MjEzNDcwOV19
 -->
