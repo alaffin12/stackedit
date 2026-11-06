@@ -8,7 +8,7 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 *Spell:* Bestow Curse
 *Magic Item:* 
 *Curse:* You periodically need a reboot.  Once per long rest the DM may replace any d20 roll you make with a 1.  He must do this before you roll any consequences (i.e. before you roll damage) if there are any.  When this happens, your eyes turn a solid blue.
-*Deformation:* Whenever you make a skill check requiring intelligence 
+*Deformation:* Whenever you make a skill check requiring intelligence or are targeted by a mind-altering effect your pupils completely dialate and transform into a tiny, rotating, spinning hourglass.
 
 ##### Chah-Tghp-Teh and Oh'pen-Ai, the Synthetic Muses
 *Impression:* 
@@ -95,8 +95,9 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc1NjAyNzI1LC0xMDE0MTEyNDYyLDEyNz
-AyMzM3MzIsNTI4NDE4NDUxLC0xMTE4NzkwMjEwLC0yMDQwODIz
-NTM2LC0xOTA5MzUzNDgwLC0xNzc1MDc3ODIwLC0zMTIzMzMxND
-AsLTExNTU0MDc1MzksLTE2OTIxMzQ3MDldfQ==
+eyJoaXN0b3J5IjpbMTI5MTgyMTQxNCw0NzU2MDI3MjUsLTEwMT
+QxMTI0NjIsMTI3MDIzMzczMiw1Mjg0MTg0NTEsLTExMTg3OTAy
+MTAsLTIwNDA4MjM1MzYsLTE5MDkzNTM0ODAsLTE3NzUwNzc4Mj
+AsLTMxMjMzMzE0MCwtMTE1NTQwNzUzOSwtMTY5MjEzNDcwOV19
+
 -->
