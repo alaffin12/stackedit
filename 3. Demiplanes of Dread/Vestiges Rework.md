@@ -4,7 +4,7 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 (f) Tehs-Lah, Ohl-Neef-Ans, A'ma-Zon
 
 ##### Mi-Kro-Soft, the Framework
-*Impression:* 
+*Impression:* You see a green, rollin
 *Spell:*
 *Magic Item:*
 *Curse:*
@@ -95,8 +95,8 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA3MDQ3MDQ3LC0xMDE0MTEyNDYyLDEyNz
-AyMzM3MzIsNTI4NDE4NDUxLC0xMTE4NzkwMjEwLC0yMDQwODIz
-NTM2LC0xOTA5MzUzNDgwLC0xNzc1MDc3ODIwLC0zMTIzMzMxND
-AsLTExNTU0MDc1MzksLTE2OTIxMzQ3MDldfQ==
+eyJoaXN0b3J5IjpbLTE5NTU1NzY1NzMsLTEwMTQxMTI0NjIsMT
+I3MDIzMzczMiw1Mjg0MTg0NTEsLTExMTg3OTAyMTAsLTIwNDA4
+MjM1MzYsLTE5MDkzNTM0ODAsLTE3NzUwNzc4MjAsLTMxMjMzMz
+E0MCwtMTE1NTQwNzUzOSwtMTY5MjEzNDcwOV19
 -->
