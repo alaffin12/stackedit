@@ -7,8 +7,8 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 *Impression:* You smell ozone and stale parchment as a green, rolling hill set beneath a bucolic blue sky comes into view.  Before the scene is an invisible wall, into which are set windows that seem to move about.  One moves to you, its panes darkening and being opaque blue, red, green and yellow.  "I am Mi-Kro-Soft..." you hear a bee buzz nearby "...I am the Framework"
 *Spell:* Bestow Curse
 *Magic Item:* 
-*Curse:* You periodically need a reboot.  Once per long rest the DM may replace any d20 roll you make with a 1.  He must do this before you roll any consequences (i.e. before you roll damage) if 
-*Deformation:*
+*Curse:* You periodically need a reboot.  Once per long rest the DM may replace any d20 roll you make with a 1.  He must do this before you roll any consequences (i.e. before you roll damage) if there are any.  When this happens, your eyes turn a solid blue.
+*Deformation:* Whenever you make a skill check requiring intelligence 
 
 ##### Chah-Tghp-Teh and Oh'pen-Ai, the Synthetic Muses
 *Impression:* 
@@ -95,8 +95,8 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NTcxODQ1NiwtMTAxNDExMjQ2MiwxMj
-cwMjMzNzMyLDUyODQxODQ1MSwtMTExODc5MDIxMCwtMjA0MDgy
-MzUzNiwtMTkwOTM1MzQ4MCwtMTc3NTA3NzgyMCwtMzEyMzMzMT
-QwLC0xMTU1NDA3NTM5LC0xNjkyMTM0NzA5XX0=
+eyJoaXN0b3J5IjpbNDc1NjAyNzI1LC0xMDE0MTEyNDYyLDEyNz
+AyMzM3MzIsNTI4NDE4NDUxLC0xMTE4NzkwMjEwLC0yMDQwODIz
+NTM2LC0xOTA5MzUzNDgwLC0xNzc1MDc3ODIwLC0zMTIzMzMxND
+AsLTExNTU0MDc1MzksLTE2OTIxMzQ3MDldfQ==
 -->
