@@ -3,26 +3,28 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 (e) Mi-Kro-Soft, Chah-tghp-Teh and Oh'pen-ai, Dis-Nee
 (f) Tehs-Lah, Ohl-Neef-Ans, A'ma-Zon
 
-##### Neht-Flix, the Somnambulist
-*Impression:* A deep, structural boom - like a heavy, iron door closing - echoes through your mind, followed by a mind-numbing static hiss.  You see a gargantuan red obelisk floating in an ocean of darkness.  The front of the obelisk flickers a dim light, pulsing with hypnotic waves that lock you in place.  "I am Neht-Flix..." the static hisses "...the Somnambulist."
-*Spell:* Hypnotic Pattern
+##### Mi-Kro-Soft, the Framework
+*Impression:* 
+*Spell:*
 *Magic Item:*
-*Curse:* You have disadvantage on saves against charm effects.  If you had advantage or immunity against charm effects you instead lose the advantage/immunity.
-*Deformation:* You voice loses its natural, warm resonance and gains a dusty, dry quality.  Whenever you speak quietly the sound is accompanied by a static hiss. 
+*Curse:*
+*Deformation:*
 
-##### Tin-Dhur, the Flesh Matcher
-*Impression:* A sudden, intense spike of heat flares in your chest, accompanied by the dry repeating sound of a thousand calloused thumbs against raw leather.  You see a towering, multi-limbed colossus of rose-gold metal and raw, living muscle.  It sits in the middle of a river, in which countless humanoid bodies float towards it.  Its infinite hands sort the bodies, left and right.  Those sent to the left are consigned to oblivion, falling over a waterfall and into the endless void.  Those sent to the right seem to be consumed by the colossus, adding to its mass.  "I am Tin-Dhur..." the bodies floating in the river intone as one "...the Flesh Matcher"
-*Spell:* Aura of Vitality
+##### Chah-Tghp-Teh and Oh'pen-Ai
+*Impression:* 
+*Spell:*
 *Magic Item:*
-*Curse:* Whenever you interact with a person roll 1d4.  On an even result your social checks with them are "normal".  On an odd result all social interactions (at this time) are at a disadvantage.
-*Deformation:* Your shadow it split in two down the middle.  The one on the left is slouched and seems exhausted.  The one on the right strikes an overly-exaggerated, hyper-alluring pose.
+*Curse:*
+*Deformation:*
 
-##### Tik-Toth, The Chronovore
-*Impression:* You hear the maddening sound of a massive clock in your skull, accompanied by a sudden, sickening jolt of dopamine.  You see a shifting, multi-jointed aberration of gears and glass as stained black and white, but one which appear traced with light blue and pink.  Around it you see countless individuals.  It reaches out with its countless black and white tendrils and spears a an individual, consuming them for a few seconds before releasing them again.  "I am Tik-Toth..." the tendrils snap "...the Chronovore"
-*Spell:* Charm Person
+##### Name
+*Impression:* 
+*Spell:*
 *Magic Item:*
-*Curse:* You no longer have any idea what time of day or night it is.
-*Deformation:* Intricate, shallow grooves map themselves across the player’s forearms, resembling the rings of an ancient, rotted tree. If anyone touches these grooves, they are hit with a brief, exhausting phantom impression of the player’s most mundane, repetitive physical actions from the past 24 hours
+*Curse:*
+*Deformation:*
+
+
 
 
 ##### Name
@@ -93,8 +95,8 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDgzMTY3OTgsLTEwMTQxMTI0NjIsMT
-I3MDIzMzczMiw1Mjg0MTg0NTEsLTExMTg3OTAyMTAsLTIwNDA4
-MjM1MzYsLTE5MDkzNTM0ODAsLTE3NzUwNzc4MjAsLTMxMjMzMz
-E0MCwtMTE1NTQwNzUzOSwtMTY5MjEzNDcwOV19
+eyJoaXN0b3J5IjpbMTc5OTU2OTUwMywtMTAxNDExMjQ2MiwxMj
+cwMjMzNzMyLDUyODQxODQ1MSwtMTExODc5MDIxMCwtMjA0MDgy
+MzUzNiwtMTkwOTM1MzQ4MCwtMTc3NTA3NzgyMCwtMzEyMzMzMT
+QwLC0xMTU1NDA3NTM5LC0xNjkyMTM0NzA5XX0=
 -->
