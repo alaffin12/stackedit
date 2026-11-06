@@ -18,7 +18,7 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 *Deformation:* You have too many fingers on both hands.  The number shifts, but it is never the right number.
 
 ##### Dis-K'nee, The Architect of Joy
-*Impression:* Your nose is filled with the sickeningly sweet scent of burnt sugar and stale popcorn, accompanied by a distant echoing chorus of strange repetitive music and children laughing.  You see six castles, floating in a sugary pink void, each grand and brilliant
+*Impression:* Your nose is filled with the sickeningly sweet scent of burnt sugar and stale popcorn, accompanied by a distant echoing chorus of strange repetitive music and children laughing.  You see six castles, floating in a sugary pink void, each grand and brilliant, with the multitude of shadow souls filtering in them, and then traveling through them to the three massive, interlock stone circles above them.  A small mouse comes up to you and squeaks:
 *Spell:*
 *Magic Item:*
 *Curse:*
@@ -95,7 +95,7 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5ODUxNDI0LDE3NjcxMzc2MTQsLTEzND
+eyJoaXN0b3J5IjpbMTc3MTI5MzI0LDE3NjcxMzc2MTQsLTEzND
 U2NTk0MTQsNDc1NjAyNzI1LC0xMDE0MTEyNDYyLDEyNzAyMzM3
 MzIsNTI4NDE4NDUxLC0xMTE4NzkwMjEwLC0yMDQwODIzNTM2LC
 0xOTA5MzUzNDgwLC0xNzc1MDc3ODIwLC0zMTIzMzMxNDAsLTEx
