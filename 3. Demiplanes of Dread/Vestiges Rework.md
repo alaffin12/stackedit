@@ -22,7 +22,7 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 *Spell:* Call Lightning
 *Magic Item:*
 *Curse:* 
-*Deformation:*
+*Deformation:* You shadow is detached from your actual physical movements.  Instead if follows you in a 
 
 
 
@@ -95,9 +95,9 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg5NDc4NzM3LDE3NjcxMzc2MTQsLTEzND
-U2NTk0MTQsNDc1NjAyNzI1LC0xMDE0MTEyNDYyLDEyNzAyMzM3
-MzIsNTI4NDE4NDUxLC0xMTE4NzkwMjEwLC0yMDQwODIzNTM2LC
-0xOTA5MzUzNDgwLC0xNzc1MDc3ODIwLC0zMTIzMzMxNDAsLTEx
-NTU0MDc1MzksLTE2OTIxMzQ3MDldfQ==
+eyJoaXN0b3J5IjpbLTE3OTcyMTc4NjYsNzg5NDc4NzM3LDE3Nj
+cxMzc2MTQsLTEzNDU2NTk0MTQsNDc1NjAyNzI1LC0xMDE0MTEy
+NDYyLDEyNzAyMzM3MzIsNTI4NDE4NDUxLC0xMTE4NzkwMjEwLC
+0yMDQwODIzNTM2LC0xOTA5MzUzNDgwLC0xNzc1MDc3ODIwLC0z
+MTIzMzMxNDAsLTExNTU0MDc1MzksLTE2OTIxMzQ3MDldfQ==
 -->
