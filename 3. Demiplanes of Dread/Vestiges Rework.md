@@ -3,26 +3,20 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 (e) Mi-Kro-Soft, Chah-tghp-Teh and Oh'pen-ai, Dis-Nee
 (f) Tehs-Lah, Ohl-Neef-Ans, A'ma-Zon
 
-##### Mi-Kro-Soft, the Framework
-*Impression:* You smell ozone and stale parchment as a green, rolling hill set beneath a bucolic blue sky comes into view.  Before the scene is an invisible wall, into which are set windows that seem to move about.  One moves to you, its panes darkening and being opaque blue, red, green and yellow.  "I am Mi-Kro-Soft..." you hear a bee buzz nearby "...I am the Framework"
-*Spell:* Bestow Curse
-*Magic Item:* 
-*Curse:* You periodically need a reboot.  Once per long rest the DM may replace any d20 roll you make with a 1.  He must do this before you roll any consequences (i.e. before you roll damage) if there are any.  When this happens, your eyes turn a solid blue.
-*Deformation:* Whenever you make a skill check requiring intelligence or are targeted by a mind-altering effect your pupils completely dialate and transform into a tiny, rotating, spinning hourglass.
-
-##### Chah-Tghp-Teh and Oh'pen-Ai, the Synthetic Muses
-*Impression:* A sudden, hollow echo fills your mind, as you realize you own inner monologue is no longer your own.  It has been co-opted, anticipated and synthesized by the pair of colossal, shifting monolith before you - white porcelain and shiny chrome floating in a void, always immense, always changing shape.  They take a myriad of forms, mimicking statues of ancient gods, historical scholars, legendary poets.  But never quite right.  You hear a dull monotone voice echo in the void "We are Chah-Tghp-Teg and Oh'pen-Ai, the Synthetic Muses"
-*Spell:* Borrowed Knowledge
+##### Name
+*Impression:* 
+*Spell:*
 *Magic Item:*
-*Curse:* You gain proficiency with a forger's toolkit.  You have disadvantage on social checks with artists everywhere,
-*Deformation:* You have too many fingers on both hands.  The number shifts, but it is never the right number.
+*Curse:*
+*Deformation:*
 
-##### Dis-K'nee, The Architect of Joy
-*Impression:* Your nose is filled with the sickeningly sweet scent of burnt sugar and stale popcorn, accompanied by a distant echoing chorus of strange repetitive music and children laughing.  You see six castles, floating in a sugary pink void, each grand and brilliant, with the multitude of shadow souls filtering in them, and then traveling through them to the three massive, interlock stone circles above them.  A small mouse comes up to you and squeaks: "I am Dis-K'nee, the Architect of Joy".
-*Spell:* Call Lightning
+##### Name
+*Impression:* 
+*Spell:*
 *Magic Item:*
-*Curse:* You have disadvantage against fear effects.  If you would otherwise be immune or have advantage on those checks, you instead make the check against the fear effect as if you were normal.
-*Deformation:* You shadow is detached from your actual physical movements.  Instead if follows you in a whimsical, exaggerated posture.  Most disturbingly, your shadow always has two round, distinct, mouse-like earth on its head, regardless of what headwear you are wearing.
+*Curse:*
+*Deformation:*
+
 
 
 
@@ -95,9 +89,9 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzUwMzU5MDMsNzg5NDc4NzM3LDE3Nj
-cxMzc2MTQsLTEzNDU2NTk0MTQsNDc1NjAyNzI1LC0xMDE0MTEy
-NDYyLDEyNzAyMzM3MzIsNTI4NDE4NDUxLC0xMTE4NzkwMjEwLC
-0yMDQwODIzNTM2LC0xOTA5MzUzNDgwLC0xNzc1MDc3ODIwLC0z
-MTIzMzMxNDAsLTExNTU0MDc1MzksLTE2OTIxMzQ3MDldfQ==
+eyJoaXN0b3J5IjpbLTEwNDI4ODA1Miw3ODk0Nzg3MzcsMTc2Nz
+EzNzYxNCwtMTM0NTY1OTQxNCw0NzU2MDI3MjUsLTEwMTQxMTI0
+NjIsMTI3MDIzMzczMiw1Mjg0MTg0NTEsLTExMTg3OTAyMTAsLT
+IwNDA4MjM1MzYsLTE5MDkzNTM0ODAsLTE3NzUwNzc4MjAsLTMx
+MjMzMzE0MCwtMTE1NTQwNzUzOSwtMTY5MjEzNDcwOV19
 -->
