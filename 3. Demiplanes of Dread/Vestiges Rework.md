@@ -11,7 +11,7 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 *Deformation:* Whenever you make a skill check requiring intelligence or are targeted by a mind-altering effect your pupils completely dialate and transform into a tiny, rotating, spinning hourglass.
 
 ##### Chah-Tghp-Teh and Oh'pen-Ai, the Synthetic Muses
-*Impression:* A sudden, hollow echo fills your mind, as you realize you own inner monologue is no longer your own.  It has been co-opted, anticipated and synthesized by the colossal, shifting monolith before you - white porcelain and shiny chrome floating in a void, always immense, always changing shape.  It takes a myriad of forms, mi
+*Impression:* A sudden, hollow echo fills your mind, as you realize you own inner monologue is no longer your own.  It has been co-opted, anticipated and synthesized by the colossal, shifting monolith before you - white porcelain and shiny chrome floating in a void, always immense, always changing shape.  It takes a myriad of forms, mimicking the statues of ancient gods, historical scholars, legendary poets.
 *Spell:*
 *Magic Item:*
 *Curse:*
@@ -95,9 +95,9 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MTM2MDM5NSw0NzU2MDI3MjUsLTEwMT
-QxMTI0NjIsMTI3MDIzMzczMiw1Mjg0MTg0NTEsLTExMTg3OTAy
-MTAsLTIwNDA4MjM1MzYsLTE5MDkzNTM0ODAsLTE3NzUwNzc4Mj
-AsLTMxMjMzMzE0MCwtMTE1NTQwNzUzOSwtMTY5MjEzNDcwOV19
-
+eyJoaXN0b3J5IjpbLTEzNDU2NTk0MTQsNDc1NjAyNzI1LC0xMD
+E0MTEyNDYyLDEyNzAyMzM3MzIsNTI4NDE4NDUxLC0xMTE4Nzkw
+MjEwLC0yMDQwODIzNTM2LC0xOTA5MzUzNDgwLC0xNzc1MDc3OD
+IwLC0zMTIzMzMxNDAsLTExNTU0MDc1MzksLTE2OTIxMzQ3MDld
+fQ==
 -->
