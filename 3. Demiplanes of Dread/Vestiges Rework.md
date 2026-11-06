@@ -10,14 +10,14 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 *Curse:*
 *Deformation:*
 
-##### Chah-Tghp-Teh and Oh'pen-Ai
+##### Chah-Tghp-Teh and Oh'pen-Ai, the Synthetic Muses
 *Impression:* 
 *Spell:*
 *Magic Item:*
 *Curse:*
 *Deformation:*
 
-##### Name
+##### Dis-K'nee, The Architect of Joy
 *Impression:* 
 *Spell:*
 *Magic Item:*
@@ -95,8 +95,8 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5OTU2OTUwMywtMTAxNDExMjQ2MiwxMj
-cwMjMzNzMyLDUyODQxODQ1MSwtMTExODc5MDIxMCwtMjA0MDgy
-MzUzNiwtMTkwOTM1MzQ4MCwtMTc3NTA3NzgyMCwtMzEyMzMzMT
-QwLC0xMTU1NDA3NTM5LC0xNjkyMTM0NzA5XX0=
+eyJoaXN0b3J5IjpbNTA3MDQ3MDQ3LC0xMDE0MTEyNDYyLDEyNz
+AyMzM3MzIsNTI4NDE4NDUxLC0xMTE4NzkwMjEwLC0yMDQwODIz
+NTM2LC0xOTA5MzUzNDgwLC0xNzc1MDc3ODIwLC0zMTIzMzMxND
+AsLTExNTU0MDc1MzksLTE2OTIxMzQ3MDldfQ==
 -->
