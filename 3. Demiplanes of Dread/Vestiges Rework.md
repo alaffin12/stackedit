@@ -15,7 +15,7 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 *Deformation:*
 
 ##### A'ma-Zon, the Endless Caravan
-*Impression:* Your vision fades as you feel a crushing sense of relentless, mechanical urgency.
+*Impression:* Your vision fades as you feel a crushing sense of relentless, mechanical urgency.  You you can see again you are met with the facade of a gargantuan, windowless citadel of drab, grey stone.  You see two doors - almost mouths - to this citadel.  One of which consumes wholesale great swaths of nature - forests, mountains and even trade caravans are inhal
 *Spell:*
 *Magic Item:*
 *Curse:*
@@ -93,10 +93,10 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzU3OTAyOTEsMzUxOTc1ODUzLDc4OT
-Q3ODczNywxNzY3MTM3NjE0LC0xMzQ1NjU5NDE0LDQ3NTYwMjcy
-NSwtMTAxNDExMjQ2MiwxMjcwMjMzNzMyLDUyODQxODQ1MSwtMT
-ExODc5MDIxMCwtMjA0MDgyMzUzNiwtMTkwOTM1MzQ4MCwtMTc3
-NTA3NzgyMCwtMzEyMzMzMTQwLC0xMTU1NDA3NTM5LC0xNjkyMT
-M0NzA5XX0=
+eyJoaXN0b3J5IjpbLTE5Mzk5NjA3MDAsLTE5NzU3OTAyOTEsMz
+UxOTc1ODUzLDc4OTQ3ODczNywxNzY3MTM3NjE0LC0xMzQ1NjU5
+NDE0LDQ3NTYwMjcyNSwtMTAxNDExMjQ2MiwxMjcwMjMzNzMyLD
+UyODQxODQ1MSwtMTExODc5MDIxMCwtMjA0MDgyMzUzNiwtMTkw
+OTM1MzQ4MCwtMTc3NTA3NzgyMCwtMzEyMzMzMTQwLC0xMTU1ND
+A3NTM5LC0xNjkyMTM0NzA5XX0=
 -->
