@@ -15,7 +15,7 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 *Deformation:*
 
 ##### A'ma-Zon, the Endless Caravan
-*Impression:* 
+*Impression:* Your vision fades as you feel a crushing sense of relentless, mechanical urgency.
 *Spell:*
 *Magic Item:*
 *Curse:*
@@ -93,10 +93,10 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgxMDE5OTkwLDM1MTk3NTg1Myw3ODk0Nz
-g3MzcsMTc2NzEzNzYxNCwtMTM0NTY1OTQxNCw0NzU2MDI3MjUs
-LTEwMTQxMTI0NjIsMTI3MDIzMzczMiw1Mjg0MTg0NTEsLTExMT
-g3OTAyMTAsLTIwNDA4MjM1MzYsLTE5MDkzNTM0ODAsLTE3NzUw
-Nzc4MjAsLTMxMjMzMzE0MCwtMTE1NTQwNzUzOSwtMTY5MjEzND
-cwOV19
+eyJoaXN0b3J5IjpbLTE5NzU3OTAyOTEsMzUxOTc1ODUzLDc4OT
+Q3ODczNywxNzY3MTM3NjE0LC0xMzQ1NjU5NDE0LDQ3NTYwMjcy
+NSwtMTAxNDExMjQ2MiwxMjcwMjMzNzMyLDUyODQxODQ1MSwtMT
+ExODc5MDIxMCwtMjA0MDgyMzUzNiwtMTkwOTM1MzQ4MCwtMTc3
+NTA3NzgyMCwtMzEyMzMzMTQwLC0xMTU1NDA3NTM5LC0xNjkyMT
+M0NzA5XX0=
 -->
