@@ -3,14 +3,21 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 (e) Mi-Kro-Soft, Chah-tghp-Teh and Oh'pen-ai, Dis-Nee
 (f) Tehs-Lah, Ohl-Neef-Ans, A'ma-Zon
 
-##### Name
+##### Tehs-Lah, the Lightning Autocrat
 *Impression:* 
 *Spell:*
 *Magic Item:*
 *Curse:*
 *Deformation:*
 
-##### Name
+##### Ohl-Neef-Ans, the Altar of Secret Tribute
+*Impression:* 
+*Spell:*
+*Magic Item:*
+*Curse:*
+*Deformation:*
+
+##### A'ma-Zon
 *Impression:* 
 *Spell:*
 *Magic Item:*
@@ -89,9 +96,9 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDI4ODA1Miw3ODk0Nzg3MzcsMTc2Nz
-EzNzYxNCwtMTM0NTY1OTQxNCw0NzU2MDI3MjUsLTEwMTQxMTI0
-NjIsMTI3MDIzMzczMiw1Mjg0MTg0NTEsLTExMTg3OTAyMTAsLT
-IwNDA4MjM1MzYsLTE5MDkzNTM0ODAsLTE3NzUwNzc4MjAsLTMx
-MjMzMzE0MCwtMTE1NTQwNzUzOSwtMTY5MjEzNDcwOV19
+eyJoaXN0b3J5IjpbLTEwMDIyMTE5ODAsNzg5NDc4NzM3LDE3Nj
+cxMzc2MTQsLTEzNDU2NTk0MTQsNDc1NjAyNzI1LC0xMDE0MTEy
+NDYyLDEyNzAyMzM3MzIsNTI4NDE4NDUxLC0xMTE4NzkwMjEwLC
+0yMDQwODIzNTM2LC0xOTA5MzUzNDgwLC0xNzc1MDc3ODIwLC0z
+MTIzMzMxNDAsLTExNTU0MDc1MzksLTE2OTIxMzQ3MDldfQ==
 -->
