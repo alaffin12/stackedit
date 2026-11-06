@@ -1,10 +1,10 @@
 Vestiges are thinly veiled modern references.  They each impart access to a single 3rd level spell (limited once per day, Save = 12+1/2 level, Attack bonus = 4+1/2 level) and the powers of one uncommon magic item.  They also inflict one "curse" and one mild physical change to any who accept them.
 
 ##### U-Bhur, the Chariot of the Damned
-*Impression:* A sudden smell of stale, damp air fills your nose, along with a wave of anxiety as you realize you are trapped in a fast moving carriage with a driver that you cannot see and do not know.  The inside of this carriage is shifting.  It has no fixed geometry, but it is always of blackened wrought iron and 
-*Spell:*
+*Impression:* A sudden smell of stale, damp air fills your nose, along with a wave of anxiety as you realize you are trapped in a fast moving carriage with a driver that you cannot see and do not know.  The inside of this carriage is shifting.  It has no fixed geometry, but it is always of blackened wrought iron that is dented, scratched and covered in soot.  
+*Spell:* Summon Steed
 *Magic Item:*
-*Curse:*
+*Curse:* 
 *Deformation:*
 
 ##### Ohl-Neef-Ans, the Altar of Secret Tribute
@@ -93,7 +93,7 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzYwMzAxOTAsMzUxOTc1ODUzLDc4OT
+eyJoaXN0b3J5IjpbLTE3MTQ4NzQ2MTIsMzUxOTc1ODUzLDc4OT
 Q3ODczNywxNzY3MTM3NjE0LC0xMzQ1NjU5NDE0LDQ3NTYwMjcy
 NSwtMTAxNDExMjQ2MiwxMjcwMjMzNzMyLDUyODQxODQ1MSwtMT
 ExODc5MDIxMCwtMjA0MDgyMzUzNiwtMTkwOTM1MzQ4MCwtMTc3
