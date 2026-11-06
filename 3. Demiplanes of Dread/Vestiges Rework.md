@@ -19,9 +19,9 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 
 ##### Dis-K'nee, The Architect of Joy
 *Impression:* Your nose is filled with the sickeningly sweet scent of burnt sugar and stale popcorn, accompanied by a distant echoing chorus of strange repetitive music and children laughing.  You see six castles, floating in a sugary pink void, each grand and brilliant, with the multitude of shadow souls filtering in them, and then traveling through them to the three massive, interlock stone circles above them.  A small mouse comes up to you and squeaks: "I am Dis-K'nee, the Architect of Joy".
-*Spell:*
+*Spell:* Call Lightning
 *Magic Item:*
-*Curse:*
+*Curse:* 
 *Deformation:*
 
 
@@ -95,9 +95,9 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzQ3OTk2MjMsMTc2NzEzNzYxNCwtMT
-M0NTY1OTQxNCw0NzU2MDI3MjUsLTEwMTQxMTI0NjIsMTI3MDIz
-MzczMiw1Mjg0MTg0NTEsLTExMTg3OTAyMTAsLTIwNDA4MjM1Mz
-YsLTE5MDkzNTM0ODAsLTE3NzUwNzc4MjAsLTMxMjMzMzE0MCwt
-MTE1NTQwNzUzOSwtMTY5MjEzNDcwOV19
+eyJoaXN0b3J5IjpbNzg5NDc4NzM3LDE3NjcxMzc2MTQsLTEzND
+U2NTk0MTQsNDc1NjAyNzI1LC0xMDE0MTEyNDYyLDEyNzAyMzM3
+MzIsNTI4NDE4NDUxLC0xMTE4NzkwMjEwLC0yMDQwODIzNTM2LC
+0xOTA5MzUzNDgwLC0xNzc1MDc3ODIwLC0zMTIzMzMxNDAsLTEx
+NTU0MDc1MzksLTE2OTIxMzQ3MDldfQ==
 -->
