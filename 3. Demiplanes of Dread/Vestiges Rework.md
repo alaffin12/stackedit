@@ -4,8 +4,8 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 *Impression:* A sudden smell of stale, damp air fills your nose, along with a wave of anxiety as you realize you are trapped in a fast moving carriage with a driver that you cannot see and do not know.  The inside of this carriage is shifting.  It has no fixed geometry, but it is always of blackened wrought iron that is dented, scratched and covered in soot.  
 *Spell:* Find Steed
 *Magic Item:*
-*Curse:* Your summoned steed required one gold per day to maintain.  If you ride it into combat (even if you do not intended to - if at any point you have an initiative and you are on your mount)
-*Deformation:*
+*Curse:* Your summoned steed required one gold per day to maintain.  If you ride it into combat (even if you do not intended to - if at any point you have an initiative and you are on your mount) you must pay 100 gp (surge pricing).
+*Deformation:* Your tongue turns pine-tre
 
 ##### Ohl-Neef-Ans, the Altar of Secret Tribute
 *Impression:* 
@@ -93,10 +93,10 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODgwNjc5NzAsMzUxOTc1ODUzLDc4OT
-Q3ODczNywxNzY3MTM3NjE0LC0xMzQ1NjU5NDE0LDQ3NTYwMjcy
-NSwtMTAxNDExMjQ2MiwxMjcwMjMzNzMyLDUyODQxODQ1MSwtMT
-ExODc5MDIxMCwtMjA0MDgyMzUzNiwtMTkwOTM1MzQ4MCwtMTc3
-NTA3NzgyMCwtMzEyMzMzMTQwLC0xMTU1NDA3NTM5LC0xNjkyMT
-M0NzA5XX0=
+eyJoaXN0b3J5IjpbLTUxMzQ3NzM4LDM1MTk3NTg1Myw3ODk0Nz
+g3MzcsMTc2NzEzNzYxNCwtMTM0NTY1OTQxNCw0NzU2MDI3MjUs
+LTEwMTQxMTI0NjIsMTI3MDIzMzczMiw1Mjg0MTg0NTEsLTExMT
+g3OTAyMTAsLTIwNDA4MjM1MzYsLTE5MDkzNTM0ODAsLTE3NzUw
+Nzc4MjAsLTMxMjMzMzE0MCwtMTE1NTQwNzUzOSwtMTY5MjEzND
+cwOV19
 -->
