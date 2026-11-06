@@ -2,7 +2,7 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 
 ##### U-Bhur, the Chariot of the Damned
 *Impression:* A sudden smell of stale, damp air fills your nose, along with a wave of anxiety as you realize you are trapped in a fast moving carriage with a driver that you cannot see and do not know.  The inside of this carriage is shifting.  It has no fixed geometry, but it is always of blackened wrought iron that is dented, scratched and covered in soot.  
-*Spell:* Summon Steed
+*Spell:* Find Steed
 *Magic Item:*
 *Curse:* 
 *Deformation:*
@@ -93,10 +93,10 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTQ4NzQ2MTIsMzUxOTc1ODUzLDc4OT
-Q3ODczNywxNzY3MTM3NjE0LC0xMzQ1NjU5NDE0LDQ3NTYwMjcy
-NSwtMTAxNDExMjQ2MiwxMjcwMjMzNzMyLDUyODQxODQ1MSwtMT
-ExODc5MDIxMCwtMjA0MDgyMzUzNiwtMTkwOTM1MzQ4MCwtMTc3
-NTA3NzgyMCwtMzEyMzMzMTQwLC0xMTU1NDA3NTM5LC0xNjkyMT
-M0NzA5XX0=
+eyJoaXN0b3J5IjpbMTg0MTI5ODAyMCwzNTE5NzU4NTMsNzg5ND
+c4NzM3LDE3NjcxMzc2MTQsLTEzNDU2NTk0MTQsNDc1NjAyNzI1
+LC0xMDE0MTEyNDYyLDEyNzAyMzM3MzIsNTI4NDE4NDUxLC0xMT
+E4NzkwMjEwLC0yMDQwODIzNTM2LC0xOTA5MzUzNDgwLC0xNzc1
+MDc3ODIwLC0zMTIzMzMxNDAsLTExNTU0MDc1MzksLTE2OTIxMz
+Q3MDldfQ==
 -->
