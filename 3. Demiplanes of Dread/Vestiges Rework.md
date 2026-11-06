@@ -12,7 +12,7 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 
 ##### Chah-Tghp-Teh and Oh'pen-Ai, the Synthetic Muses
 *Impression:* A sudden, hollow echo fills your mind, as you realize you own inner monologue is no longer your own.  It has been co-opted, anticipated and synthesized by the pair of colossal, shifting monolith before you - white porcelain and shiny chrome floating in a void, always immense, always changing shape.  They take a myriad of forms, mimicking statues of ancient gods, historical scholars, legendary poets.  But never quite right.  You hear a dull monotone voice echo in the void "We are Chah-Tghp-Teg and Oh'pen-Ai, the Synthetic Muses"
-*Spell:* 
+*Spell:* Borrowed Knowledge
 *Magic Item:*
 *Curse:* You gain proficiency with a forger's toolkit.  You have disadvantage on social checks with artists everywhere,
 *Deformation:* You have too many fingers on both hands.  The number shifts, but it is never the right number.
@@ -95,7 +95,7 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MTU3Nzc5MiwtMTM0NTY1OTQxNCw0Nz
+eyJoaXN0b3J5IjpbMTc2NzEzNzYxNCwtMTM0NTY1OTQxNCw0Nz
 U2MDI3MjUsLTEwMTQxMTI0NjIsMTI3MDIzMzczMiw1Mjg0MTg0
 NTEsLTExMTg3OTAyMTAsLTIwNDA4MjM1MzYsLTE5MDkzNTM0OD
 AsLTE3NzUwNzc4MjAsLTMxMjMzMzE0MCwtMTE1NTQwNzUzOSwt
