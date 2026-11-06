@@ -18,7 +18,7 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 *Deformation:* You have too many fingers on both hands.  The number shifts, but it is never the right number.
 
 ##### Dis-K'nee, The Architect of Joy
-*Impression:* 
+*Impression:* Your nose is filled with the sickeningly sweet sce
 *Spell:*
 *Magic Item:*
 *Curse:*
@@ -95,9 +95,9 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NzEzNzYxNCwtMTM0NTY1OTQxNCw0Nz
-U2MDI3MjUsLTEwMTQxMTI0NjIsMTI3MDIzMzczMiw1Mjg0MTg0
-NTEsLTExMTg3OTAyMTAsLTIwNDA4MjM1MzYsLTE5MDkzNTM0OD
-AsLTE3NzUwNzc4MjAsLTMxMjMzMzE0MCwtMTE1NTQwNzUzOSwt
-MTY5MjEzNDcwOV19
+eyJoaXN0b3J5IjpbNDg0NTk5NjgyLDE3NjcxMzc2MTQsLTEzND
+U2NTk0MTQsNDc1NjAyNzI1LC0xMDE0MTEyNDYyLDEyNzAyMzM3
+MzIsNTI4NDE4NDUxLC0xMTE4NzkwMjEwLC0yMDQwODIzNTM2LC
+0xOTA5MzUzNDgwLC0xNzc1MDc3ODIwLC0zMTIzMzMxNDAsLTEx
+NTU0MDc1MzksLTE2OTIxMzQ3MDldfQ==
 -->
