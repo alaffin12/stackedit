@@ -22,7 +22,7 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 *Spell:* Call Lightning
 *Magic Item:*
 *Curse:* 
-*Deformation:* You shadow is detached from your actual physical movements.  Instead if follows you in a 
+*Deformation:* You shadow is detached from your actual physical movements.  Instead if follows you in a whimsical, exaggerated posture.  Most disturbingly, your shadow always has two round, distinct, mouse-like earth on its head, regardless of what headwear you are wearing.
 
 
 
@@ -95,9 +95,9 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTcyMTc4NjYsNzg5NDc4NzM3LDE3Nj
-cxMzc2MTQsLTEzNDU2NTk0MTQsNDc1NjAyNzI1LC0xMDE0MTEy
-NDYyLDEyNzAyMzM3MzIsNTI4NDE4NDUxLC0xMTE4NzkwMjEwLC
-0yMDQwODIzNTM2LC0xOTA5MzUzNDgwLC0xNzc1MDc3ODIwLC0z
-MTIzMzMxNDAsLTExNTU0MDc1MzksLTE2OTIxMzQ3MDldfQ==
+eyJoaXN0b3J5IjpbMjEyNzEwMzM0OSw3ODk0Nzg3MzcsMTc2Nz
+EzNzYxNCwtMTM0NTY1OTQxNCw0NzU2MDI3MjUsLTEwMTQxMTI0
+NjIsMTI3MDIzMzczMiw1Mjg0MTg0NTEsLTExMTg3OTAyMTAsLT
+IwNDA4MjM1MzYsLTE5MDkzNTM0ODAsLTE3NzUwNzc4MjAsLTMx
+MjMzMzE0MCwtMTE1NTQwNzUzOSwtMTY5MjEzNDcwOV19
 -->
