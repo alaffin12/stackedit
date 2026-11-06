@@ -1,7 +1,7 @@
 Vestiges are thinly veiled modern references.  They each impart access to a single 3rd level spell (limited once per day, Save = 12+1/2 level, Attack bonus = 4+1/2 level) and the powers of one uncommon magic item.  They also inflict one "curse" and one mild physical change to any who accept them.
 
-##### Tehs-Lah, the Lightning Autocrat
-*Impression:* 
+##### U-Bhur, the Chariot of the Damned
+*Impression:* A sudden smell of stale, damp air fills your nose, along with the 
 *Spell:*
 *Magic Item:*
 *Curse:*
@@ -93,9 +93,10 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUxOTc1ODUzLDc4OTQ3ODczNywxNzY3MT
-M3NjE0LC0xMzQ1NjU5NDE0LDQ3NTYwMjcyNSwtMTAxNDExMjQ2
-MiwxMjcwMjMzNzMyLDUyODQxODQ1MSwtMTExODc5MDIxMCwtMj
-A0MDgyMzUzNiwtMTkwOTM1MzQ4MCwtMTc3NTA3NzgyMCwtMzEy
-MzMzMTQwLC0xMTU1NDA3NTM5LC0xNjkyMTM0NzA5XX0=
+eyJoaXN0b3J5IjpbMTIxNTYzNTQwNSwzNTE5NzU4NTMsNzg5ND
+c4NzM3LDE3NjcxMzc2MTQsLTEzNDU2NTk0MTQsNDc1NjAyNzI1
+LC0xMDE0MTEyNDYyLDEyNzAyMzM3MzIsNTI4NDE4NDUxLC0xMT
+E4NzkwMjEwLC0yMDQwODIzNTM2LC0xOTA5MzUzNDgwLC0xNzc1
+MDc3ODIwLC0zMTIzMzMxNDAsLTExNTU0MDc1MzksLTE2OTIxMz
+Q3MDldfQ==
 -->
