@@ -4,7 +4,7 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 (f) Tehs-Lah, Ohl-Neef-Ans, A'ma-Zon
 
 ##### Mi-Kro-Soft, the Framework
-*Impression:* You see a green, rollin
+*Impression:* You smell ozone and stale parchment as a green, rolling hill set beneath a bucolic blue sky comes into view.  Before the scene is an invisible wall, into which are set windows that seem to move about.  One moves to you, its panes darkening and being opaque blue, red, green and yellow.  "
 *Spell:*
 *Magic Item:*
 *Curse:*
@@ -95,8 +95,8 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTU1NzY1NzMsLTEwMTQxMTI0NjIsMT
-I3MDIzMzczMiw1Mjg0MTg0NTEsLTExMTg3OTAyMTAsLTIwNDA4
-MjM1MzYsLTE5MDkzNTM0ODAsLTE3NzUwNzc4MjAsLTMxMjMzMz
-E0MCwtMTE1NTQwNzUzOSwtMTY5MjEzNDcwOV19
+eyJoaXN0b3J5IjpbLTgyMzg4MTgsLTEwMTQxMTI0NjIsMTI3MD
+IzMzczMiw1Mjg0MTg0NTEsLTExMTg3OTAyMTAsLTIwNDA4MjM1
+MzYsLTE5MDkzNTM0ODAsLTE3NzUwNzc4MjAsLTMxMjMzMzE0MC
+wtMTE1NTQwNzUzOSwtMTY5MjEzNDcwOV19
 -->
