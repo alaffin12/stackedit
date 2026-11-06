@@ -1,8 +1,5 @@
 Vestiges are thinly veiled modern references.  They each impart access to a single 3rd level spell (limited once per day, Save = 12+1/2 level, Attack bonus = 4+1/2 level) and the powers of one uncommon magic item.  They also inflict one "curse" and one mild physical change to any who accept them.
 
-(e) Mi-Kro-Soft, Chah-tghp-Teh and Oh'pen-ai, Dis-Nee
-(f) Tehs-Lah, Ohl-Neef-Ans, A'ma-Zon
-
 ##### Tehs-Lah, the Lightning Autocrat
 *Impression:* 
 *Spell:*
@@ -17,7 +14,7 @@ Vestiges are thinly veiled modern references.  They each impart access to a sing
 *Curse:*
 *Deformation:*
 
-##### A'ma-Zon
+##### A'ma-Zon, the Endless Caravan
 *Impression:* 
 *Spell:*
 *Magic Item:*
@@ -96,9 +93,9 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDIyMTE5ODAsNzg5NDc4NzM3LDE3Nj
-cxMzc2MTQsLTEzNDU2NTk0MTQsNDc1NjAyNzI1LC0xMDE0MTEy
-NDYyLDEyNzAyMzM3MzIsNTI4NDE4NDUxLC0xMTE4NzkwMjEwLC
-0yMDQwODIzNTM2LC0xOTA5MzUzNDgwLC0xNzc1MDc3ODIwLC0z
-MTIzMzMxNDAsLTExNTU0MDc1MzksLTE2OTIxMzQ3MDldfQ==
+eyJoaXN0b3J5IjpbMzUxOTc1ODUzLDc4OTQ3ODczNywxNzY3MT
+M3NjE0LC0xMzQ1NjU5NDE0LDQ3NTYwMjcyNSwtMTAxNDExMjQ2
+MiwxMjcwMjMzNzMyLDUyODQxODQ1MSwtMTExODc5MDIxMCwtMj
+A0MDgyMzUzNiwtMTkwOTM1MzQ4MCwtMTc3NTA3NzgyMCwtMzEy
+MzMzMTQwLC0xMTU1NDA3NTM5LC0xNjkyMTM0NzA5XX0=
 -->
