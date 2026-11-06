@@ -1,6 +1,5 @@
 Vestiges are thinly veiled modern references.  They each impart access to a single 3rd level spell (limited once per day, Save = 12+1/2 level, Attack bonus = 4+1/2 level) and the powers of one uncommon magic item.  They also inflict one "curse" and one mild physical change to any who accept them.
 
-(c) Neht-Flix, Tin-Dhur, Tik-Toth
 (e) Mi-Kro-Soft, Chah-tghp-Teh and Oh'pen-ai, Dis-Nee
 (f) Tehs-Lah, Ohl-Neef-Ans, A'ma-Zon
 
@@ -94,8 +93,8 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTQxMTI0NjIsMTI3MDIzMzczMiw1Mj
-g0MTg0NTEsLTExMTg3OTAyMTAsLTIwNDA4MjM1MzYsLTE5MDkz
-NTM0ODAsLTE3NzUwNzc4MjAsLTMxMjMzMzE0MCwtMTE1NTQwNz
-UzOSwtMTY5MjEzNDcwOV19
+eyJoaXN0b3J5IjpbLTE2NDgzMTY3OTgsLTEwMTQxMTI0NjIsMT
+I3MDIzMzczMiw1Mjg0MTg0NTEsLTExMTg3OTAyMTAsLTIwNDA4
+MjM1MzYsLTE5MDkzNTM0ODAsLTE3NzUwNzc4MjAsLTMxMjMzMz
+E0MCwtMTE1NTQwNzUzOSwtMTY5MjEzNDcwOV19
 -->
