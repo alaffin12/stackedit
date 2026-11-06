@@ -1,7 +1,7 @@
 Vestiges are thinly veiled modern references.  They each impart access to a single 3rd level spell (limited once per day, Save = 12+1/2 level, Attack bonus = 4+1/2 level) and the powers of one uncommon magic item.  They also inflict one "curse" and one mild physical change to any who accept them.
 
 ##### U-Bhur, the Chariot of the Damned
-*Impression:* A sudden smell of stale, damp air fills your nose, along with a wave of anxiety as you realize you are trapped in a fast moving carriage with a driver that you cannot see and do not know.  The inside of this carriage is shifting.  It has no fixed geometry, but it is always of blackened wrought iron that is dented, scratched and covered in soot.  
+*Impression:* A sudden smell of stale, damp air fills your nose, along with a wave of anxiety as you realize you are trapped in a fast moving carriage with a driver that you cannot see and do not know.  The inside of this carriage is shifting.  It has no fixed geometry, but it is always of blackened wrought iron that is dented, scratched and covered in soot.  The driver does not turn to you as he speaks.  "Welcome to U-Bhur, the Chariot of the Damned"
 *Spell:* Find Steed
 *Magic Item:*
 *Curse:* Your summoned steed required one gold per day to maintain.  If you ride it into combat (even if you do not intended to - if at any point you have an initiative and you are on your mount) you must pay 100 gp (surge pricing).
@@ -93,10 +93,10 @@ The Parasites of Flesh & Mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MzA5Njk4OCwzNTE5NzU4NTMsNzg5ND
-c4NzM3LDE3NjcxMzc2MTQsLTEzNDU2NTk0MTQsNDc1NjAyNzI1
-LC0xMDE0MTEyNDYyLDEyNzAyMzM3MzIsNTI4NDE4NDUxLC0xMT
-E4NzkwMjEwLC0yMDQwODIzNTM2LC0xOTA5MzUzNDgwLC0xNzc1
-MDc3ODIwLC0zMTIzMzMxNDAsLTExNTU0MDc1MzksLTE2OTIxMz
-Q3MDldfQ==
+eyJoaXN0b3J5IjpbNTgxMDE5OTkwLDM1MTk3NTg1Myw3ODk0Nz
+g3MzcsMTc2NzEzNzYxNCwtMTM0NTY1OTQxNCw0NzU2MDI3MjUs
+LTEwMTQxMTI0NjIsMTI3MDIzMzczMiw1Mjg0MTg0NTEsLTExMT
+g3OTAyMTAsLTIwNDA4MjM1MzYsLTE5MDkzNTM0ODAsLTE3NzUw
+Nzc4MjAsLTMxMjMzMzE0MCwtMTE1NTQwNzUzOSwtMTY5MjEzND
+cwOV19
 -->
